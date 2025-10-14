@@ -17,12 +17,12 @@
     "question": "If the wavelengths corresponding to ultraviolet, visible and infrared radiations are given as $\\lambda_{ultraviolet}$, $\\lambda_{visible}$ and $\\lambda_{infrared}$ respectively, then which one of the following gives the correct relationship among these wavelengths?",
     "image": "",
     "options": [
-      "$\\lambda_{ultraviolet} < \\lambda_{infrared} < \\lambda_{visible}$",
-      "$\\lambda_{ultraviolet} > \\lambda_{visible} > \\lambda_{infrared}$",
-      "$\\lambda_{ultraviolet} > \\lambda_{infrared} > \\lambda_{visible}$",
-      "$\\lambda_{ultraviolet} < \\lambda_{visible} < \\lambda_{infrared}$"
+      "λultraviolet < λinfrared < λvisible ",
+      "λultraviolet > λvisible > λinfrared",
+      "λultraviolet > λinfrared > λvisible",
+      "λultraviolet < λvisible < λinfrared"
     ],
-    "answer": "$\\lambda_{ultraviolet} < \\lambda_{visible} < \\lambda_{infrared}$",
+    "answer": "λultraviolet < λvisible < λinfrared",
     "explanation": "As we know that, infrared light has a lower frequency than visible light and visible light has a lower frequency than ultraviolet light. i.e. $\\nu_{ultraviolet} > \\nu_{visible} > \\nu_{infrared}$. Since, wavelength of a light is inversely proportional to its frequency, therefore $\\lambda_{ultraviolet} < \\lambda_{visible} < \\lambda_{infrared}$"
   },
   {
