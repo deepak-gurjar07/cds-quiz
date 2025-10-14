@@ -63,18 +63,5 @@
     ],
     "answer": "only proportional region of the stress-strain curve",
     "explanation": "Hooke’s law is valid for only proportional region of the stress-strain curve. (Hooke's law $\\rightarrow$ stress $\\propto$ strain)"
-  },
-  {
-    "subject": "Physics",
-    "question": "A particle moves with uniform acceleration along a straight line from rest. The percentage increase in displacement during $6^{\\text{th}}$ compared to that in $5^{\\text{th}}$ is about",
-    "image": "",
-    "options": [
-      "11%",
-      "22%",
-      "33%",
-      "44%"
-    ],
-    "answer": "22%",
-    "explanation": "The particle is moving with uniform acceleration along a straight line from rest. Displacement during $n^{\\text{th}}$ second, $s_n = u + \\frac{a}{2}(2n-1)$. Displacement during $6^{\\text{th}}$ second: $s_{6^{\\text{th}}} = u + \\frac{a}{2}(2 \\cdot 6 - 1)$. Given, $u = 0$. So, $s_{6^{\\text{th}}} = \\frac{a}{2}(11)$. In $5^{\\text{th}}$ second: $s_{5^{\\text{th}}} = \\frac{a}{2}(2 \\cdot 5 - 1) = \\frac{a}{2}(9)$. Percentage increase in displacement $= \\frac{s_{6^{\\text{th}}} - s_{5^{\\text{th}}}}{s_{5^{\\text{th}}}} \\times 100 = \\frac{\\frac{11a}{2} - \\frac{9a}{2}}{\\frac{9a}{2}} \\times 100 = \\frac{\\frac{2a}{2}}{\\frac{9a}{2}} \\times 100 = \\frac{2}{9} \\times 100 = 22.22\\% \\approx 22\\%$. (Note: The calculation in the original text is slightly unclear, but the correct result is $2/9 \\times 100\\%$)"
   }
 ]
