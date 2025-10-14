@@ -30,15 +30,6 @@
   {
     "subject": "Physics",
     "year": "2019-II",
-    "question": "km",
-    "image": "",
-    "options": [],
-    "answer": "",
-    "explanation": ""
-  },
-  {
-    "subject": "Physics",
-    "year": "2019-II",
     "question": "A 100 W electric bulb is used for 10 h/day. How many units of energy are consumed in 30 days?",
     "image": "",
     "options": [
@@ -162,4 +153,5 @@
     "answer": "good absorbers of water",
     "explanation": "People prefer to wear cotton clothes in summer season to keep them cool and comfortable. In summer, we sweat more, cotton being a good absorber of water helps in absorbing the sweat and exposes it to the atmosphere for evaporation. So, we can say that cotton clothes are good absorbers of water."
   }
+
 ]
