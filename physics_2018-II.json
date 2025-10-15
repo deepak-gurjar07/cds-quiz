@@ -14,16 +14,16 @@
   },
   {
     "subject": "Physics",
-    "question": "If two miscible liquids of same volume but different densities ($\\rho_1$) and ($\\rho_2$) are mixed, then the density of the mixture is given by",
+    "question": "If two miscible liquids of same volume but different densities (ρ₁) and (ρ₂) are mixed, then the density of the mixture is given by",
     "image": "",
     "options": [
-      "$(\\rho_1 + \\rho_2) / 2$",
-      "$(2 \\rho_1 \\rho_2) / (\\rho_1 + \\rho_2)$",
-      "$(2 \\rho_1 \\rho_2) / (\\rho_1 - \\rho_2)$",
-      "$(\\rho_1 \\rho_2) / (\\rho_1 + \\rho_2)$"
+      "(ρ₁ + ρ₂) / 2",
+      "(2ρ₁ρ₂) / (ρ₁ + ρ₂)",
+      "(2ρ₁ρ₂) / (ρ₁ - ρ₂)",
+      "(ρ₁ρ₂) / (ρ₁ + ρ₂)"
     ],
-    "answer": "$(2 \\rho_1 \\rho_2) / (\\rho_1 + \\rho_2)$",
-    "explanation": "**Note:** The question asks for mixing **'same volume'** (V), but the provided answer (b) and the corresponding derivation in the source text are correct for mixing **'same mass'** (m).\n\n**Derivation for Same Mass (m):**\n1.  **Total Mass:** $M_{\\text{total}} = m + m = 2m$\n2.  **Total Volume:** $V_{\\text{total}} = V_1 + V_2 = m/\\rho_1 + m/\\rho_2 = m \\left( \\frac{\\rho_1 + \\rho_2}{\\rho_1 \\cdot \\rho_2} \\right)$\n3.  **Density of Mixture:** $D_{\\text{mix}} = M_{\\text{total}} / V_{\\text{total}} = \\mathbf{\\frac{2 \\rho_1 \\rho_2}{\\rho_1 + \\rho_2}}$."
+    "answer": "(2ρ₁ρ₂) / (ρ₁ + ρ₂)",
+    "explanation": "**Note:** The question asks for mixing **'same volume'** (V), but the provided answer (b) and the corresponding derivation in the source text are correct for mixing **'same mass'** (m).\n\n**Derivation for Same Mass (m):**\n1.  **Total Mass:** M_total = m + m = 2m\n2.  **Total Volume:** V_total = V₁ + V₂ = m/ρ₁ + m/ρ₂ = m((ρ₁ + ρ₂) / (ρ₁ ⋅ ρ₂))\n3.  **Density of Mixture:** D_mix = M_total / V_total = **(2ρ₁ρ₂) / (ρ₁ + ρ₂)**."
   },
   {
     "subject": "Physics",
