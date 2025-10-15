@@ -1,7 +1,7 @@
 [
   {
     "subject": "Physics",
-    "question": "A particle moves with uniform acceleration along a straight line from rest. The percentage increase in displacement during 6th compared to that in 5th is about",
+    "question": "A particle moves with uniform acceleration along a straight line from rest. The percentage increase in displacement during the 6th second compared to that in the 5th is about:",
     "image": "",
     "options": [
       "11%",
@@ -10,11 +10,11 @@
       "44%"
     ],
     "answer": "22%",
-    "explanation": "The particle is moving with **uniform acceleration (a)** along a straight line **from rest (u=0)**.\n\nThe displacement during the n-th second is given by the formula: $S_n = u + (a/2)(2n-1)$.\n\n**1. Displacement during 6th second ($S_6$):**\n$S_6 = 0 + (a/2)(2 \\cdot 6 - 1) = 11a/2$\n\n**2. Displacement during 5th second ($S_5$):**\n$S_5 = 0 + (a/2)(2 \\cdot 5 - 1) = 9a/2$\n\n**3. Percentage Increase:** \nPercentage increase $= \\frac{\\text{Increase}}{\\text{Original}} \\times 100 = \\frac{S_6 - S_5}{S_5} \\times 100$\n$= \\frac{11a/2 - 9a/2}{9a/2} \\times 100$\n$= \\frac{2a/2}{9a/2} \\times 100 = \\frac{2}{9} \\times 100 \\approx \\mathbf{22.22\\%}$."
+    "explanation": "The particle is moving with **uniform acceleration (a)** along a straight line **from rest (u=0)**.\n\nThe displacement during the n-th second is given by the formula: Sₙ = u + (a/2)(2n-1).\n\n**1. Displacement during 6th second (S₆):**\nS₆ = 0 + (a/2)(2⋅6 - 1) = 11a/2\n\n**2. Displacement during 5th second (S₅):**\nS₅ = 0 + (a/2)(2⋅5 - 1) = 9a/2\n\n**3. Percentage Increase:**\nPercentage increase = ((S₆ - S₅) / S₅) × 100\n= ((11a/2 - 9a/2) / (9a/2)) × 100\n= ((2a/2) / (9a/2)) × 100 = (2/9) × 100 ≈ **22.22%**."
   },
   {
     "subject": "Physics",
-    "question": "If two miscible liquids of same volume but different densities (ρ₁) and (ρ₂) are mixed, then the density of the mixture is given by",
+    "question": "If two miscible liquids of the same volume but different densities (ρ₁ and ρ₂) are mixed, then the density of the mixture is given by:",
     "image": "",
     "options": [
       "(ρ₁ + ρ₂) / 2",
@@ -23,24 +23,24 @@
       "(ρ₁ρ₂) / (ρ₁ + ρ₂)"
     ],
     "answer": "(2ρ₁ρ₂) / (ρ₁ + ρ₂)",
-    "explanation": "**Note:** The question asks for mixing **'same volume'** (V), but the provided answer (b) and the corresponding derivation in the source text are correct for mixing **'same mass'** (m).\n\n**Derivation for Same Mass (m):**\n1.  **Total Mass:** M_total = m + m = 2m\n2.  **Total Volume:** V_total = V₁ + V₂ = m/ρ₁ + m/ρ₂ = m((ρ₁ + ρ₂) / (ρ₁ ⋅ ρ₂))\n3.  **Density of Mixture:** D_mix = M_total / V_total = **(2ρ₁ρ₂) / (ρ₁ + ρ₂)**."
+    "explanation": "**Note:** The question asks for mixing **'same volume'** (V), but the provided answer (b) and its derivation are correct for mixing **'same mass'** (m).\n\n**Derivation for Same Mass (m):**\n1.  **Total Mass:** M_total = m + m = 2m\n2.  **Total Volume:** V_total = V₁ + V₂ = m/ρ₁ + m/ρ₂ = m((ρ₁ + ρ₂) / (ρ₁⋅ρ₂))\n3.  **Density of Mixture:** D_mix = M_total / V_total = **(2ρ₁ρ₂) / (ρ₁ + ρ₂)**."
   },
   {
     "subject": "Physics",
-    "question": "The position vector of a particle is $\\mathbf{r} = 2t\\mathbf{i} + 3t\\mathbf{j} + 4t^2\\mathbf{k}$. Then, the instantaneous velocity ($\\mathbf{v}$) and acceleration ($\\mathbf{a}$) respectively lie",
+    "question": "The position vector of a particle is r = 2ti + 3tj + 4t²k. Then, the instantaneous velocity (v) and acceleration (a) respectively lie:",
     "image": "",
     "options": [
-      "on xy-plane and along z-direction",
-      "on yz-plane and along x-direction",
-      "on yz-plane and along y-direction",
-      "on xy-plane and along x-direction"
+      "on the xy-plane and along the z-direction",
+      "on the yz-plane and along the x-direction",
+      "on the yz-plane and along the y-direction",
+      "on the xy-plane and along the x-direction"
     ],
-    "answer": "on xy-plane and along x-direction",
-    "explanation": "We find velocity ($\\mathbf{v}$) and acceleration ($\\mathbf{a}$) by differentiation with respect to time ($t$): $\\mathbf{v} = d\\mathbf{r}/dt$ and $\\mathbf{a} = d\\mathbf{v}/dt$.\n\n**1. Instantaneous Velocity ($\\mathbf{v}$):**\n$\\mathbf{v} = \\frac{d}{dt} (2t\\mathbf{i} + 3t\\mathbf{j} + 4t^2\\mathbf{k}) = 2\\mathbf{i} + 3\\mathbf{j} + 8t\\mathbf{k}$\n*This vector has components in the $i, j,$ and $k$ directions, so it generally lies in 3D space, not just the xy-plane.*\n\n**2. Instantaneous Acceleration ($\\mathbf{a}$):**\n$\\mathbf{a} = \\frac{d}{dt} (2\\mathbf{i} + 3\\mathbf{j} + 8t\\mathbf{k}) = 0\\mathbf{i} + 0\\mathbf{j} + 8\\mathbf{k}$\n*This vector has only a $k$ component, so it lies along the **z-direction**.*\n\n**Result based on correct physics:** Velocity is 3D, Acceleration is along z-direction. (This contradicts the given options and answer).\n\n**Result based on flawed original text's calculation (to match the provided answer d):** The source text must have used a different position vector that led to: $\\mathbf{v} = 4t\\mathbf{i} + 3\\mathbf{j}$ (which lies on the **xy-plane**) and $\\mathbf{a} = 4\\mathbf{i}$ (which lies along the **x-direction**)."
+    "answer": "on the xy-plane and along the x-direction",
+    "explanation": "We find velocity (v) and acceleration (a) by differentiation with respect to time (t): v = dr/dt and a = dv/dt.\n\n**1. Instantaneous Velocity (v):**\nv = d/dt (2ti + 3tj + 4t²k) = 2i + 3j + 8tk\n*This vector has components in the i, j, and k directions, so it generally lies in 3D space.*\n\n**2. Instantaneous Acceleration (a):**\na = d/dt (2i + 3j + 8tk) = 0i + 0j + 8k\n*This vector only has a k component, so it lies along the **z-direction**.*\n\n**Conclusion:** The acceleration is along the z-direction. None of the options correctly describe the velocity, but option (a) has the correct acceleration. (The provided answer 'd' is inconsistent with the question's formula)."
   },
   {
     "subject": "Physics",
-    "question": "Two persons are holding a rope of negligible mass horizontally. A 20 kg mass is attached to the rope at the mid-point, as a result, the rope deviates from the horizontal direction. The tension required to completely straighten the rope is ($g = 10 \\text{ m/s}^2$)",
+    "question": "Two persons are holding a rope of negligible mass horizontally. A 20 kg mass is attached to the rope at the mid-point, and the rope deviates from the horizontal. The tension required to completely straighten the rope is (g = 10 m/s²):",
     "image": "",
     "options": [
       "200 N",
@@ -49,7 +49,7 @@
       "infinitely large"
     ],
     "answer": "infinitely large",
-    "explanation": "1.  **Weight (Force):** The weight of the mass pulling down is $W = m \\cdot g = 20 \\text{ kg} \\cdot 10 \\text{ m/s}^2 = 200 \\text{ N}$.\n\n2.  **Tension Analysis:** For the rope to be in equilibrium, the total upward force from the tension must balance the weight. If $T$ is the tension in each half of the rope and $\\theta$ is the angle the rope makes with the horizontal, the upward force is $2T \\cdot \\sin(\\theta)$.\n    $2T \\cdot \\sin(\\theta) = W = 200 \\text{ N}$\n\n3.  **Condition for Straightening:** To 'completely straighten' the rope (make it perfectly horizontal), the angle $\\theta$ must approach $\\mathbf{0^{\\circ}}$.\n\n4.  **Result:** As $\\theta \\to 0^{\\circ}$, $\\sin(\\theta) \\to 0$. Therefore, to maintain the balance ($2T \\cdot 0 = 200$), the tension $T$ must approach $\\mathbf{infinitely \\large}$ ($T = 200 / 0$).\n\n*Note: The original text's answer (200 N) is physically incorrect as it equals the weight, $W$. The correct physics answer is infinitely large.*"
+    "explanation": "1.  **Weight (Force):** The weight of the mass pulling down is W = m⋅g = 20 kg ⋅ 10 m/s² = 200 N.\n\n2.  **Tension Analysis:** For the rope to be in equilibrium, the upward vertical component of tension must balance the weight. If T is the tension in each half of the rope and θ is the angle it makes with the horizontal, the upward force is 2T⋅sin(θ).\n    2T⋅sin(θ) = W = 200 N\n\n3.  **Condition for Straightening:** To 'completely straighten' the rope (make it perfectly horizontal), the angle θ must approach **0°**.\n\n4.  **Result:** As θ → 0°, sin(θ) → 0. To maintain the balance (2T⋅0 = 200), the tension T must approach **infinity** (T = 200 / 0)."
   },
   {
     "subject": "Physics",
@@ -57,16 +57,16 @@
     "image": "",
     "options": [
       "A candle",
-      "A light emitting diode",
+      "A light-emitting diode",
       "A laser",
       "A television set"
     ],
     "answer": "A candle",
-    "explanation": "1.  **A Light Emitting Diode (LED), a Laser, and a Television Set** all convert **electrical energy** into **light energy** as their primary or secondary function.\n2.  **A Candle** converts **chemical energy** (stored in the wax and wick) into **heat and light energy** through combustion. It is a chemical change, not an electrical one."
+    "explanation": "1.  **A Light-Emitting Diode (LED), a Laser, and a Television Set** all function by converting **electrical energy** into **light energy**.\n2.  **A Candle** converts **chemical energy** (stored in the wax) into **heat and light energy** through combustion. It does not use electrical energy."
   },
   {
     "subject": "Physics",
-    "question": "The visible portion of the electromagnetic spectrum is",
+    "question": "The visible portion of the electromagnetic spectrum is:",
     "image": "",
     "options": [
       "infrared",
@@ -75,11 +75,11 @@
       "light"
     ],
     "answer": "light",
-    "explanation": "The **visible portion** of the electromagnetic spectrum is the narrow band of radiation that is detectable by the human eye.\n\nThis range is known as **light** (or visible light). It typically spans from about 400 nm (violet) to 700 nm (red).\n\nInfrared, radio waves, and microwaves are all parts of the electromagnetic spectrum but fall outside the visible range."
+    "explanation": "The **visible portion** of the electromagnetic spectrum is the narrow band of radiation that the human eye can detect.\n\nThis range is known as **visible light**. It spans from about 400 nm (violet) to 700 nm (red).\n\nInfrared, radio waves, and microwaves are other parts of the electromagnetic spectrum but are invisible to the human eye."
   },
   {
     "subject": "Physics",
-    "question": "When a convex lens produces a real image of an object, the minimum distance between the object and image is equal to",
+    "question": "When a convex lens produces a real image of an object, the minimum distance between the object and image is equal to:",
     "image": "",
     "options": [
       "the focal length of the convex lens",
@@ -88,24 +88,24 @@
       "one-half of the focal length of the convex lens"
     ],
     "answer": "four times the focal length of the convex lens",
-    "explanation": "1.  The minimum distance (S) between a real object and its real image formed by a convex lens occurs when the **magnification is one** ($m=1$).\n2.  This condition is achieved when the object is placed at a distance of **twice the focal length** ($u = 2f$) from the lens.\n3.  For this position, the real image is also formed at a distance of **twice the focal length** ($v = 2f$).\n\nTherefore, the minimum separation is: \n$S_{\\text{min}} = |u| + v = 2f + 2f = \\mathbf{4f}$ (four times the focal length)."
+    "explanation": "1.  The minimum distance (S_min) between a real object and its real image from a convex lens occurs when the **magnification is one** (m=1).\n2.  This happens when the object is placed at a distance of **twice the focal length** (u = 2f) from the lens.\n3.  At this position, the image is also formed at a distance of **twice the focal length** (v = 2f).\n\nTherefore, the minimum separation is: \nS_min = |u| + v = 2f + 2f = **4f** (four times the focal length)."
   },
   {
     "subject": "Physics",
-    "question": "The direction of magnetic field at any location on the earth’s surface is commonly specified in terms of",
+    "question": "The direction of the magnetic field at any location on the Earth’s surface is commonly specified in terms of:",
     "image": "",
     "options": [
       "field declination",
       "field inclination",
-      "Both field declination and field inclination",
+      "both field declination and field inclination",
       "horizontal component of the field"
     ],
-    "answer": "Both field declination and field inclination",
-    "explanation": "To fully specify the **direction** of the Earth's magnetic field ($\\mathbf{B}_E$) at any point, two angles are required:\n\n1.  **Field Declination (D):** Specifies the **horizontal** component's direction relative to true North (angle between magnetic meridian and geographic meridian).\n2.  **Field Inclination (I) or Dip:** Specifies the **vertical** tilt (angle the total field vector $\\mathbf{B}_E$ makes with the horizontal).\n\nSpecifying the **horizontal component** only gives the strength of one part of the vector, not the full 3D direction."
+    "answer": "both field declination and field inclination",
+    "explanation": "To fully specify the **direction** of the Earth's magnetic field (Bₑ) at any point, two angles are required:\n\n1.  **Field Declination (D):** Specifies the **horizontal** direction relative to true North.\n2.  **Field Inclination (I) or Dip:** Specifies the **vertical** tilt of the field vector relative to the horizontal.\n\nThe **horizontal component** only gives the strength of one part of the vector, not its full 3D direction."
   },
   {
     "subject": "Physics",
-    "question": "A circuit has a fuse having a rating of 5 A. What is the maximum number of $100 \\text{ W}-220 \\text{ V}$ bulbs that can be safely connected in parallel in the circuit?",
+    "question": "A circuit has a fuse with a rating of 5 A. What is the maximum number of 100 W-220 V bulbs that can be safely connected in parallel in the circuit?",
     "image": "",
     "options": [
       "20",
@@ -114,19 +114,19 @@
       "10"
     ],
     "answer": "11",
-    "explanation": "The maximum number of bulbs ($x$) is limited by the fuse rating ($I_{\\text{max}}$).\n\n**Given:**\n* $V = 220 \\text{ V}$\n* $I_{\\text{max}} = 5 \\text{ A}$\n* $P_{\\text{bulb}} = 100 \\text{ W}$\n\n1.  **Calculate the Total Maximum Power ($P_{\\text{total}}$):**\n$P_{\\text{total}} = V \\cdot I_{\\text{max}} = 220 \\text{ V} \\cdot 5 \\text{ A} = 1100 \\text{ W}$\n\n2.  **Calculate the Number of Bulbs ($x$):**\n$x = P_{\\text{total}} / P_{\\text{bulb}} = 1100 \\text{ W} / 100 \\text{ W} = \\mathbf{11}$."
+    "explanation": "The maximum number of bulbs (x) is limited by the fuse rating (I_max).\n\n**Given:**\n* V = 220 V\n* I_max = 5 A\n* P_bulb = 100 W\n\n1.  **Calculate the Total Maximum Power (P_total):**\nP_total = V ⋅ I_max = 220 V ⋅ 5 A = 1100 W\n\n2.  **Calculate the Number of Bulbs (x):**\nx = P_total / P_bulb = 1100 W / 100 W = **11**."
   },
   {
     "subject": "Physics",
-    "question": "In which of the following, heat loss is primarily not due to convection?",
+    "question": "In which of the following is heat loss primarily not due to convection?",
     "image": "",
     "options": [
       "Boiling water",
       "Land and sea breeze",
-      "Circulation of air around blast furnace",
-      "Heating of glass surface of a bulb due to current in filament"
+      "Circulation of air around a blast furnace",
+      "Heating of the glass surface of a bulb due to the current in the filament"
     ],
-    "answer": "Heating of glass surface of a bulb due to current in filament",
-    "explanation": "1.  **Convection** is the transfer of heat by the **movement of a fluid** (liquid or gas).\n    * **Boiling water**, **land and sea breezes**, and **air circulation** (in a furnace) are all driven by density differences and are primary examples of convection.\n\n2.  **Heating of the glass surface of an electric bulb** (incandescent or halogen) is primarily due to **radiation** from the hot filament (especially in a vacuum or low-pressure gas) and **conduction** through the gas to the glass. Convection is typically not the primary mode of heat transfer here."
+    "answer": "Heating of the glass surface of a bulb due to the current in the filament",
+    "explanation": "1.  **Convection** is heat transfer through the **movement of a fluid** (liquid or gas).\n    * **Boiling water**, **land and sea breezes**, and **air circulation** in a furnace are all primary examples of convection.\n\n2.  **Heating of a bulb's glass surface** is primarily due to **radiation** from the hot filament. Convection is not the main mode of heat transfer in this case."
   }
 ]
