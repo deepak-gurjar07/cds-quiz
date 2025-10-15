@@ -14,20 +14,20 @@
   },
   {
     "subject": "Physics",
-    "question": "If two miscible liquids of same volume but different densities (density_1) and (density_2) are mixed, then the density of the mixture is given by",
+    "question": "If two miscible liquids of same volume but different densities ($\\rho_1$) and ($\\rho_2$) are mixed, then the density of the mixture is given by",
     "image": "",
     "options": [
-      "(density_1 + density_2) / 2",
-      "(2 * density_1 * density_2) / (density_1 + density_2)",
-      "(2 * density_1 * density_2) / (density_1 - density_2)",
-      "density_1 * density_2 / (density_1 + density_2)"
+      "$(\\rho_1 + \\rho_2) / 2$",
+      "$(2 \\rho_1 \\rho_2) / (\\rho_1 + \\rho_2)$",
+      "$(2 \\rho_1 \\rho_2) / (\\rho_1 - \\rho_2)$",
+      "$(\\rho_1 \\rho_2) / (\\rho_1 + \\rho_2)$"
     ],
-    "answer": "(2 * density_1 * density_2) / (density_1 + density_2)",
-    "explanation": "**Note:** The question asks for mixing **'same volume'** (V), but the provided answer (b) and the corresponding derivation in the source text are correct for mixing **'same mass'** (m).\n\n**Derivation for Same Mass (m):**\n1.  **Total Mass:** $M_{\\text{total}} = m + m = 2m$\n2.  **Total Volume:** $V_{\\text{total}} = V_1 + V_2 = m/\\text{density}_1 + m/\\text{density}_2 = m \\left( \\frac{\\text{density}_1 + \\text{density}_2}{\\text{density}_1 \\cdot \\text{density}_2} \\right)$\n3.  **Density of Mixture:** $D_{\\text{mix}} = M_{\\text{total}} / V_{\\text{total}} = \\mathbf{\\frac{2 \\cdot \\text{density}_1 \\cdot \\text{density}_2}{\\text{density}_1 + \\text{density}_2}}$."
+    "answer": "$(2 \\rho_1 \\rho_2) / (\\rho_1 + \\rho_2)$",
+    "explanation": "**Note:** The question asks for mixing **'same volume'** (V), but the provided answer (b) and the corresponding derivation in the source text are correct for mixing **'same mass'** (m).\n\n**Derivation for Same Mass (m):**\n1.  **Total Mass:** $M_{\\text{total}} = m + m = 2m$\n2.  **Total Volume:** $V_{\\text{total}} = V_1 + V_2 = m/\\rho_1 + m/\\rho_2 = m \\left( \\frac{\\rho_1 + \\rho_2}{\\rho_1 \\cdot \\rho_2} \\right)$\n3.  **Density of Mixture:** $D_{\\text{mix}} = M_{\\text{total}} / V_{\\text{total}} = \\mathbf{\\frac{2 \\rho_1 \\rho_2}{\\rho_1 + \\rho_2}}$."
   },
   {
     "subject": "Physics",
-    "question": "The position vector of a particle is $r = 2t i + 3t j + 4t^2 k$. Then, the instantaneous velocity (v) and acceleration (a) respectively lie",
+    "question": "The position vector of a particle is $\\mathbf{r} = 2t\\mathbf{i} + 3t\\mathbf{j} + 4t^2\\mathbf{k}$. Then, the instantaneous velocity ($\\mathbf{v}$) and acceleration ($\\mathbf{a}$) respectively lie",
     "image": "",
     "options": [
       "on xy-plane and along z-direction",
@@ -36,7 +36,7 @@
       "on xy-plane and along x-direction"
     ],
     "answer": "on xy-plane and along x-direction",
-    "explanation": "We find velocity ($v$) and acceleration ($a$) by differentiation with respect to time ($t$): $v = dr/dt$ and $a = dv/dt$.\n\n**1. Instantaneous Velocity (v):**\n$v = \\frac{d}{dt} (2t i + 3t j + 4t^2 k) = 2i + 3j + 8t k$\n*This vector has components in the $i, j,$ and $k$ directions, so it generally lies in 3D space, not just the xy-plane.*\n\n**2. Instantaneous Acceleration (a):**\n$a = \\frac{d}{dt} (2i + 3j + 8t k) = 0i + 0j + 8k$\n*This vector has only a $k$ component, so it lies along the **z-direction**.*\n\n**Result based on correct physics:** Velocity is 3D, Acceleration is along z-direction. (This contradicts the given options and answer).\n\n**Result based on flawed original text's calculation (to match the provided answer d):** The source text must have used a different position vector that led to: $v = 4t i + 3j$ (which lies on the **xy-plane**) and $a = 4i$ (which lies along the **x-direction**)."
+    "explanation": "We find velocity ($\\mathbf{v}$) and acceleration ($\\mathbf{a}$) by differentiation with respect to time ($t$): $\\mathbf{v} = d\\mathbf{r}/dt$ and $\\mathbf{a} = d\\mathbf{v}/dt$.\n\n**1. Instantaneous Velocity ($\\mathbf{v}$):**\n$\\mathbf{v} = \\frac{d}{dt} (2t\\mathbf{i} + 3t\\mathbf{j} + 4t^2\\mathbf{k}) = 2\\mathbf{i} + 3\\mathbf{j} + 8t\\mathbf{k}$\n*This vector has components in the $i, j,$ and $k$ directions, so it generally lies in 3D space, not just the xy-plane.*\n\n**2. Instantaneous Acceleration ($\\mathbf{a}$):**\n$\\mathbf{a} = \\frac{d}{dt} (2\\mathbf{i} + 3\\mathbf{j} + 8t\\mathbf{k}) = 0\\mathbf{i} + 0\\mathbf{j} + 8\\mathbf{k}$\n*This vector has only a $k$ component, so it lies along the **z-direction**.*\n\n**Result based on correct physics:** Velocity is 3D, Acceleration is along z-direction. (This contradicts the given options and answer).\n\n**Result based on flawed original text's calculation (to match the provided answer d):** The source text must have used a different position vector that led to: $\\mathbf{v} = 4t\\mathbf{i} + 3\\mathbf{j}$ (which lies on the **xy-plane**) and $\\mathbf{a} = 4\\mathbf{i}$ (which lies along the **x-direction**)."
   },
   {
     "subject": "Physics",
