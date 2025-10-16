@@ -8,6 +8,7 @@
 "22%",
 "33%",
 "44%"
-]
+],
+"explanation": "The particle is moving with **uniform acceleration (a)** along a straight line **from rest (u=0)**.\n\nThe displacement during the n-th second is given by the formula: Sₙ = u + (a/2)(2n-1).\n\n**1. Displacement during 6th second (S₆):**\nS₆ = 0 + (a/2)(2⋅6 - 1) = 11a/2\n\n**2. Displacement during 5th second (S₅):**\nS₅ = 0 + (a/2)(2⋅5 - 1) = 9a/2\n\n**3. Percentage Increase:**\nPercentage increase = ((S₆ - S₅) / S₅) × 100\n= ((11a/2 - 9a/2) / (9a/2)) × 100\n= ((2a/2) / (9a/2)) × 100 = (2/9) × 100 ≈ **22.22%**."
   }
 ]
