@@ -36,7 +36,7 @@
       "on the xy-plane and along the x-direction"
     ],
     "answer": "on the xy-plane and along the x-direction",
-    "explanation": "We find velocity (v) and acceleration (a) by differentiation with respect to time (t): v = dr/dt and a = dv/dt.\n\n**1. Instantaneous Velocity (v):**\nv = d/dt (2ti + 3tj + 4t²k) = 2i + 3j + 8tk\n*This vector has components in the i, j, and k directions, so it generally lies in 3D space.*\n\n**2. Instantaneous Acceleration (a):**\na = d/dt (2i + 3j + 8tk) = 0i + 0j + 8k\n*This vector only has a k component, so it lies along the **z-direction**.*\n\n**Conclusion:** The acceleration is along the z-direction. None of the options correctly describe the velocity, but option (a) has the correct acceleration. (The provided answer 'd' is inconsistent with the question's formula)."
+    "explanation": "We find velocity (v) and acceleration (a) by differentiation with respect to time (t): v = dr/dt and a = dv/dt.\n\n**1. Instantaneous Velocity (v):**\nv = d/dt (2ti + 3tj + 4t²k) = 2i + 3j + 8tk\nThis vector has components in the i, j, and k directions, so it generally lies in 3D space.\n\n**2. Instantaneous Acceleration (a):**\na = d/dt (2i + 3j + 8tk) = 0i + 0j + 8k\nThis vector only has a k component, so it lies along the **z-direction**.\n\n**Conclusion:** The acceleration is along the z-direction. None of the options correctly describe the velocity, but option (a) has the correct acceleration. (The provided answer 'd' is inconsistent with the question's formula)."
   },
   {
     "subject": "Physics",
@@ -114,7 +114,7 @@
       "10"
     ],
     "answer": "11",
-    "explanation": "The maximum number of bulbs (x) is limited by the fuse rating (I_max).\n\n**Given:**\n* V = 220 V\n* I_max = 5 A\n* P_bulb = 100 W\n\n1.  **Calculate the Total Maximum Power (P_total):**\nP_total = V ⋅ I_max = 220 V ⋅ 5 A = 1100 W\n\n2.  **Calculate the Number of Bulbs (x):**\nx = P_total / P_bulb = 1100 W / 100 W = **11**."
+    "explanation": "The maximum number of bulbs (x) is limited by the fuse rating (I_max).\n\n**Given:**\n V = 220 V\n I_max = 5 A\n P_bulb = 100 W\n\n1.  **Calculate the Total Maximum Power (P_total):**\nP_total = V ⋅ I_max = 220 V ⋅ 5 A = 1100 W\n\n2.  **Calculate the Number of Bulbs (x):**\nx = P_total / P_bulb = 1100 W / 100 W = **11**."
   },
   {
     "subject": "Physics",
@@ -127,6 +127,6 @@
       "Heating of the glass surface of a bulb due to the current in the filament"
     ],
     "answer": "Heating of the glass surface of a bulb due to the current in the filament",
-    "explanation": "1.  **Convection** is heat transfer through the **movement of a fluid** (liquid or gas).\n    * **Boiling water**, **land and sea breezes**, and **air circulation** in a furnace are all primary examples of convection.\n\n2.  **Heating of a bulb's glass surface** is primarily due to **radiation** from the hot filament. Convection is not the main mode of heat transfer in this case."
+    "explanation": "1.  **Convection** is heat transfer through the **movement of a fluid** (liquid or gas).\n    **Boiling water**, **land and sea breezes**, and **air circulation** in a furnace are all primary examples of convection.\n\n2.  **Heating of a bulb's glass surface** is primarily due to **radiation** from the hot filament. Convection is not the main mode of heat transfer in this case."
   }
 ]
