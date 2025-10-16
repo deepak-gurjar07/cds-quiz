@@ -26,7 +26,6 @@
     "explanation": "Resistance (R) is calculated as R = ρl/A, where ρ is resistivity. Resistivity is the inverse of conductivity (σ). Since copper has higher conductivity (σ_Cu > σ_Al), it has lower resistivity (ρ_Cu < ρ_Al). As both wires have the same length and area, the wire with the higher resistivity (aluminium, wire 2) will have the higher resistance."
   },
   {
-  {
   "subject": "Physics",
   "question": "A ray of light is incident on a plane mirror...",
   "image": "",
