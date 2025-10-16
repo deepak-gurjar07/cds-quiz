@@ -1,14 +1,132 @@
 [
   {
     "subject": "Physics",
-"question": "A particle moves with uniform acceleration along a straight line from rest. The percentage increase in displacement during the 6th second compared to that in the 5th is about:",
-"image": "",
-"options": [
-"11%",
-"22%",
-"33%",
-"44%"
-],
-"explanation": "The particle is moving with **uniform acceleration (a)** along a straight line **from rest (u=0)**.\n\nThe displacement during the n-th second is given by the formula: Sₙ = u + (a/2)(2n-1).\n\n**1. Displacement during 6th second (S₆):**\nS₆ = 0 + (a/2)(2⋅6 - 1) = 11a/2\n\n**2. Displacement during 5th second (S₅):**\nS₅ = 0 + (a/2)(2⋅5 - 1) = 9a/2\n\n**3. Percentage Increase:**\nPercentage increase = ((S₆ - S₅) / S₅) × 100\n= ((11a/2 - 9a/2) / (9a/2)) × 100\n= ((2a/2) / (9a/2)) × 100 = (2/9) × 100 ≈ **22.22%**."
+    "question": "A particle moves with uniform acceleration along a straight line from rest. The percentage increase in displacement during the 6th second compared to that in the 5th is about:",
+    "image": "",
+    "options": [
+      "11%",
+      "22%",
+      "33%",
+      "44%"
+    ],
+    "answer": "22%",
+    "explanation": "The particle is moving with **uniform acceleration (a)** along a straight line **from rest (u=0)**.\n\nThe displacement during the n-th second is given by the formula: Sₙ = u + (a/2)(2n-1).\n\n**1. Displacement during 6th second (S₆):**\nS₆ = 0 + (a/2)(2⋅6 - 1) = 11a/2\n\n**2. Displacement during 5th second (S₅):**\nS₅ = 0 + (a/2)(2⋅5 - 1) = 9a/2\n\n**3. Percentage Increase:**\nPercentage increase = ((S₆ - S₅) / S₅) × 100\n= ((11a/2 - 9a/2) / (9a/2)) × 100\n= ((2a/2) / (9a/2)) × 100 = (2/9) × 100 ≈ **22.22%**."
+  },
+  {
+    "subject": "Physics",
+    "question": "If two miscible liquids of the same volume but different densities (ρ₁ and ρ₂) are mixed, then the density of the mixture is given by:",
+    "image": "",
+    "options": [
+      "(ρ₁ + ρ₂) / 2",
+      "(2ρ₁ρ₂) / (ρ₁ + ρ₂)",
+      "(2ρ₁ρ₂) / (ρ₁ - ρ₂)",
+      "(ρ₁ρ₂) / (ρ₁ + ρ₂)"
+    ],
+    "answer": "(2ρ₁ρ₂) / (ρ₁ + ρ₂)",
+    "explanation": "**Note:** The question asks for mixing **'same volume'** (V), but the provided answer (b) and its derivation are correct for mixing **'same mass'** (m).\n\n**Derivation for Same Mass (m):**\n1.  **Total Mass:** M_total = m + m = 2m\n2.  **Total Volume:** V_total = V₁ + V₂ = m/ρ₁ + m/ρ₂ = m((ρ₁ + ρ₂) / (ρ₁⋅ρ₂))\n3.  **Density of Mixture:** D_mix = M_total / V_total = **(2ρ₁ρ₂) / (ρ₁ + ρ₂)**."
+  },
+  {
+    "subject": "Physics",
+    "question": "The position vector of a particle is r = 2ti + 3tj + 4t²k. Then, the instantaneous velocity (v) and acceleration (a) respectively lie:",
+    "image": "",
+    "options": [
+      "on the xy-plane and along the z-direction",
+      "on the yz-plane and along the x-direction",
+      "on the yz-plane and along the y-direction",
+      "on the xy-plane and along the x-direction"
+    ],
+    "answer": "on the xy-plane and along the x-direction",
+    "explanation": "We find velocity (v) and acceleration (a) by differentiation with respect to time (t): v = dr/dt and a = dv/dt.\n\n**1. Instantaneous Velocity (v):**\nv = d/dt (2ti + 3tj + 4t²k) = 2i + 3j + 8tk\n*This vector has components in the i, j, and k directions, so it generally lies in 3D space.*\n\n**2. Instantaneous Acceleration (a):**\na = d/dt (2i + 3j + 8tk) = 0i + 0j + 8k\n*This vector only has a k component, so it lies along the **z-direction**.*\n\n**Conclusion:** The acceleration is along the z-direction. None of the options correctly describe the velocity, but option (a) has the correct acceleration. (The provided answer 'd' is inconsistent with the question's formula)."
+  },
+  {
+    "subject": "Physics",
+    "question": "Two persons are holding a rope of negligible mass horizontally. A 20 kg mass is attached to the rope at the mid-point, and the rope deviates from the horizontal. The tension required to completely straighten the rope is (g = 10 m/s²):",
+    "image": "",
+    "options": [
+      "200 N",
+      "20 N",
+      "10 N",
+      "infinitely large"
+    ],
+    "answer": "infinitely large",
+    "explanation": "1.  **Weight (Force):** The weight of the mass pulling down is W = m⋅g = 20 kg ⋅ 10 m/s² = 200 N.\n\n2.  **Tension Analysis:** For the rope to be in equilibrium, the upward vertical component of tension must balance the weight. If T is the tension in each half of the rope and θ is the angle it makes with the horizontal, the upward force is 2T⋅sin(θ).\n    2T⋅sin(θ) = W = 200 N\n\n3.  **Condition for Straightening:** To 'completely straighten' the rope (make it perfectly horizontal), the angle θ must approach **0°**.\n\n4.  **Result:** As θ → 0°, sin(θ) → 0. To maintain the balance (2T⋅0 = 200), the tension T must approach **infinity** (T = 200 / 0)."
+  },
+  {
+    "subject": "Physics",
+    "question": "Which one of the following does not convert electrical energy into light energy?",
+    "image": "",
+    "options": [
+      "A candle",
+      "A light-emitting diode",
+      "A laser",
+      "A television set"
+    ],
+    "answer": "A candle",
+    "explanation": "1.  **A Light-Emitting Diode (LED), a Laser, and a Television Set** all function by converting **electrical energy** into **light energy**.\n2.  **A Candle** converts **chemical energy** (stored in the wax) into **heat and light energy** through combustion. It does not use electrical energy."
+  },
+  {
+    "subject": "Physics",
+    "question": "The visible portion of the electromagnetic spectrum is:",
+    "image": "",
+    "options": [
+      "infrared",
+      "radio wave",
+      "microwave",
+      "light"
+    ],
+    "answer": "light",
+    "explanation": "The **visible portion** of the electromagnetic spectrum is the narrow band of radiation that the human eye can detect.\n\nThis range is known as **visible light**. It spans from about 400 nm (violet) to 700 nm (red).\n\nInfrared, radio waves, and microwaves are other parts of the electromagnetic spectrum but are invisible to the human eye."
+  },
+  {
+    "subject": "Physics",
+    "question": "When a convex lens produces a real image of an object, the minimum distance between the object and image is equal to:",
+    "image": "",
+    "options": [
+      "the focal length of the convex lens",
+      "twice the focal length of the convex lens",
+      "four times the focal length of the convex lens",
+      "one-half of the focal length of the convex lens"
+    ],
+    "answer": "four times the focal length of the convex lens",
+    "explanation": "1.  The minimum distance (S_min) between a real object and its real image from a convex lens occurs when the **magnification is one** (m=1).\n2.  This happens when the object is placed at a distance of **twice the focal length** (u = 2f) from the lens.\n3.  At this position, the image is also formed at a distance of **twice the focal length** (v = 2f).\n\nTherefore, the minimum separation is: \nS_min = |u| + v = 2f + 2f = **4f** (four times the focal length)."
+  },
+  {
+    "subject": "Physics",
+    "question": "The direction of the magnetic field at any location on the Earth’s surface is commonly specified in terms of:",
+    "image": "",
+    "options": [
+      "field declination",
+      "field inclination",
+      "both field declination and field inclination",
+      "horizontal component of the field"
+    ],
+    "answer": "both field declination and field inclination",
+    "explanation": "To fully specify the **direction** of the Earth's magnetic field (Bₑ) at any point, two angles are required:\n\n1.  **Field Declination (D):** Specifies the **horizontal** direction relative to true North.\n2.  **Field Inclination (I) or Dip:** Specifies the **vertical** tilt of the field vector relative to the horizontal.\n\nThe **horizontal component** only gives the strength of one part of the vector, not its full 3D direction."
+  },
+  {
+    "subject": "Physics",
+    "question": "A circuit has a fuse with a rating of 5 A. What is the maximum number of 100 W-220 V bulbs that can be safely connected in parallel in the circuit?",
+    "image": "",
+    "options": [
+      "20",
+      "15",
+      "11",
+      "10"
+    ],
+    "answer": "11",
+    "explanation": "The maximum number of bulbs (x) is limited by the fuse rating (I_max).\n\n**Given:**\n* V = 220 V\n* I_max = 5 A\n* P_bulb = 100 W\n\n1.  **Calculate the Total Maximum Power (P_total):**\nP_total = V ⋅ I_max = 220 V ⋅ 5 A = 1100 W\n\n2.  **Calculate the Number of Bulbs (x):**\nx = P_total / P_bulb = 1100 W / 100 W = **11**."
+  },
+  {
+    "subject": "Physics",
+    "question": "In which of the following is heat loss primarily not due to convection?",
+    "image": "",
+    "options": [
+      "Boiling water",
+      "Land and sea breeze",
+      "Circulation of air around a blast furnace",
+      "Heating of the glass surface of a bulb due to the current in the filament"
+    ],
+    "answer": "Heating of the glass surface of a bulb due to the current in the filament",
+    "explanation": "1.  **Convection** is heat transfer through the **movement of a fluid** (liquid or gas).\n    * **Boiling water**, **land and sea breezes**, and **air circulation** in a furnace are all primary examples of convection.\n\n2.  **Heating of a bulb's glass surface** is primarily due to **radiation** from the hot filament. Convection is not the main mode of heat transfer in this case."
   }
 ]
