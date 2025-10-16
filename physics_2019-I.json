@@ -43,12 +43,12 @@
     "question": "If two vectors $\\mathbf{A}$ and $\\mathbf{B}$ are at an angle $\\theta \\neq 0^{\\circ}$, then",
     "image": "",
     "options": [
-      "|$\\mathbf{A} + \\mathbf{B}$| = |$\\mathbf{A}$| + |$\\mathbf{B}$|",
-      "|$\\mathbf{A} + \\mathbf{B}$| < |$\\mathbf{A}$| + |$\\mathbf{B}$|",
-      "|$\\mathbf{A} + \\mathbf{B}$| > |$\\mathbf{A}$| + |$\\mathbf{B}$|",
-      "|$\\mathbf{A} + \\mathbf{B}$| = |$\\mathbf{A}$| - |$\\mathbf{B}$|"
+      "|A| + |B| = |A + B|",
+      "|A| + |B| > |A + B|",
+      "|A| + |B| < |A + B|",
+      "|A| + |B| = |A - B|"
     ],
-    "answer": "|$\\mathbf{A} + \\mathbf{B}$| < |$\\mathbf{A}$| + |$\\mathbf{B}$|",
+    "answer": "|A| + |B| > |A + B|",
     "explanation": "Since, any one side of a triangle is less than the sum of the other two sides individually, so for any two vectors $\\mathbf{A}$ and $\\mathbf{B}$, |$\\mathbf{A} + \\mathbf{B}$| $\\leq$ |$\\mathbf{A}$| + |$\\mathbf{B}$|. If $\\theta \\neq 0^{\\circ}$, then |$\\mathbf{A} + \\mathbf{B}$| < |$\\mathbf{A}$| + |$\\mathbf{B}$|."
   },
   {
