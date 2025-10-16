@@ -26,18 +26,13 @@
     "explanation": "Resistance (R) is calculated as R = ρl/A, where ρ is resistivity. Resistivity is the inverse of conductivity (σ). Since copper has higher conductivity (σ_Cu > σ_Al), it has lower resistivity (ρ_Cu < ρ_Al). As both wires have the same length and area, the wire with the higher resistivity (aluminium, wire 2) will have the higher resistance."
   },
   {
-    "subject": "Physics",
-    "question": "A ray of light is incident on a plane mirror at an angle of 40° with respect to surface normal. When it gets reflected from the mirror, it undergoes a deviation of:",
-    "image": "URL_FOR_REFLECTION_DIAGRAM.PNG",
-    "options": [
-      "40°",
-      "100°",
-      "90°",
-      "80°"
-    ],
-    "answer": "100°",
-    "explanation": "The angle of incidence (i) is 40°. By the law of reflection, the angle of reflection (r) is also 40°. The angle of deviation (δ) is the angle between the extended path of the incident ray and the reflected ray. This is calculated as δ = 180° - (i + r) = 180° - (40° + 40°) = 180° - 80° = 100°."
-  },
+  {
+  "subject": "Physics",
+  "question": "A ray of light is incident on a plane mirror...",
+  "image": "",
+  "answer": "100°",
+  "explanation": "The angle of incidence (i) is 40°. By the law of reflection, the angle of reflection (r) is also 40°. <br><br> <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNVeHO6rfdC36z3Mj0b1v1Ewl6Brc8hrIRI4JbjoTaPDJ9qYmemk5Su9W0n_FV_V1UcCnpDGLvAxi4taMglpAoBCFf9cpMgu8FAwtbGRfFJ8BNJyH7I9E2xx2tUGMVgbJ48mcCi5fxYkQ_MJ8Y6QUBkvPKH4tXeRaVSqVU4kuWA9OyHA2xaPbUH6Uwy-W3/s1600/Screenshot%202025-10-16%20144048.png' alt='Diagram of light reflection' style='max-width:300px; display:block; margin:auto;'> <br>The angle of deviation (δ) is calculated as δ = 180° - (i + r) = 100°."
+},
   {
     "subject": "Physics",
     "question": "Infrared, visible and ultraviolet radiations/light have different properties. Which one of the following statements related to these radiations/light is not correct?",
