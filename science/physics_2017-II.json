@@ -27,16 +27,16 @@
   },
   {
   "subject": "Physics",
-  "question": "A ray of light is incident on a plane mirror...",
+  "question": "A ray of light is incident on a plane mirror at an angle of 40° to the mirror surface. What is the angle of deviation?",
   "image": "",
   "options": [
     "40°",
+    "80°",
     "100°",
-    "90°",
-    "80°"
+    "120°"
   ],
   "answer": "100°",
-  "explanation": "The angle of incidence (i) is 40°. By the law of reflection, the angle of reflection (r) is also 40°. <br><br> <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNVeHO6rfdC36z3Mj0b1v1Ewl6Brc8hrIRI4JbjoTaPDJ9qYmemk5Su9W0n_FV_V1UcCnpDGLvAxi4taMglpAoBCFf9cpMgu8FAwtbGRfFJ8BNJyH7I9E2xx2tUGMVgbJ48mcCi5fxYkQ_MJ8Y6QUBkvPKH4tXeRaVSqVU4kuWA9OyHA2xaPbUH6Uwy-W3/s1600/Screenshot%202025-10-16%20144048.png' alt='Diagram of light reflection' style='max-width:300px; display:block; margin:auto;'> <br>The angle of deviation (δ) is calculated as δ = 180° - (i + r) = 100°."
+  "explanation": "The angle of incidence (i) is the angle between the incident ray and the normal, which is 90° - 40° = 50°. By the law of reflection, the angle of reflection (r) is also 50°. <br><br> <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNVeHO6rfdC36z3Mj0b1v1Ewl6Brc8hrIRI4JbjoTaPDJ9qYmemk5Su9W0n_FV_V1UcCnpDGLvAxi4taMglpAoBCFf9cpMgu8FAwtbGRfFJ8BNJyH7I9E2xx2tUGMVgbJ48mcCi5fxYkQ_MJ8Y6QUBkvPKH4tXeRaVSqVU4kuWA9OyHA2xaPbUH6Uwy-W3/s1600/Screenshot%202025-10-16%20144048.png' alt='Diagram of light reflection' style='max-width:300px; display:block; margin:auto;'> <br>The angle of deviation (δ) is calculated as δ = 180° - (i + r) = 180° - (50° + 50°) = **80°**."
 },
   {
     "subject": "Physics",
