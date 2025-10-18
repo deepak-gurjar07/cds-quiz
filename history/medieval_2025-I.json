@@ -4,12 +4,12 @@
       "question": "Consider the following statements about the use of stirrup in India:\n1. The Konarak horse sculpture (c. 1250) shows a ring-stirrup.\n2. A broad, probably wooden, stirrup appears in Khajuraho sculptures (probably 10th century).\n3. The iron-stirrup was used in the Delhi Sultan’s armies from the thirteen century onwards.\nHow many of the above statements is/are correct?",
       "image": "",
       "options": [
-        "(a) 1",
-        "(c) 3",
-        "(b) 2",
-        "(d) Nil"
+        "1",
+        "3",
+        "2",
+        "Nil"
       ],
-      "answer": "(c) 3",
+      "answer": "3",
       "explanation": "All three statements are correct. Konark horse sculpture (c. 1250) does indeed show a ring-stirrup, which is a notable feature of early stirrup design. Khajuraho sculptures (10th century) depict a wooden stirrup, reflecting the early use of stirrups in India. Iron stirrups were introduced and used by Delhi Sultanate armies from the 13th century onwards, marking a significant advancement in cavalry warfare. Thus, all three statements are correct."
     },
     {
@@ -17,12 +17,12 @@
       "question": "What is the military-device referred to by the term manjaniq?",
       "image": "",
       "options": [
-        "(a) A device for loading field-guns with gunpowder",
-        "(b) Preparing cavalry for rapid charge",
-        "(c) A bolting device for strengthening the gates of forts",
-        "(d) A device for throwing stones (mangonel)"
+        "A device for loading field-guns with gunpowder",
+        "Preparing cavalry for rapid charge",
+        "A bolting device for strengthening the gates of forts",
+        "A device for throwing stones (mangonel)"
       ],
-      "answer": "(d) A device for throwing stones (mangonel)",
+      "answer": "A device for throwing stones (mangonel)",
       "explanation": "The term manjaniq refers to a siege weapon used in ancient and medieval warfare, specifically a mangonel. It was a type of catapult or trebuchet designed to hurl large stones, rocks or other projectiles at enemy fortifications or troops. This device was effective for breaking walls or causing damage during sieges. The other options do not accurately describe the military device referred to as manjaniq."
     },
     {
@@ -30,12 +30,64 @@
       "question": "In medieval India, the process of indigo extraction underwent great improvement as a result of the:",
       "image": "",
       "options": [
-        "(a) use of fertiliser enhancing the quality of indigo crop.",
-        "(b) introduction of mechanical crushing tools for indigo stems.",
-        "(c) use of gypsum and lime mortars in making the inner surfaces of indigo vats waterproof.",
-        "(d) employment of slave labour in quick distilling of indigo curcibles."
+        "use of fertiliser enhancing the quality of indigo crop.",
+        "introduction of mechanical crushing tools for indigo stems.",
+        "use of gypsum and lime mortars in making the inner surfaces of indigo vats waterproof.",
+        "employment of slave labour in quick distilling of indigo curcibles."
       ],
-      "answer": "(c) use of gypsum and lime mortars in making the inner surfaces of indigo vats waterproof.",
+      "answer": "use of gypsum and lime mortars in making the inner surfaces of indigo vats waterproof.",
 "explanation": "In medieval India, a great improvement in the process of indigo extraction occurred with the use of gypsum and lime mortars to make the inner surfaces of indigo vats waterproof. This development ensured better retention of water and chemicals in the vats, which enhanced the efficiency and quality of the indigo dyeing process. The other options, such as the use of mechanical crushing tools or fertilisers, did not have the same significant impact on the indigo extraction process as the waterproofing of vats."
+    },
+    {
+      "subject": "Medieval History",
+      "question": "Which one of the following is listed in the Ain-i Akbari as one of the ‘Indian sciences’ prescribed by Akbar for scholars to learn at school?",
+      "image": "",
+      "options": [
+        "Ayurveda",
+        "Vyakarana",
+        "Ganita",
+        "Jyotisha"
+      ],
+      "answer": "Jyotisha",
+      "explanation": "In the Ain-i-Akbari, Jyotisha (astronomy/astrology) is listed as one of the important Indian sciences that scholars were instructed to learn during Akbar’s reign. Akbar emphasised the study of various sciences, including Jyotisha, along with subjects like Ganita (mathematics), Vyakarana (grammar) and Ayurveda (medicine). Astronomy and astrology were highly valued, particularly for their role in timekeeping, religious rituals and understanding celestial phenomena."
+    },
+    {
+      "subject": "Medieval History",
+      "question": "Consider the following statements about the literary language Apabhramsha:\n1. It appeared in recognisable forms by the sixth century.\n2. In developed out of mixtures of regional vernaculars with the Prakrits and Sanskrit.\nWhich of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Apabhramsha refers to the group of languages that emerged during the transition from Prakrits to modern Indian languages. It began to appear in recognisable literary forms by the 6th century CE, especially in poetry and religious literature. Apabhramsha languages evolved as mixtures of regional vernaculars influenced by Prakrits and Sanskrit, forming the linguistic bridge between classical and modern Indo-Aryan languages. Hence, both statements are correct."
+    },
+    {
+      "subject": "Medieval History",
+      "question": "Who composed Zainavilas, a history of the rules of Kashmir, in the time of Zainul Abidin?",
+      "image": "",
+      "options": [
+        "Bhattavatara",
+        "Jonaraja",
+        "Shrivara",
+        "Vachaspati"
+      ],
+      "answer": "Jonaraja",
+      "explanation": "Jonaraja, a court poet and historian in the time of Sultan Zainul Abidin of Kashmir, composed the “Zainavilas”, a historical work detailing the rulers of Kashmir. He is also well known for continuing Kalhana’s Rajatarangini, documenting the later dynasties. His works are valuable sources of Kashmir’s medieval history. Therefore, Jonaraja’s contribution is significant in preserving the historical narrative of Kashmir, particularly during Zainul Abidin’s enlightened rule."
+    },
+    {
+      "subject": "Medieval History",
+      "question": "In which one of the following works has Amir Khusrau praised the climate of India, its languages, notably Sanskrit, its arts and music and even its animals?",
+      "image": "",
+      "options": [
+        "Ljaz-i Khusrawi",
+        "Dewal Rani Khizr Khani",
+        "Khazainul Futuh",
+        "Nuh Sipihr"
+      ],
+      "answer": "Nuh Sipihr",
+      "explanation": "Amir Khusrau composed “Nuh Siphir” (meaning “Nine Skies”) in 1318 CE... In this poetic work, he lavishly praises India, describing its pleasant climate, rich languages (including Sanskrit) and its excellence in arts, music and even its animals. The work reflects Khusrau’s deep admiration for Indian culture and stands as a testament to the fusion of Indo-Persian traditions in medieval India."
     }
   ]
