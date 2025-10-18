@@ -1,0 +1,28 @@
+[
+    {
+      "subject": "Modern History",
+      "question": "Consider the following statements about the arms used by Europeans in warefare in India:\n1. The flint-lock muskets could word even in wet weather.\n2. The addition of bayonet made musket a more effective and dangerous weapon in close combat.\n3. The wrought-iron cannon barrels were easy to move and manoeuvre.\nHow many of the above statements is/are correct?",
+      "image": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "Nil"
+      ],
+      "answer": "3",
+      "explanation": "All three statements are correct regarding European arms used in warfare in India. Flint-lock muskets were a significant advancement over earlier matchlocks and could function relatively well in wet weather, unlike matchlocks that relied on a burning wick. The addition of bayonets made muskets highly effective in close combat, serving as both a firearm and a spear. Wrought-iron cannon barrels were lighter and more manoeuvrable than earlier bronze ones, improving battlefield mobility. Hence, all three statements are correct."
+    },
+    {
+      "subject": "Modern History",
+      "question": "Which one of the following works was written in early eighteenth century by the Bengali poet Rameshwar Bhattacharya?",
+      "image": "",
+      "options": [
+        "Dharmamangal",
+        "Shivsankirttan",
+        "Mansimha",
+        "Vidyasundar"
+      ],
+      "answer": "Shivsankirttan",
+      "explanation": "Rameshwar Bhattacharya, a Bengali poet of the early 18th century, is known for composing “Shivsankirttan”, a devotional work centred around Lord Shiva. The other works mentioned—Dharmamangal, Mansimha and Vidyasundar—were written by other poets and belong to different periods or traditions within Bengali literature."
+    }
+  ]
