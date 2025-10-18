@@ -26,18 +26,18 @@
     "explanation": "**Note:** The question asks for mixing **'same volume'** (V), but the provided answer (b) and its derivation are correct for mixing **'same mass'** (m).\n\n**Derivation for Same Mass (m):**\n1.  **Total Mass:** M_total = m + m = 2m\n2.  **Total Volume:** V_total = V₁ + V₂ = m/ρ₁ + m/ρ₂ = m((ρ₁ + ρ₂) / (ρ₁⋅ρ₂))\n3.  **Density of Mixture:** D_mix = M_total / V_total = **(2ρ₁ρ₂) / (ρ₁ + ρ₂)**."
   },
   {
-    "subject": "Physics",
-    "question": "The position vector of a particle is r = 2ti + 3tj + 4t²k. Then, the instantaneous velocity (v) and acceleration (a) respectively lie:",
-    "image": "",
-    "options": [
-      "on the xy-plane and along the z-direction",
-      "on the yz-plane and along the x-direction",
-      "on the yz-plane and along the y-direction",
-      "on the xy-plane and along the x-direction"
-    ],
-    "answer": "on the xy-plane and along the x-direction",
-    "explanation": "We find velocity (v) and acceleration (a) by differentiation with respect to time (t): v = dr/dt and a = dv/dt.\n\n**1. Instantaneous Velocity (v):**\nv = d/dt (2ti + 3tj + 4t²k) = 2i + 3j + 8tk\nThis vector has components in the i, j, and k directions, so it generally lies in 3D space.\n\n**2. Instantaneous Acceleration (a):**\na = d/dt (2i + 3j + 8tk) = 0i + 0j + 8k\nThis vector only has a k component, so it lies along the **z-direction**.\n\n**Conclusion:** The acceleration is along the z-direction. None of the options correctly describe the velocity, but option (a) has the correct acceleration. (The provided answer 'd' is inconsistent with the question's formula)."
-  },
+  "subject": "Physics",
+  "question": "The position vector of a particle is r = 2t² î + 3t ĵ + 4 k̂. Then, the instantaneous velocity v and acceleration a respectively lie:",
+  "image": "",
+  "options": [
+    "on the xy-plane and along the z-direction",
+    "on the yz-plane and along the x-direction",
+    "on the yz-plane and along the y-direction",
+    "on the xy-plane and along the x-direction"
+  ],
+  "answer": "on the xy-plane and along the x-direction",
+  "explanation": "Given the position vector: r = 2t² î + 3t ĵ + 4 k̂.\n\n1.  **Instantaneous Velocity (v):** Velocity is the first derivative of position with respect to time.\n    v = dr/dt = d/dt (2t² î + 3t ĵ + 4 k̂) \n    v = 4t î + 3 ĵ\n    Since the velocity vector only has î (x) and ĵ (y) components, it lies on the **xy-plane**.\n\n2.  **Instantaneous Acceleration (a):** Acceleration is the first derivative of velocity with respect to time.\n    a = dv/dt = d/dt (4t î + 3 ĵ) \n    a = 4 î\n    Since the acceleration vector only has an î (x) component, it lies along the **x-direction**."
+},
   {
     "subject": "Physics",
     "question": "Two persons are holding a rope of negligible mass horizontally. A 20 kg mass is attached to the rope at the mid-point, and the rope deviates from the horizontal. The tension required to completely straighten the rope is (g = 10 m/s²):",
