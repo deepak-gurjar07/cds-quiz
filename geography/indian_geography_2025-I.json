@@ -76,5 +76,18 @@
       ],
       "answer": "Odisha and Jharkhand",
       "explanation": "According to the Annual Report 2023–24 of the Ministry of Mines, Government of India, the major bauxite-producing states in India are Odisha and Jharkhand. Based on multiple sources, Odisha consistently ranks as the top bauxite producer in India, often accounting for over half of the total output. Jharkhand is also listed as a significant bauxite producer. While other states like Madhya Pradesh, Gujarat and Chhattisgarh also produce bauxite, they are not mentioned prominently in most reports. Therefore, “Odisha and Jharkhand” is the most accurate answer based on the query."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which of the following statements about the Indus Waters Treaty is/are correct?\n1. The term ‘Eastern Rivers’ means the Sutlej, the Beas and the Ravi taken together.\n2. The term ‘Western Rivers’ means the Indus, the Jhelum and the Chenab taken together.\nSelect the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "The Indus Waters Treaty, signed between India and Pakistan in 1960 and brokered by the World Bank, classifies the rivers of the Indus basin into two groups:\nEastern Rivers: These include the Sutlej, Beas and Ravi—allocated to India for exclusive use.\nWestern Rivers: These include the Indus, Jhelum and Chenab—primarily allocated to Pakistan, although India can use them for limited domestic, agricultural and hydroelectric purposes under specific conditions.\nSo, both statements are correct."
     }
   ]
