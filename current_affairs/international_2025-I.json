@@ -24,5 +24,31 @@
       ],
       "answer": "USA",
       "explanation": "On December 24, 2024, President Joe Biden signed a bill officially designating the bald eagle as the national bird of the United States. Although the bald eagle had long been a symbol of American values—featured on the Great Seal, currency and various federal emblems—it had never been formally recognised as the national bird until this legislation was enacted. This move rectified a historical oversight, ensuring that the bald eagle holds its rightful place among the nation’s official symbols."
+    },
+    {
+      "subject": "Current Affairs (International)",
+      "question": "Which one among the following UN agencies has received the Nobel Prize more than once?",
+      "image": "",
+      "options": [
+        "ILO",
+        "WFP",
+        "UNICEF",
+        "UNHCR"
+      ],
+      "answer": "UNHCR",
+      "explanation": "The United Nations High Commissioner for Refugees (UNHCR) is the UN agency that has received the Nobel Peace Prize more than once. It was awarded the prestigious honour in 1954 for its exceptional efforts in assisting refugees after World War II. Later, in 1981, UNHCR was again recognised with the Nobel Peace Prize for its continued and invaluable work in supporting refugees globally. In contrast, other UN agencies such as the International Labour Organization (ILO), World Food Programme (WFP), and UNICEF have each received the Nobel Peace Prize only once."
+    },
+    {
+      "subject": "Current Affairs (International)",
+      "question": "International Day of Democracy, as decided via a UN General Assembly resolution, is observed on:",
+      "image": "",
+      "options": [
+        "20 January",
+        "1 July",
+        "15 September",
+        "9 December"
+      ],
+      "answer": "15 September",
+      "explanation": "The International Day of Democracy is observed on 15th September each year, as declared by the United Nations General Assembly. The day aims to promote and strengthen democracy globally by highlighting the importance of democratic values, participation and respect for human rights. It encourages people to reflect on the challenges to democracy and to enhance efforts in ensuring more inclusive, accountable and transparent governance systems worldwide."
     }
   ]
