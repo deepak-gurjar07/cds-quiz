@@ -1,0 +1,15 @@
+[
+    {
+      "subject": "Current Affairs (Science & Tech)",
+      "question": "Which one of the following PSLVs, launched by ISRO, is not correctly matched with their Missions?",
+      "image": "",
+      "options": [
+        "PSLV C60 SPADEX",
+        "PSLV C59 Proba-3",
+        "PSLV C58 XPoSat",
+        "PSLV C57 DS-SAR"
+      ],
+      "answer": "PSLV C57 DS-SAR",
+      "explanation": "The PSLV-C57 successfully launched the Aditya-L1 mission on September 2, 2023. This mission aims to study the Sun from the Lagrange point 1 (L1). The DS-SAR mission was launched by PSLV-C56, not C57."
+    }
+  ]
