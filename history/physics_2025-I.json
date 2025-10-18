@@ -1,0 +1,132 @@
+[
+    {
+      "subject": "Physics",
+      "question": "If your image appears to be erect, no matter how far you stand from a mirror, the mirror is likely to be:",
+      "image": "",
+      "options": [
+        "Plane",
+        "Concave",
+        "Convex",
+        "Either plane or convex"
+      ],
+      "answer": "Either plane or convex",
+      "explanation": "Convex mirror always forms virtual and erect image of small size. Plane mirror always forms virtual and erect image of equal size."
+    },
+    {
+      "subject": "Physics",
+      "question": "The rule that determines the direction of a magnetic field produced around a straight conductor carrying current is:",
+      "image": "",
+      "options": [
+        "Right-hand thumb rule",
+        "Fleming’s left-hand rule",
+        "Fleming’s right-hand rule",
+        "Hund’s rule"
+      ],
+      "answer": "Right-hand thumb rule",
+      "explanation": "As per right hand thumb rule, when we hold a current carrying conductor in our right hand direction such that direction of thumb represents the direction of current, then the direction of magnetic field will be given by direction of curling of fingers."
+    },
+    {
+      "subject": "Physics",
+      "question": "A motorcycle has initial velocity of 5 m/s. After 3 seconds, the velocity is 7 m/s. The displacement of the motorcycle in 3 seconds is:",
+      "image": "",
+      "options": [
+        "21 m",
+        "18 m",
+        "36 m",
+        "6 m"
+      ],
+      "answer": "18 m",
+      "explanation": "Given, u = 5 m/s, v = 7 m/s, t = 3 s, s = ?\na = (v - u) / t = (7 - 5) / 3 = 2/3 m/s²\nNow, s = ut + 1/2 at²\ns = (5 x 3) + (1/2 x (2/3) x 9)\ns = 15 + 3 = 18 m"
+    },
+    {
+      "subject": "Physics",
+      "question": "The minimum power required to lift a mass of 50 kg up to a vertical distance of 8 m in 10 s is: (Take g = 10 m/s²)",
+      "image": "",
+      "options": [
+        "400 W",
+        "40 W",
+        "50 W",
+        "500 W"
+      ],
+      "answer": "400 W",
+      "explanation": "Given, m = 50 kg, h = 8 m, t = 10 s, g = 10 m/s²\nPower, P = mgh / t = (50 x 8 x 10) / 10 = 400 W"
+    },
+    {
+      "subject": "Physics",
+      "question": "Which one among the following statements is not correct?",
+      "image": "",
+      "options": [
+        "All bodies in the universe attract each other due to the gravitational force.",
+        "Newton’s law of gravitation follows from Newton’s laws of motion",
+        "The value of g (acceleration due to gravity) at the centre of the Earth is zero.",
+        "Mass and weight are measured in different units."
+      ],
+      "answer": "Newton’s law of gravitation follows from Newton’s laws of motion",
+      "explanation": "Law of gravitation is not linked to laws of motion."
+    },
+    {
+      "subject": "Physics",
+      "question": "A body floats in a liquid if the buoyant force is:",
+      "image": "",
+      "options": [
+        "equal to its weight.",
+        "less than its weight.",
+        "greater than its weight.",
+        "zero."
+      ],
+      "answer": "equal to its weight.",
+      "explanation": "A body floats in a liquid only if buoyant force is equal to weight of object submerged."
+    },
+    {
+      "subject": "Physics",
+      "question": "A metallic sphere of mass 1 kg and volume 2 × 10–4 m³ is completely immersed in water. The buoyant force exerted by water on the sphere is: (Given: density of water = 1000 kg/m³, g = 10 m/s²)",
+      "image": "",
+      "options": [
+        "0.5 N",
+        "1.5 N",
+        "2 N",
+        "2.5 N"
+      ],
+      "answer": "2 N",
+      "explanation": "Buoyant force, U = rVg\nU = 1000 x 2 × 10–4 x 10 = 2 N"
+    },
+    {
+      "subject": "Physics",
+      "question": "A light bulb rated as 60 W at 220 V has a potential difference of 110 V across its ends, The power dissipated in this light bulb is:",
+      "image": "",
+      "options": [
+        "30 W",
+        "45 W",
+        "15 W",
+        "2 W"
+      ],
+      "answer": "15 W",
+      "explanation": "R = V²/P = 220²/60 Ω\nNow voltage is 110 volts,\nPower, P = V²/R = 110² / (220²/60) = 60 / 4 = 15 W"
+    },
+    {
+      "subject": "Physics",
+      "question": "Which one among the following is used in a simple microscope?",
+      "image": "",
+      "options": [
+        "Diverging lens",
+        "Concave mirror",
+        "Converging lens",
+        "Plane Mirror"
+      ],
+      "answer": "Converging lens",
+      "explanation": "A simple microscope uses a single converging lens (convex lens) to magnify objects."
+    },
+    {
+      "subject": "Physics",
+      "question": "The force with which the Earth attracts an object is called:",
+      "image": "",
+      "options": [
+        "Weight of the object",
+        "Mass of the object",
+        "Density of the object",
+        "Magnitude of the object"
+      ],
+      "answer": "Weight of the object",
+      "explanation": "Force with which earth attracts any object is termed as weight of that object."
+    }
+  ]
