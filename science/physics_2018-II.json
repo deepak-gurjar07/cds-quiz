@@ -118,7 +118,7 @@
   },
   {
     "subject": "Physics",
-    "question": "In which of the following is heat loss primarily not due to convection?",
+    "question": "In which of the following is heat loss primarily **NOT** due to convection?",
     "image": "",
     "options": [
       "Boiling water",
