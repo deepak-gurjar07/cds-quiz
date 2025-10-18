@@ -1,0 +1,28 @@
+[
+    {
+      "subject": "Current Affairs (International)",
+      "question": "“The Order of Mubarak Al-Kabeer’ is the highest national award of:",
+      "image": "",
+      "options": [
+        "Egypt",
+        "Kuwait",
+        "Bahrain",
+        "United Arab Emirates"
+      ],
+      "answer": "Kuwait",
+      "explanation": "The Order of Mubarak Al-Kabeer is the highest national honour awarded by the State of Kuwait. It is named after Sheikh Mubarak Al-Kabeer, the ruler of Kuwait, and is conferred on heads of state and other dignitaries in recognition of their significant contributions to strengthening relations with Kuwait."
+    },
+    {
+      "subject": "Current Affairs (International)",
+      "question": "Bald eagle has recently been officially declared as the national bird of which one among the following countries?",
+      "image": "",
+      "options": [
+        "China",
+        "England",
+        "USA",
+        "Ireland"
+      ],
+      "answer": "USA",
+      "explanation": "On December 24, 2024, President Joe Biden signed a bill officially designating the bald eagle as the national bird of the United States. Although the bald eagle had long been a symbol of American values—featured on the Great Seal, currency and various federal emblems—it had never been formally recognised as the national bird until this legislation was enacted. This move rectified a historical oversight, ensuring that the bald eagle holds its rightful place among the nation’s official symbols."
+    }
+  ]
