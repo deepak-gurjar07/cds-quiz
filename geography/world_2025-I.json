@@ -1,0 +1,119 @@
+[
+    {
+      "subject": "World Geography",
+      "question": "Considered the following statements with reference to Secondary waves (S-Waves) generated during an earthquake:\n1. They create troughs and crests in the material through which they pass.\n2. The direction of vibrations of S-waves is perpendicular to the wave direction in the vertical plane.\nWhich of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Both statements about Secondary waves (S-waves) are correct. S-waves are transverse seismic body waves that move particles in a direction perpendicular to the wave’s motion, creating a wave pattern similar to crests and troughs, much like shaking a rope up and down. This particle motion can occur in various planes, including the vertical plane, as stated. Hence, both the formation of crests and troughs and the perpendicular vibration in the vertical plane accurately describe S-wave behaviour."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Identify the Mineral on the basis of the following characteristics relating to it.\nI. It is usually a greenish crystal.\nII. It is often found in basaltic rocks.\nIII. Magnesium, iron and silica are its major elements.\nSelect the answer using the code given below:",
+      "image": "",
+      "options": [
+        "Amphibolite",
+        "Feldspar",
+        "Pyroxene",
+        "Olivine"
+      ],
+      "answer": "Olivine",
+      "explanation": "The mineral described is Olivine. It is typically recognised by its distinctive greenish colour and commonly occurs as crystals in basaltic and other mafic igneous rocks. Olivine is rich in magnesium, iron and silica, with a chemical composition often expressed as (Mg, Fe)SiO4. These characteristics—its colour, occurrence in basalt and elemental composition—clearly identify it as olivine, a significant rock-forming mineral in Earth’s upper mantle and volcanic rocks."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements with reference to Salt Weathering is/are correct?\n1. Salt Crystallisation is the most effective of all the salt weathering processes.\n2. Salt crystal growth is more effective over sedimentary rocks as compared to igneous rocks.\nWhich of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Both statements regarding salt weathering are correct. Salt crystallisation is considered the most effective process in salt weathering, as the growth of salt crystals within rock pores exerts pressure that leads to disintegration. This process is especially impactful in arid and coastal regions. Additionally, salt crystal growth is more effective in sedimentary rocks than in igneous rocks because sedimentary rocks are generally more porous and allow easier penetration and accumulation of salts, making them more susceptible to weathering."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements with reference to Surface inversion of temperature is/are correct?\n1. It causes instability in the lower layers of the atmosphere.\n2. This inversion commonly lasts for a few hours until the Sun comes up.\nSelect the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "2 only",
+      "explanation": "The correct answer is 2 only. Surface inversion of temperature refers to a situation where a layer of cooler air is trapped beneath warmer air, leading to atmospheric stability rather than instability. This inversion prevents vertical mixing of air and is generally associated with stable conditions. The inversion commonly occurs during the night due to radiational cooling of the ground, and it typically lasts for a few hours until sunrise. Once the Sun rises, the ground heats up, and the inversion dissipates, allowing the normal temperature gradient to resume."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Identify the cloud on the basis of the following characteristics relating to it:\nI. They look like cotton wool.\nII. They exist in patches and have flat base.\nIII. They are generally formed at a height of 4 to 7 km.\nSelect the answer using the code given below:",
+      "image": "",
+      "options": [
+        "Cirrus",
+        "Cumulus",
+        "Nimbus",
+        "Stratus"
+      ],
+      "answer": "Cumulus",
+      "explanation": "The correct answer is Cumulus. They look like cotton wool – Cumulus clouds are often described as resembling cotton wool due to their puffy, white appearance. They typically have a rounded shape with a flat base. They exist in patches and have a flat base – Cumulus clouds appear in distinct patches and are characterised by their flat base... Cumulus clouds can form at varying heights, often ranging from 1 to 7 km..."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Identify the type of climate on the basis of the following characteristics relating to it:\nI. Temperature is high throughout the year.\nII. Rainfall is variable with a short wet season and a longer dry season.\nIII. Climate of Sudan and Paraguay is an example of this climate type.",
+      "image": "",
+      "options": [
+        "Sub-tropical steppe climate",
+        "Mid-latitude steppe",
+        "Tropical monsoon climate",
+        "Tropical wet and dry climate"
+      ],
+      "answer": "Tropical wet and dry climate",
+      "explanation": "The correct answer is Tropical wet and dry climate. Temperature is high throughout the year – This characteristic is typical of tropical climates... Rainfall is variable with a short wet season and a longer dry season – This is a key feature of the tropical wet and dry climate (also known as the savannah climate). ... Climate of Sudan and Paraguay is an example of this climate type – Both Sudan and Paraguay experience tropical wet and dry climates..."
+    },
+    {
+      "subject": "World Geography",
+      "question": "What is the correct sequence of the following salts in ascending order according to their presence in the sea water?\n1. Calcium Carbonate\n2. Calcium Sulphate\n3. Magnesium Chloride\nSelect the answer using the code given below:",
+      "image": "",
+      "options": [
+        "3, 1, 2",
+        "1, 3, 2",
+        "1, 2, 3",
+        "2, 1, 3"
+      ],
+      "answer": "1, 2, 3",
+      "explanation": "The correct ascending order of salts in seawater, based on their concentration, is Calcium Carbonate (CaCO3), Calcium Sulphate (CaSO4) and Magnesium Chloride (MgCl2). Calcium Carbonate is the least abundant... Calcium Sulphate is intermediate in abundance, while Magnesium Chloride is the most abundant salt..."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements with reference to Humus is/are correct?\n1. It is a dark coloured amorphous substance.\n2. Being colloidal in nature, it serve as a reservoir of nutrients.\nSelect the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 and 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "The correct answer is Both 1 and 2. Humus is a dark-coloured, amorphous substance formed from the decomposition of dead plant and animal materials. It is colloidal in nature, meaning it has fine particles that help it retain water and nutrients. This colloidal property makes humus an excellent reservoir of nutrients, slowly releasing them into the soil and providing essential elements for plant growth. Thus, both statements are accurate."
+    },
+    {
+      "subject": "World Geography",
+      "question": "River Danube does not flow through which one of the following capital cities in Europe?",
+      "image": "",
+      "options": [
+        "Belgrade",
+        "Budapest",
+        "Prague",
+        "Vienna"
+      ],
+      "answer": "Prague",
+      "explanation": "The Danube River flows through several major cities in Europe, including: Belgrade (Serbia), Budapest (Hungary), Vienna (Austria). However, Prague, the capital of the Czech Republic, is not situated on the Danube River. Instead, Prague is located on the Vltava River."
+    }
+  ]
