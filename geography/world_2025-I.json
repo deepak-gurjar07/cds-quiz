@@ -115,5 +115,70 @@
       ],
       "answer": "Prague",
       "explanation": "The Danube River flows through several major cities in Europe, including: Belgrade (Serbia), Budapest (Hungary), Vienna (Austria). However, Prague, the capital of the Czech Republic, is not situated on the Danube River. Instead, Prague is located on the Vltava River."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements with reference to Easter Island, a UNESCO world Heritage Site, is/are correct?\n1. It is part of Polynesia group of islands.\n2. It is a territory of the South American nation Chile.\nSelect the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Easter Island (also known as Rapa Nui) is geographically part of the Polynesian group of islands in the Pacific Ocean. It shares cultural and linguistic traits with other Polynesian islands. Though located in the southeastern Pacific Ocean, Easter Island is a special territory of Chile, a South American country, and has been under Chilean administration since 1888."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following is home to the endangered mountain gorillas in Africa?",
+      "image": "",
+      "options": [
+        "Mount Kenya",
+        "Mount Kilimanjaro",
+        "Ngorongoro Crater",
+        "Virunga Mountains"
+      ],
+      "answer": "Virunga Mountains",
+      "explanation": "The Virunga Mountains, located along the borders of Rwanda, Uganda, and the Democratic Republic of Congo, are renowned as one of the last remaining habitats of the endangered mountain gorillas. Conservation efforts in this region, including protected areas like Volcanoes National Park in Rwanda and Bwindi Impenetrable Forest in Uganda, are crucial for their survival. The other options, while prominent in Africa, are not primary habitats of mountain gorillas."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements with reference to Jordan is/are correct?\n1. The country of Jordan was created through the British Mandate after World War I.\n2. It is a landlocked country.\nSelect the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "1 only",
+      "explanation": "Statement 1 is correct: The country of Jordan was indeed created through the British Mandate system after World War I. It was initially known as Transjordan, established in 1921, and gained full independence in 1946. The mandate was part of British administration in the former Ottoman territories.\nStatement 2 is incorrect: Jordan is not a landlocked country. It has a coastline along the Gulf of Aqaba in the south, giving it access to the Red Sea."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following places is situated close to the Pearl River Estuary in Asia?",
+      "image": "",
+      "options": [
+        "Bangkok",
+        "Hong Kong",
+        "Macau",
+        "Singapore"
+      ],
+      "answer": "Macau",
+      "explanation": "Macau is situated on the western side of the Pearl River Estuary in southern China. The Pearl River Estuary is a key geographical feature that opens into the South China Sea and is bordered by several important cities, including Hong Kong and Macau. While Hong Kong is also close, Macau is more directly on the western side of the estuary. Bangkok is located in Thailand along the Chao Phraya River. Singapore is an island city-state at the southern tip of the Malay Peninsula."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Consider the following statements with regard to Australia:\n1. The Coral Sea separates the Great Barrier Reef from the South Pacific.\n2. The Great Dividing Range extends from Melbourne to Perth in Australia.\nWhich of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "1 only",
+      "explanation": "The Coral Sea separates the Great Barrier Reef from the South Pacific. The Great Barrier Reef is located in the Coral Sea, which is itself a marginal sea of the South Pacific Ocean. Therefore, the Coral Sea lies between the reef and the broader South Pacific. This statement is correct. The Great Dividing Range extends from Melbourne to Perth in Australia. The Great Dividing Range is a series of mountain ranges that runs along the eastern and southeastern coast of Australia. Melbourne is located within this range’s vicinity. However, Perth is situated on the western coast of Australia, far from the Great Dividing Range."
     }
   ]
