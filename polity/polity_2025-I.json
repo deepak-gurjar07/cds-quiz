@@ -37,5 +37,98 @@
       ],
       "answer": "support promotion of organic farming in the country.",
       "explanation": "The Paramparagat Krishi Vikas Yojana (PKVY) was launched in 2015–16 by the Ministry of Agriculture and Farmers’ Welfare to promote organic farming through traditional knowledge and sustainable practices. The scheme encourages cluster-based organic farming, ensures certification and helps farmers realise the economic benefits of organic produce. It aims to reduce the use of chemical fertilisers and pesticides, thereby promoting eco-friendly and climate-resilient agriculture."
+    },
+    [
+    {
+      "subject": "Polity",
+      "question": "Which of the following Constitution Amendment Acts introduced GST (Goods and Service Tax) in course of inter-state trade or commerce?",
+      "image": "",
+      "options": [
+        "Constitution (One Hundred and First Amendment) Act",
+        "Constitution (One Hundred and Second Amendment) Act",
+        "Constitution (One Hundred and Fourth Amendment) Act.",
+        "Constitution (One Hundred and Sixth Amendment) Act."
+      ],
+      "answer": "Constitution (One Hundred and First Amendment) Act",
+      "explanation": "The Constitution (One Hundred and First Amendment) Act, 2016 introduced Goods and Services Tax (GST) in India, which aimed at simplifying the indirect tax structure and improving the ease of doing business by implementing a single tax system across the country for both intra-state and inter-state trade or commerce."
+    },
+    {
+      "subject": "Polity",
+      "question": "Consider the following statements about Central Vigilance Commission (CVC)\n1. Central Vigilance Commissioner is appointed by the President of India.\n2. The Committee to recommend the appointment of Central Vigilance Commissioner has the Minister of Home Affairs as one of the members.\n3. In certain circumstances the Leader of the single largest group in opposition in Lok Sabha can be on the Committee to recommend the appointment of Central Vigilance Commissioner.\nHow many of the above statements is/are correct?",
+      "image": "",
+      "options": [
+        "Nil",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "3",
+      "explanation": "As per the CVC Act, the Central Vigilance Commissioner (CVC) and the members are appointed by the President of India. The committee for recommending the appointment of the CVC consists of the Prime Minister, the Minister of Home Affairs, and the Leader of the Opposition in the Lok Sabha, as per the provisions of the CVC Act, 2003. The Leader of the Opposition in the Lok Sabha is included in the committee for the appointment, and in the absence of the official Leader of Opposition, the leader of the largest opposition group can be part of the committee. Thus, all three statements are correct."
+    },
+    {
+      "subject": "Polity",
+      "question": "Write of the following statements about the NITI Aayog is/are correct?\n1. Prime Minister of India is the Chairperson of its Governing Council.\n2. Lieutenant Governor of Ladakh is a member of its Governing Council.\nSelect the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "The correct answer is Both 1 and 2. The Prime Minister of India serves as the Chairperson of the Governing Council of NITI Aayog, leading discussions on national development and cooperative federalism. The Lieutenant Governor of Ladakh is included in the Governing Council of NITI Aayog, representing the Union Territory in discussions on development and governance."
+    },
+    {
+      "subject": "Polity",
+      "question": "Which of the following statements about National Commission for Women are correct?\n1. It is a statutory body.\n2. It has the mandate to review the constitutional and legal safeguards for women.\n3. It has mandate to advice government on all policies matters affecting women.\nSelect the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "The correct answer is 1, 2 and 3. The National Commission for Women (NCW) is a statutory body established under the National Commission for Women Act, 1990. One of the primary functions of NCW is to review and recommend measures for safeguarding women’s rights, including the review of legal and constitutional safeguards. NCW advises the Government on policies related to women and gender equality."
+    },
+    {
+      "subject": "Polity",
+      "question": "Which, amongst the following, is the latest language to be included in the Eighth Schedule of the Constitution of India?",
+      "image": "",
+      "options": [
+        "Maithili",
+        "Nepali",
+        "Konkani",
+        "Manipuri"
+      ],
+      "answer": "Maithili",
+      "explanation": "The latest language to be included in the Eighth Schedule of the Constitution of India is Maithili. Maithili was included in the Eighth Schedule of the Constitution of India through the 92nd Constitutional Amendment Act, 2003. This addition recognised Maithili, along with Bodo and Santhali, as one of the official languages of India."
+    },
+    {
+      "subject": "Polity",
+      "question": "Which one among the following states has the highest number of seats in the Council of States?",
+      "image": "",
+      "options": [
+        "Andhra Pradesh",
+        "Bihar",
+        "Madhya Pradesh",
+        "Tamil Nadu"
+      ],
+      "answer": "Tamil Nadu",
+      "explanation": "Tamil Nadu has 18 seats in the Council of States (Rajya Sabha), which is the highest among the options given. Bihar has 16 seats. Andhra Pradesh and Madhya Pradesh each have 11 seats."
+    },
+    {
+      "subject": "Polity",
+      "question": "Which of the following statements is/are correct as per the Constitution of India?\n1. The Constitution (Eighty-sixth Amendment) Act has added the Right to Education to the chapter of Directive Principle of State Policy.\n2. Right to Work and Right to Education are both, Fundamental Rights and Directive Principles of State policy.\nSelect the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Neither 1 nor 2",
+      "explanation": "Statement 1: Incorrect. The 86th Constitutional Amendment Act (2002) did not add the Right to Education to the Directive Principles of State Policy (DPSP). Instead, it added Article 21A in the Fundamental Rights section, making free and compulsory education for children aged 6–14 a Fundamental Right. \nStatement 2: Incorrect. Right to Education is indeed a Fundamental Right (Article 21A) and is also supported under DPSP (Article 45). But Right to Work is only a Directive Principle (Article 41) and not a Fundamental Right. Therefore, the claim that both are Fundamental Rights and DPSPs is incorrect."
     }
+  ]
   ]
