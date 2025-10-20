@@ -1,3 +1,142 @@
-[
-  
-]
+{
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "If your image appears to be erect, no matter how far you stand from a mirror, the mirror is likely to be:",
+      "image": "",
+      "options": [
+        "Plane",
+        "Concave",
+        "Convex",
+        "Either plane or convex"
+      ],
+      "answer": "Either plane or convex",
+      "explanation": "Convex mirror always forms virtual and erect image of small size. Plane mirror always forms virtual and erect image of equal size."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "Which one among the following is used in a simple microscope?",
+      "image": "",
+      "options": [
+        "Diverging lens",
+        "Concave mirror",
+        "Converging lens",
+        "Plane Mirror"
+      ],
+      "answer": "Converging lens",
+      "explanation": "A simple microscope uses a single converging lens (convex lens) to magnify objects."
+    }
+  ],
+  "Physics (Electromagnetism)": [
+    {
+      "subject": "Physics (Electromagnetism)",
+      "question": "The rule that determines the direction of a magnetic field produced around a straight conductor carrying current is:",
+      "image": "",
+      "options": [
+        "Right-hand thumb rule",
+        "Fleming’s left-hand rule",
+        "Fleming’s right-hand rule",
+        "Hund’s rule"
+      ],
+      "answer": "Right-hand thumb rule",
+      "explanation": "As per right hand thumb rule, when we hold a current carrying conductor in our right hand direction such that direction of thumb represents the direction of current, then the direction of magnetic field will be given by direction of curling of fingers."
+    }
+  ],
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "A motorcycle has initial velocity of 5 m/s. After 3 seconds, the velocity is 7 m/s. The displacement of the motorcycle in 3 seconds is:",
+      "image": "",
+      "options": [
+        "21 m",
+        "18 m",
+        "36 m",
+        "6 m"
+      ],
+      "answer": "18 m",
+      "explanation": "Given, u = 5 m/s, v = 7 m/s, t = 3 s, s = ?<br>a = (v - u) / t = (7 - 5) / 3 = 2/3 m/s²<br>Now, s = ut + 1/2 at²<br>s = (5 x 3) + (1/2 x (2/3) x 9)<br>s = 15 + 3 = 18 m"
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "The minimum power required to lift a mass of 50 kg up to a vertical distance of 8 m in 10 s is: (Take g = 10 m/s²)",
+      "image": "",
+      "options": [
+        "400 W",
+        "40 W",
+        "50 W",
+        "500 W"
+      ],
+      "answer": "400 W",
+      "explanation": "Given, m = 50 kg, h = 8 m, t = 10 s, g = 10 m/s²<br>Power, P = Work / time = Potential Energy Gain / time = mgh / t<br>P = (50 x 10 x 8) / 10 = 400 W"
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "Which one among the following statements is not correct?",
+      "image": "",
+      "options": [
+        "All bodies in the universe attract each other due to the gravitational force.",
+        "Newton’s law of gravitation follows from Newton’s laws of motion",
+        "The value of g (acceleration due to gravity) at the centre of the Earth is zero.",
+        "Mass and weight are measured in different units."
+      ],
+      "answer": "Newton’s law of gravitation follows from Newton’s laws of motion",
+      "explanation": "Newton's Law of Universal Gravitation is a separate fundamental law describing the attractive force between masses. While consistent with Newton's laws of motion (which describe how forces affect motion), it doesn't directly derive *from* them. The other statements are correct principles of physics."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "A body floats in a liquid if the buoyant force is:",
+      "image": "",
+      "options": [
+        "equal to its weight.",
+        "less than its weight.",
+        "greater than its weight.",
+        "zero."
+      ],
+      "answer": "equal to its weight.",
+      "explanation": "According to Archimedes' principle, a body floats in a liquid when the buoyant force (upward force exerted by the fluid) is exactly equal to the weight of the object. If the buoyant force were less, it would sink; if greater, it would rise further out of the liquid."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "A metallic sphere of mass 1 kg and volume 2 × 10⁻⁴ m³ is completely immersed in water. The buoyant force exerted by water on the sphere is: (Given: density of water = 1000 kg/m³, g = 10 m/s²)",
+      "image": "",
+      "options": [
+        "0.5 N",
+        "1.5 N",
+        "2 N",
+        "2.5 N"
+      ],
+      "answer": "2 N",
+      "explanation": "Buoyant force (U) equals the weight of the fluid displaced by the object. <br>Weight of displaced water = (Volume of sphere) × (Density of water) × g <br>U = V_sphere × ρ_water × g<br>U = (2 × 10⁻⁴ m³) × (1000 kg/m³) × (10 m/s²)<br>U = 2 N"
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "The force with which the Earth attracts an object is called:",
+      "image": "",
+      "options": [
+        "Weight of the object",
+        "Mass of the object",
+        "Density of the object",
+        "Magnitude of the object"
+      ],
+      "answer": "Weight of the object",
+      "explanation": "Weight is specifically defined as the gravitational force exerted on an object by a large body, such as the Earth. Mass is the amount of matter, density is mass per unit volume."
+    }
+  ],
+  "Physics (Electricity)": [
+    {
+      "subject": "Physics (Electricity)",
+      "question": "A light bulb rated as 60 W at 220 V has a potential difference of 110 V across its ends, The power dissipated in this light bulb is:",
+      "image": "",
+      "options": [
+        "30 W",
+        "45 W",
+        "15 W",
+        "2 W"
+      ],
+      "answer": "15 W",
+      "explanation": "First, find the resistance (R) of the bulb using its rating: P = V²/R => R = V²/P = (220 V)² / 60 W = 48400 / 60 Ω = 806.67 Ω.<br>Now, calculate the power (P_new) dissipated at the new voltage (V_new = 110 V): P_new = V_new²/R = (110 V)² / (806.67 Ω) = 12100 / 806.67 W ≈ 15 W.<br>Alternatively: Since P ∝ V², when voltage is halved (220V -> 110V), power becomes (1/2)² = 1/4 of the original. P_new = (1/4) * 60 W = 15 W."
+    }
+  ],
+  "Chemistry": [],
+  "Biology": []
+}
