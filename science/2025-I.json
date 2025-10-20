@@ -137,7 +137,142 @@
       "explanation": "First, find the resistance (R) of the bulb using its rating: P = V²/R => R = V²/P = (220 V)² / 60 W = 48400 / 60 Ω = 806.67 Ω.<br>Now, calculate the power (P_new) dissipated at the new voltage (V_new = 110 V): P_new = V_new²/R = (110 V)² / (806.67 Ω) = 12100 / 806.67 W ≈ 15 W.<br>Alternatively: Since P ∝ V², when voltage is halved (220V -> 110V), power becomes (1/2)² = 1/4 of the original. P_new = (1/4) * 60 W = 15 W."
     }
   ],
-  "Chemistry": [],
+  "Chemistry (Atomic Structure)": [
+    {
+      "subject": "Chemistry (Atomic Structure)",
+      "question": "Isobars of elements have same:",
+      "image": "",
+      "options": [
+        "Atomic numbers",
+        "Number of electrons",
+        "Mass numbers",
+        "Number of neutrons"
+      ],
+      "answer": "Mass numbers",
+      "explanation": "Isobars are those species which have similar mass number but different atomic numbers. The mass of an atom is same because they have similar number of nucleons (sum of proton and neutron).<br>Example: Ar (p=18, n=22, n+p=40) and Ca (p=20, n=20, n+p=40)."
+    },
+    {
+      "subject": "Chemistry (Atomic Structure)",
+      "question": "Which one of the following could not be explained by Rutherford’s nuclear model?",
+      "image": "",
+      "options": [
+        "Stability of the atom",
+        "Presence of nucleus in the centre of an atom",
+        "Comparison of Sizes of atom and nucleus",
+        "Nucleus is positively charged"
+      ],
+      "answer": "Stability of the atom",
+      "explanation": "Rutherford Model cannot explain the stability of an atom, because an electron revolving in an orbit should continuously emit radiation (lose energy). This energy loss would cause the electron's orbit to shrink, and eventually, the electron should spiral into and collide with the nucleus. This does not happen in reality."
+    },
+    {
+      "subject": "Chemistry (Atomic Structure)",
+      "question": "If atomic number of an element is 11, the correct name, symbol and valency are:",
+      "image": "",
+      "options": [
+        "Lithium, Li, 1",
+        "Magnesium, Mg, 2",
+        "Boron, B, 3",
+        "Sodium, Na, 1"
+      ],
+      "answer": "Sodium, Na, 1",
+      "explanation": "An element with atomic number 11 has the electron configuration 2, 8, 1. This element is Sodium (Na). Since it has 1 electron in its outermost shell, its valency is 1.<br>Atomic No | Name | Symbol | Valency<br>3 | Lithium | Li | 1<br>12 | Magnesium | Mg | 2<br>5 | Boron | B | 3<br>11 | Sodium | Na | 1"
+    },
+    {
+      "subject": "Chemistry (Atomic Structure)",
+      "question": "Rutherford’s α-particle scattering experiment on gold foil is responsible for the discovery of:",
+      "image": "",
+      "options": [
+        "Neutron",
+        "Electron",
+        "Proton",
+        "Atomic nucleus"
+      ],
+      "answer": "Atomic nucleus",
+      "explanation": "Rutherford's α-scattering experiment led to the discovery of the atomic nucleus. The observation that most α-particles passed straight through, but some were deflected at large angles or even bounced back, indicated that most of the atom is empty space, with a small, dense, positively charged nucleus at the center containing most of the mass."
+    },
+    {
+      "subject": "Chemistry (Atomic Structure)",
+      "question": "Which one of the following is not explained by the Dalton’s atomic theory?",
+      "image": "",
+      "options": [
+        "Law of conservation of mass",
+        "Law of constant composition",
+        "Presence of different kind of sub-atomic particles in an atom",
+        "Law of multiple proportion"
+      ],
+      "answer": "Presence of different kind of sub-atomic particles in an atom",
+      "explanation": "According to Dalton’s atomic theory, the atom is the smallest indivisible particle of matter. It did not account for the existence of sub-atomic particles like electrons, protons, and neutrons. Dalton's theory successfully explained the laws of chemical combination (conservation of mass, constant composition, multiple proportions)."
+    },
+    {
+      "subject": "Chemistry (Atomic Structure)",
+      "question": "Number of electron present in the species H₂⁺, He, H₂ and O₂⁺ respectively are:",
+      "image": "",
+      "options": [
+        "1, 2, 2, 15",
+        "1, 2, 1, 14",
+        "2, 2, 2, 16",
+        "0, 2, 1, 14"
+      ],
+      "answer": "1, 2, 2, 15",
+      "explanation": "Number of electrons:<br>H₂ molecule = 1 (from H) + 1 (from H) = 2 electrons. H₂⁺ ion = 2 - 1 = 1 electron.<br>He atom = Atomic number = 2 electrons.<br>H₂ molecule = 1 (from H) + 1 (from H) = 2 electrons.<br>O₂ molecule = 8 (from O) + 8 (from O) = 16 electrons. O₂⁺ ion = 16 - 1 = 15 electrons.<br>So the sequence is 1, 2, 2, 15."
+    }
+  ],
+  "Chemistry (Properties of Matter & Compounds)": [
+    {
+      "subject": "Chemistry (Properties of Matter & Compounds)",
+      "question": "Which one of the following gas is used in making soft drinks?",
+      "image": "",
+      "options": [
+        "NH₃",
+        "PH₃",
+        "COCl₂",
+        "CO₂"
+      ],
+      "answer": "CO₂",
+      "explanation": "The gas used in making soft drinks (carbonated beverages) is Carbon Dioxide (CO₂). CO₂ is dissolved in the liquid under pressure. When the pressure is released (like opening the bottle), the CO₂ comes out of solution, forming bubbles."
+    },
+    {
+      "subject": "Chemistry (Properties of Matter & Compounds)",
+      "question": "Which one of the following is considered as a compound?",
+      "image": "",
+      "options": [
+        "Silicon",
+        "Tin",
+        "Sugar Solution",
+        "Calcium carbonate"
+      ],
+      "answer": "Calcium carbonate",
+      "explanation": "Silicon (Si) and Tin (Sn) are elements. Sugar solution is a mixture (sugar dissolved in water). Calcium carbonate (CaCO₃) is a compound because it is formed by the chemical combination of three different elements (Calcium, Carbon, and Oxygen) in a fixed ratio."
+    },
+    {
+      "subject": "Chemistry (Properties of Matter & Compounds)",
+      "question": "Which one of the following is a metalloid?",
+      "image": "",
+      "options": [
+        "Germanium",
+        "Coke",
+        "Iodine",
+        "Sugar"
+      ],
+      "answer": "Germanium",
+      "explanation": "Germanium (Ge) is a metalloid, exhibiting properties intermediate between those of metals and nonmetals.<br>Coke is primarily Carbon (non-metal).<br>Iodine (I) is a non-metal (halogen).<br>Sugar (like sucrose, C₁₂H₂₂O₁₁) is a compound."
+    }
+  ],
+  "Chemistry (Acids, Bases & Salts)": [
+    {
+      "subject": "Chemistry (Acids, Bases & Salts)",
+      "question": "Which one of the following contains all Lewis acids?",
+      "image": "",
+      "options": [
+        "AlCl₃, Co³⁺, BF₃",
+        "BCl₃, NH₃, OH⁻",
+        "Mg²⁺, H₂O, F⁻",
+        "BF₃, NH₃, H₂O"
+      ],
+      "answer": "AlCl₃, Co³⁺, BF₃",
+      "explanation": "Lewis acids are species that can accept an electron pair. Electron-deficient molecules like AlCl₃ and BF₃ (where the central atom doesn't have a complete octet) are Lewis acids. Positive ions (cations) like Co³⁺ can also accept electrons, acting as Lewis acids.<br>NH₃ and H₂O have lone pairs and act as Lewis bases.<br>OH⁻ and F⁻ are anions with lone pairs and act as Lewis bases."
+    }
+  ],
   "Biology (Human Physiology)": [
     {
       "subject": "Biology (Human Physiology)",
