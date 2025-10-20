@@ -1,0 +1,118 @@
+{
+  "Economics (Trade & Macro)": [
+    {
+      "subject": "Economics (Trade & Macro)",
+      "question": "Consider the following statements with respect to performance of the merchandise export of India in FY—2024:<br>1. Share of Capital goods such as machinery, equipment and other durable goods decreased substantially.<br>2. Share of consumer goods and intermediate goods increased.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Neither 1 nor 2",
+      "explanation": "Statement 1 is incorrect. In FY 2023–24, the share of capital goods in India’s merchandise exports increased from 16.3% in FY 2022–23 to 18.9%.<br>Statement 2 is incorrect. The share of consumer goods declined slightly from 48.9% to 47.5%. Similarly, the share of intermediate goods decreased from 30.2% to 28.4% during the same period."
+    },
+    {
+      "subject": "Economics (Trade & Macro)",
+      "question": "How can currency depreciation stimulate an increase in net exports?<br>1. By reducing export costs<br>2. By reducing import prices<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "1 only",
+      "explanation": "Statement 1 is related: Currency depreciation makes a country's exports cheaper for foreign buyers (when priced in foreign currency), thus potentially increasing demand for exports.<br>Statement 2 is incorrect: Currency depreciation makes imports *more expensive* in the domestic currency, not cheaper."
+    }
+  ],
+  "Economics (International Finance)": [
+    {
+      "subject": "Economics (International Finance)",
+      "question": "Which one among the following statements about Project Nexus is correct?",
+      "image": "",
+      "options": [
+        "It is an international agreement to enable labour movement between countries.",
+        "It is an international initiative to enable instant cross-border retail payments.",
+        "It is an international initiative to transfer technology between countries.",
+        "It is an international agreement to create database on financial inclusion."
+      ],
+      "answer": "It is an international initiative to enable instant cross-border retail payments.",
+      "explanation": "Project Nexus is an international initiative aimed at facilitating instant cross-border retail payments. The project focuses on enhancing the speed and efficiency of payments between countries, helping to reduce transaction costs and increase financial inclusion."
+    }
+  ],
+  "Economics (Inflation & Macro)": [
+    {
+      "subject": "Economics (Inflation & Macro)",
+      "question": "While calculating the consumer price index, ‘housing’ as an item is classified as:",
+      "image": "",
+      "options": [
+        "Core consumer durable",
+        "Core Consumer non-durable",
+        "Core capital goods",
+        "Core service"
+      ],
+      "answer": "Core service",
+      "explanation": "While calculating the consumer price index (CPI), ‘housing’ is classified as Core service. Housing is categorised under “core services” because it includes services related to shelter, such as rent, home ownership costs and other housing-related expenses."
+    },
+    {
+      "subject": "Economics (Inflation & Macro)",
+      "question": "Core inflation is:",
+      "image": "",
+      "options": [
+        "CPI headline inflation minus all non-food items",
+        "WPI inflation minus all food and non-food items",
+        "CPI headline inflation minus food and energy items",
+        "WPI inflation minus food and energy items"
+      ],
+      "answer": "CPI headline inflation minus food and energy items",
+      "explanation": "Core inflation is a measure derived from the Consumer Price Index (CPI) that excludes volatile items, primarily food and energy prices. By removing these items, core inflation aims to provide a clearer picture of the underlying, more persistent inflation trends."
+    }
+  ],
+  "Economics (Globalization & Industry)": [
+    {
+      "subject": "Economics (Globalization & Industry)",
+      "question": "Which one among the following established the first Global Capability Centre in India?",
+      "image": "",
+      "options": [
+        "Honeywell",
+        "Citibank",
+        "Texas Instruments",
+        "SAP Labs India"
+      ],
+      "answer": "Texas Instruments",
+      "explanation": "In 1985, Texas Instruments (TI) established India’s first Global Capability Center (GCC) in Bengaluru. This marked the beginning of India’s journey as a hub for global business operations."
+    }
+  ],
+  "Economics (Trade & Finance Concepts)": [
+    {
+      "subject": "Economics (Trade & Finance Concepts)",
+      "question": "Which of the following pairs is/are not correctly matched?<br>1. Global Value Chains (GVC) --- International Product Sharing<br>2. World Integrated trade Solutions --- Database on GVC related Trade<br>3. Current Account Deficit (CAD) --- Foreign Direct Investment<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "3 only",
+      "explanation": "Pair 1 is correctly matched: GVC involve stages of production spread across different countries.<br>Pair 2 is correctly matched: WITS provides data including information related to GVCs.<br>Pair 3 is not correctly matched: CAD primarily reflects the balance of trade. While FDI (part of the capital account) can help finance a CAD, they are distinct concepts."
+    }
+  ],
+  "Economics (Labour)": [
+    {
+      "subject": "Economics (Labour)",
+      "question": "Which one among the following defines flexi workers in India?",
+      "image": "",
+      "options": [
+        "Formal contract staff employed through organised contract",
+        "Informal sector employees working in urban areas",
+        "Agriculture labour migrating to urban areas",
+        "Regular salaried workers working in registered companies"
+      ],
+      "answer": "Formal contract staff employed through organised contract",
+      "explanation": "Flexi workers generally refer to individuals whose employment terms are more flexible than permanent employees. This often includes those hired on contracts for a specific period or task through established agencies or contracts."
+    }
+  ]
+}
