@@ -128,5 +128,70 @@
       ],
       "answer": "Neither 1 nor 2",
       "explanation": "Statement 1: Incorrect. The 86th Constitutional Amendment Act (2002) did not add the Right to Education to the Directive Principles of State Policy (DPSP). Instead, it added Article 21A in the Fundamental Rights section, making free and compulsory education for children aged 6–14 a Fundamental Right. \nStatement 2: Incorrect. Right to Education is indeed a Fundamental Right (Article 21A) and is also supported under DPSP (Article 45). But Right to Work is only a Directive Principle (Article 41) and not a Fundamental Right. Therefore, the claim that both are Fundamental Rights and DPSPs is incorrect."
+    },
+    {
+      "subject": "Polity",
+      "question": "As defined in Article 12 of the Constitution of India, ‘State’ includes:\n1. Parliament of India\n2. State Government\n3. State Legislatures\n4. Local authorities in India\nSelect the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 and 3 only",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "2 and 4 only"
+      ],
+      "answer": "1, 2, 3 and 4",
+      "explanation": "Article 12 of the Constitution of India defines the term ‘State’ for the purpose of Part III (Fundamental Rights). According to Article 12, ‘State’ includes:\nThe Government and Parliament of India\nThe Government and the Legislature of each State\nAll local authorities (like municipalities, panchayats, etc.)\nOther authorities within the territory of India or under the control of the Government of India\nThus, all the given components—Parliament of India, State Governments, State Legislatures, and Local Authorities—are covered under the definition of ‘State’ in Article 12."
+    },
+    {
+      "subject": "Polity",
+      "question": "Which of the following descriptions with regard to Parliament Privilege for Members of the Parliament of India is/are correct?\n1. The Speaker is empowered to refer suo moto any question of privilege for investigation.\n2. A question of privilege is accorded priority over other items in the List of Business.\n3. The privilege extends to freedom from preventive arrest or detention.\nSelect the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3 only"
+      ],
+      "answer": "1 and 2 only",
+      "explanation": "Statement 1 is correct: The Speaker is empowered to refer suo moto any question of privilege for investigation. The Speaker of the Lok Sabha (or Chairman in Rajya Sabha) can refer a matter of privilege suo moto to the Committee of Privileges for examination and report.\nStatement 2 is correct: A question of privilege is accorded priority over other items in the List of Business. Questions involving breach of privilege are treated as matters of urgent public importance and are generally given precedence over regular business.\nStatement 3 is not correct: Parliamentary privilege does not grant freedom from arrest in preventive detention cases. Members are protected from arrest in civil cases during the session and 40 days before and after it, but not in criminal or preventive detention cases."
+    },
+    {
+      "subject": "Polity",
+      "question": "Which one among the following statements about an adjournment motion in the Parliament of India is not correct?",
+      "image": "",
+      "options": [
+        "Its objective is to draw attention of the House to any recent matter of urgent public importance.",
+        "Adjournment motion is an extraordinary procedure.",
+        "This motion can be invoked on any matter of urgent importance that may even be within the jurisdiction of a State Government.",
+        "The Chair has absolute discretion to refuse consent."
+      ],
+      "answer": "This motion can be invoked on any matter of urgent importance that may even be within the jurisdiction of a State Government.",
+      "explanation": "An adjournment motion is a parliamentary procedure to draw attention to a recent matter of urgent public importance and demands discussion by suspending normal business. However, it cannot be used to discuss matters that fall under the jurisdiction of a State Government, as it is meant to hold the Union Government accountable. The motion is indeed extraordinary, and the Speaker (Chair) has discretionary power to grant or refuse consent. Thus, the third statement is not correct."
+    },
+    {
+      "subject": "Polity",
+      "question": "Which of the following Statements is/are correct?\n1. First Law Commission recommended Indian Penal Code, 1860\n2. Indian Penal Code, 1860 has been completely replaced by the Bharatiya Nyaya Sanhita, 2023.\nSelect the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "3 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "The correct answer is “Both 1 and 2.” The First Law Commission, established in 1834 under Lord Macaulay, recommended the Indian Penal Code (IPC) of 1860, which laid the foundation for the criminal justice system in India. As for the second statement, the Indian Penal Code, 1860, has been replaced by the Bharatiya Nyaya Sanhita, 2023, marking a significant overhaul of the colonial-era legal framework. This change is part of broader reforms in the criminal justice system to align with contemporary needs."
+    },
+    {
+      "subject": "Polity",
+      "question": "Consider the following statements with regard to the setting up of the Backward Class Commission is India:\n1. The First Backward Class Commission, set up by the Government of India, is popularly known as Kaka Kalelkar Commission.\n2. The Third Backward Class Commission, set up by the Government of India, is popularly known as Mandal Commission.\nWhich of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "1 only",
+      "explanation": "The correct answer is 1 only. The First Backward Class Commission, set up on 29th January 1953, is indeed popularly known as the Kaka Kalelkar Commission, which investigated the conditions of socially and educationally backward classes in India. Hence, Statement 1 is correct. The Second Backward Class Commission, set up on 1st January 1979, is popularly known as the Mandal Commission, which made recommendations for reservation for backward classes in government jobs. Hence, Statement 2 is not correct."
     }
   ]
