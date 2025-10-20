@@ -138,5 +138,144 @@
     }
   ],
   "Chemistry": [],
-  "Biology": []
+  "Biology (Human Physiology)": [
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Which instrument is used to measure the blood pressure manually?",
+      "image": "",
+      "options": [
+        "Sphygmomanometer",
+        "Centrifuge",
+        "Electrophoresis",
+        "Thermal cycler"
+      ],
+      "answer": "Sphygmomanometer",
+      "explanation": "A sphygmomanometer is the standard instrument used to measure blood pressure manually. It consists of an inflatable cuff to restrict blood flow, and a mercury or aneroid manometer to measure the pressure."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Myopia is also known as:",
+      "image": "",
+      "options": [
+        "Far-sightedness",
+        "Near-sightedness",
+        "Cataract",
+        "Presbyopia"
+      ],
+      "answer": "Near-sightedness",
+      "explanation": "Myopia is a vision condition in which close objects appear clearly, but distant objects appear blurry. This occurs when the eyeball is too long or the cornea is too curved, causing light to focus in front of the retina.<br>Far-sightedness (Hyperopia) is the opposite. Cataract is clouding of the eye’s lens. Presbyopia is age-related difficulty in seeing nearby objects."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "The normal systolic pressure in human beings is:",
+      "image": "",
+      "options": [
+        "80 mm of Hg",
+        "100 mm of Hg",
+        "120 mm of Hg",
+        "140 mm of Hg"
+      ],
+      "answer": "120 mm of Hg",
+      "explanation": "Blood pressure is expressed as systolic/diastolic pressure (e.g., 120/80 mm Hg). The systolic pressure (first number) is the pressure when the heart contracts. The diastolic pressure (second number) is the pressure when the heart relaxes. 120 mm Hg is considered the normal systolic pressure in healthy adults."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "The human eye has a point that lacks photoreceptor cells. This is identified as:",
+      "image": "",
+      "options": [
+        "Fovea",
+        "Blind spot",
+        "Dark spot",
+        "Orbit"
+      ],
+      "answer": "Blind spot",
+      "explanation": "The blind spot is the point on the retina where the optic nerve exits the eye. This region has no rods or cones (photoreceptor cells), hence no vision is possible at that spot. Fovea is the central point of sharpest vision with a high density of cones."
+    }
+  ],
+  "Biology (Cell Biology)": [
+    {
+      "subject": "Biology (Cell Biology)",
+      "question": "Why does the Rough Endoplasmic Reticulum look ‘rough’ under a microscope?",
+      "image": "",
+      "options": [
+        "Due to the presence of ribosomes on its surface",
+        "Due to the absence of ribosomes on its surface.",
+        "Due to the presence of lysosomes on its surface",
+        "Due to the presence of mitochondria on its surface"
+      ],
+      "answer": "Due to the presence of ribosomes on its surface",
+      "explanation": "The Rough Endoplasmic Reticulum (RER) appears “rough” because its surface is studded with ribosomes, which are involved in protein synthesis. If ribosomes are absent, it becomes Smooth ER, which helps in lipid synthesis. Lysosomes are organelles for digestion, not related to ER surface. Mitochondria are separate organelles known as the “powerhouses” of the cell."
+    }
+  ],
+  "Biology (Botany & Endocrinology)": [
+    {
+      "subject": "Biology (Botany & Endocrinology)",
+      "question": "Which one among the following is not a plant hormone?",
+      "image": "",
+      "options": [
+        "Gibberellins",
+        "Abscisic acid",
+        "Auxins",
+        "Thyroxine"
+      ],
+      "answer": "Thyroxine",
+      "explanation": "Gibberellins, Abscisic acid and Auxins are all plant hormones involved in growth, dormancy and development. Thyroxine is a hormone in animals, particularly secreted by the thyroid gland in humans, and regulates metabolism."
+    }
+  ],
+  "Biology (Zoology & Classification)": [
+    {
+      "subject": "Biology (Zoology & Classification)",
+      "question": "Sponges belong to which one among the following phylum?",
+      "image": "",
+      "options": [
+        "Porifera",
+        "Platyhelminthes",
+        "Cnidarin",
+        "Annelida"
+      ],
+      "answer": "Porifera",
+      "explanation": "Sponges are simple, multicellular aquatic animals that lack true tissues and organs. They belong to the phylum Porifera. They have pores (ostia) all over their body through which water enters. Platyhelminthes are flatworms. Cnidaria includes jellyfish and corals. Annelida includes segmented worms like earthworms."
+    }
+  ],
+  "Biology (Biochemistry & Biomolecules)": [
+    {
+      "subject": "Biology (Biochemistry & Biomolecules)",
+      "question": "Lactose is made up of:",
+      "image": "",
+      "options": [
+        "Glucose only",
+        "Glucose and Fructose",
+        "Glucose and Sucrose",
+        "Glucose and Galactose"
+      ],
+      "answer": "Glucose and Galactose",
+      "explanation": "Lactose, also called milk sugar, is a disaccharide made up of two monosaccharides: Glucose and Galactose. It’s broken down by the enzyme lactase in the small intestine.<br>Glucose and Fructose form sucrose. Glucose is a monosaccharide."
+    },
+    {
+      "subject": "Biology (Biochemistry & Biomolecules)",
+      "question": "The enzymes which catalyse the same reaction but have different amino acid composition are commonly referred as:",
+      "image": "",
+      "options": [
+        "Isoenzymes",
+        "Isotopes",
+        "Isomers",
+        "Coenzymes"
+      ],
+      "answer": "Isoenzymes",
+      "explanation": "Isoenzymes or isozymes are different forms of an enzyme that catalyse the same chemical reaction but differ in their amino acid sequence and sometimes in kinetic properties. Isotopes are atoms of the same element with different neutrons. Isomers are compounds with the same molecular formula but different structure. Coenzymes are organic molecules (often vitamins) that help enzymes."
+    },
+    {
+      "subject": "Biology (Biochemistry & Biomolecules)",
+      "question": "How many carbon atoms are present in a Pyruvate molecule?",
+      "image": "",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "3",
+      "explanation": "Pyruvate (C3H4O3) is a three-carbon molecule formed at the end of glycolysis from one molecule of glucose (C6H12O6). One glucose molecule splits into two pyruvate molecules, each with three carbon atoms."
+    }
+  ]
 }
