@@ -1,0 +1,305 @@
+{
+  "Indian Geography": [
+    {
+      "subject": "Indian Geography",
+      "question": "Which one among the following Biosphere Reserves is spread over three states in India?",
+      "image": "",
+      "options": [
+        "Dehang Debang",
+        "Nilgiris",
+        "Nokrek",
+        "Seshachalam"
+      ],
+      "answer": "Nilgiris",
+      "explanation": "The Nilgiris Biosphere Reserve is spread over three states in India: Tamil Nadu, Karnataka and Kerala. It is a UNESCO-designated biosphere reserve and is known for its rich biodiversity, including numerous species of plants, animals and birds. The Nilgiris Biosphere Reserve is part of the Western Ghats and is a vital conservation area for several endangered species."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "What is the correct sequence of the following mountain ranges as one moves from North towards South?<br>1. Karakoram<br>2. Kunlun<br>3. Ladakh<br>4. Zaskar<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1, 2, 3, 4",
+        "1, 2, 4, 3",
+        "2, 1, 4, 3",
+        "2, 1, 3, 4"
+      ],
+      "answer": "2, 1, 3, 4",
+      "explanation": "The correct sequence of the mountain ranges as one moves from North to South is: 2, 1, 3, 4.<br>Let’s examine their relative positions from north to south:<br>Kunlun Range – Located farthest to the north, mostly in China, north of the Karakoram.<br>Karakoram Range – Lies south of Kunlun, forming part of the boundary between India and China, and includes peaks like K2.<br>Ladakh Range – Lies south of Karakoram, in the northernmost part of India.<br>Zaskar Range – Lies south of Ladakh, part of the greater Himalayan region."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which of the following statements with reference to saline soil in India is/are correct?<br>1. They are rich in nitrogen<br>2. They occur in arid and semi-arid regions, and in waterlogged and swampy areas.<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "2 only",
+      "explanation": "Saline soils in India typically occur in arid and semi-arid regions as well as waterlogged and swampy areas due to the accumulation of soluble salts. These soils are not rich in nitrogen; in fact, they are generally poor in nitrogen and organic matter. The presence of excessive salts hampers nutrient uptake by plants, making them less fertile. Hence, while Statement 2 is correct, Statement 1 is incorrect."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Salal Power Project is situated on which one among the following rivers?",
+      "image": "",
+      "options": [
+        "Chenab",
+        "Jhelum",
+        "Nubra",
+        "Shyok"
+      ],
+      "answer": "Chenab",
+      "explanation": "The Salal Power Project is situated on the Chenab River in the union territory of Jammu and Kashmir, India. It is one of the major hydroelectric projects in the region and plays an important role in generating electricity and supporting irrigation. The project harnesses the fast-flowing waters of the Chenab River, which originates in the Himalayas and flows through India and Pakistan."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one among the following tributaries of Indus River does not originate in the Himalayas?",
+      "image": "",
+      "options": [
+        "Gilgit",
+        "Gomal",
+        "Hunza",
+        "Zaskar"
+      ],
+      "answer": "Gomal",
+      "explanation": "The Gomal River does not originate in the Himalayas. Instead, it originates from the eastern slopes of the Katawaz Range in Afghanistan, which is part of the Sulaiman mountain system, not the Himalayas. In contrast, the Gilgit, Hunza and Zaskar rivers are Himalayan tributaries of the Indus. The Gomal flows through arid regions of Afghanistan and Pakistan before joining the Indus River, making it distinct in origin and terrain."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "As per the Annual Report 2023–24 of the Ministry of Mines, Government of India, which of the following are the major bauxite producing states in India?",
+      "image": "",
+      "options": [
+        "Odisha and Madhya Pradesh",
+        "Odisha and Jharkhand",
+        "Jharkhand and Madhya Pradesh",
+        "Jharkhand and Karnataka"
+      ],
+      "answer": "Odisha and Jharkhand",
+      "explanation": "According to the Annual Report 2023–24 of the Ministry of Mines, Government of India, the major bauxite-producing states in India are Odisha and Jharkhand. Based on multiple sources, Odisha consistently ranks as the top bauxite producer in India, often accounting for over half of the total output. Jharkhand is also listed as a significant bauxite producer. While other states like Madhya Pradesh, Gujarat and Chhattisgarh also produce bauxite, they are not mentioned prominently in most reports."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which of the following statements about the Indus Waters Treaty is/are correct?<br>1. The term ‘Eastern Rivers’ means the Sutlej, the Beas and the Ravi taken together.<br>2. The term ‘Western Rivers’ means the Indus, the Jhelum and the Chenab taken together.<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "The Indus Waters Treaty, signed between India and Pakistan in 1960 and brokered by the World Bank, classifies the rivers of the Indus basin into two groups:<br>Eastern Rivers: These include the Sutlej, Beas and Ravi—allocated to India for exclusive use.<br>Western Rivers: These include the Indus, Jhelum and Chenab—primarily allocated to Pakistan, although India can use them for limited domestic, agricultural and hydroelectric purposes under specific conditions.<br>So, both statements are correct."
+    }
+  ],
+  "World Geography": [
+    {
+      "subject": "World Geography",
+      "question": "Considered the following statements with reference to Secondary waves (S-Waves) generated during an earthquake:<br>1. They create troughs and crests in the material through which they pass.<br>2. The direction of vibrations of S-waves is perpendicular to the wave direction in the vertical plane.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Both statements about Secondary waves (S-waves) are correct. S-waves are transverse seismic body waves that move particles in a direction perpendicular to the wave’s motion, creating a wave pattern similar to crests and troughs... This particle motion can occur in various planes, including the vertical plane... Hence, both statements accurately describe S-wave behaviour."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Identify the Mineral on the basis of the following characteristics relating to it.<br>I. It is usually a greenish crystal.<br>II. It is often found in basaltic rocks.<br>III. Magnesium, iron and silica are its major elements.<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "Amphibolite",
+        "Feldspar",
+        "Pyroxene",
+        "Olivine"
+      ],
+      "answer": "Olivine",
+      "explanation": "The mineral described is Olivine. It is typically recognised by its distinctive greenish colour and commonly occurs as crystals in basaltic and other mafic igneous rocks. Olivine is rich in magnesium, iron and silica... These characteristics clearly identify it as olivine..."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements with reference to Salt Weathering is/are correct?<br>1. Salt Crystallisation is the most effective of all the salt weathering processes.<br>2. Salt crystal growth is more effective over sedimentary rocks as compared to igneous rocks.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Both statements regarding salt weathering are correct. Salt crystallisation is considered the most effective process in salt weathering... This process is especially impactful in arid and coastal regions. Additionally, salt crystal growth is more effective in sedimentary rocks... because sedimentary rocks are generally more porous..."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements with reference to Surface inversion of temperature is/are correct?<br>1. It causes instability in the lower layers of the atmosphere.<br>2. This inversion commonly lasts for a few hours until the Sun comes up.<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "2 only",
+      "explanation": "Statement 1 is incorrect: Surface inversion of temperature... leads to atmospheric stability rather than instability. This inversion prevents vertical mixing of air...<br>Statement 2 is correct: The inversion commonly occurs during the night due to radiational cooling... and it typically lasts for a few hours until sunrise..."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Identify the cloud on the basis of the following characteristics relating to it:<br>I. They look like cotton wool.<br>II. They exist in patches and have flat base.<br>III. They are generally formed at a height of 4 to 7 km.<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "Cirrus",
+        "Cumulus",
+        "Nimbus",
+        "Stratus"
+      ],
+      "answer": "Cumulus",
+      "explanation": "The correct answer is Cumulus. They look like cotton wool – Cumulus clouds are often described as resembling cotton wool due to their puffy, white appearance... They exist in patches and have a flat base – Cumulus clouds appear in distinct patches and are characterised by their flat base... Formed at a height of 4–7 km – Cumulus clouds can form at varying heights, often ranging from 1 to 7 km..."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Identify the type of climate on the basis of the following characteristics relating to it:<br>I. Temperature is high throughout the year.<br>II. Rainfall is variable with a short wet season and a longer dry season.<br>III. Climate of Sudan and Paraguay is an example of this climate type.",
+      "image": "",
+      "options": [
+        "Sub-tropical steppe climate",
+        "Mid-latitude steppe",
+        "Tropical monsoon climate",
+        "Tropical wet and dry climate"
+      ],
+      "answer": "Tropical wet and dry climate",
+      "explanation": "The correct answer is Tropical wet and dry climate. Temperature is high throughout the year – This characteristic is typical of tropical climates... Rainfall is variable with a short wet season and a longer dry season – This is a key feature of the tropical wet and dry climate (also known as the savannah climate)... Climate of Sudan and Paraguay is an example of this climate type – Both Sudan and Paraguay experience tropical wet and dry climates..."
+    },
+    {
+      "subject": "World Geography",
+      "question": "What is the correct sequence of the following salts in ascending order according to their presence in the sea water?<br>1. Calcium Carbonate<br>2. Calcium Sulphate<br>3. Magnesium Chloride<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "3, 1, 2",
+        "1, 3, 2",
+        "1, 2, 3",
+        "2, 1, 3"
+      ],
+      "answer": "1, 2, 3",
+      "explanation": "The correct ascending order of salts in seawater, based on their concentration, is Calcium Carbonate (CaCO3), Calcium Sulphate (CaSO4) and Magnesium Chloride (MgCl2). Calcium Carbonate is the least abundant... Calcium Sulphate is intermediate in abundance, while Magnesium Chloride is the most abundant salt..."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements with reference to Humus is/are correct?<br>1. It is a dark coloured amorphous substance.<br>2. Being colloidal in nature, it serve as a reservoir of nutrients.<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 and 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "The correct answer is Both 1 and 2. Humus is a dark-coloured, amorphous substance formed from the decomposition of dead plant and animal materials. It is colloidal in nature... This colloidal property makes humus an excellent reservoir of nutrients... Thus, both statements are accurate."
+    },
+    {
+      "subject": "World Geography",
+      "question": "River Danube does not flow through which one of the following capital cities in Europe?",
+      "image": "",
+      "options": [
+        "Belgrade",
+        "Budapest",
+        "Prague",
+        "Vienna"
+      ],
+      "answer": "Prague",
+      "explanation": "The Danube River flows through several major cities in Europe, including: Belgrade (Serbia), Budapest (Hungary), Vienna (Austria). However, Prague, the capital of the Czech Republic, is not situated on the Danube River. Instead, Prague is located on the Vltava River."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements with reference to Easter Island, a UNESCO world Heritage Site, is/are correct?<br>1. It is part of Polynesia group of islands.<br>2. It is a territory of the South American nation Chile.<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Easter Island (also known as Rapa Nui) is geographically part of the Polynesian group of islands in the Pacific Ocean... Though located in the southeastern Pacific Ocean, Easter Island is a special territory of Chile, a South American country..."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following is home to the endangered mountain gorillas in Africa?",
+      "image": "",
+      "options": [
+        "Mount Kenya",
+        "Mount Kilimanjaro",
+        "Ngorongoro Crater",
+        "Virunga Mountains"
+      ],
+      "answer": "Virunga Mountains",
+      "explanation": "The Virunga Mountains, located along the borders of Rwanda, Uganda, and the Democratic Republic of Congo, are renowned as one of the last remaining habitats of the endangered mountain gorillas. Conservation efforts in this region... are crucial for their survival."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements with reference to Jordan is/are correct?<br>1. The country of Jordan was created through the British Mandate after World War I.<br>2. It is a landlocked country.<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "1 only",
+      "explanation": "Statement 1 is correct: The country of Jordan was indeed created through the British Mandate system after World War I...<br>Statement 2 is incorrect: Jordan is not a landlocked country. It has a coastline along the Gulf of Aqaba in the south, giving it access to the Red Sea."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following places is situated close to the Pearl River Estuary in Asia?",
+      "image": "",
+      "options": [
+        "Bangkok",
+        "Hong Kong",
+        "Macau",
+        "Singapore"
+      ],
+      "answer": "Macau",
+      "explanation": "Macau is situated on the western side of the Pearl River Estuary in southern China. The Pearl River Estuary... is bordered by several important cities, including Hong Kong and Macau. While Hong Kong is also close, Macau is more directly on the western side of the estuary."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Consider the following statements with regard to Australia:<br>1. The Coral Sea separates the Great Barrier Reef from the South Pacific.<br>2. The Great Dividing Range extends from Melbourne to Perth in Australia.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "1 only",
+      "explanation": "Statement 1 is correct: The Coral Sea separates the Great Barrier Reef from the South Pacific. The Great Barrier Reef is located in the Coral Sea... Therefore, the Coral Sea lies between the reef and the broader South Pacific.<br>Statement 2 is incorrect: The Great Dividing Range... runs along the eastern and southeastern coast of Australia... Perth is situated on the western coast of Australia, far from the Great Dividing Range."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The Kyoto Protocol specifically relates to which one among the following issues?",
+      "image": "",
+      "options": [
+        "Emission reduction",
+        "Ozone layer depletion",
+        "Chlorofluorocarbons",
+        "Biodiversity management"
+      ],
+      "answer": "Emission reduction",
+      "explanation": "The Kyoto Protocol specifically relates to emission reduction. It is an international treaty adopted in 1997 under the United Nations Framework Convention on Climate Change (UNFCCC). The protocol legally binds developed countries to reduce greenhouse gas (GHG) emissions..."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following countries does not share in territorial boundary with Ukraine?",
+      "image": "",
+      "options": [
+        "Poland",
+        "Romania",
+        "Lithuania",
+        "Belarus"
+      ],
+      "answer": "Lithuania",
+      "explanation": "Lithuania does not share a territorial boundary with Ukraine. Ukraine shares its borders with Poland, Romania, Belarus, Hungary, Slovakia, Moldova and Russia, but not Lithuania."
+    }
+  ]
+}
