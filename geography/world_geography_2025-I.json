@@ -180,5 +180,31 @@
       ],
       "answer": "1 only",
       "explanation": "The Coral Sea separates the Great Barrier Reef from the South Pacific. The Great Barrier Reef is located in the Coral Sea, which is itself a marginal sea of the South Pacific Ocean. Therefore, the Coral Sea lies between the reef and the broader South Pacific. This statement is correct. The Great Dividing Range extends from Melbourne to Perth in Australia. The Great Dividing Range is a series of mountain ranges that runs along the eastern and southeastern coast of Australia. Melbourne is located within this range’s vicinity. However, Perth is situated on the western coast of Australia, far from the Great Dividing Range."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The Kyoto Protocol specifically relates to which one among the following issues?",
+      "image": "",
+      "options": [
+        "Emission reduction",
+        "Ozone layer depletion",
+        "Chlorofluorocarbons",
+        "Biodiversity management"
+      ],
+      "answer": "Emission reduction",
+      "explanation": "The Kyoto Protocol specifically relates to emission reduction. It is an international treaty adopted in 1997 under the United Nations Framework Convention on Climate Change (UNFCCC). The protocol legally binds developed countries to reduce greenhouse gas (GHG) emissions, based on the premise that global warming exists and human-made CO emissions have caused it. It was a significant step toward addressing climate change by setting emission reduction targets for industrialised nations."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following countries does not share in territorial boundary with Ukraine?",
+      "image": "",
+      "options": [
+        "Poland",
+        "Romania",
+        "Lithuania",
+        "Belarus"
+      ],
+      "answer": "Lithuania",
+      "explanation": "Lithuania does not share a territorial boundary with Ukraine. Ukraine shares its borders with Poland, Romania, Belarus, Hungary, Slovakia, Moldova and Russia, but not Lithuania. While Lithuania is a neighbouring country in the broader Eastern European region, it does not directly border Ukraine."
     }
   ]
