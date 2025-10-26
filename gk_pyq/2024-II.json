@@ -1,858 +1,831 @@
 {
-  "Biology (Human Physiology)": [
-    {
-      "subject": "Biology (Human Physiology)",
-      "question": "Myopia is also known as:",
-      "image": "",
-      "options": [
-        "Far-sightedness",
-        "Near-sightedness",
-        "Cataract",
-        "Presbyopia"
-      ],
-      "answer": "Near-sightedness",
-      "explanation": "Myopia is a vision condition in which close objects appear clearly, but distant objects appear blurry. This occurs when the eyeball is too long or the cornea is too curved, causing light to focus in front of the retina.<br>Far-sightedness (Hyperopia) is the opposite. Cataract is clouding of the eye’s lens. Presbyopia is age-related difficulty in seeing nearby objects."
+  "Science": {
+    "Biology (Botany)": [
+      {
+        "subject": "Biology (Botany)",
+        "question": "Which one among the following is not a micronutrient for plants?",
+        "image": "",
+        "options": [
+          "Iron",
+          "Manganese",
+          "Magnesium",
+          "Chlorine"
+        ],
+        "answer": "Magnesium",
+        "explanation": "Magnesium is a **macronutrient** essential for plants, being a central component of chlorophyll and involved in enzyme function. Micronutrients, required in smaller amounts, include iron (Fe), manganese (Mn), chlorine (Cl), zinc (Zn), copper (Cu), boron (B), and molybdenum (Mo)."
+      },
+      {
+        "subject": "Biology (Botany)",
+        "question": "Xylem in the plants are responsible for the transport of:",
+        "image": "",
+        "options": [
+          "Water",
+          "Water and dissolved minerals",
+          "Gases",
+          "Food"
+        ],
+        "answer": "Water and dissolved minerals",
+        "explanation": "The Xylem tissue in plants forms continuous tubes from roots to leaves and is primarily responsible for the bulk transport (translocation) of water and dissolved mineral nutrients absorbed from the soil upwards to the rest of the plant."
+      },
+      {
+        "subject": "Biology (Botany)",
+        "question": "Which one among the following hormones inhibits the growth activity in plants?",
+        "image": "",
+        "options": [
+          "Auxins",
+          "Cytokinins",
+          "Abscisic acid",
+          "Gibberellins"
+        ],
+        "answer": "Abscisic acid",
+        "explanation": "Abscisic acid (ABA) is often referred to as the 'stress hormone' in plants. It plays a crucial role in inhibiting growth, promoting dormancy (e.g., in seeds and buds), and closing stomata during water stress. Auxins, Cytokinins, and Gibberellins generally promote growth."
+      },
+      {
+        "subject": "Biology (Botany)",
+        "question": "Which one among the following is not a feature of Xerophytes?",
+        "image": "",
+        "options": [
+          "Smaller leaves",
+          "Large number of stomata",
+          "Waxy cuticle",
+          "Stomata in pits"
+        ],
+        "answer": "Large number of stomata",
+        "explanation": "Xerophytes are plants adapted to survive in dry conditions. To minimize water loss through transpiration, they typically have features like smaller leaves (or spines), thick waxy cuticles, stomata sunken in pits, and a **reduced number** of stomata, not a large number."
+      },
+      {
+        "subject": "Biology (Botany)",
+        "question": "Halophytes are the plants that grow on which one, among the following categories of soil?",
+        "image": "",
+        "options": [
+          "Acidic soil",
+          "Saline soil",
+          "Black soil",
+          "Sandy soil"
+        ],
+        "answer": "Saline soil",
+        "explanation": "Halophytes are salt-tolerant plants adapted to grow in soils or waters with high salinity, such as coastal salt marshes, mangrove swamps, and inland salt flats."
+      },
+      {
+        "subject": "Biology (Botany)",
+        "question": "Which one among the following is not a part of vascular bundle in plants?",
+        "image": "",
+        "options": [
+          "Phloem",
+          "Xylem",
+          "Cambium",
+          "Endodermis"
+        ],
+        "answer": "Endodermis",
+        "explanation": "A vascular bundle in plants typically contains Xylem (for water transport), Phloem (for food transport), and often Cambium (in dicots, for secondary growth). The Endodermis is a distinct layer of cells surrounding the vascular tissue in roots (and sometimes stems), regulating water and nutrient passage, but it is not considered part of the bundle itself."
+      }
+    ],
+    "Biology (Biochemistry & Biomolecules)": [
+      {
+        "subject": "Biology (Biochemistry & Biomolecules)",
+        "question": "Which of the following categories of biomolecules does Starch belong to?",
+        "image": "",
+        "options": [
+          "Protein",
+          "Carbohydrate",
+          "Lipid",
+          "Nucleic acid"
+        ],
+        "answer": "Carbohydrate",
+        "explanation": "Starch is a complex carbohydrate (a polysaccharide) made up of many glucose units linked together. It is the primary way plants store energy."
+      }
+    ],
+    "Biology (Cell Biology)": [
+      {
+        "subject": "Biology (Cell Biology)",
+        "question": "Which organelle in animal cells can digest foreign materials?",
+        "image": "",
+        "options": [
+          "Endoplasmic reticulum",
+          "Lysosome",
+          "Golgi body",
+          "Mitochondria"
+        ],
+        "answer": "Lysosome",
+        "explanation": "Lysosomes are membrane-bound organelles containing a variety of digestive enzymes (hydrolases). They break down waste materials, cellular debris, and foreign invaders like bacteria or viruses engulfed by the cell through processes like phagocytosis."
+      },
+      {
+        "subject": "Biology (Cell Biology)",
+        "question": "Photosynthesis that converts light energy into chemical energy by the plants, involves the use of green pigments of leaves called chlorophyll. The only structure in a leaf that hosts chlorophyll is:",
+        "image": "",
+        "options": [
+          "Nucleus",
+          "Ribosome",
+          "Chloroplast",
+          "Chromosome"
+        ],
+        "answer": "Chloroplast",
+        "explanation": "Chlorophyll, the pigment essential for photosynthesis, is located within specialized organelles called chloroplasts found in plant cells, particularly in the leaves."
+      }
+    ],
+    "Chemistry (States of Matter & Colloids)": [
+      {
+        "subject": "Chemistry (States of Matter & Colloids)",
+        "question": "In which of the following colloids is the dispersing medium a liquid?",
+        "image": "",
+        "options": [
+          "Mist",
+          "Foam",
+          "Jelly",
+          "Shaving cream"
+        ],
+        "answer": "Shaving cream",
+        "explanation": "Colloids consist of a dispersed phase within a dispersing medium.<br>- Mist: Liquid dispersed in Gas.<br>- Foam: Gas dispersed in Liquid (e.g., whipped cream, shaving cream) OR Gas dispersed in Solid (e.g., styrofoam).<br>- Jelly (Gel): Liquid dispersed in Solid.<br>Shaving cream is a foam where the dispersing medium is liquid."
+      }
+    ],
+    "Chemistry (Atomic Structure)": [
+      {
+        "subject": "Chemistry (Atomic Structure)",
+        "question": "The two isotopes of elemental chlorine are:",
+        "image": "",
+        "options": [
+          "³⁵₁₇Cl and ³⁶₁₇Cl",
+          "³⁴₁₇Cl and ³⁶₁₈Cl",
+          "³⁵₁₇Cl and ³⁷₁₈Cl",
+          "³⁵₁₇Cl and ³⁷₁₇Cl"
+        ],
+        "answer": "³⁵₁₇Cl and ³⁷₁₇Cl",
+        "explanation": "Isotopes are atoms of the same element (same atomic number, Z) but with different mass numbers (A) due to different numbers of neutrons. Chlorine (Cl) has an atomic number of 17. Its two common stable isotopes have mass numbers 35 and 37. Therefore, they are represented as ³⁵₁₇Cl (17 protons, 18 neutrons) and ³⁷₁₇Cl (17 protons, 20 neutrons)."
+      },
+      {
+        "subject": "Chemistry (Atomic Structure)",
+        "question": "Which one among the following is responsible for determining the chemical properties of an element?",
+        "image": "",
+        "options": [
+          "Protons",
+          "Electrons",
+          "Neutrons",
+          "Nucleus"
+        ],
+        "answer": "Electrons",
+        "explanation": "The chemical properties of an element are primarily determined by the number and arrangement of its electrons, particularly the valence electrons (those in the outermost shell). These electrons participate in chemical bonding and reactions."
+      }
+    ],
+    "Chemistry (Properties & Reactions)": [
+      {
+        "subject": "Chemistry (Properties & Reactions)",
+        "question": "Which one among the following metals is not stored under oil?",
+        "image": "",
+        "options": [
+          "Sodium",
+          "Rubidium",
+          "Potassium",
+          "Lithium"
+        ],
+        "answer": "Lithium",
+        "explanation": "Alkali metals like Sodium (Na), Potassium (K), and Rubidium (Rb) are highly reactive with air and moisture and are typically stored under mineral oil or kerosene to prevent reaction. Lithium (Li), while also reactive, is less dense than oil and would float. It is often stored coated in petroleum jelly or paraffin wax, or in an inert atmosphere."
+      },
+      {
+        "subject": "Chemistry (Properties & Reactions)",
+        "question": "Potassium nitrate is not used:",
+        "image": "",
+        "options": [
+          "as a fertiliser",
+          "in medicine",
+          "in making gunpowder",
+          "as a preservative of meat products"
+        ],
+        "answer": "in medicine",
+        "explanation": "Potassium nitrate (KNO₃), also known as saltpeter, is widely used as a fertiliser (source of potassium and nitrogen), as an oxidizer in gunpowder, and as a food preservative (especially for curing meats). While some potassium compounds are used medically, potassium nitrate itself is not typically used directly in medicine due to potential toxicity."
+      },
+      {
+        "subject": "Chemistry (Properties & Reactions)",
+        "question": "The surface of the concrete structure of a new construction is covered with straw/gunny bags by wetting. This is done to:",
+        "image": "",
+        "options": [
+          "prevent fast evaporation, until hydration has proceeded well.",
+          "protect the concrete structure from contamination by dust particles.",
+          "prevent development of any fungus on the surface.",
+          "give smoother and cleaner surface over cement structure."
+        ],
+        "answer": "prevent fast evaporation, until hydration has proceeded well.",
+        "explanation": "This process, called curing, is crucial for concrete strength. Wetting the covering keeps the concrete surface moist, slowing down the evaporation of water. This ensures that sufficient water is available for the chemical reaction (hydration) between cement and water to proceed properly, leading to stronger, more durable concrete with fewer cracks."
+      },
+      {
+        "subject": "Chemistry (Properties & Reactions)",
+        "question": "Which one among the following statements for the gases mentioned below is not correct?",
+        "image": "",
+        "options": [
+          "Hydrogen has 3 isotopes.",
+          "Helium is a commonly used gas in electric bulbs.",
+          "Oxygen is used to burn fuel in rocket engines in spacecraft.",
+          "Nitrogen can be used in gaseous form to replace air in food packaging."
+        ],
+        "answer": "Helium is a commonly used gas in electric bulbs.",
+        "explanation": "Hydrogen isotopes are Protium (¹H), Deuterium (²H), Tritium (³H). Oxygen is used as an oxidizer in rocket engines. Nitrogen is used in food packaging (modified atmosphere packaging). However, inert gases like Argon (Ar) or sometimes Krypton (Kr) or Nitrogen mixtures are commonly used in incandescent electric bulbs, not Helium (He), to prevent filament oxidation and evaporation."
+      },
+      {
+        "subject": "Chemistry (Properties & Reactions)",
+        "question": "Which one among the following statements is not true for glass?",
+        "image": "",
+        "options": [
+          "Sodium silicate is known as water glass.",
+          "Glass is also called super cooled liquid.",
+          "Crystallinity develops on cooling of the molten mass of the glass.",
+          "Coloured glasses can be made by adding different colouring materials."
+        ],
+        "answer": "Crystallinity develops on cooling of the molten mass of the glass.",
+        "explanation": "Glass is an amorphous solid, meaning its atoms lack a long-range ordered structure like crystals. It's often called a supercooled liquid because its structure resembles a liquid frozen in place. Cooling molten glass typically prevents crystallization. Sodium silicate is water glass. Adding metal oxides creates colored glass. Therefore, the statement about crystallinity developing on cooling is incorrect for typical glass formation."
+      },
+      {
+        "subject": "Chemistry (Properties & Reactions)",
+        "question": "Which one among the following is used in bleaching of paper?",
+        "image": "",
+        "options": [
+          "Chloride",
+          "Chlorobenzene",
+          "Ammonium chloride",
+          "Hydrochloric acid"
+        ],
+        "answer": "Chloride",
+        "explanation": "While 'Chloride' itself isn't the bleaching agent, chlorine compounds derived from chloride ions are used. Common paper bleaching agents include chlorine dioxide (ClO₂), elemental chlorine (Cl₂ - less common now due to environmental concerns), and sodium hypochlorite (NaClO). The active bleaching species are often related to chlorine or its oxides. The other options are different chemicals not typically used for paper bleaching."
+      }
+    ],
+    "Chemistry (Chemical Names & Formulas)": [
+      {
+        "subject": "Chemistry (Chemical Names & Formulas)",
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists:<br>List-I (Trade Name)<br>A. Bleaching powder<br>B. Baking soda<br>C. Washing soda<br>D. Plaster of Paris<br>List-II (Chemical Name)<br>1. Sodium bicarbonate<br>2. Sodium carbonate, 10 water<br>3. Calcium oxychloride<br>4. Calcium sulphate, 1/2 water<br>Code:<br>A B C D",
+        "image": "",
+        "options": [
+          "3 1 2 4",
+          "3 2 1 4",
+          "4 2 1 3",
+          "4 1 2 3"
+        ],
+        "answer": "3 1 2 4",
+        "explanation": "A. Bleaching powder is Calcium oxychloride (CaOCl₂) -> 3<br>B. Baking soda is Sodium bicarbonate (NaHCO₃) -> 1<br>C. Washing soda is Sodium carbonate decahydrate (Na₂CO₃·10H₂O) -> 2<br>D. Plaster of Paris is Calcium sulphate hemihydrate (CaSO₄·½H₂O) -> 4<br>Therefore, the correct code is A-3, B-1, C-2, D-4."
+      }
+    ],
+    "Physics (Waves & Properties)": [
+      {
+        "subject": "Physics (Waves & Properties)",
+        "question": "In which one among the following mediums would the speed of sound be maximum?",
+        "image": "",
+        "options": [
+          "Distilled water",
+          "Sea water",
+          "Drinking water",
+          "Methanol"
+        ],
+        "answer": "Sea water",
+        "explanation": "The speed of sound generally depends on the density and elasticity (bulk modulus) of the medium. Sound travels faster in denser liquids and generally faster in liquids than gases. Among the given options, sea water is slightly denser and less compressible than distilled or drinking water due to dissolved salts, leading to a higher speed of sound. Methanol is less dense than water, resulting in a lower speed of sound compared to water. Speed: Sea Water > Distilled/Drinking Water > Methanol. *(Self-correction: Previous explanation incorrectly stated Methanol)*"
+      },
+      {
+        "subject": "Physics (Waves & Properties)",
+        "question": "X-rays can be used to:<br>1. inspect welded joints between two metal parts of a machine.<br>2. study the structure of crystals.<br>Select the answer using the code given below:",
+        "image": "",
+        "options": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2",
+        "explanation": "Statement 1 is correct: X-rays are used in industrial radiography (a form of non-destructive testing) to detect internal flaws like cracks or voids in welds and castings because they can penetrate metals.<br>Statement 2 is correct: X-ray crystallography (or X-ray diffraction) is a standard technique used to determine the arrangement of atoms within a crystal by analyzing how a beam of X-rays scatters off the crystal lattice."
+      },
+      {
+        "subject": "Physics (Waves & Properties)",
+        "question": "A sound wave having frequency of 300 Hz is travelling in an unknown medium. Its wavelength is not known. It travels a distance equal to 150 times its wavelength in time t. The value of t is:",
+        "image": "",
+        "options": [
+          "0.5 s",
+          "1 s",
+          "1.5 s",
+          "2 s"
+        ],
+        "answer": "0.5 s",
+        "explanation": "Let the wavelength be λ. The distance travelled is D = 150λ. The speed of the wave is v = frequency × wavelength = fλ.<br>Time taken is t = Distance / Speed.<br>t = D / v = (150λ) / (fλ)<br>The wavelength λ cancels out.<br>t = 150 / f<br>Given f = 300 Hz.<br>t = 150 / 300 = 1/2 = 0.5 seconds."
+      }
+    ],
+    "Physics (Heat Transfer)": [
+      {
+        "subject": "Physics (Heat Transfer)",
+        "question": "Which one of the following heat transfers is an example of convection?",
+        "image": "",
+        "options": [
+          "Heating of food in a microwave oven.",
+          "Boiling water in a pot on a gas stove.",
+          "Feeling the warmth in sun.",
+          "Heating a brass rod at one end and observing the temperature rise at the other end."
+        ],
+        "answer": "Boiling water in a pot on a gas stove.",
+        "explanation": "Convection is heat transfer through the bulk movement of fluids (liquids or gases). When water boils, the heated water at the bottom becomes less dense and rises, while cooler, denser water sinks, creating convection currents.<br>(a) Microwave heating involves radiation.<br>(c) Feeling warmth from the sun involves radiation.<br>(d) Heating a rod involves conduction."
+      }
+    ],
+    "Physics (Optics)": [
+      {
+        "subject": "Physics (Optics)",
+        "question": "The phenomenon of rainbow formation by water droplets involves:",
+        "image": "",
+        "options": [
+          "single refraction of sunlight.",
+          "one internal reflection of sunlight.",
+          "two internal reflections of sunlight.",
+          "both refraction and internal reflection of sunlight."
+        ],
+        "answer": "both refraction and internal reflection of sunlight.",
+        "explanation": "A primary rainbow is formed when sunlight enters a water droplet, undergoes refraction and dispersion (splitting into colors), then reflects once internally off the back surface of the droplet, and finally refracts again as it exits the droplet. So, it involves both refraction (twice) and one internal reflection, along with dispersion."
+      }
+    ],
+    "Geography": {
+       "Geography (Atmosphere & Environment)": [
+        {
+          "subject": "Geography (Atmosphere & Environment)",
+          "question": "Ozone hole is a region over:",
+          "image": "",
+          "options": [
+            "the Antarctic caused mainly by CFC gases.",
+            "the Antarctic caused mainly by carbon dioxide gas.",
+            "the Arctic caused mainly by CFC gases.",
+            "the Arctic caused mainly by carbon dioxide gas."
+          ],
+          "answer": "the Antarctic caused mainly by CFC gases.",
+          "explanation": "The 'ozone hole' refers to the significant seasonal thinning of the ozone layer in the stratosphere, which is most pronounced over Antarctica during its spring (August-October). This depletion is primarily caused by human-produced chemicals, especially chlorofluorocarbons (CFCs), which release chlorine and bromine atoms that catalytically destroy ozone molecules under specific polar stratospheric conditions."
+        }
+       ]
     },
-    {
-      "subject": "Biology (Human Physiology)",
-      "question": "Which instrument is used to measure the blood pressure manually?",
-      "image": "",
-      "options": [
-        "Sphygmomanometer",
-        "Centrifuge",
-        "Electrophoresis",
-        "Thermal cycler"
-      ],
-      "answer": "Sphygmomanometer",
-      "explanation": "A sphygmomanometer is the standard instrument used to measure blood pressure manually. It consists of an inflatable cuff to restrict blood flow, and a mercury or aneroid manometer to measure the pressure."
+    "Current Affairs": {
+        "Current Affairs (Science & Tech)": [
+            {
+              "subject": "Current Affairs (Science & Tech)",
+              "question": "Which of the following are the major missions of Indian Space Research Organisation in 2023?<br>1. Chandrayaan-3<br>2. Solar Mission Aditya-L1<br>3. Liquid fuel powered rockets<br>4. Solar powered rockets<br>Select the answer using the code given below:",
+              "image": "",
+              "options": [
+                "1 and 2 only",
+                "1, 2 and 3",
+                "3 and 4 only",
+                "1, 2, 3 and 4"
+              ],
+              "answer": "1 and 2 only",
+              "explanation": "In 2023, ISRO achieved two major milestones:<br>1. Chandrayaan-3: Successfully soft-landed near the Moon's south pole in August 2023.<br>2. Aditya-L1: Launched India's first dedicated solar observatory mission in September 2023.<br>ISRO routinely uses liquid-fueled rocket stages (like PSLV's PS2/PS4, GSLV's L40/Cryo stages), so 'Liquid fuel powered rockets' isn't a specific major mission *of 2023* itself. Solar-powered rockets are not a current operational technology for ISRO's primary launch vehicles."
+            }
+        ],
+         "Current Affairs (Defence)": [
+            {
+              "subject": "Current Affairs (Defence)",
+              "question": "Mission Shakti (DRDO) of India is related to which one among the following?",
+              "image": "",
+              "options": [
+                "Launch of multiple satellites using a single rocket.",
+                "Launch of heavy satellites.",
+                "Use of high power rockets in launching of satellites.",
+                "Use of rocket to destroy an orbiting satellite."
+              ],
+              "answer": "Use of rocket to destroy an orbiting satellite.",
+              "explanation": "Mission Shakti was the successful Anti-Satellite (ASAT) missile test conducted by India's Defence Research and Development Organisation (DRDO) on 27 March 2019. During the test, a missile destroyed an Indian satellite in Low Earth Orbit, demonstrating India's capability as a space power."
+            }
+         ]
     },
-    {
-      "subject": "Biology (Human Physiology)",
-      "question": "Which of the following statements for persons suffering from presbyopia is/are correct?<br>1. They cannot distinguish colours.<br>2. It usually develops with ageing.<br>3. They wear either bi-focal lenses consisting of both concave and convex or progressive lenses.<br>Select the answer using the code given below:",
-      "image": "",
-      "options": [
-        "1 only",
-        "2 only",
-        "1 and 3",
-        "2 and 3"
-      ],
-      "answer": "2 and 3",
-      "explanation": "Presbyopia is a condition related to aging, where the eye's lens loses flexibility, making it difficult to focus on close objects (Statement 2 is correct). It does not affect colour vision (Statement 1 is incorrect). Bi-focal or progressive lenses, which contain different focusing powers, are used to correct the vision problems associated with presbyopia (Statement 3 is correct)."
+    "Physics": {
+        "Physics (Electricity & Static)": [
+            {
+              "subject": "Physics (Electricity & Static)",
+              "question": "Which one of the following is the most appropriate reason for aircraft being equipped with conducting tyres?",
+              "image": "",
+              "options": [
+                "They can transfer the charge accumulated on their surfaces during lightning",
+                "They can transfer the charge accumulated on their surfaces being rubbed by air particles.",
+                "They can transfer the charge accumulated on their surfaces due to inflight operation of several gadgets.",
+                "For preventing sparks while they land on the ground."
+              ],
+              "answer": "For preventing sparks while they land on the ground.",
+              "explanation": "Aircraft accumulate static electric charge during flight due to friction with air particles. Upon landing, if this charge isn't dissipated safely, a large potential difference between the aircraft and the ground can cause a spark, which is extremely dangerous near fuel vapors. Conducting tyres provide a path for this static charge to safely discharge to the ground immediately upon touchdown, preventing sparks."
+            }
+        ],
+         "Physics (Mechanics & Astrophysics)": [
+            {
+              "subject": "Physics (Mechanics & Astrophysics)",
+              "question": "In Sun–Earth system, the Sun, the Earth and the Lagrange point L4 form:",
+              "image": "",
+              "options": [
+                "an isosceles triangle",
+                "an equilateral triangle",
+                "a straight line",
+                "a scalene triangle"
+              ],
+              "answer": "an equilateral triangle",
+              "explanation": "The Lagrange points are positions in an orbital system of two large bodies where a smaller object can maintain a stable position relative to the large bodies. L4 and L5 are located 60 degrees ahead of and 60 degrees behind the smaller body (Earth) in its orbit around the larger body (Sun). These points form equilateral triangles with the two large bodies (Sun and Earth)."
+            }
+         ]
     }
-  ],
-  "Biology (Botany)": [
-    {
-      "subject": "Biology (Botany)",
-      "question": "Which one among the following is not a micronutrient for plants?",
-      "image": "",
-      "options": [
-        "Iron",
-        "Manganese",
-        "Magnesium",
-        "Chlorine"
-      ],
-      "answer": "Magnesium",
-      "explanation": "Magnesium is a **macronutrient** essential for plants, being a central component of chlorophyll and involved in enzyme function. Micronutrients, required in smaller amounts, include iron (Fe), manganese (Mn), chlorine (Cl), zinc (Zn), copper (Cu), boron (B), and molybdenum (Mo)."
-    },
-    {
-      "subject": "Biology (Botany)",
-      "question": "Xylem in the plants are responsible for the transport of:",
-      "image": "",
-      "options": [
-        "Water",
-        "Water and dissolved minerals",
-        "Gases",
-        "Food"
-      ],
-      "answer": "Water and dissolved minerals",
-      "explanation": "The Xylem tissue in plants forms continuous tubes from roots to leaves and is primarily responsible for the bulk transport (translocation) of water and dissolved mineral nutrients absorbed from the soil upwards to the rest of the plant."
-    },
-    {
-      "subject": "Biology (Botany)",
-      "question": "Which one among the following hormones inhibits the growth activity in plants?",
-      "image": "",
-      "options": [
-        "Auxins",
-        "Cytokinins",
-        "Abscisic acid",
-        "Gibberellins"
-      ],
-      "answer": "Abscisic acid",
-      "explanation": "Abscisic acid (ABA) is often referred to as the 'stress hormone' in plants. It plays a crucial role in inhibiting growth, promoting dormancy (e.g., in seeds and buds), and closing stomata during water stress. Auxins, Cytokinins, and Gibberellins generally promote growth."
-    },
-    {
-      "subject": "Biology (Botany)",
-      "question": "Which one among the following is not a feature of Xerophytes?",
-      "image": "",
-      "options": [
-        "Smaller leaves",
-        "Large number of stomata",
-        "Waxy cuticle",
-        "Stomata in pits"
-      ],
-      "answer": "Large number of stomata",
-      "explanation": "Xerophytes are plants adapted to survive in dry conditions. To minimize water loss through transpiration, they typically have features like smaller leaves (or spines), thick waxy cuticles, stomata sunken in pits, and a **reduced number** of stomata, not a large number."
-    },
-    {
-      "subject": "Biology (Botany)",
-      "question": "Halophytes are the plants that grow on which one, among the following categories of soil?",
-      "image": "",
-      "options": [
-        "Acidic soil",
-        "Saline soil",
-        "Black soil",
-        "Sandy soil"
-      ],
-      "answer": "Saline soil",
-      "explanation": "Halophytes are salt-tolerant plants adapted to grow in soils or waters with high salinity, such as coastal salt marshes, mangrove swamps, and inland salt flats."
-    },
-    {
-      "subject": "Biology (Botany)",
-      "question": "Which one among the following is not a part of vascular bundle in plants?",
-      "image": "",
-      "options": [
-        "Phloem",
-        "Xylem",
-        "Cambium",
-        "Endodermis"
-      ],
-      "answer": "Endodermis",
-      "explanation": "A vascular bundle in plants typically contains Xylem (for water transport), Phloem (for food transport), and often Cambium (in dicots, for secondary growth). The Endodermis is a distinct layer of cells surrounding the vascular tissue in roots (and sometimes stems), regulating water and nutrient passage, but it is not considered part of the bundle itself."
-    }
-  ],
-  "Biology (Biochemistry & Biomolecules)": [
-    {
-      "subject": "Biology (Biochemistry & Biomolecules)",
-      "question": "Which of the following categories of biomolecules does Starch belong to?",
-      "image": "",
-      "options": [
-        "Protein",
-        "Carbohydrate",
-        "Lipid",
-        "Nucleic acid"
-      ],
-      "answer": "Carbohydrate",
-      "explanation": "Starch is a complex carbohydrate (a polysaccharide) made up of many glucose units linked together. It is the primary way plants store energy."
-    }
-  ],
-  "Biology (Cell Biology)": [
-    {
-      "subject": "Biology (Cell Biology)",
-      "question": "Which organelle in animal cells can digest foreign materials?",
-      "image": "",
-      "options": [
-        "Endoplasmic reticulum",
-        "Lysosome",
-        "Golgi body",
-        "Mitochondria"
-      ],
-      "answer": "Lysosome",
-      "explanation": "Lysosomes are membrane-bound organelles containing a variety of digestive enzymes (hydrolases). They break down waste materials, cellular debris, and foreign invaders like bacteria or viruses engulfed by the cell through processes like phagocytosis."
-    },
-    {
-      "subject": "Biology (Cell Biology)",
-      "question": "Photosynthesis that converts light energy into chemical energy by the plants, involves the use of green pigments of leaves called chlorophyll. The only structure in a leaf that hosts chlorophyll is:",
-      "image": "",
-      "options": [
-        "Nucleus",
-        "Ribosome",
-        "Chloroplast",
-        "Chromosome"
-      ],
-      "answer": "Chloroplast",
-      "explanation": "Chlorophyll, the pigment essential for photosynthesis, is located within specialized organelles called chloroplasts found in plant cells, particularly in the leaves."
-    }
-  ],
-  "Chemistry (States of Matter & Colloids)": [
-    {
-      "subject": "Chemistry (States of Matter & Colloids)",
-      "question": "In which of the following colloids is the dispersing medium a liquid?",
-      "image": "",
-      "options": [
-        "Mist",
-        "Foam",
-        "Jelly",
-        "Shaving cream"
-      ],
-      "answer": "Shaving cream",
-      "explanation": "Colloids consist of a dispersed phase within a dispersing medium.<br>- Mist: Liquid dispersed in Gas.<br>- Foam: Gas dispersed in Liquid (e.g., whipped cream, shaving cream) OR Gas dispersed in Solid (e.g., styrofoam).<br>- Jelly (Gel): Liquid dispersed in Solid.<br>Shaving cream is a foam where the dispersing medium is liquid."
-    }
-  ],
-  "Chemistry (Atomic Structure)": [
-    {
-      "subject": "Chemistry (Atomic Structure)",
-      "question": "The two isotopes of elemental chlorine are:",
-      "image": "",
-      "options": [
-        "³⁵₁₇Cl and ³⁶₁₇Cl",
-        "³⁴₁₇Cl and ³⁶₁₈Cl",
-        "³⁵₁₇Cl and ³⁷₁₈Cl",
-        "³⁵₁₇Cl and ³⁷₁₇Cl"
-      ],
-      "answer": "³⁵₁₇Cl and ³⁷₁₇Cl",
-      "explanation": "Isotopes are atoms of the same element (same atomic number, Z) but with different mass numbers (A) due to different numbers of neutrons. Chlorine (Cl) has an atomic number of 17. Its two common stable isotopes have mass numbers 35 and 37. Therefore, they are represented as ³⁵₁₇Cl (17 protons, 18 neutrons) and ³⁷₁₇Cl (17 protons, 20 neutrons)."
-    },
-    {
-      "subject": "Chemistry (Atomic Structure)",
-      "question": "Which one among the following is responsible for determining the chemical properties of an element?",
-      "image": "",
-      "options": [
-        "Protons",
-        "Electrons",
-        "Neutrons",
-        "Nucleus"
-      ],
-      "answer": "Electrons",
-      "explanation": "The chemical properties of an element are primarily determined by the number and arrangement of its electrons, particularly the valence electrons (those in the outermost shell). These electrons participate in chemical bonding and reactions."
-    }
-  ],
-  "Chemistry (Properties & Reactions)": [
-    {
-      "subject": "Chemistry (Properties & Reactions)",
-      "question": "Which one among the following metals is not stored under oil?",
-      "image": "",
-      "options": [
-        "Sodium",
-        "Rubidium",
-        "Potassium",
-        "Lithium"
-      ],
-      "answer": "Lithium",
-      "explanation": "Alkali metals like Sodium (Na), Potassium (K), and Rubidium (Rb) are highly reactive with air and moisture and are typically stored under mineral oil or kerosene to prevent reaction. Lithium (Li), while also reactive, is less dense than oil and would float. It is often stored coated in petroleum jelly or paraffin wax, or in an inert atmosphere."
-    },
-    {
-      "subject": "Chemistry (Properties & Reactions)",
-      "question": "Potassium nitrate is not used:",
-      "image": "",
-      "options": [
-        "as a fertiliser",
-        "in medicine",
-        "in making gunpowder",
-        "as a preservative of meat products"
-      ],
-      "answer": "in medicine",
-      "explanation": "Potassium nitrate (KNO₃), also known as saltpeter, is widely used as a fertiliser (source of potassium and nitrogen), as an oxidizer in gunpowder, and as a food preservative (especially for curing meats). While some potassium compounds are used medically, potassium nitrate itself is not typically used directly in medicine due to potential toxicity."
-    },
-    {
-      "subject": "Chemistry (Properties & Reactions)",
-      "question": "The surface of the concrete structure of a new construction is covered with straw/gunny bags by wetting. This is done to:",
-      "image": "",
-      "options": [
-        "prevent fast evaporation, until hydration has proceeded well.",
-        "protect the concrete structure from contamination by dust particles.",
-        "prevent development of any fungus on the surface.",
-        "give smoother and cleaner surface over cement structure."
-      ],
-      "answer": "prevent fast evaporation, until hydration has proceeded well.",
-      "explanation": "This process, called curing, is crucial for concrete strength. Wetting the covering keeps the concrete surface moist, slowing down the evaporation of water. This ensures that sufficient water is available for the chemical reaction (hydration) between cement and water to proceed properly, leading to stronger, more durable concrete with fewer cracks."
-    },
-    {
-      "subject": "Chemistry (Properties & Reactions)",
-      "question": "Which one among the following statements for the gases mentioned below is not correct?",
-      "image": "",
-      "options": [
-        "Hydrogen has 3 isotopes.",
-        "Helium is a commonly used gas in electric bulbs.",
-        "Oxygen is used to burn fuel in rocket engines in spacecraft.",
-        "Nitrogen can be used in gaseous form to replace air in food packaging."
-      ],
-      "answer": "Helium is a commonly used gas in electric bulbs.",
-      "explanation": "Hydrogen isotopes are Protium (¹H), Deuterium (²H), Tritium (³H). Oxygen is used as an oxidizer in rocket engines. Nitrogen is used in food packaging (modified atmosphere packaging). However, inert gases like Argon (Ar) or sometimes Krypton (Kr) or Nitrogen mixtures are commonly used in incandescent electric bulbs, not Helium (He), to prevent filament oxidation and evaporation."
-    },
-    {
-      "subject": "Chemistry (Properties & Reactions)",
-      "question": "Which one among the following statements is not true for glass?",
-      "image": "",
-      "options": [
-        "Sodium silicate is known as water glass.",
-        "Glass is also called super cooled liquid.",
-        "Crystallinity develops on cooling of the molten mass of the glass.",
-        "Coloured glasses can be made by adding different colouring materials."
-      ],
-      "answer": "Crystallinity develops on cooling of the molten mass of the glass.",
-      "explanation": "Glass is an amorphous solid, meaning its atoms lack a long-range ordered structure like crystals. It's often called a supercooled liquid because its structure resembles a liquid frozen in place. Cooling molten glass typically prevents crystallization. Sodium silicate is water glass. Adding metal oxides creates colored glass. Therefore, the statement about crystallinity developing on cooling is incorrect for typical glass formation."
-    },
-    {
-      "subject": "Chemistry (Properties & Reactions)",
-      "question": "Which one among the following is used in bleaching of paper?",
-      "image": "",
-      "options": [
-        "Chloride",
-        "Chlorobenzene",
-        "Ammonium chloride",
-        "Hydrochloric acid"
-      ],
-      "answer": "Chloride",
-      "explanation": "While 'Chloride' itself isn't the bleaching agent, chlorine compounds derived from chloride ions are used. Common paper bleaching agents include chlorine dioxide (ClO₂), elemental chlorine (Cl₂ - less common now due to environmental concerns), and sodium hypochlorite (NaClO). The active bleaching species are often related to chlorine or its oxides. The other options are different chemicals not typically used for paper bleaching."
-    }
-  ],
-  "Chemistry (Chemical Names & Formulas)": [
-    {
-      "subject": "Chemistry (Chemical Names & Formulas)",
-      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists:<br>List-I (Trade Name)<br>A. Bleaching powder<br>B. Baking soda<br>C. Washing soda<br>D. Plaster of Paris<br>List-II (Chemical Name)<br>1. Sodium bicarbonate<br>2. Sodium carbonate, 10 water<br>3. Calcium oxychloride<br>4. Calcium sulphate, 1/2 water<br>Code:<br>A B C D",
-      "image": "",
-      "options": [
-        "3 1 2 4",
-        "3 2 1 4",
-        "4 2 1 3",
-        "4 1 2 3"
-      ],
-      "answer": "3 1 2 4",
-      "explanation": "A. Bleaching powder is Calcium oxychloride (CaOCl₂) -> 3<br>B. Baking soda is Sodium bicarbonate (NaHCO₃) -> 1<br>C. Washing soda is Sodium carbonate decahydrate (Na₂CO₃·10H₂O) -> 2<br>D. Plaster of Paris is Calcium sulphate hemihydrate (CaSO₄·½H₂O) -> 4<br>Therefore, the correct code is A-3, B-1, C-2, D-4."
-    }
-  ],
-  "Physics (Waves & Properties)": [
-    {
-      "subject": "Physics (Waves & Properties)",
-      "question": "In which one among the following mediums would the speed of sound be maximum?",
-      "image": "",
-      "options": [
-        "Distilled water",
-        "Sea water",
-        "Drinking water",
-        "Methanol"
-      ],
-      "answer": "Sea water",
-      "explanation": "The speed of sound generally depends on the density and elasticity (bulk modulus) of the medium. Sound travels faster in denser liquids and generally faster in liquids than gases. Among the given options, sea water is slightly denser and less compressible than distilled or drinking water due to dissolved salts, leading to a higher speed of sound. Methanol is less dense than water, resulting in a lower speed of sound compared to water. Speed: Sea Water > Distilled/Drinking Water > Methanol. *(Self-correction: Previous explanation incorrectly stated Methanol)*"
-    },
-    {
-      "subject": "Physics (Waves & Properties)",
-      "question": "X-rays can be used to:<br>1. inspect welded joints between two metal parts of a machine.<br>2. study the structure of crystals.<br>Select the answer using the code given below:",
-      "image": "",
-      "options": [
-        "1 only",
-        "2 only",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
-      ],
-      "answer": "Both 1 and 2",
-      "explanation": "Statement 1 is correct: X-rays are used in industrial radiography (a form of non-destructive testing) to detect internal flaws like cracks or voids in welds and castings because they can penetrate metals.<br>Statement 2 is correct: X-ray crystallography (or X-ray diffraction) is a standard technique used to determine the arrangement of atoms within a crystal by analyzing how a beam of X-rays scatters off the crystal lattice."
-    },
-    {
-      "subject": "Physics (Waves & Properties)",
-      "question": "A sound wave having frequency of 300 Hz is travelling in an unknown medium. Its wavelength is not known. It travels a distance equal to 150 times its wavelength in time t. The value of t is:",
-      "image": "",
-      "options": [
-        "0.5 s",
-        "1 s",
-        "1.5 s",
-        "2 s"
-      ],
-      "answer": "0.5 s",
-      "explanation": "Let the wavelength be λ. The distance travelled is D = 150λ. The speed of the wave is v = frequency × wavelength = fλ.<br>Time taken is t = Distance / Speed.<br>t = D / v = (150λ) / (fλ)<br>The wavelength λ cancels out.<br>t = 150 / f<br>Given f = 300 Hz.<br>t = 150 / 300 = 1/2 = 0.5 seconds."
-    }
-  ],
-  "Physics (Heat Transfer)": [
-    {
-      "subject": "Physics (Heat Transfer)",
-      "question": "Which one of the following heat transfers is an example of convection?",
-      "image": "",
-      "options": [
-        "Heating of food in a microwave oven.",
-        "Boiling water in a pot on a gas stove.",
-        "Feeling the warmth in sun.",
-        "Heating a brass rod at one end and observing the temperature rise at the other end."
-      ],
-      "answer": "Boiling water in a pot on a gas stove.",
-      "explanation": "Convection is heat transfer through the bulk movement of fluids (liquids or gases). When water boils, the heated water at the bottom becomes less dense and rises, while cooler, denser water sinks, creating convection currents.<br>(a) Microwave heating involves radiation.<br>(c) Feeling warmth from the sun involves radiation.<br>(d) Heating a rod involves conduction."
-    }
-  ],
-  "Physics (Optics)": [
-    {
-      "subject": "Physics (Optics)",
-      "question": "The phenomenon of rainbow formation by water droplets involves:",
-      "image": "",
-      "options": [
-        "single refraction of sunlight.",
-        "one internal reflection of sunlight.",
-        "two internal reflections of sunlight.",
-        "both refraction and internal reflection of sunlight."
-      ],
-      "answer": "both refraction and internal reflection of sunlight.",
-      "explanation": "A primary rainbow is formed when sunlight enters a water droplet, undergoes refraction and dispersion (splitting into colors), then reflects once internally off the back surface of the droplet, and finally refracts again as it exits the droplet. So, it involves both refraction (twice) and one internal reflection, along with dispersion."
-    }
-  ],
-  "Geography (Atmosphere & Environment)": [
-    {
-      "subject": "Geography (Atmosphere & Environment)",
-      "question": "Ozone hole is a region over:",
-      "image": "",
-      "options": [
-        "the Antarctic caused mainly by CFC gases.",
-        "the Antarctic caused mainly by carbon dioxide gas.",
-        "the Arctic caused mainly by CFC gases.",
-        "the Arctic caused mainly by carbon dioxide gas."
-      ],
-      "answer": "the Antarctic caused mainly by CFC gases.",
-      "explanation": "The 'ozone hole' refers to the significant seasonal thinning of the ozone layer in the stratosphere, which is most pronounced over Antarctica during its spring (August-October). This depletion is primarily caused by human-produced chemicals, especially chlorofluorocarbons (CFCs), which release chlorine and bromine atoms that catalytically destroy ozone molecules under specific polar stratospheric conditions."
-    }
-  ],
-  "Current Affairs (Science & Tech)": [
-    {
-      "subject": "Current Affairs (Science & Tech)",
-      "question": "Which of the following are the major missions of Indian Space Research Organisation in 2023?<br>1. Chandrayaan-3<br>2. Solar Mission Aditya-L1<br>3. Liquid fuel powered rockets<br>4. Solar powered rockets<br>Select the answer using the code given below:",
-      "image": "",
-      "options": [
-        "1 and 2 only",
-        "1, 2 and 3",
-        "3 and 4 only",
-        "1, 2, 3 and 4"
-      ],
-      "answer": "1 and 2 only",
-      "explanation": "In 2023, ISRO achieved two major milestones:<br>1. Chandrayaan-3: Successfully soft-landed near the Moon's south pole in August 2023.<br>2. Aditya-L1: Launched India's first dedicated solar observatory mission in September 2023.<br>ISRO routinely uses liquid-fueled rocket stages (like PSLV's PS2/PS4, GSLV's L40/Cryo stages), so 'Liquid fuel powered rockets' isn't a specific major mission *of 2023* itself. Solar-powered rockets are not a current operational technology for ISRO's primary launch vehicles."
-    }
-  ],
-  "Physics (Electricity & Static)": [
-    {
-      "subject": "Physics (Electricity & Static)",
-      "question": "Which one of the following is the most appropriate reason for aircraft being equipped with conducting tyres?",
-      "image": "",
-      "options": [
-        "They can transfer the charge accumulated on their surfaces during lightning",
-        "They can transfer the charge accumulated on their surfaces being rubbed by air particles.",
-        "They can transfer the charge accumulated on their surfaces due to inflight operation of several gadgets.",
-        "For preventing sparks while they land on the ground."
-      ],
-      "answer": "For preventing sparks while they land on the ground.",
-      "explanation": "Aircraft accumulate static electric charge during flight due to friction with air particles. Upon landing, if this charge isn't dissipated safely, a large potential difference between the aircraft and the ground can cause a spark, which is extremely dangerous near fuel vapors. Conducting tyres provide a path for this static charge to safely discharge to the ground immediately upon touchdown, preventing sparks."
-    }
-  ],
-  "Current Affairs (Defence)": [
-    {
-      "subject": "Current Affairs (Defence)",
-      "question": "Mission Shakti (DRDO) of India is related to which one among the following?",
-      "image": "",
-      "options": [
-        "Launch of multiple satellites using a single rocket.",
-        "Launch of heavy satellites.",
-        "Use of high power rockets in launching of satellites.",
-        "Use of rocket to destroy an orbiting satellite."
-      ],
-      "answer": "Use of rocket to destroy an orbiting satellite.",
-      "explanation": "Mission Shakti was the successful Anti-Satellite (ASAT) missile test conducted by India's Defence Research and Development Organisation (DRDO) on 27 March 2019. During the test, a missile destroyed an Indian satellite in Low Earth Orbit, demonstrating India's capability as a space power."
-    }
-  ],
-  "Physics (Mechanics & Astrophysics)": [
-    {
-      "subject": "Physics (Mechanics & Astrophysics)",
-      "question": "In Sun–Earth system, the Sun, the Earth and the Lagrange point L4 form:",
-      "image": "",
-      "options": [
-        "an isosceles triangle",
-        "an equilateral triangle",
-        "a straight line",
-        "a scalene triangle"
-      ],
-      "answer": "an equilateral triangle",
-      "explanation": "The Lagrange points are positions in an orbital system of two large bodies where a smaller object can maintain a stable position relative to the large bodies. L4 and L5 are located 60 degrees ahead of and 60 degrees behind the smaller body (Earth) in its orbit around the larger body (Sun). These points form equilateral triangles with the two large bodies (Sun and Earth)."
-    }
-  ],
-  "Polity (Constitutional & Statutory Bodies)": [
-    {
-      "subject": "Polity (Constitutional & Statutory Bodies)",
-      "question": "Consider the following statements:<br>1. The Flag Code of India superseded the ‘Flag Code-India’.<br>2. The state emblem of India is an adaptation of the Lion Capital of Ashoka at Sarnath.<br>Which of the statements given above is/are correct?",
-      "image": "",
-      "options": [
-        "1 only",
-        "2 only",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
-      ],
-      "answer": "Both 1 and 2",
-      "explanation": "Both the given statements are correct.<br>The Flag Code of India, 2002, came into effect on 26 January 2002, and it superseded the earlier 'Flag Code - India'.<br>The State Emblem of India, adopted on 26 January 1950, is indeed an adaptation from the Sarnath Lion Capital of Ashoka, depicting four lions standing back to back."
-    },
-    {
-      "subject": "Polity (Constitutional & Statutory Bodies)",
-      "question": "Which of the following areas has been exempted from the purview of the Citizenship (Amendment) Act, 2019?",
-      "image": "",
-      "options": [
-        "Ladakh",
-        "Jammu and Kashmir",
-        "The Sixth Schedule Areas",
-        "The Fifth Schedule Areas"
-      ],
-      "answer": "The Sixth Schedule Areas",
-      "explanation": "The Citizenship (Amendment) Act, 2019 explicitly exempts its application to the tribal areas of Assam, Meghalaya, Mizoram, and Tripura as included in the Sixth Schedule of the Constitution. It also exempts areas covered under the 'Inner Line Permit' system."
-    },
-    {
-      "subject": "Polity (Constitutional & Statutory Bodies)",
-      "question": "Which of the following statements about National Recruitment Agency is correct?",
-      "image": "",
-      "options": [
-        "It is a body to conduct Common Eligibility Test (CET) to shortlist the candidates for vacancies under ‘Group B’ and ‘Group C’ of the Government.",
-        "Employment in private sector is facilitated in all the districts, particularly 117 aspirational districts.",
-        "It was setup in 2014.",
-        "It has been accorded Constitutional status in 2021."
-      ],
-      "answer": "It is a body to conduct Common Eligibility Test (CET) to shortlist the candidates for vacancies under ‘Group B’ and ‘Group C’ of the Government.",
-      "explanation": "The National Recruitment Agency (NRA) was approved by the Union Cabinet in August 2020. Its primary mandate is to conduct a Common Eligibility Test (CET) for recruitment to non-gazetted posts (Group B and C) under the central government, aiming to streamline the initial stages of the selection process for various government jobs."
-    }
-  ],
-  "Polity (Governance & Schemes)": [
-    {
-      "subject": "Polity (Governance & Schemes)",
-      "question": "Which one of the following is not among the thematic areas of National Mission on Sustainable Habitat?",
-      "image": "",
-      "options": [
-        "Energy and Green Building",
-        "Mobility and Air Quality",
-        "Waste Management",
-        "Rural Planning, Green cover and Biodiversity"
-      ],
-      "answer": "Rural Planning, Green cover and Biodiversity",
-      "explanation": "The National Mission on Sustainable Habitat (NMSH), part of the National Action Plan on Climate Change (NAPCC), focuses primarily on urban areas. Its key thematic areas include improving energy efficiency in buildings, urban planning, managing municipal solid waste, and promoting urban transport focused on reducing emissions. Rural planning and biodiversity in that context are generally outside its direct scope."
-    },
-    {
-      "subject": "Polity (Governance & Schemes)",
-      "question": "Which one among the following statements about the objectives of Vibrant Village Programme is correct?",
-      "image": "",
-      "options": [
-        "It is a Centrally sponsored scheme.",
-        "This programme was launched in 2021.",
-        "Arunachal Pradesh, Sikkim and Manipur are the states selected under this scheme.",
-        "Villages of Uttar Pradesh along the Nepal border are selected as flagship villages under this scheme."
-      ],
-      "answer": "It is a Centrally sponsored scheme.",
-      "explanation": "The Vibrant Villages Programme (VVP) is a Centrally Sponsored Scheme approved in February 2023 (not 2021) for the comprehensive development of select villages in 46 blocks across 19 districts abutting the northern border in Arunachal Pradesh, Himachal Pradesh, Sikkim, Uttarakhand, and the UT of Ladakh (Manipur and UP are not included). It aims to improve infrastructure and livelihood opportunities."
-    }
-  ],
-  "Polity (Legal System)": [
-    {
-      "subject": "Polity (Legal System)",
-      "question": "Which of the following are the components of the Indian Legal System?<br>1. Basic values and principles enshrined in the Constitution.<br>2. Rights and obligations conferred by ordinary statutes.<br>3. Organisational set-up to enforce rights and obligations within the constitutional norms.<br>4. Legal and judicial persons.<br>Select the answer using the code given below:",
-      "image": "",
-      "options": [
-        "1, 2, 3 and 4",
-        "1, 2 and 4 only",
-        "1, 2 and 3 only",
-        "3 and 4 only"
-      ],
-      "answer": "1, 2, 3 and 4",
-      "explanation": "The Indian Legal System comprises all these elements: the foundational principles of the Constitution (1), laws made by legislatures (statutes) defining rights and duties (2), the institutions like courts and enforcement agencies (3), and the entities recognized by law (legal persons like individuals, companies) and those involved in the judicial process (judicial persons) (4)."
-    },
-    {
-      "subject": "Polity (Legal System)",
-      "question": "Which of the following statements is/are correct?<br>1. Criminal law is exclusively a subject under the State List of the Constitution of India.<br>2. Code of Civil Procedure falls under the Concurrent List of the Constitution of India.<br>Select the answer using the code given below:",
-      "image": "",
-      "options": [
-        "1 only",
-        "2 only",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
-      ],
-      "answer": "2 only",
-      "explanation": "Statement 1 is incorrect: Criminal law, including the Indian Penal Code, falls under the Concurrent List (Entry 1 of List III). Criminal procedure also falls under the Concurrent List (Entry 2 of List III).<br>Statement 2 is correct: Civil procedure, including the Code of Civil Procedure, falls under the Concurrent List (Entry 13 of List III). This allows both the Centre and States to legislate on these subjects, with Central law prevailing in case of conflict."
-    },
-    {
-      "subject": "Polity (Legal System)",
-      "question": "Which one of the following organisations challenged the constitutionality of Section 377 of the Indian Penal Code in the Supreme Court of India?",
-      "image": "",
-      "options": [
-        "Naz Foundation (India) Trust",
-        "Bachpan Bachao Andolan",
-        "Sambhav Foundation India",
-        "Action Aid India"
-      ],
-      "answer": "Naz Foundation (India) Trust",
-      "explanation": "The Naz Foundation (India) Trust, an NGO working on HIV/AIDS and sexual health, was the primary petitioner that initially challenged the constitutional validity of Section 377 of the IPC (which criminalized homosexual acts) in the Delhi High Court and subsequently pursued the matter in the Supreme Court, leading eventually to the landmark Navtej Singh Johar judgment in 2018."
-    },
-    {
-      "subject": "Polity (Legal System)",
-      "question": "Which of the following statements, as per the Information Technology Act, 2000, is/are correct?<br>1. This Act provides that electronic signature is legally valid in the same manner as the handwritten signature.<br>2. Both the Central Government and State Governments have been given the power to make rules with respect to electronic signature.<br>Select the answer using the code given below:",
-      "image": "",
-      "options": [
-        "1 only",
-        "2 only",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
-      ],
-      "answer": "1 only",
-      "explanation": "Statement 1 is correct: The Information Technology Act, 2000 grants legal recognition to electronic signatures (including digital signatures), giving them the same legal validity as handwritten signatures for most purposes (Section 5).<br>Statement 2 is incorrect: The power to prescribe the type of electronic signature, the manner and format, and the procedures for ensuring reliability lies primarily with the Central Government under the IT Act (e.g., Section 3A, Section 10)."
-    }
-  ],
-  "Polity (Miscellaneous)": [
-    {
-      "subject": "Polity (Miscellaneous)",
-      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists:<br>List-I (Training Institute)<br>A. National Academy of Customs, Indirect Taxes and Narcotics<br>B. LBS National Academy of Administration<br>C. National Academy of Audit and Accounts<br>D. All India Institute of Local Self Government<br>List-II (Location)<br>1. Mussoorie<br>2. Shimla<br>3. Mumbai<br>4. Palasamudram<br>Code:<br>A B C D",
-      "image": "",
-      "options": [
-        "3 2 1 4",
-        "3 1 2 4",
-        "4 1 2 3",
-        "4 2 1 3"
-      ],
-      "answer": "4 1 2 3",
-      "explanation": "A. National Academy of Customs, Indirect Taxes and Narcotics (NACIN) - Main campus is now at Palasamudram, Andhra Pradesh -> 4<br>B. Lal Bahadur Shastri National Academy of Administration (LBSNAA) - Mussoorie -> 1<br>C. National Academy of Audit and Accounts (NAAA) - Shimla -> 2<br>D. All India Institute of Local Self Government (AIILSG) - Headquartered in Mumbai -> 3<br>Therefore, the correct code is A-4, B-1, C-2, D-3."
-    },
-    {
-      "subject": "Polity (Miscellaneous)",
-      "question": "Who among the following stated that ‘A just society is that society in which ascending sense of reverence and descending sense of contempt is dissolved into the creation of a compassionate society’?",
-      "image": "",
-      "options": [
-        "Vinoba Bhave",
-        "Bhimrao Ramji Ambedkar",
-        "Rammanohar Lohia",
-        "Jayaprakash Narayan"
-      ],
-      "answer": "Bhimrao Ramji Ambedkar",
-      "explanation": "This quote reflecting the need to dismantle graded inequality and foster compassion is attributed to Dr. B.R. Ambedkar, who extensively wrote and spoke about creating a society based on liberty, equality, and fraternity, free from caste-based discrimination and hierarchy."
-    },
-    {
-      "subject": "Polity (Miscellaneous)",
-      "question": "As per Article 371G of the Constitution of India, special provisions have been made with respect to the state of Mizoram. Accordingly, no Act of Parliament shall apply on certain matters unless the Legislative Assembly of Mizoram so decides by a resolution. Which one of the following matters is not covered under this Article?",
-      "image": "",
-      "options": [
-        "Religious or social practices of the Mizos.",
-        "Mizo customary law and procedure.",
-        "Administration of civil and criminal justice involving decisions according to Mizo customary law.",
-        "Ownership and transfer of natural resources."
-      ],
-      "answer": "Ownership and transfer of natural resources.",
-      "explanation": "Article 371G protects specific aspects related to Mizo identity and governance. It explicitly covers Acts of Parliament concerning (a) religious or social practices of the Mizos, (b) Mizo customary law and procedure, and (c) administration of civil and criminal justice involving decisions according to Mizo customary law, requiring a resolution by the Mizoram Legislative Assembly for such Acts to apply. Ownership and transfer of 'land and its resources' is mentioned, but 'natural resources' in a broader sense might not be exclusively covered in the same way, making it the most likely exclusion among the options given in the context of the Article's specific wording regarding land."
-    },
-    {
-      "subject": "Polity (Miscellaneous)",
-      "question": "The Research Design and Standards Organisation is the R&D wing of which one of the following organisations?",
-      "image": "",
-      "options": [
-        "Bhabha Atomic Research Centre",
-        "Indian Space Research Organisation",
-        "Indian Railways",
-        "Defence Research and Development Organisation"
-      ],
-      "answer": "Indian Railways",
-      "explanation": "The Research Designs and Standards Organisation (RDSO), headquartered in Lucknow, is the sole R&D wing of Indian Railways, functioning as the technical advisor and consultant to the Railway Board, Zonal Railways, and Production Units."
-    },
-    {
-      "subject": "Polity (Miscellaneous)",
-      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists:<br>List-I (Speaker of Lok Sabha)<br>A. Manohar Gajanan Joshi<br>B. Somnath Chatterjee<br>C. Meira Kumar<br>D. Sumitra Mahajan<br>List-II (Lok Sabha Term)<br>1. 14th Lok Sabha<br>2. 13th Lok Sabha<br>3. 16th Lok Sabha<br>4. 15th Lok Sabha<br>Code:<br>A B C D",
-      "image": "",
-      "options": [
-        "2 1 4 3",
-        "2 4 1 3",
-        "3 4 1 2",
-        "3 1 4 2"
-      ],
-      "answer": "2 1 4 3",
-      "explanation": "A. Manohar Joshi served as Speaker during the 13th Lok Sabha (2002–2004) -> 2<br>B. Somnath Chatterjee served as Speaker during the 14th Lok Sabha (2004–2009) -> 1<br>C. Meira Kumar served as Speaker during the 15th Lok Sabha (2009–2014) -> 4<br>D. Sumitra Mahajan served as Speaker during the 16th Lok Sabha (2014–2019) -> 3<br>Therefore, the correct code is A-2, B-1, C-4, D-3."
-    }
-  ],
-  "Current Affairs (International)": [
-    {
-      "subject": "Current Affairs (International)",
-      "question": "Which one of the following UN organisations has not been awarded the Nobel Prize?",
-      "image": "",
-      "options": [
-        "WFP",
-        "ILO",
-        "UNESCO",
-        "UNHCR"
-      ],
-      "answer": "UNESCO",
-      "explanation": "The World Food Programme (WFP) won in 2020. The International Labour Organization (ILO) won in 1969. The UN High Commissioner for Refugees (UNHCR) won in 1954 and 1981. The United Nations Educational, Scientific and Cultural Organization (UNESCO) has not directly received the Nobel Peace Prize, although individuals associated with it or its goals might have."
-    },
-    {
-      "subject": "Current Affairs (International)",
-      "question": "Arrange the following agreements between India and Pakistan in chronological order:<br>1. Tashkent Declaration.<br>2. Indus Water Treaty.<br>3. Agreement on the Prohibition of Attack Against Each Other’s Nuclear Installations and Facilities.<br>4. Agreement on Reducing the Risk from Accidents Relating to Nuclear Weapons.<br>Select the answer using the code given below:",
-      "image": "",
-      "options": [
-        "1, 2, 3, 4",
-        "2, 3, 1, 4",
-        "2, 1, 3, 4",
-        "1, 4, 2, 3"
-      ],
-      "answer": "2, 1, 3, 4",
-      "explanation": "Chronological Order:<br>2. Indus Waters Treaty: Signed on September 19, 1960.<br>1. Tashkent Declaration: Signed on January 10, 1966 (after the 1965 war).<br>3. Agreement on Non-Attack of Nuclear Installations: Signed on December 31, 1988 (came into force Jan 1991).<br>4. Agreement on Reducing Nuclear Accident Risk: Signed on February 21, 2007.<br>So the sequence is 2, 1, 3, 4."
-    },
-    {
-      "subject": "Current Affairs (International)",
-      "question": "Which of the following statements with regard to the Shanghai Cooperation Organisation (SCO) is/are correct?<br>1. The official languages of the SCO are Russian and Chinese.<br>2. The SCO enjoys observer status in the UN General Assembly.<br>3. The SCO consists of 13 member states.<br>Select the answer using the code given below:",
-      "image": "",
-      "options": [
-        "1 only",
-        "1 and 3",
-        "1 and 2",
-        "2 and 3"
-      ],
-      "answer": "1 and 2",
-      "explanation": "Statement 1 is correct: Russian and Chinese are the official working languages of the SCO.<br>Statement 2 is correct: The SCO was granted observer status in the UN General Assembly in 2004.<br>Statement 3 is incorrect: As of late 2024/early 2025, the SCO has 10 full member states (China, India, Iran, Kazakhstan, Kyrgyzstan, Pakistan, Russia, Tajikistan, Uzbekistan, Belarus). *(Self-correction based on recent additions)*"
-    },
-    {
-      "subject": "Current Affairs (International)",
-      "question": "Financial Action Task Force is:",
-      "image": "",
-      "options": [
-        "A wing under the Central Economic Intelligence Bureau.",
-        "A division of Enforcement Directorate.",
-        "A global money laundering and terrorist financing watchdog.",
-        "A UN Anti-Corruption Agency."
-      ],
-      "answer": "A global money laundering and terrorist financing watchdog.",
-      "explanation": "The Financial Action Task Force (FATF) is an inter-governmental body established in 1989. Its primary objective is to set standards and promote effective implementation of legal, regulatory, and operational measures for combating money laundering, terrorist financing, and other related threats to the integrity of the international financial system."
-    },
-    {
-      "subject": "Current Affairs (International)",
-      "question": "In which of the following matters placed before the UN General Assembly, a resolution by two-thirds majority of the members present and voting is required?<br>1. Admission of new members to the UN.<br>2. Election of the non-permanent members of the Security Council.<br>3. Election of members of the Economic and Social Council.<br>Select the answer using the code given below:",
-      "image": "",
-      "options": [
-        "1 and 2 only",
-        "2 and 3 only",
-        "1 and 3 only",
-        "1, 2 and 3"
-      ],
-      "answer": "1, 2 and 3",
-      "explanation": "According to the UN Charter (Article 18), decisions on 'important questions' require a two-thirds majority of the members present and voting. These important questions explicitly include recommendations concerning international peace and security, the election of non-permanent members of the Security Council, the election of members of the Economic and Social Council, the admission of new Members, suspension/expulsion of Members, and budgetary questions. Therefore, all three listed matters require a two-thirds majority."
-    }
-  ],
-  "Current Affairs (National)": [
-    {
-      "subject": "Current Affairs (National)",
-      "question": "‘Bharat Parv’ was organized by the Government of India during which of the following programmes?<br>1. Republic Day 2024<br>2. National Film Festival 2024<br>3. Cannes Film Festival 2024<br>Select the answer using the code given below:",
-      "image": "",
-      "options": [
-        "1 and 2 only",
-        "2 and 3 only",
-        "1 and 3 only",
-        "1, 2 and 3"
-      ],
-      "answer": "1 and 3 only",
-      "explanation": "Bharat Parv is traditionally organized by the Ministry of Tourism alongside the Republic Day celebrations (1) in Delhi to showcase India's diverse culture. In 2024, India also organized a 'Bharat Parv' event at the Cannes Film Festival (3) to promote the Indian film industry and facilitate international collaborations. It's not typically associated directly with the National Film Festival (2) schedule itself."
-    }
-  ],
-  "Ancient History": [
-    {
-      "subject": "Ancient History",
-      "question": "Consider the following statements about the Vedanta philosophy:<br>1. Shankara was the founder of Advaita Vedanta.<br>2. The philosophy of Dvaita was elaborated by Madhva.<br>Which of the statements given above is/are correct?",
-      "image": "",
-      "options": [
-        "1 only",
-        "2 only",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
-      ],
-      "answer": "Both 1 and 2",
-      "explanation": "Statement 1 is correct: Adi Shankaracharya ( Shankara) is the most prominent exponent and consolidator of Advaita Vedanta, emphasizing the non-dualistic nature of reality (Brahman and Atman are one).<br>Statement 2 is correct: Madhvacharya (Madhva) is the founder and chief proponent of Dvaita Vedanta, which emphasizes a strict dualism between God (Vishnu), the individual soul (Jiva), and the world."
-    },
-    {
-      "subject": "Ancient History",
-      "question": "The terms used for cereals in the Rig Veda are",
-      "image": "",
-      "options": [
-        "Godhuma and Vrihi",
-        "Yava and Dhanya",
-        "Tila and Khala",
-        "Priyangu and Shyamaka"
-      ],
-      "answer": "Yava and Dhanya",
-      "explanation": "In the Rig Veda, 'Yava' commonly referred to barley, a staple grain. 'Dhanya' was a more general term used for grain or cereals collectively. 'Godhuma' (wheat) and 'Vrihi' (rice) appear more prominently in later Vedic texts."
-    },
-    {
-      "subject": "Ancient History",
-      "question": "With reference to the Mesolithic art in India, consider the following statements:<br>1. Alexander Burns discovered the first rock paintings in India at Sohagighat in Uttar Pradesh.<br>2. Bhimbetka rock paintings were discovered when archaeologist V.S.Wakankar noticed the rocks out of a train window while travelling from Bhopal to Itarsi and got off at the rock were nearest railway station to explore the site.<br>3. The paintings and engravings do not exist in the same shelter in the rock art of Orissa.<br>Which of the statements given above is/are correct?",
-      "image": "",
-      "options": [
-        "1 only",
-        "2 only",
-        "2 and 3",
-        "1 and 2"
-      ],
-      "answer": "2 only",
-      "explanation": "Statement 1 is incorrect: The first discovery of rock paintings in India (and arguably the world) was by Archibald Carlleyle in 1867-68 at Sohagighat, Mirzapur district, UP, not Alexander Burns.<br>Statement 2 is correct: V.S. Wakankar famously discovered the Bhimbetka rock shelters in 1957 after noticing similar rock formations from a train window while traveling to Nagpur, prompting him to explore the area.<br>Statement 3 is incorrect: Rock art sites in Odisha (like Lekhamoda) often feature both paintings and engravings, sometimes within the same shelter."
-    },
-    {
-      "subject": "Ancient History",
-      "question": "In the decoration of Stupas, what does the term ‘Kinjalkini’ refer to?",
-      "image": "",
-      "options": [
-        "Creepers showing ornaments and textiles",
-        "Scarves and saris",
-        "Mango shaped pendants",
-        "A garland of thousand lotus flowers"
-      ],
-      "answer": "A garland of thousand lotus flowers",
-      "explanation": "In the context of Buddhist art and stupa decoration, 'Kinjalkini' often refers to elaborate garlands, specifically described in some texts as garlands composed of or resembling a multitude of lotus flowers, symbolizing purity and auspiciousness."
-    },
-    {
-      "subject": "Ancient History",
-      "question": "Which of the following is/are the correct components of the “Lion Capital” at Sarnath?<br>1. The shaft (stambha-yashti) or the tall tapering column.<br>2. An elliptical top part — the abacus, devoid of any carvings.<br>3. Overflowing inverted petals below the abacus.<br>Select the answer using the code given below:",
-      "image": "",
-      "options": [
-        "1 only",
-        "1 and 3 only",
-        "2 and 3 only",
-        "1, 2 and 3"
-      ],
-      "answer": "1 and 3 only",
-      "explanation": "Statement 1 is correct: The Lion Capital originally sat atop a tall, monolithic, polished sandstone pillar or shaft (stambha-yashti).<br>Statement 2 is incorrect: The abacus, the platform below the lions, is circular (not elliptical) and features carvings of a horse, bull, elephant, and lion separated by Dharmachakras (wheels).<br>Statement 3 is correct: Below the abacus is a motif representing an inverted, bell-shaped lotus flower with overflowing petals."
-    }
-  ],
-  "Modern History": [
-    {
-      "subject": "Modern History",
-      "question": "The distribution of charkhas on a wide scale among the people was decided by:",
-      "image": "",
-      "options": [
-        "Congress Working Committee in 1919.",
-        "All India Congress Committee in 1921.",
-        "Mahatma Gandhi at the start of Dandi March.",
-        "All India Congress Committee in 1947."
-      ],
-      "answer": "All India Congress Committee in 1921.",
-      "explanation": "During the Non-Cooperation Movement, the promotion of Swadeshi, particularly hand-spinning (Charkha) and hand-weaving (Khadi), became central to Congress strategy. The All India Congress Committee (AICC) meeting in Bezwada (Vijayawada) in March-April 1921 set specific targets, including distributing 20 lakh charkhas across India, to boost self-reliance and boycott foreign cloth."
-    },
-    {
-      "subject": "Modern History",
-      "question": "Consider the following statements about the condition of widows in the 18th century India:<br>1. Raja Sawai Jai Singh of Amber promoted widow remarriage.<br>2. Maratha General Parshuram Bhau promoted widow remarriage.<br>3. Raja Ram Mohan Roy opposed Sati.<br>Which of the statements given above are correct?",
-      "image": "",
-      "options": [
-        "1 and 2 only",
-        "1 and 3 only",
-        "2 and 3 only",
-        "1, 2 and 3"
-      ],
-      "answer": "1, 2 and 3",
-      "explanation": "Statement 1 is correct: Raja Sawai Jai Singh II of Amber (Jaipur), known for his progressive views, did attempt social reforms including discouraging Sati and potentially encouraging widow remarriage, though large-scale success was limited.<br>Statement 2 is correct: Parshuram Bhau Patwardhan, a prominent Maratha general, is noted for his efforts towards social reform, including support for widow remarriage.<br>Statement 3 is correct: Raja Ram Mohan Roy was a leading figure in the campaign against Sati in the early 19th century (though spanning the late 18th century context), culminating in its abolition in 1829."
-    },
-    {
-      "subject": "Modern History",
-      "question": "Consider the following events leading to the Indian Independence:<br>1. Lucknow Pact<br>2. Return of Subhash Chandra Bose to India<br>3. Cripps Mission<br>4. Naval Mutiny in Bombay<br>Select the chronological sequence of these events (earliest to latest) from the code given below:",
-      "image": "",
-      "options": [
-        "4, 3, 2, 1",
-        "3, 4, 2, 1",
-        "1, 2, 3, 4",
-        "2, 1, 3, 4"
-      ],
-      "answer": "1, 2, 3, 4",
-      "explanation": "Chronological Order:<br>1. Lucknow Pact: 1916 (Agreement between Congress and Muslim League).<br>2. Return of Subhash Chandra Bose to India: Bose returned from Europe and became active in Indian politics around 1921, becoming Congress President later.<br>3. Cripps Mission: March 1942 (British attempt to secure Indian cooperation in WWII).<br>4. Naval Mutiny in Bombay: February 1946 (Ratings of the Royal Indian Navy revolted).<br>So the sequence is 1, 2, 3, 4."
-    }
-  ],
-  "Medieval History": [
-    {
-      "subject": "Medieval History",
-      "question": "Consider the following statements about the administrative measures of Shivaji:<br>1. The scheme of Ashta Pradhan (eight ministers) was completed and announced at the time of Shivaji’s coronation with regulations and duties properly defined.<br>2. Shivaji introduced Marathi in place of Persian and coined Sanskrit technical terms for administrative purposes.<br>Which of the statements given above is/are correct?",
-      "image": "",
-      "options": [
-        "1 only",
-        "2 only",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
-      ],
-      "answer": "Both 1 and 2",
-      "explanation": "Statement 1 is correct: Shivaji formally instituted the Ashta Pradhan council of eight ministers around the time of his coronation in 1674, defining their roles and responsibilities for efficient administration.<br>Statement 2 is correct: Shivaji actively promoted the use of Marathi and Sanskrit in his administration, replacing the widely used Persian. He commissioned the preparation of the 'Rajya Vyavahar Kosh', a lexicon of Sanskrit administrative terms, to facilitate this transition."
-    },
-    {
-      "subject": "Medieval History",
-      "question": "Who among the following were famous for their metal-casting skills and used to cast excellent matchlocks during the medieval period?",
-      "image": "",
-      "options": [
-        "Marathas",
-        "Rajputs",
-        "Ahoms",
-        "Gonds"
-      ],
-      "answer": "Ahoms",
-      "explanation": "The Ahom kingdom (Assam, roughly 13th-19th centuries) was particularly known for its advanced metallurgy and indigenous production of high-quality firearms, including matchlocks and cannons. They possessed significant skills in iron working and metal casting."
-    }
-  ]
+  }
+  "Polity": {
+    "Polity (Miscellaneous)": [
+      {
+        "subject": "Polity (Miscellaneous)",
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists:<br>List-I (Training Institute)<br>A. National Academy of Customs, Indirect Taxes and Narcotics<br>B. LBS National Academy of Administration<br>C. National Academy of Audit and Accounts<br>D. All India Institute of Local Self Government<br>List-II (Location)<br>1. Mussoorie<br>2. Shimla<br>3. Mumbai<br>4. Palasamudram<br>Code:<br>A B C D",
+        "image": "",
+        "options": [
+          "3 2 1 4",
+          "3 1 2 4",
+          "4 1 2 3",
+          "4 2 1 3"
+        ],
+        "answer": "4 1 2 3",
+        "explanation": "A. National Academy of Customs, Indirect Taxes and Narcotics (NACIN) - Main campus is now at Palasamudram, Andhra Pradesh -> 4<br>B. Lal Bahadur Shastri National Academy of Administration (LBSNAA) - Mussoorie -> 1<br>C. National Academy of Audit and Accounts (NAAA) - Shimla -> 2<br>D. All India Institute of Local Self Government (AIILSG) - Headquartered in Mumbai -> 3<br>Therefore, the correct code is A-4, B-1, C-2, D-3."
+      },
+      {
+        "subject": "Polity (Miscellaneous)",
+        "question": "Who among the following stated that ‘A just society is that society in which ascending sense of reverence and descending sense of contempt is dissolved into the creation of a compassionate society’?",
+        "image": "",
+        "options": [
+          "Vinoba Bhave",
+          "Bhimrao Ramji Ambedkar",
+          "Rammanohar Lohia",
+          "Jayaprakash Narayan"
+        ],
+        "answer": "Bhimrao Ramji Ambedkar",
+        "explanation": "This quote reflecting the need to dismantle graded inequality and foster compassion is attributed to Dr. B.R. Ambedkar, who extensively wrote and spoke about creating a society based on liberty, equality, and fraternity, free from caste-based discrimination and hierarchy."
+      },
+      {
+        "subject": "Polity (Miscellaneous)",
+        "question": "As per Article 371G of the Constitution of India, special provisions have been made with respect to the state of Mizoram. Accordingly, no Act of Parliament shall apply on certain matters unless the Legislative Assembly of Mizoram so decides by a resolution. Which one of the following matters is not covered under this Article?",
+        "image": "",
+        "options": [
+          "Religious or social practices of the Mizos.",
+          "Mizo customary law and procedure.",
+          "Administration of civil and criminal justice involving decisions according to Mizo customary law.",
+          "Ownership and transfer of natural resources."
+        ],
+        "answer": "Ownership and transfer of natural resources.",
+        "explanation": "Article 371G protects specific aspects related to Mizo identity and governance. It explicitly covers Acts of Parliament concerning (a) religious or social practices of the Mizos, (b) Mizo customary law and procedure, and (c) administration of civil and criminal justice involving decisions according to Mizo customary law, requiring a resolution by the Mizoram Legislative Assembly for such Acts to apply. Ownership and transfer of 'land and its resources' is mentioned, but 'natural resources' in a broader sense might not be exclusively covered in the same way, making it the most likely exclusion among the options given in the context of the Article's specific wording regarding land."
+      },
+      {
+        "subject": "Polity (Miscellaneous)",
+        "question": "The Research Design and Standards Organisation is the R&D wing of which one of the following organisations?",
+        "image": "",
+        "options": [
+          "Bhabha Atomic Research Centre",
+          "Indian Space Research Organisation",
+          "Indian Railways",
+          "Defence Research and Development Organisation"
+        ],
+        "answer": "Indian Railways",
+        "explanation": "The Research Designs and Standards Organisation (RDSO), headquartered in Lucknow, is the sole R&D wing of Indian Railways, functioning as the technical advisor and consultant to the Railway Board, Zonal Railways, and Production Units."
+      },
+      {
+        "subject": "Polity (Miscellaneous)",
+        "question": "Match List-I with List-II and select the correct answer using the code given below the Lists:<br>List-I (Speaker of Lok Sabha)<br>A. Manohar Gajanan Joshi<br>B. Somnath Chatterjee<br>C. Meira Kumar<br>D. Sumitra Mahajan<br>List-II (Lok Sabha Term)<br>1. 14th Lok Sabha<br>2. 13th Lok Sabha<br>3. 16th Lok Sabha<br>4. 15th Lok Sabha<br>Code:<br>A B C D",
+        "image": "",
+        "options": [
+          "2 1 4 3",
+          "2 4 1 3",
+          "3 4 1 2",
+          "3 1 4 2"
+        ],
+        "answer": "2 1 4 3",
+        "explanation": "A. Manohar Joshi served as Speaker during the 13th Lok Sabha (2002–2004) -> 2<br>B. Somnath Chatterjee served as Speaker during the 14th Lok Sabha (2004–2009) -> 1<br>C. Meira Kumar served as Speaker during the 15th Lok Sabha (2009–2014) -> 4<br>D. Sumitra Mahajan served as Speaker during the 16th Lok Sabha (2014–2019) -> 3<br>Therefore, the correct code is A-2, B-1, C-4, D-3."
+      }
+    ],
+    "Polity (Constitutional & Statutory Bodies)": [
+      {
+        "subject": "Polity (Constitutional & Statutory Bodies)",
+        "question": "Consider the following statements:<br>1. The Flag Code of India superseded the ‘Flag Code-India’.<br>2. The state emblem of India is an adaptation of the Lion Capital of Ashoka at Sarnath.<br>Which of the statements given above is/are correct?",
+        "image": "",
+        "options": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2",
+        "explanation": "Both the given statements are correct.<br>The Flag Code of India, 2002, came into effect on 26 January 2002, and it superseded the earlier 'Flag Code - India'.<br>The State Emblem of India, adopted on 26 January 1950, is indeed an adaptation from the Sarnath Lion Capital of Ashoka, depicting four lions standing back to back."
+      },
+      {
+        "subject": "Polity (Constitutional & Statutory Bodies)",
+        "question": "Which of the following areas has been exempted from the purview of the Citizenship (Amendment) Act, 2019?",
+        "image": "",
+        "options": [
+          "Ladakh",
+          "Jammu and Kashmir",
+          "The Sixth Schedule Areas",
+          "The Fifth Schedule Areas"
+        ],
+        "answer": "The Sixth Schedule Areas",
+        "explanation": "The Citizenship (Amendment) Act, 2019 explicitly exempts its application to the tribal areas of Assam, Meghalaya, Mizoram, and Tripura as included in the Sixth Schedule of the Constitution. It also exempts areas covered under the 'Inner Line Permit' system."
+      },
+      {
+        "subject": "Polity (Constitutional & Statutory Bodies)",
+        "question": "Which of the following statements about National Recruitment Agency is correct?",
+        "image": "",
+        "options": [
+          "It is a body to conduct Common Eligibility Test (CET) to shortlist the candidates for vacancies under ‘Group B’ and ‘Group C’ of the Government.",
+          "Employment in private sector is facilitated in all the districts, particularly 117 aspirational districts.",
+          "It was setup in 2014.",
+          "It has been accorded Constitutional status in 2021."
+        ],
+        "answer": "It is a body to conduct Common Eligibility Test (CET) to shortlist the candidates for vacancies under ‘Group B’ and ‘Group C’ of the Government.",
+        "explanation": "The National Recruitment Agency (NRA) was approved by the Union Cabinet in August 2020. Its primary mandate is to conduct a Common Eligibility Test (CET) for recruitment to non-gazetted posts (Group B and C) under the central government, aiming to streamline the initial stages of the selection process for various government jobs."
+      }
+    ],
+    "Polity (Governance & Schemes)": [
+      {
+        "subject": "Polity (Governance & Schemes)",
+        "question": "Which one of the following is not among the thematic areas of National Mission on Sustainable Habitat?",
+        "image": "",
+        "options": [
+          "Energy and Green Building",
+          "Mobility and Air Quality",
+          "Waste Management",
+          "Rural Planning, Green cover and Biodiversity"
+        ],
+        "answer": "Rural Planning, Green cover and Biodiversity",
+        "explanation": "The National Mission on Sustainable Habitat (NMSH), part of the National Action Plan on Climate Change (NAPCC), focuses primarily on urban areas. Its key thematic areas include improving energy efficiency in buildings, urban planning, managing municipal solid waste, and promoting urban transport focused on reducing emissions. Rural planning and biodiversity in that context are generally outside its direct scope."
+      },
+      {
+        "subject": "Polity (Governance & Schemes)",
+        "question": "Which one among the following statements about the objectives of Vibrant Village Programme is correct?",
+        "image": "",
+        "options": [
+          "It is a Centrally sponsored scheme.",
+          "This programme was launched in 2021.",
+          "Arunachal Pradesh, Sikkim and Manipur are the states selected under this scheme.",
+          "Villages of Uttar Pradesh along the Nepal border are selected as flagship villages under this scheme."
+        ],
+        "answer": "It is a Centrally sponsored scheme.",
+        "explanation": "The Vibrant Villages Programme (VVP) is a Centrally Sponsored Scheme approved in February 2023 (not 2021) for the comprehensive development of select villages in 46 blocks across 19 districts abutting the northern border in Arunachal Pradesh, Himachal Pradesh, Sikkim, Uttarakhand, and the UT of Ladakh (Manipur and UP are not included). It aims to improve infrastructure and livelihood opportunities."
+      }
+    ],
+    "Polity (Legal System)": [
+      {
+        "subject": "Polity (Legal System)",
+        "question": "Which of the following are the components of the Indian Legal System?<br>1. Basic values and principles enshrined in the Constitution.<br>2. Rights and obligations conferred by ordinary statutes.<br>3. Organisational set-up to enforce rights and obligations within the constitutional norms.<br>4. Legal and judicial persons.<br>Select the answer using the code given below:",
+        "image": "",
+        "options": [
+          "1, 2, 3 and 4",
+          "1, 2 and 4 only",
+          "1, 2 and 3 only",
+          "3 and 4 only"
+        ],
+        "answer": "1, 2, 3 and 4",
+        "explanation": "The Indian Legal System comprises all these elements: the foundational principles of the Constitution (1), laws made by legislatures (statutes) defining rights and duties (2), the institutions like courts and enforcement agencies (3), and the entities recognized by law (legal persons like individuals, companies) and those involved in the judicial process (judicial persons) (4)."
+      },
+      {
+        "subject": "Polity (Legal System)",
+        "question": "Which of the following statements is/are correct?<br>1. Criminal law is exclusively a subject under the State List of the Constitution of India.<br>2. Code of Civil Procedure falls under the Concurrent List of the Constitution of India.<br>Select the answer using the code given below:",
+        "image": "",
+        "options": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "answer": "2 only",
+        "explanation": "Statement 1 is incorrect: Criminal law, including the Indian Penal Code, falls under the Concurrent List (Entry 1 of List III). Criminal procedure also falls under the Concurrent List (Entry 2 of List III).<br>Statement 2 is correct: Civil procedure, including the Code of Civil Procedure, falls under the Concurrent List (Entry 13 of List III). This allows both the Centre and States to legislate on these subjects, with Central law prevailing in case of conflict."
+      },
+      {
+        "subject": "Polity (Legal System)",
+        "question": "Which one of the following organisations challenged the constitutionality of Section 377 of the Indian Penal Code in the Supreme Court of India?",
+        "image": "",
+        "options": [
+          "Naz Foundation (India) Trust",
+          "Bachpan Bachao Andolan",
+          "Sambhav Foundation India",
+          "Action Aid India"
+        ],
+        "answer": "Naz Foundation (India) Trust",
+        "explanation": "The Naz Foundation (India) Trust, an NGO working on HIV/AIDS and sexual health, was the primary petitioner that initially challenged the constitutional validity of Section 377 of the IPC (which criminalized homosexual acts) in the Delhi High Court and subsequently pursued the matter in the Supreme Court, leading eventually to the landmark Navtej Singh Johar judgment in 2018."
+      },
+      {
+        "subject": "Polity (Legal System)",
+        "question": "Which of the following statements, as per the Information Technology Act, 2000, is/are correct?<br>1. This Act provides that electronic signature is legally valid in the same manner as the handwritten signature.<br>2. Both the Central Government and State Governments have been given the power to make rules with respect to electronic signature.<br>Select the answer using the code given below:",
+        "image": "",
+        "options": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "answer": "1 only",
+        "explanation": "Statement 1 is correct: The Information Technology Act, 2000 grants legal recognition to electronic signatures (including digital signatures), giving them the same legal validity as handwritten signatures for most purposes (Section 5).<br>Statement 2 is incorrect: The power to prescribe the type of electronic signature, the manner and format, and the procedures for ensuring reliability lies primarily with the Central Government under the IT Act (e.g., Section 3A, Section 10)."
+      }
+    ]
+  },
+  "Current Affairs": {
+    "Current Affairs (International)": [
+      {
+        "subject": "Current Affairs (International)",
+        "question": "Which one of the following UN organisations has not been awarded the Nobel Prize?",
+        "image": "",
+        "options": [
+          "WFP",
+          "ILO",
+          "UNESCO",
+          "UNHCR"
+        ],
+        "answer": "UNESCO",
+        "explanation": "The World Food Programme (WFP) won in 2020. The International Labour Organization (ILO) won in 1969. The UN High Commissioner for Refugees (UNHCR) won in 1954 and 1981. The United Nations Educational, Scientific and Cultural Organization (UNESCO) has not directly received the Nobel Peace Prize, although individuals associated with it or its goals might have."
+      },
+      {
+        "subject": "Current Affairs (International)",
+        "question": "Arrange the following agreements between India and Pakistan in chronological order:<br>1. Tashkent Declaration.<br>2. Indus Water Treaty.<br>3. Agreement on the Prohibition of Attack Against Each Other’s Nuclear Installations and Facilities.<br>4. Agreement on Reducing the Risk from Accidents Relating to Nuclear Weapons.<br>Select the answer using the code given below:",
+        "image": "",
+        "options": [
+          "1, 2, 3, 4",
+          "2, 3, 1, 4",
+          "2, 1, 3, 4",
+          "1, 4, 2, 3"
+        ],
+        "answer": "2, 1, 3, 4",
+        "explanation": "Chronological Order:<br>2. Indus Waters Treaty: Signed on September 19, 1960.<br>1. Tashkent Declaration: Signed on January 10, 1966 (after the 1965 war).<br>3. Agreement on Non-Attack of Nuclear Installations: Signed on December 31, 1988 (came into force Jan 1991).<br>4. Agreement on Reducing Nuclear Accident Risk: Signed on February 21, 2007.<br>So the sequence is 2, 1, 3, 4."
+      },
+      {
+        "subject": "Current Affairs (International)",
+        "question": "Which of the following statements with regard to the Shanghai Cooperation Organisation (SCO) is/are correct?<br>1. The official languages of the SCO are Russian and Chinese.<br>2. The SCO enjoys observer status in the UN General Assembly.<br>3. The SCO consists of 13 member states.<br>Select the answer using the code given below:",
+        "image": "",
+        "options": [
+          "1 only",
+          "1 and 3",
+          "1 and 2",
+          "2 and 3"
+        ],
+        "answer": "1 and 2",
+        "explanation": "Statement 1 is correct: Russian and Chinese are the official working languages of the SCO.<br>Statement 2 is correct: The SCO was granted observer status in the UN General Assembly in 2004.<br>Statement 3 is incorrect: As of late 2024/early 2025, the SCO has 10 full member states (China, India, Iran, Kazakhstan, Kyrgyzstan, Pakistan, Russia, Tajikistan, Uzbekistan, Belarus)."
+      },
+      {
+        "subject": "Current Affairs (International)",
+        "question": "Financial Action Task Force is:",
+        "image": "",
+        "options": [
+          "A wing under the Central Economic Intelligence Bureau.",
+          "A division of Enforcement Directorate.",
+          "A global money laundering and terrorist financing watchdog.",
+          "A UN Anti-Corruption Agency."
+        ],
+        "answer": "A global money laundering and terrorist financing watchdog.",
+        "explanation": "The Financial Action Task Force (FATF) is an inter-governmental body established in 1989. Its primary objective is to set standards and promote effective implementation of legal, regulatory, and operational measures for combating money laundering, terrorist financing, and other related threats to the integrity of the international financial system."
+      },
+      {
+        "subject": "Current Affairs (International)",
+        "question": "In which of the following matters placed before the UN General Assembly, a resolution by two-thirds majority of the members present and voting is required?<br>1. Admission of new members to the UN.<br>2. Election of the non-permanent members of the Security Council.<br>3. Election of members of the Economic and Social Council.<br>Select the answer using the code given below:",
+        "image": "",
+        "options": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3",
+        "explanation": "According to the UN Charter (Article 18), decisions on 'important questions' require a two-thirds majority of the members present and voting. These important questions explicitly include recommendations concerning international peace and security, the election of non-permanent members of the Security Council, the election of members of the Economic and Social Council, the admission of new Members, suspension/expulsion of Members, and budgetary questions. Therefore, all three listed matters require a two-thirds majority."
+      }
+    ],
+    "Current Affairs (National)": [
+      {
+        "subject": "Current Affairs (National)",
+        "question": "‘Bharat Parv’ was organized by the Government of India during which of the following programmes?<br>1. Republic Day 2024<br>2. National Film Festival 2024<br>3. Cannes Film Festival 2024<br>Select the answer using the code given below:",
+        "image": "",
+        "options": [
+          "1 and 2 only",
+          "2 and 3 only",
+          "1 and 3 only",
+          "1, 2 and 3"
+        ],
+        "answer": "1 and 3 only",
+        "explanation": "Bharat Parv is traditionally organized by the Ministry of Tourism alongside the Republic Day celebrations (1) in Delhi to showcase India's diverse culture. In 2024, India also organized a 'Bharat Parv' event at the Cannes Film Festival (3) to promote the Indian film industry and facilitate international collaborations. It's not typically associated directly with the National Film Festival (2) schedule itself."
+      }
+    ]
+  },
+  "History": {
+    "Ancient History": [
+      {
+        "subject": "Ancient History",
+        "question": "Consider the following statements about the Vedanta philosophy:<br>1. Shankara was the founder of Advaita Vedanta.<br>2. The philosophy of Dvaita was elaborated by Madhva.<br>Which of the statements given above is/are correct?",
+        "image": "",
+        "options": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2",
+        "explanation": "Statement 1 is correct: Adi Shankaracharya ( Shankara) is the most prominent exponent and consolidator of Advaita Vedanta, emphasizing the non-dualistic nature of reality (Brahman and Atman are one).<br>Statement 2 is correct: Madhvacharya (Madhva) is the founder and chief proponent of Dvaita Vedanta, which emphasizes a strict dualism between God (Vishnu), the individual soul (Jiva), and the world."
+      },
+      {
+        "subject": "Ancient History",
+        "question": "The terms used for cereals in the Rig Veda are",
+        "image": "",
+        "options": [
+          "Godhuma and Vrihi",
+          "Yava and Dhanya",
+          "Tila and Khala",
+          "Priyangu and Shyamaka"
+        ],
+        "answer": "Yava and Dhanya",
+        "explanation": "In the Rig Veda, 'Yava' commonly referred to barley, a staple grain. 'Dhanya' was a more general term used for grain or cereals collectively. 'Godhuma' (wheat) and 'Vrihi' (rice) appear more prominently in later Vedic texts."
+      },
+      {
+        "subject": "Ancient History",
+        "question": "With reference to the Mesolithic art in India, consider the following statements:<br>1. Alexander Burns discovered the first rock paintings in India at Sohagighat in Uttar Pradesh.<br>2. Bhimbetka rock paintings were discovered when archaeologist V.S.Wakankar noticed the rocks out of a train window while travelling from Bhopal to Itarsi and got off at the rock were nearest railway station to explore the site.<br>3. The paintings and engravings do not exist in the same shelter in the rock art of Orissa.<br>Which of the statements given above is/are correct?",
+        "image": "",
+        "options": [
+          "1 only",
+          "2 only",
+          "2 and 3",
+          "1 and 2"
+        ],
+        "answer": "2 only",
+        "explanation": "Statement 1 is incorrect: The first discovery of rock paintings in India (and arguably the world) was by Archibald Carlleyle in 1867-68 at Sohagighat, Mirzapur district, UP, not Alexander Burns.<br>Statement 2 is correct: V.S. Wakankar famously discovered the Bhimbetka rock shelters in 1957 after noticing similar rock formations from a train window while traveling to Nagpur, prompting him to explore the area.<br>Statement 3 is incorrect: Rock art sites in Odisha (like Lekhamoda) often feature both paintings and engravings, sometimes within the same shelter."
+      },
+      {
+        "subject": "Ancient History",
+        "question": "In the decoration of Stupas, what does the term ‘Kinjalkini’ refer to?",
+        "image": "",
+        "options": [
+          "Creepers showing ornaments and textiles",
+          "Scarves and saris",
+          "Mango shaped pendants",
+          "A garland of thousand lotus flowers"
+        ],
+        "answer": "A garland of thousand lotus flowers",
+        "explanation": "In the context of Buddhist art and stupa decoration, 'Kinjalkini' often refers to elaborate garlands, specifically described in some texts as garlands composed of or resembling a multitude of lotus flowers, symbolizing purity and auspiciousness."
+      },
+      {
+        "subject": "Ancient History",
+        "question": "Which of the following is/are the correct components of the “Lion Capital” at Sarnath?<br>1. The shaft (stambha-yashti) or the tall tapering column.<br>2. An elliptical top part — the abacus, devoid of any carvings.<br>3. Overflowing inverted petals below the abacus.<br>Select the answer using the code given below:",
+        "image": "",
+        "options": [
+          "1 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "answer": "1 and 3 only",
+        "explanation": "Statement 1 is correct: The Lion Capital originally sat atop a tall, monolithic, polished sandstone pillar or shaft (stambha-yashti).<br>Statement 2 is incorrect: The abacus, the platform below the lions, is circular (not elliptical) and features carvings of a horse, bull, elephant, and lion separated by Dharmachakras (wheels).<br>Statement 3 is correct: Below the abacus is a motif representing an inverted, bell-shaped lotus flower with overflowing petals."
+      }
+    ],
+    "Modern History": [
+      {
+        "subject": "Modern History",
+        "question": "The distribution of charkhas on a wide scale among the people was decided by:",
+        "image": "",
+        "options": [
+          "Congress Working Committee in 1919.",
+          "All India Congress Committee in 1921.",
+          "Mahatma Gandhi at the start of Dandi March.",
+          "All India Congress Committee in 1947."
+        ],
+        "answer": "All India Congress Committee in 1921.",
+        "explanation": "During the Non-Cooperation Movement, the promotion of Swadeshi, particularly hand-spinning (Charkha) and hand-weaving (Khadi), became central to Congress strategy. The All India Congress Committee (AICC) meeting in Bezwada (Vijayawada) in March-April 1921 set specific targets, including distributing 20 lakh charkhas across India, to boost self-reliance and boycott foreign cloth."
+      },
+      {
+        "subject": "Modern History",
+        "question": "Consider the following statements about the condition of widows in the 18th century India:<br>1. Raja Sawai Jai Singh of Amber promoted widow remarriage.<br>2. Maratha General Parshuram Bhau promoted widow remarriage.<br>3. Raja Ram Mohan Roy opposed Sati.<br>Which of the statements given above are correct?",
+        "image": "",
+        "options": [
+          "1 and 2 only",
+          "1 and 3 only",
+          "2 and 3 only",
+          "1, 2 and 3"
+        ],
+        "answer": "1, 2 and 3",
+        "explanation": "Statement 1 is correct: Raja Sawai Jai Singh II of Amber (Jaipur), known for his progressive views, did attempt social reforms including discouraging Sati and potentially encouraging widow remarriage, though large-scale success was limited.<br>Statement 2 is correct: Parshuram Bhau Patwardhan, a prominent Maratha general, is noted for his efforts towards social reform, including support for widow remarriage.<br>Statement 3 is correct: Raja Ram Mohan Roy was a leading figure in the campaign against Sati in the early 19th century (though spanning the late 18th century context), culminating in its abolition in 1829."
+      },
+      {
+        "subject": "Modern History",
+        "question": "Consider the following events leading to the Indian Independence:<br>1. Lucknow Pact<br>2. Return of Subhash Chandra Bose to India<br>3. Cripps Mission<br>4. Naval Mutiny in Bombay<br>Select the chronological sequence of these events (earliest to latest) from the code given below:",
+        "image": "",
+        "options": [
+          "4, 3, 2, 1",
+          "3, 4, 2, 1",
+          "1, 2, 3, 4",
+          "2, 1, 3, 4"
+        ],
+        "answer": "1, 2, 3, 4",
+        "explanation": "Chronological Order:<br>1. Lucknow Pact: 1916 (Agreement between Congress and Muslim League).<br>2. Return of Subhash Chandra Bose to India: Bose returned from Europe and became active in Indian politics around 1921, becoming Congress President later.<br>3. Cripps Mission: March 1942 (British attempt to secure Indian cooperation in WWII).<br>4. Naval Mutiny in Bombay: February 1946 (Ratings of the Royal Indian Navy revolted).<br>So the sequence is 1, 2, 3, 4."
+      }
+    ],
+    "Medieval History": [
+      {
+        "subject": "Medieval History",
+        "question": "Consider the following statements about the administrative measures of Shivaji:<br>1. The scheme of Ashta Pradhan (eight ministers) was completed and announced at the time of Shivaji’s coronation with regulations and duties properly defined.<br>2. Shivaji introduced Marathi in place of Persian and coined Sanskrit technical terms for administrative purposes.<br>Which of the statements given above is/are correct?",
+        "image": "",
+        "options": [
+          "1 only",
+          "2 only",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        "answer": "Both 1 and 2",
+        "explanation": "Statement 1 is correct: Shivaji formally instituted the Ashta Pradhan council of eight ministers around the time of his coronation in 1674, defining their roles and responsibilities for efficient administration.<br>Statement 2 is correct: Shivaji actively promoted the use of Marathi and Sanskrit in his administration, replacing the widely used Persian. He commissioned the preparation of the 'Rajya Vyavahar Kosh', a lexicon of Sanskrit administrative terms, to facilitate this transition."
+      },
+      {
+        "subject": "Medieval History",
+        "question": "Who among the following were famous for their metal-casting skills and used to cast excellent matchlocks during the medieval period?",
+        "image": "",
+        "options": [
+          "Marathas",
+          "Rajputs",
+          "Ahoms",
+          "Gonds"
+        ],
+        "answer": "Ahoms",
+        "explanation": "The Ahom kingdom (Assam, roughly 13th-19th centuries) was particularly known for its advanced metallurgy and indigenous production of high-quality firearms, including matchlocks and cannons. They possessed significant skills in iron working and metal casting."
+      }
+    ]
+  }
 }
