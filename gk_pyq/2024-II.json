@@ -1,0 +1,450 @@
+{
+  "Biology (Human Physiology)": [
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Myopia is also known as:",
+      "image": "",
+      "options": [
+        "Far-sightedness",
+        "Near-sightedness",
+        "Cataract",
+        "Presbyopia"
+      ],
+      "answer": "Near-sightedness",
+      "explanation": "Myopia is a vision condition in which close objects appear clearly, but distant objects appear blurry. This occurs when the eyeball is too long or the cornea is too curved, causing light to focus in front of the retina.<br>Far-sightedness (Hyperopia) is the opposite. Cataract is clouding of the eye’s lens. Presbyopia is age-related difficulty in seeing nearby objects."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Which instrument is used to measure the blood pressure manually?",
+      "image": "",
+      "options": [
+        "Sphygmomanometer",
+        "Centrifuge",
+        "Electrophoresis",
+        "Thermal cycler"
+      ],
+      "answer": "Sphygmomanometer",
+      "explanation": "A sphygmomanometer is the standard instrument used to measure blood pressure manually. It consists of an inflatable cuff to restrict blood flow, and a mercury or aneroid manometer to measure the pressure."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Which of the following statements for persons suffering from presbyopia is/are correct?<br>1. They cannot distinguish colours.<br>2. It usually develops with ageing.<br>3. They wear either bi-focal lenses consisting of both concave and convex or progressive lenses.<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "1 and 3",
+        "2 and 3"
+      ],
+      "answer": "2 and 3",
+      "explanation": "Presbyopia is a condition related to aging, where the eye's lens loses flexibility, making it difficult to focus on close objects (Statement 2 is correct). It does not affect colour vision (Statement 1 is incorrect). Bi-focal or progressive lenses, which contain different focusing powers, are used to correct the vision problems associated with presbyopia (Statement 3 is correct)."
+    }
+  ],
+  "Biology (Botany)": [
+    {
+      "subject": "Biology (Botany)",
+      "question": "Which one among the following is not a micronutrient for plants?",
+      "image": "",
+      "options": [
+        "Iron",
+        "Manganese",
+        "Magnesium",
+        "Chlorine"
+      ],
+      "answer": "Magnesium",
+      "explanation": "Magnesium is a **macronutrient** essential for plants, being a central component of chlorophyll and involved in enzyme function. Micronutrients, required in smaller amounts, include iron (Fe), manganese (Mn), chlorine (Cl), zinc (Zn), copper (Cu), boron (B), and molybdenum (Mo)."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "Xylem in the plants are responsible for the transport of:",
+      "image": "",
+      "options": [
+        "Water",
+        "Water and dissolved minerals",
+        "Gases",
+        "Food"
+      ],
+      "answer": "Water and dissolved minerals",
+      "explanation": "The Xylem tissue in plants forms continuous tubes from roots to leaves and is primarily responsible for the bulk transport (translocation) of water and dissolved mineral nutrients absorbed from the soil upwards to the rest of the plant."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "Which one among the following hormones inhibits the growth activity in plants?",
+      "image": "",
+      "options": [
+        "Auxins",
+        "Cytokinins",
+        "Abscisic acid",
+        "Gibberellins"
+      ],
+      "answer": "Abscisic acid",
+      "explanation": "Abscisic acid (ABA) is often referred to as the 'stress hormone' in plants. It plays a crucial role in inhibiting growth, promoting dormancy (e.g., in seeds and buds), and closing stomata during water stress. Auxins, Cytokinins, and Gibberellins generally promote growth."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "Which one among the following is not a feature of Xerophytes?",
+      "image": "",
+      "options": [
+        "Smaller leaves",
+        "Large number of stomata",
+        "Waxy cuticle",
+        "Stomata in pits"
+      ],
+      "answer": "Large number of stomata",
+      "explanation": "Xerophytes are plants adapted to survive in dry conditions. To minimize water loss through transpiration, they typically have features like smaller leaves (or spines), thick waxy cuticles, stomata sunken in pits, and a **reduced number** of stomata, not a large number."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "Halophytes are the plants that grow on which one, among the following categories of soil?",
+      "image": "",
+      "options": [
+        "Acidic soil",
+        "Saline soil",
+        "Black soil",
+        "Sandy soil"
+      ],
+      "answer": "Saline soil",
+      "explanation": "Halophytes are salt-tolerant plants adapted to grow in soils or waters with high salinity, such as coastal salt marshes, mangrove swamps, and inland salt flats."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "Which one among the following is not a part of vascular bundle in plants?",
+      "image": "",
+      "options": [
+        "Phloem",
+        "Xylem",
+        "Cambium",
+        "Endodermis"
+      ],
+      "answer": "Endodermis",
+      "explanation": "A vascular bundle in plants typically contains Xylem (for water transport), Phloem (for food transport), and often Cambium (in dicots, for secondary growth). The Endodermis is a distinct layer of cells surrounding the vascular tissue in roots (and sometimes stems), regulating water and nutrient passage, but it is not considered part of the bundle itself."
+    }
+  ],
+  "Biology (Biochemistry & Biomolecules)": [
+    {
+      "subject": "Biology (Biochemistry & Biomolecules)",
+      "question": "Which of the following categories of biomolecules does Starch belong to?",
+      "image": "",
+      "options": [
+        "Protein",
+        "Carbohydrate",
+        "Lipid",
+        "Nucleic acid"
+      ],
+      "answer": "Carbohydrate",
+      "explanation": "Starch is a complex carbohydrate (a polysaccharide) made up of many glucose units linked together. It is the primary way plants store energy."
+    }
+  ],
+  "Biology (Cell Biology)": [
+    {
+      "subject": "Biology (Cell Biology)",
+      "question": "Which organelle in animal cells can digest foreign materials?",
+      "image": "",
+      "options": [
+        "Endoplasmic reticulum",
+        "Lysosome",
+        "Golgi body",
+        "Mitochondria"
+      ],
+      "answer": "Lysosome",
+      "explanation": "Lysosomes are membrane-bound organelles containing a variety of digestive enzymes (hydrolases). They break down waste materials, cellular debris, and foreign invaders like bacteria or viruses engulfed by the cell through processes like phagocytosis."
+    },
+    {
+      "subject": "Biology (Cell Biology)",
+      "question": "Photosynthesis that converts light energy into chemical energy by the plants, involves the use of green pigments of leaves called chlorophyll. The only structure in a leaf that hosts chlorophyll is:",
+      "image": "",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Chloroplast",
+        "Chromosome"
+      ],
+      "answer": "Chloroplast",
+      "explanation": "Chlorophyll, the pigment essential for photosynthesis, is located within specialized organelles called chloroplasts found in plant cells, particularly in the leaves."
+    }
+  ],
+  "Chemistry (States of Matter & Colloids)": [
+    {
+      "subject": "Chemistry (States of Matter & Colloids)",
+      "question": "In which of the following colloids is the dispersing medium a liquid?",
+      "image": "",
+      "options": [
+        "Mist",
+        "Foam",
+        "Jelly",
+        "Shaving cream"
+      ],
+      "answer": "Shaving cream",
+      "explanation": "Colloids consist of a dispersed phase within a dispersing medium.<br>- Mist: Liquid dispersed in Gas.<br>- Foam: Gas dispersed in Liquid (e.g., whipped cream, shaving cream) OR Gas dispersed in Solid (e.g., styrofoam).<br>- Jelly (Gel): Liquid dispersed in Solid.<br>Shaving cream is a foam where the dispersing medium is liquid."
+    }
+  ],
+  "Chemistry (Atomic Structure)": [
+    {
+      "subject": "Chemistry (Atomic Structure)",
+      "question": "The two isotopes of elemental chlorine are:",
+      "image": "",
+      "options": [
+        "³⁵₁₇Cl and ³⁶₁₇Cl",
+        "³⁴₁₇Cl and ³⁶₁₈Cl",
+        "³⁵₁₇Cl and ³⁷₁₈Cl",
+        "³⁵₁₇Cl and ³⁷₁₇Cl"
+      ],
+      "answer": "³⁵₁₇Cl and ³⁷₁₇Cl",
+      "explanation": "Isotopes are atoms of the same element (same atomic number, Z) but with different mass numbers (A) due to different numbers of neutrons. Chlorine (Cl) has an atomic number of 17. Its two common stable isotopes have mass numbers 35 and 37. Therefore, they are represented as ³⁵₁₇Cl (17 protons, 18 neutrons) and ³⁷₁₇Cl (17 protons, 20 neutrons)."
+    },
+    {
+      "subject": "Chemistry (Atomic Structure)",
+      "question": "Which one among the following is responsible for determining the chemical properties of an element?",
+      "image": "",
+      "options": [
+        "Protons",
+        "Electrons",
+        "Neutrons",
+        "Nucleus"
+      ],
+      "answer": "Electrons",
+      "explanation": "The chemical properties of an element are primarily determined by the number and arrangement of its electrons, particularly the valence electrons (those in the outermost shell). These electrons participate in chemical bonding and reactions."
+    }
+  ],
+  "Chemistry (Properties & Reactions)": [
+    {
+      "subject": "Chemistry (Properties & Reactions)",
+      "question": "Which one among the following metals is not stored under oil?",
+      "image": "",
+      "options": [
+        "Sodium",
+        "Rubidium",
+        "Potassium",
+        "Lithium"
+      ],
+      "answer": "Lithium",
+      "explanation": "Alkali metals like Sodium (Na), Potassium (K), and Rubidium (Rb) are highly reactive with air and moisture and are typically stored under mineral oil or kerosene to prevent reaction. Lithium (Li), while also reactive, is less dense than oil and would float. It is often stored coated in petroleum jelly or paraffin wax, or in an inert atmosphere."
+    },
+    {
+      "subject": "Chemistry (Properties & Reactions)",
+      "question": "Potassium nitrate is not used:",
+      "image": "",
+      "options": [
+        "as a fertiliser",
+        "in medicine",
+        "in making gunpowder",
+        "as a preservative of meat products"
+      ],
+      "answer": "in medicine",
+      "explanation": "Potassium nitrate (KNO₃), also known as saltpeter, is widely used as a fertiliser (source of potassium and nitrogen), as an oxidizer in gunpowder, and as a food preservative (especially for curing meats). While some potassium compounds are used medically, potassium nitrate itself is not typically used directly in medicine due to potential toxicity."
+    },
+    {
+      "subject": "Chemistry (Properties & Reactions)",
+      "question": "The surface of the concrete structure of a new construction is covered with straw/gunny bags by wetting. This is done to:",
+      "image": "",
+      "options": [
+        "prevent fast evaporation, until hydration has proceeded well.",
+        "protect the concrete structure from contamination by dust particles.",
+        "prevent development of any fungus on the surface.",
+        "give smoother and cleaner surface over cement structure."
+      ],
+      "answer": "prevent fast evaporation, until hydration has proceeded well.",
+      "explanation": "This process, called curing, is crucial for concrete strength. Wetting the covering keeps the concrete surface moist, slowing down the evaporation of water. This ensures that sufficient water is available for the chemical reaction (hydration) between cement and water to proceed properly, leading to stronger, more durable concrete with fewer cracks."
+    },
+    {
+      "subject": "Chemistry (Properties & Reactions)",
+      "question": "Which one among the following statements for the gases mentioned below is not correct?",
+      "image": "",
+      "options": [
+        "Hydrogen has 3 isotopes.",
+        "Helium is a commonly used gas in electric bulbs.",
+        "Oxygen is used to burn fuel in rocket engines in spacecraft.",
+        "Nitrogen can be used in gaseous form to replace air in food packaging."
+      ],
+      "answer": "Helium is a commonly used gas in electric bulbs.",
+      "explanation": "Hydrogen isotopes are Protium (¹H), Deuterium (²H), Tritium (³H). Oxygen is used as an oxidizer in rocket engines. Nitrogen is used in food packaging (modified atmosphere packaging). However, inert gases like Argon (Ar) or sometimes Krypton (Kr) or Nitrogen mixtures are commonly used in incandescent electric bulbs, not Helium (He), to prevent filament oxidation and evaporation."
+    },
+    {
+      "subject": "Chemistry (Properties & Reactions)",
+      "question": "Which one among the following statements is not true for glass?",
+      "image": "",
+      "options": [
+        "Sodium silicate is known as water glass.",
+        "Glass is also called super cooled liquid.",
+        "Crystallinity develops on cooling of the molten mass of the glass.",
+        "Coloured glasses can be made by adding different colouring materials."
+      ],
+      "answer": "Crystallinity develops on cooling of the molten mass of the glass.",
+      "explanation": "Glass is an amorphous solid, meaning its atoms lack a long-range ordered structure like crystals. It's often called a supercooled liquid because its structure resembles a liquid frozen in place. Cooling molten glass typically prevents crystallization. Sodium silicate is water glass. Adding metal oxides creates colored glass. Therefore, the statement about crystallinity developing on cooling is incorrect for typical glass formation."
+    },
+    {
+      "subject": "Chemistry (Properties & Reactions)",
+      "question": "Which one among the following is used in bleaching of paper?",
+      "image": "",
+      "options": [
+        "Chloride",
+        "Chlorobenzene",
+        "Ammonium chloride",
+        "Hydrochloric acid"
+      ],
+      "answer": "Chloride",
+      "explanation": "While 'Chloride' itself isn't the bleaching agent, chlorine compounds derived from chloride ions are used. Common paper bleaching agents include chlorine dioxide (ClO₂), elemental chlorine (Cl₂ - less common now due to environmental concerns), and sodium hypochlorite (NaClO). The active bleaching species are often related to chlorine or its oxides. The other options are different chemicals not typically used for paper bleaching."
+    }
+  ],
+  "Chemistry (Chemical Names & Formulas)": [
+    {
+      "subject": "Chemistry (Chemical Names & Formulas)",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists:<br>List-I (Trade Name)<br>A. Bleaching powder<br>B. Baking soda<br>C. Washing soda<br>D. Plaster of Paris<br>List-II (Chemical Name)<br>1. Sodium bicarbonate<br>2. Sodium carbonate, 10 water<br>3. Calcium oxychloride<br>4. Calcium sulphate, 1/2 water<br>Code:<br>A B C D",
+      "image": "",
+      "options": [
+        "3 1 2 4",
+        "3 2 1 4",
+        "4 2 1 3",
+        "4 1 2 3"
+      ],
+      "answer": "3 1 2 4",
+      "explanation": "A. Bleaching powder is Calcium oxychloride (CaOCl₂) -> 3<br>B. Baking soda is Sodium bicarbonate (NaHCO₃) -> 1<br>C. Washing soda is Sodium carbonate decahydrate (Na₂CO₃·10H₂O) -> 2<br>D. Plaster of Paris is Calcium sulphate hemihydrate (CaSO₄·½H₂O) -> 4<br>Therefore, the correct code is A-3, B-1, C-2, D-4."
+    }
+  ],
+  "Physics (Waves & Properties)": [
+    {
+      "subject": "Physics (Waves & Properties)",
+      "question": "In which one among the following mediums would the speed of sound be maximum?",
+      "image": "",
+      "options": [
+        "Distilled water",
+        "Sea water",
+        "Drinking water",
+        "Methanol"
+      ],
+      "answer": "Sea water",
+      "explanation": "The speed of sound generally depends on the density and elasticity (bulk modulus) of the medium. Sound travels faster in denser liquids and generally faster in liquids than gases. Among the given options, sea water is slightly denser and less compressible than distilled or drinking water due to dissolved salts, leading to a higher speed of sound. Methanol is less dense than water, resulting in a lower speed of sound compared to water. Speed: Sea Water > Distilled/Drinking Water > Methanol. *(Self-correction: Previous explanation incorrectly stated Methanol)*"
+    },
+    {
+      "subject": "Physics (Waves & Properties)",
+      "question": "X-rays can be used to:<br>1. inspect welded joints between two metal parts of a machine.<br>2. study the structure of crystals.<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Statement 1 is correct: X-rays are used in industrial radiography (a form of non-destructive testing) to detect internal flaws like cracks or voids in welds and castings because they can penetrate metals.<br>Statement 2 is correct: X-ray crystallography (or X-ray diffraction) is a standard technique used to determine the arrangement of atoms within a crystal by analyzing how a beam of X-rays scatters off the crystal lattice."
+    },
+    {
+      "subject": "Physics (Waves & Properties)",
+      "question": "A sound wave having frequency of 300 Hz is travelling in an unknown medium. Its wavelength is not known. It travels a distance equal to 150 times its wavelength in time t. The value of t is:",
+      "image": "",
+      "options": [
+        "0.5 s",
+        "1 s",
+        "1.5 s",
+        "2 s"
+      ],
+      "answer": "0.5 s",
+      "explanation": "Let the wavelength be λ. The distance travelled is D = 150λ. The speed of the wave is v = frequency × wavelength = fλ.<br>Time taken is t = Distance / Speed.<br>t = D / v = (150λ) / (fλ)<br>The wavelength λ cancels out.<br>t = 150 / f<br>Given f = 300 Hz.<br>t = 150 / 300 = 1/2 = 0.5 seconds."
+    }
+  ],
+  "Physics (Heat Transfer)": [
+    {
+      "subject": "Physics (Heat Transfer)",
+      "question": "Which one of the following heat transfers is an example of convection?",
+      "image": "",
+      "options": [
+        "Heating of food in a microwave oven.",
+        "Boiling water in a pot on a gas stove.",
+        "Feeling the warmth in sun.",
+        "Heating a brass rod at one end and observing the temperature rise at the other end."
+      ],
+      "answer": "Boiling water in a pot on a gas stove.",
+      "explanation": "Convection is heat transfer through the bulk movement of fluids (liquids or gases). When water boils, the heated water at the bottom becomes less dense and rises, while cooler, denser water sinks, creating convection currents.<br>(a) Microwave heating involves radiation.<br>(c) Feeling warmth from the sun involves radiation.<br>(d) Heating a rod involves conduction."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "The phenomenon of rainbow formation by water droplets involves:",
+      "image": "",
+      "options": [
+        "single refraction of sunlight.",
+        "one internal reflection of sunlight.",
+        "two internal reflections of sunlight.",
+        "both refraction and internal reflection of sunlight."
+      ],
+      "answer": "both refraction and internal reflection of sunlight.",
+      "explanation": "A primary rainbow is formed when sunlight enters a water droplet, undergoes refraction and dispersion (splitting into colors), then reflects once internally off the back surface of the droplet, and finally refracts again as it exits the droplet. So, it involves both refraction (twice) and one internal reflection, along with dispersion."
+    }
+  ],
+  "Geography (Atmosphere & Environment)": [
+    {
+      "subject": "Geography (Atmosphere & Environment)",
+      "question": "Ozone hole is a region over:",
+      "image": "",
+      "options": [
+        "the Antarctic caused mainly by CFC gases.",
+        "the Antarctic caused mainly by carbon dioxide gas.",
+        "the Arctic caused mainly by CFC gases.",
+        "the Arctic caused mainly by carbon dioxide gas."
+      ],
+      "answer": "the Antarctic caused mainly by CFC gases.",
+      "explanation": "The 'ozone hole' refers to the significant seasonal thinning of the ozone layer in the stratosphere, which is most pronounced over Antarctica during its spring (August-October). This depletion is primarily caused by human-produced chemicals, especially chlorofluorocarbons (CFCs), which release chlorine and bromine atoms that catalytically destroy ozone molecules under specific polar stratospheric conditions."
+    }
+  ],
+  "Current Affairs (Science & Tech)": [
+    {
+      "subject": "Current Affairs (Science & Tech)",
+      "question": "Which of the following are the major missions of Indian Space Research Organisation in 2023?<br>1. Chandrayaan-3<br>2. Solar Mission Aditya-L1<br>3. Liquid fuel powered rockets<br>4. Solar powered rockets<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3",
+        "3 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": "1 and 2 only",
+      "explanation": "In 2023, ISRO achieved two major milestones:<br>1. Chandrayaan-3: Successfully soft-landed near the Moon's south pole in August 2023.<br>2. Aditya-L1: Launched India's first dedicated solar observatory mission in September 2023.<br>ISRO routinely uses liquid-fueled rocket stages (like PSLV's PS2/PS4, GSLV's L40/Cryo stages), so 'Liquid fuel powered rockets' isn't a specific major mission *of 2023* itself. Solar-powered rockets are not a current operational technology for ISRO's primary launch vehicles."
+    }
+  ],
+  "Physics (Electricity & Static)": [
+    {
+      "subject": "Physics (Electricity & Static)",
+      "question": "Which one of the following is the most appropriate reason for aircraft being equipped with conducting tyres?",
+      "image": "",
+      "options": [
+        "They can transfer the charge accumulated on their surfaces during lightning",
+        "They can transfer the charge accumulated on their surfaces being rubbed by air particles.",
+        "They can transfer the charge accumulated on their surfaces due to inflight operation of several gadgets.",
+        "For preventing sparks while they land on the ground."
+      ],
+      "answer": "For preventing sparks while they land on the ground.",
+      "explanation": "Aircraft accumulate static electric charge during flight due to friction with air particles. Upon landing, if this charge isn't dissipated safely, a large potential difference between the aircraft and the ground can cause a spark, which is extremely dangerous near fuel vapors. Conducting tyres provide a path for this static charge to safely discharge to the ground immediately upon touchdown, preventing sparks."
+    }
+  ],
+  "Current Affairs (Defence)": [
+    {
+      "subject": "Current Affairs (Defence)",
+      "question": "Mission Shakti (DRDO) of India is related to which one among the following?",
+      "image": "",
+      "options": [
+        "Launch of multiple satellites using a single rocket.",
+        "Launch of heavy satellites.",
+        "Use of high power rockets in launching of satellites.",
+        "Use of rocket to destroy an orbiting satellite."
+      ],
+      "answer": "Use of rocket to destroy an orbiting satellite.",
+      "explanation": "Mission Shakti was the successful Anti-Satellite (ASAT) missile test conducted by India's Defence Research and Development Organisation (DRDO) on 27 March 2019. During the test, a missile destroyed an Indian satellite in Low Earth Orbit, demonstrating India's capability as a space power."
+    }
+  ],
+  "Physics (Mechanics & Astrophysics)": [
+    {
+      "subject": "Physics (Mechanics & Astrophysics)",
+      "question": "In Sun–Earth system, the Sun, the Earth and the Lagrange point L4 form:",
+      "image": "",
+      "options": [
+        "an isosceles triangle",
+        "an equilateral triangle",
+        "a straight line",
+        "a scalene triangle"
+      ],
+      "answer": "an equilateral triangle",
+      "explanation": "The Lagrange points are positions in an orbital system of two large bodies where a smaller object can maintain a stable position relative to the large bodies. L4 and L5 are located 60 degrees ahead of and 60 degrees behind the smaller body (Earth) in its orbit around the larger body (Sun). These points form equilateral triangles with the two large bodies (Sun and Earth)."
+    }
+  ]
+}
