@@ -1,5 +1,46 @@
 {
   "Science": {
+    "Biology (Human Physiology)": [
+      {
+        "subject": "Biology (Human Physiology)",
+        "question": "Myopia is also known as:",
+        "image": "",
+        "options": [
+          "Far-sightedness",
+          "Near-sightedness",
+          "Cataract",
+          "Presbyopia"
+        ],
+        "answer": "Near-sightedness",
+        "explanation": "Myopia is a vision condition in which close objects appear clearly, but distant objects appear blurry. This occurs when the eyeball is too long or the cornea is too curved, causing light to focus in front of the retina.<br>Far-sightedness (Hyperopia) is the opposite. Cataract is clouding of the eye’s lens. Presbyopia is age-related difficulty in seeing nearby objects."
+      },
+      {
+        "subject": "Biology (Human Physiology)",
+        "question": "Which instrument is used to measure the blood pressure manually?",
+        "image": "",
+        "options": [
+          "Sphygmomanometer",
+          "Centrifuge",
+          "Electrophoresis",
+          "Thermal cycler"
+        ],
+        "answer": "Sphygmomanometer",
+        "explanation": "A sphygmomanometer is the standard instrument used to measure blood pressure manually. It consists of an inflatable cuff to restrict blood flow, and a mercury or aneroid manometer to measure the pressure."
+      },
+      {
+        "subject": "Biology (Human Physiology)",
+        "question": "Which of the following statements for persons suffering from presbyopia is/are correct?<br>1. They cannot distinguish colours.<br>2. It usually develops with ageing.<br>3. They wear either bi-focal lenses consisting of both concave and convex or progressive lenses.<br>Select the answer using the code given below:",
+        "image": "",
+        "options": [
+          "1 only",
+          "2 only",
+          "1 and 3",
+          "2 and 3"
+        ],
+        "answer": "2 and 3",
+        "explanation": "Presbyopia is a condition related to aging, where the eye's lens loses flexibility, making it difficult to focus on close objects (Statement 2 is correct). It does not affect colour vision (Statement 1 is incorrect). Bi-focal or progressive lenses, which contain different focusing powers, are used to correct the vision problems associated with presbyopia (Statement 3 is correct)."
+      }
+    ],
     "Biology (Botany)": [
       {
         "subject": "Biology (Botany)",
@@ -332,87 +373,85 @@
         "explanation": "A primary rainbow is formed when sunlight enters a water droplet, undergoes refraction and dispersion (splitting into colors), then reflects once internally off the back surface of the droplet, and finally refracts again as it exits the droplet. So, it involves both refraction (twice) and one internal reflection, along with dispersion."
       }
     ],
-    "Geography": {
-       "Geography (Atmosphere & Environment)": [
-        {
-          "subject": "Geography (Atmosphere & Environment)",
-          "question": "Ozone hole is a region over:",
-          "image": "",
-          "options": [
-            "the Antarctic caused mainly by CFC gases.",
-            "the Antarctic caused mainly by carbon dioxide gas.",
-            "the Arctic caused mainly by CFC gases.",
-            "the Arctic caused mainly by carbon dioxide gas."
-          ],
-          "answer": "the Antarctic caused mainly by CFC gases.",
-          "explanation": "The 'ozone hole' refers to the significant seasonal thinning of the ozone layer in the stratosphere, which is most pronounced over Antarctica during its spring (August-October). This depletion is primarily caused by human-produced chemicals, especially chlorofluorocarbons (CFCs), which release chlorine and bromine atoms that catalytically destroy ozone molecules under specific polar stratospheric conditions."
-        }
-       ]
-    },
-    "Current Affairs": {
-        "Current Affairs (Science & Tech)": [
-            {
-              "subject": "Current Affairs (Science & Tech)",
-              "question": "Which of the following are the major missions of Indian Space Research Organisation in 2023?<br>1. Chandrayaan-3<br>2. Solar Mission Aditya-L1<br>3. Liquid fuel powered rockets<br>4. Solar powered rockets<br>Select the answer using the code given below:",
-              "image": "",
-              "options": [
-                "1 and 2 only",
-                "1, 2 and 3",
-                "3 and 4 only",
-                "1, 2, 3 and 4"
-              ],
-              "answer": "1 and 2 only",
-              "explanation": "In 2023, ISRO achieved two major milestones:<br>1. Chandrayaan-3: Successfully soft-landed near the Moon's south pole in August 2023.<br>2. Aditya-L1: Launched India's first dedicated solar observatory mission in September 2023.<br>ISRO routinely uses liquid-fueled rocket stages (like PSLV's PS2/PS4, GSLV's L40/Cryo stages), so 'Liquid fuel powered rockets' isn't a specific major mission *of 2023* itself. Solar-powered rockets are not a current operational technology for ISRO's primary launch vehicles."
-            }
+    "Physics (Electricity & Static)": [
+      {
+        "subject": "Physics (Electricity & Static)",
+        "question": "Which one of the following is the most appropriate reason for aircraft being equipped with conducting tyres?",
+        "image": "",
+        "options": [
+          "They can transfer the charge accumulated on their surfaces during lightning",
+          "They can transfer the charge accumulated on their surfaces being rubbed by air particles.",
+          "They can transfer the charge accumulated on their surfaces due to inflight operation of several gadgets.",
+          "For preventing sparks while they land on the ground."
         ],
-         "Current Affairs (Defence)": [
-            {
-              "subject": "Current Affairs (Defence)",
-              "question": "Mission Shakti (DRDO) of India is related to which one among the following?",
-              "image": "",
-              "options": [
-                "Launch of multiple satellites using a single rocket.",
-                "Launch of heavy satellites.",
-                "Use of high power rockets in launching of satellites.",
-                "Use of rocket to destroy an orbiting satellite."
-              ],
-              "answer": "Use of rocket to destroy an orbiting satellite.",
-              "explanation": "Mission Shakti was the successful Anti-Satellite (ASAT) missile test conducted by India's Defence Research and Development Organisation (DRDO) on 27 March 2019. During the test, a missile destroyed an Indian satellite in Low Earth Orbit, demonstrating India's capability as a space power."
-            }
-         ]
-    },
-    "Physics": {
-        "Physics (Electricity & Static)": [
-            {
-              "subject": "Physics (Electricity & Static)",
-              "question": "Which one of the following is the most appropriate reason for aircraft being equipped with conducting tyres?",
-              "image": "",
-              "options": [
-                "They can transfer the charge accumulated on their surfaces during lightning",
-                "They can transfer the charge accumulated on their surfaces being rubbed by air particles.",
-                "They can transfer the charge accumulated on their surfaces due to inflight operation of several gadgets.",
-                "For preventing sparks while they land on the ground."
-              ],
-              "answer": "For preventing sparks while they land on the ground.",
-              "explanation": "Aircraft accumulate static electric charge during flight due to friction with air particles. Upon landing, if this charge isn't dissipated safely, a large potential difference between the aircraft and the ground can cause a spark, which is extremely dangerous near fuel vapors. Conducting tyres provide a path for this static charge to safely discharge to the ground immediately upon touchdown, preventing sparks."
-            }
+        "answer": "For preventing sparks while they land on the ground.",
+        "explanation": "Aircraft accumulate static electric charge during flight due to friction with air particles. Upon landing, if this charge isn't dissipated safely, a large potential difference between the aircraft and the ground can cause a spark, which is extremely dangerous near fuel vapors. Conducting tyres provide a path for this static charge to safely discharge to the ground immediately upon touchdown, preventing sparks."
+      }
+    ],
+    "Physics (Mechanics & Astrophysics)": [
+      {
+        "subject": "Physics (Mechanics & Astrophysics)",
+        "question": "In Sun–Earth system, the Sun, the Earth and the Lagrange point L4 form:",
+        "image": "",
+        "options": [
+          "an isosceles triangle",
+          "an equilateral triangle",
+          "a straight line",
+          "a scalene triangle"
         ],
-         "Physics (Mechanics & Astrophysics)": [
-            {
-              "subject": "Physics (Mechanics & Astrophysics)",
-              "question": "In Sun–Earth system, the Sun, the Earth and the Lagrange point L4 form:",
-              "image": "",
-              "options": [
-                "an isosceles triangle",
-                "an equilateral triangle",
-                "a straight line",
-                "a scalene triangle"
-              ],
-              "answer": "an equilateral triangle",
-              "explanation": "The Lagrange points are positions in an orbital system of two large bodies where a smaller object can maintain a stable position relative to the large bodies. L4 and L5 are located 60 degrees ahead of and 60 degrees behind the smaller body (Earth) in its orbit around the larger body (Sun). These points form equilateral triangles with the two large bodies (Sun and Earth)."
-            }
-         ]
-    }
+        "answer": "an equilateral triangle",
+        "explanation": "The Lagrange points are positions in an orbital system of two large bodies where a smaller object can maintain a stable position relative to the large bodies. L4 and L5 are located 60 degrees ahead of and 60 degrees behind the smaller body (Earth) in its orbit around the larger body (Sun). These points form equilateral triangles with the two large bodies (Sun and Earth)."
+      }
+    ]
+  },
+  "Geography": {
+    "Geography (Atmosphere & Environment)": [
+      {
+        "subject": "Geography (Atmosphere & Environment)",
+        "question": "Ozone hole is a region over:",
+        "image": "",
+        "options": [
+          "the Antarctic caused mainly by CFC gases.",
+          "the Antarctic caused mainly by carbon dioxide gas.",
+          "the Arctic caused mainly by CFC gases.",
+          "the Arctic caused mainly by carbon dioxide gas."
+        ],
+        "answer": "the Antarctic caused mainly by CFC gases.",
+        "explanation": "The 'ozone hole' refers to the significant seasonal thinning of the ozone layer in the stratosphere, which is most pronounced over Antarctica during its spring (August-October). This depletion is primarily caused by human-produced chemicals, especially chlorofluorocarbons (CFCs), which release chlorine and bromine atoms that catalytically destroy ozone molecules under specific polar stratospheric conditions."
+      }
+    ]
+  },
+  "Current Affairs": {
+    "Current Affairs (Science & Tech)": [
+      {
+        "subject": "Current Affairs (Science & Tech)",
+        "question": "Which of the following are the major missions of Indian Space Research Organisation in 2023?<br>1. Chandrayaan-3<br>2. Solar Mission Aditya-L1<br>3. Liquid fuel powered rockets<br>4. Solar powered rockets<br>Select the answer using the code given below:",
+        "image": "",
+        "options": [
+          "1 and 2 only",
+          "1, 2 and 3",
+          "3 and 4 only",
+          "1, 2, 3 and 4"
+        ],
+        "answer": "1 and 2 only",
+        "explanation": "In 2023, ISRO achieved two major milestones:<br>1. Chandrayaan-3: Successfully soft-landed near the Moon's south pole in August 2023.<br>2. Aditya-L1: Launched India's first dedicated solar observatory mission in September 2023.<br>ISRO routinely uses liquid-fueled rocket stages (like PSLV's PS2/PS4, GSLV's L40/Cryo stages), so 'Liquid fuel powered rockets' isn't a specific major mission *of 2023* itself. Solar-powered rockets are not a current operational technology for ISRO's primary launch vehicles."
+      }
+    ],
+    "Current Affairs (Defence)": [
+      {
+        "subject": "Current Affairs (Defence)",
+        "question": "Mission Shakti (DRDO) of India is related to which one among the following?",
+        "image": "",
+        "options": [
+          "Launch of multiple satellites using a single rocket.",
+          "Launch of heavy satellites.",
+          "Use of high power rockets in launching of satellites.",
+          "Use of rocket to destroy an orbiting satellite."
+        ],
+        "answer": "Use of rocket to destroy an orbiting satellite.",
+        "explanation": "Mission Shakti was the successful Anti-Satellite (ASAT) missile test conducted by India's Defence Research and Development Organisation (DRDO) on 27 March 2019. During the test, a missile destroyed an Indian satellite in Low Earth Orbit, demonstrating India's capability as a space power."
+      }
+    ]
   },
   "Polity": {
     "Polity (Miscellaneous)": [
