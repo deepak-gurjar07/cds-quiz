@@ -1,0 +1,192 @@
+{
+  "Polity (Miscellaneous)": [
+    {
+      "subject": "Polity (Miscellaneous)",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists:<br>List-I (Training Institute)<br>A. National Academy of Customs, Indirect Taxes and Narcotics<br>B. LBS National Academy of Administration<br>C. National Academy of Audit and Accounts<br>D. All India Institute of Local Self Government<br>List-II (Location)<br>1. Mussoorie<br>2. Shimla<br>3. Mumbai<br>4. Palasamudram<br>Code:<br>A B C D",
+      "image": "",
+      "options": [
+        "3 2 1 4",
+        "3 1 2 4",
+        "4 1 2 3",
+        "4 2 1 3"
+      ],
+      "answer": "4 1 2 3",
+      "explanation": "A. National Academy of Customs, Indirect Taxes and Narcotics (NACIN) - Main campus is now at Palasamudram, Andhra Pradesh -> 4<br>B. Lal Bahadur Shastri National Academy of Administration (LBSNAA) - Mussoorie -> 1<br>C. National Academy of Audit and Accounts (NAAA) - Shimla -> 2<br>D. All India Institute of Local Self Government (AIILSG) - Headquartered in Mumbai -> 3<br>Therefore, the correct code is A-4, B-1, C-2, D-3."
+    },
+    {
+      "subject": "Polity (Miscellaneous)",
+      "question": "Who among the following stated that ‘A just society is that society in which ascending sense of reverence and descending sense of contempt is dissolved into the creation of a compassionate society’?",
+      "image": "",
+      "options": [
+        "Vinoba Bhave",
+        "Bhimrao Ramji Ambedkar",
+        "Rammanohar Lohia",
+        "Jayaprakash Narayan"
+      ],
+      "answer": "Bhimrao Ramji Ambedkar",
+      "explanation": "This quote reflecting the need to dismantle graded inequality and foster compassion is attributed to Dr. B.R. Ambedkar, who extensively wrote and spoke about creating a society based on liberty, equality, and fraternity, free from caste-based discrimination and hierarchy."
+    },
+    {
+      "subject": "Polity (Miscellaneous)",
+      "question": "As per Article 371G of the Constitution of India, special provisions have been made with respect to the state of Mizoram. Accordingly, no Act of Parliament shall apply on certain matters unless the Legislative Assembly of Mizoram so decides by a resolution. Which one of the following matters is not covered under this Article?",
+      "image": "",
+      "options": [
+        "Religious or social practices of the Mizos.",
+        "Mizo customary law and procedure.",
+        "Administration of civil and criminal justice involving decisions according to Mizo customary law.",
+        "Ownership and transfer of natural resources."
+      ],
+      "answer": "Ownership and transfer of natural resources.",
+      "explanation": "Article 371G protects specific aspects related to Mizo identity and governance. It explicitly covers Acts of Parliament concerning (a) religious or social practices of the Mizos, (b) Mizo customary law and procedure, and (c) administration of civil and criminal justice involving decisions according to Mizo customary law, requiring a resolution by the Mizoram Legislative Assembly for such Acts to apply. Ownership and transfer of 'land and its resources' is mentioned, but 'natural resources' in a broader sense might not be exclusively covered in the same way, making it the most likely exclusion among the options given in the context of the Article's specific wording regarding land."
+    },
+    {
+      "subject": "Polity (Miscellaneous)",
+      "question": "The Research Design and Standards Organisation is the R&D wing of which one of the following organisations?",
+      "image": "",
+      "options": [
+        "Bhabha Atomic Research Centre",
+        "Indian Space Research Organisation",
+        "Indian Railways",
+        "Defence Research and Development Organisation"
+      ],
+      "answer": "Indian Railways",
+      "explanation": "The Research Designs and Standards Organisation (RDSO), headquartered in Lucknow, is the sole R&D wing of Indian Railways, functioning as the technical advisor and consultant to the Railway Board, Zonal Railways, and Production Units."
+    },
+    {
+      "subject": "Polity (Miscellaneous)",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists:<br>List-I (Speaker of Lok Sabha)<br>A. Manohar Gajanan Joshi<br>B. Somnath Chatterjee<br>C. Meira Kumar<br>D. Sumitra Mahajan<br>List-II (Lok Sabha Term)<br>1. 14th Lok Sabha<br>2. 13th Lok Sabha<br>3. 16th Lok Sabha<br>4. 15th Lok Sabha<br>Code:<br>A B C D",
+      "image": "",
+      "options": [
+        "2 1 4 3",
+        "2 4 1 3",
+        "3 4 1 2",
+        "3 1 4 2"
+      ],
+      "answer": "2 1 4 3",
+      "explanation": "A. Manohar Joshi served as Speaker during the 13th Lok Sabha (2002–2004) -> 2<br>B. Somnath Chatterjee served as Speaker during the 14th Lok Sabha (2004–2009) -> 1<br>C. Meira Kumar served as Speaker during the 15th Lok Sabha (2009–2014) -> 4<br>D. Sumitra Mahajan served as Speaker during the 16th Lok Sabha (2014–2019) -> 3<br>Therefore, the correct code is A-2, B-1, C-4, D-3."
+    }
+  ],
+  "Polity (Constitutional & Statutory Bodies)": [
+    {
+      "subject": "Polity (Constitutional & Statutory Bodies)",
+      "question": "Consider the following statements:<br>1. The Flag Code of India superseded the ‘Flag Code-India’.<br>2. The state emblem of India is an adaptation of the Lion Capital of Ashoka at Sarnath.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Both the given statements are correct.<br>The Flag Code of India, 2002, came into effect on 26 January 2002, and it superseded the earlier 'Flag Code - India'.<br>The State Emblem of India, adopted on 26 January 1950, is indeed an adaptation from the Sarnath Lion Capital of Ashoka, depicting four lions standing back to back."
+    },
+    {
+      "subject": "Polity (Constitutional & Statutory Bodies)",
+      "question": "Which of the following areas has been exempted from the purview of the Citizenship (Amendment) Act, 2019?",
+      "image": "",
+      "options": [
+        "Ladakh",
+        "Jammu and Kashmir",
+        "The Sixth Schedule Areas",
+        "The Fifth Schedule Areas"
+      ],
+      "answer": "The Sixth Schedule Areas",
+      "explanation": "The Citizenship (Amendment) Act, 2019 explicitly exempts its application to the tribal areas of Assam, Meghalaya, Mizoram, and Tripura as included in the Sixth Schedule of the Constitution. It also exempts areas covered under the 'Inner Line Permit' system."
+    },
+    {
+      "subject": "Polity (Constitutional & Statutory Bodies)",
+      "question": "Which of the following statements about National Recruitment Agency is correct?",
+      "image": "",
+      "options": [
+        "It is a body to conduct Common Eligibility Test (CET) to shortlist the candidates for vacancies under ‘Group B’ and ‘Group C’ of the Government.",
+        "Employment in private sector is facilitated in all the districts, particularly 117 aspirational districts.",
+        "It was setup in 2014.",
+        "It has been accorded Constitutional status in 2021."
+      ],
+      "answer": "It is a body to conduct Common Eligibility Test (CET) to shortlist the candidates for vacancies under ‘Group B’ and ‘Group C’ of the Government.",
+      "explanation": "The National Recruitment Agency (NRA) was approved by the Union Cabinet in August 2020. Its primary mandate is to conduct a Common Eligibility Test (CET) for recruitment to non-gazetted posts (Group B and C) under the central government, aiming to streamline the initial stages of the selection process for various government jobs."
+    }
+  ],
+  "Polity (Governance & Schemes)": [
+    {
+      "subject": "Polity (Governance & Schemes)",
+      "question": "Which one of the following is not among the thematic areas of National Mission on Sustainable Habitat?",
+      "image": "",
+      "options": [
+        "Energy and Green Building",
+        "Mobility and Air Quality",
+        "Waste Management",
+        "Rural Planning, Green cover and Biodiversity"
+      ],
+      "answer": "Rural Planning, Green cover and Biodiversity",
+      "explanation": "The National Mission on Sustainable Habitat (NMSH), part of the National Action Plan on Climate Change (NAPCC), focuses primarily on urban areas. Its key thematic areas include improving energy efficiency in buildings, urban planning, managing municipal solid waste, and promoting urban transport focused on reducing emissions. Rural planning and biodiversity in that context are generally outside its direct scope."
+    },
+    {
+      "subject": "Polity (Governance & Schemes)",
+      "question": "Which one among the following statements about the objectives of Vibrant Village Programme is correct?",
+      "image": "",
+      "options": [
+        "It is a Centrally sponsored scheme.",
+        "This programme was launched in 2021.",
+        "Arunachal Pradesh, Sikkim and Manipur are the states selected under this scheme.",
+        "Villages of Uttar Pradesh along the Nepal border are selected as flagship villages under this scheme."
+      ],
+      "answer": "It is a Centrally sponsored scheme.",
+      "explanation": "The Vibrant Villages Programme (VVP) is a Centrally Sponsored Scheme approved in February 2023 (not 2021) for the comprehensive development of select villages in 46 blocks across 19 districts abutting the northern border in Arunachal Pradesh, Himachal Pradesh, Sikkim, Uttarakhand, and the UT of Ladakh (Manipur and UP are not included). It aims to improve infrastructure and livelihood opportunities."
+    }
+  ],
+  "Polity (Legal System)": [
+    {
+      "subject": "Polity (Legal System)",
+      "question": "Which of the following are the components of the Indian Legal System?<br>1. Basic values and principles enshrined in the Constitution.<br>2. Rights and obligations conferred by ordinary statutes.<br>3. Organisational set-up to enforce rights and obligations within the constitutional norms.<br>4. Legal and judicial persons.<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 4 only",
+        "1, 2 and 3 only",
+        "3 and 4 only"
+      ],
+      "answer": "1, 2, 3 and 4",
+      "explanation": "The Indian Legal System comprises all these elements: the foundational principles of the Constitution (1), laws made by legislatures (statutes) defining rights and duties (2), the institutions like courts and enforcement agencies (3), and the entities recognized by law (legal persons like individuals, companies) and those involved in the judicial process (judicial persons) (4)."
+    },
+    {
+      "subject": "Polity (Legal System)",
+      "question": "Which of the following statements is/are correct?<br>1. Criminal law is exclusively a subject under the State List of the Constitution of India.<br>2. Code of Civil Procedure falls under the Concurrent List of the Constitution of India.<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "2 only",
+      "explanation": "Statement 1 is incorrect: Criminal law, including the Indian Penal Code, falls under the Concurrent List (Entry 1 of List III). Criminal procedure also falls under the Concurrent List (Entry 2 of List III).<br>Statement 2 is correct: Civil procedure, including the Code of Civil Procedure, falls under the Concurrent List (Entry 13 of List III). This allows both the Centre and States to legislate on these subjects, with Central law prevailing in case of conflict."
+    },
+    {
+      "subject": "Polity (Legal System)",
+      "question": "Which one of the following organisations challenged the constitutionality of Section 377 of the Indian Penal Code in the Supreme Court of India?",
+      "image": "",
+      "options": [
+        "Naz Foundation (India) Trust",
+        "Bachpan Bachao Andolan",
+        "Sambhav Foundation India",
+        "Action Aid India"
+      ],
+      "answer": "Naz Foundation (India) Trust",
+      "explanation": "The Naz Foundation (India) Trust, an NGO working on HIV/AIDS and sexual health, was the primary petitioner that initially challenged the constitutional validity of Section 377 of the IPC (which criminalized homosexual acts) in the Delhi High Court and subsequently pursued the matter in the Supreme Court, leading eventually to the landmark Navtej Singh Johar judgment in 2018."
+    },
+    {
+      "subject": "Polity (Legal System)",
+      "question": "Which of the following statements, as per the Information Technology Act, 2000, is/are correct?<br>1. This Act provides that electronic signature is legally valid in the same manner as the handwritten signature.<br>2. Both the Central Government and State Governments have been given the power to make rules with respect to electronic signature.<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "1 only",
+      "explanation": "Statement 1 is correct: The Information Technology Act, 2000 grants legal recognition to electronic signatures (including digital signatures), giving them the same legal validity as handwritten signatures for most purposes (Section 5).<br>Statement 2 is incorrect: The power to prescribe the type of electronic signature, the manner and format, and the procedures for ensuring reliability lies primarily with the Central Government under the IT Act (e.g., Section 3A, Section 10)."
+    }
+  ]
+}
