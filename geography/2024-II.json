@@ -1,0 +1,17 @@
+{
+  "Geography (Atmosphere & Environment)": [
+    {
+      "subject": "Geography (Atmosphere & Environment)",
+      "question": "Ozone hole is a region over:",
+      "image": "",
+      "options": [
+        "the Antarctic caused mainly by CFC gases.",
+        "the Antarctic caused mainly by carbon dioxide gas.",
+        "the Arctic caused mainly by CFC gases.",
+        "the Arctic caused mainly by carbon dioxide gas."
+      ],
+      "answer": "the Antarctic caused mainly by CFC gases.",
+      "explanation": "The 'ozone hole' refers to the significant seasonal thinning of the ozone layer in the stratosphere, which is most pronounced over Antarctica during its spring (August-October). This depletion is primarily caused by human-produced chemicals, especially chlorofluorocarbons (CFCs), which release chlorine and bromine atoms that catalytically destroy ozone molecules under specific polar stratospheric conditions."
+    }
+  ]
+}
