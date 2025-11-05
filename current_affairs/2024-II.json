@@ -1,0 +1,114 @@
+{
+  "Current Affairs (Science & Tech)": [
+    {
+      "subject": "Current Affairs (Science & Tech)",
+      "question": "Which of the following are the major missions of Indian Space Research Organisation in 2023?<br>1. Chandrayaan-3<br>2. Solar Mission Aditya-L1<br>3. Liquid fuel powered rockets<br>4. Solar powered rockets<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3",
+        "3 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": "1 and 2 only",
+      "explanation": "In 2023, ISRO achieved two major milestones:<br>1. Chandrayaan-3: Successfully soft-landed near the Moon's south pole in August 2023.<br>2. Aditya-L1: Launched India's first dedicated solar observatory mission in September 2023.<br>ISRO routinely uses liquid-fueled rocket stages (like PSLV's PS2/PS4, GSLV's L40/Cryo stages), so 'Liquid fuel powered rockets' isn't a specific major mission *of 2023* itself. Solar-powered rockets are not a current operational technology for ISRO's primary launch vehicles."
+    }
+  ],
+  "Current Affairs (Defence)": [
+    {
+      "subject": "Current Affairs (Defence)",
+      "question": "Mission Shakti (DRDO) of India is related to which one among the following?",
+      "image": "",
+      "options": [
+        "Launch of multiple satellites using a single rocket.",
+        "Launch of heavy satellites.",
+        "Use of high power rockets in launching of satellites.",
+        "Use of rocket to destroy an orbiting satellite."
+      ],
+      "answer": "Use of rocket to destroy an orbiting satellite.",
+      "explanation": "Mission Shakti was the successful Anti-Satellite (ASAT) missile test conducted by India's Defence Research and Development Organisation (DRDO) on 27 March 2019. During the test, a missile destroyed an Indian satellite in Low Earth Orbit, demonstrating India's capability as a space power."
+    }
+  ],
+  "Current Affairs (International)": [
+    {
+      "subject": "Current Affairs (International)",
+      "question": "Which one of the following UN organisations has not been awarded the Nobel Prize?",
+      "image": "",
+      "options": [
+        "WFP",
+        "ILO",
+        "UNESCO",
+        "UNHCR"
+      ],
+      "answer": "UNESCO",
+      "explanation": "The World Food Programme (WFP) won in 2020. The International Labour Organization (ILO) won in 1969. The UN High Commissioner for Refugees (UNHCR) won in 1954 and 1981. The United Nations Educational, Scientific and Cultural Organization (UNESCO) has not directly received the Nobel Peace Prize, although individuals associated with it or its goals might have."
+    },
+    {
+      "subject": "Current Affairs (International)",
+      "question": "Arrange the following agreements between India and Pakistan in chronological order:<br>1. Tashkent Declaration.<br>2. Indus Water Treaty.<br>3. Agreement on the Prohibition of Attack Against Each Other’s Nuclear Installations and Facilities.<br>4. Agreement on Reducing the Risk from Accidents Relating to Nuclear Weapons.<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1, 2, 3, 4",
+        "2, 3, 1, 4",
+        "2, 1, 3, 4",
+        "1, 4, 2, 3"
+      ],
+      "answer": "2, 1, 3, 4",
+      "explanation": "Chronological Order:<br>2. Indus Waters Treaty: Signed on September 19, 1960.<br>1. Tashkent Declaration: Signed on January 10, 1966 (after the 1965 war).<br>3. Agreement on Non-Attack of Nuclear Installations: Signed on December 31, 1988 (came into force Jan 1991).<br>4. Agreement on Reducing Nuclear Accident Risk: Signed on February 21, 2007.<br>So the sequence is 2, 1, 3, 4."
+    },
+    {
+      "subject": "Current Affairs (International)",
+      "question": "Which of the following statements with regard to the Shanghai Cooperation Organisation (SCO) is/are correct?<br>1. The official languages of the SCO are Russian and Chinese.<br>2. The SCO enjoys observer status in the UN General Assembly.<br>3. The SCO consists of 13 member states.<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "1 and 3",
+        "1 and 2",
+        "2 and 3"
+      ],
+      "answer": "1 and 2",
+      "explanation": "Statement 1 is correct: Russian and Chinese are the official working languages of the SCO.<br>Statement 2 is correct: The SCO was granted observer status in the UN General Assembly in 2004.<br>Statement 3 is incorrect: As of late 2024/early 2025, the SCO has 10 full member states (China, India, Iran, Kazakhstan, Kyrgyzstan, Pakistan, Russia, Tajikistan, Uzbekistan, Belarus)."
+    },
+    {
+      "subject": "Current Affairs (International)",
+      "question": "Financial Action Task Force is:",
+      "image": "",
+      "options": [
+        "A wing under the Central Economic Intelligence Bureau.",
+        "A division of Enforcement Directorate.",
+        "A global money laundering and terrorist financing watchdog.",
+        "A UN Anti-Corruption Agency."
+      ],
+      "answer": "A global money laundering and terrorist financing watchdog.",
+      "explanation": "The Financial Action Task Force (FATF) is an inter-governmental body established in 1989. Its primary objective is to set standards and promote effective implementation of legal, regulatory, and operational measures for combating money laundering, terrorist financing, and other related threats to the integrity of the international financial system."
+    },
+    {
+      "subject": "Current Affairs (International)",
+      "question": "In which of the following matters placed before the UN General Assembly, a resolution by two-thirds majority of the members present and voting is required?<br>1. Admission of new members to the UN.<br>2. Election of the non-permanent members of the Security Council.<br>3. Election of members of the Economic and Social Council.<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "According to the UN Charter (Article 18), decisions on 'important questions' require a two-thirds majority of the members present and voting. These important questions explicitly include recommendations concerning international peace and security, the election of non-permanent members of the Security Council, the election of members of the Economic and Social Council, the admission of new Members, suspension/expulsion of Members, and budgetary questions. Therefore, all three listed matters require a two-thirds majority."
+    }
+  ],
+  "Current Affairs (National)": [
+    {
+      "subject": "Current Affairs (National)",
+      "question": "‘Bharat Parv’ was organized by the Government of India during which of the following programmes?<br>1. Republic Day 2024<br>2. National Film Festival 2024<br>3. Cannes Film Festival 2024<br>Select the answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1 and 3 only",
+      "explanation": "Bharat Parv is traditionally organized by the Ministry of Tourism alongside the Republic Day celebrations (1) in Delhi to showcase India's diverse culture. In 2024, India also organized a 'Bharat Parv' event at the Cannes Film Festival (3) to promote the Indian film industry and facilitate international collaborations. It's not typically associated directly with the National Film Festival (2) schedule itself."
+    }
+  ]
+}
