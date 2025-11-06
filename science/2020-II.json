@@ -106,7 +106,7 @@
         "The ray will not enter at all"
       ],
       "answer": "0°",
-      "explanation": "An angle of incidence of 0° means the light ray is striking the surface along the normal (perpendicular to the surface). According to Snell's Law ($n_1 \sin(i) = n_2 \sin(r)$), if $i = 0°$, then $\sin(i) = 0$. This forces $\sin(r)$ to also be 0, meaning the angle of refraction $r = 0°$. The ray passes straight through without bending."
+      "explanation": "An angle of incidence of 0° means the light ray is striking the surface along the normal (perpendicular to the surface). According to Snell's Law (n₁sin(i) = n₂sin(r)), if i = 0°, then sin(i) = 0. This forces sin(r) to also be 0, meaning the angle of refraction r = 0°. The ray passes straight through without bending."
     },
     {
       "subject": "Physics (Optics)",
@@ -150,6 +150,146 @@
       ],
       "answer": "tritium",
       "explanation": "Hydrogen has three isotopes:<br>1. Protium (¹H): 1 proton, 0 neutrons (stable).<br>2. Deuterium (²H): 1 proton, 1 neutron (stable).<br>3. Tritium (³H): 1 proton, 2 neutrons (radioactive).<br>Hydronium (H₃O⁺) is an ion, not an isotope."
+    }
+  ],
+  "Chemistry (Atomic Structure)": [
+    {
+      "subject": "Chemistry (Atomic Structure)",
+      "question": "Which one of the following statements about the properties of neutrons is NOT correct?",
+      "image": "",
+      "options": [
+        "Neutron mass is almost equal to proton mass",
+        "Neutrons possess zero charge",
+        "Neutrons are located inside the atomic nuclei",
+        "Neutrons revolve around the atomic nuclei"
+      ],
+      "answer": "Neutrons revolve around the atomic nuclei",
+      "explanation": "The incorrect statement is (d). Neutrons, along with protons, are located *inside* the atomic nucleus. Electrons are the particles that revolve around the atomic nuclei. Statements (a), (b), and (c) are all correct properties of neutrons."
+    },
+    {
+      "subject": "Chemistry (Atomic Structure)",
+      "question": "Which one among the following is responsible for determining the chemical properties of an element?",
+      "image": "",
+      "options": [
+        "Protons",
+        "Electrons",
+        "Neutrons",
+        "Nucleus"
+      ],
+      "answer": "Electrons",
+      "explanation": "The chemical properties of an element are determined by its valence electrons (the electrons in the outermost shell). These are the electrons that participate in chemical bonding and reactions."
+    },
+    {
+      "subject": "Chemistry (Atomic Structure)",
+      "question": "The valency of phosphorus is",
+      "image": "",
+      "options": [
+        "2, 3",
+        "3, 4",
+        "4, 5",
+        "3, 5"
+      ],
+      "answer": "3, 5",
+      "explanation": "Phosphorus (P) is in Group 15 and has 5 valence electrons. It commonly exhibits a valency of 3 (as in PCl₃, by sharing three electrons) and a valency of 5 (as in PCl₅, by expanding its octet and sharing all five valence electrons)."
+    }
+  ],
+  "Chemistry (Properties & Reactions)": [
+    {
+      "subject": "Chemistry (Properties & Reactions)",
+      "question": "A mixture of sodium chloride (salt) and ammonium chloride can be separated by",
+      "image": "",
+      "options": [
+        "sublimation",
+        "filtration",
+        "chromatography",
+        "distillation"
+      ],
+      "answer": "sublimation",
+      "explanation": "Ammonium chloride (NH₄Cl) is a solid that sublimes (turns directly from solid to gas) when heated. Sodium chloride (NaCl) does not. By heating the mixture, the ammonium chloride will turn into a gas, leaving the sodium chloride behind. The gas can then be cooled and re-solidified."
+    },
+    {
+      "subject": "Chemistry (Properties & Reactions)",
+      "question": "Silver articles turn black when kept in the open for longer time due to the formation of",
+      "image": "",
+      "options": [
+        "H₂S",
+        "AgS",
+        "AgSO₄",
+        "Ag₂S"
+      ],
+      "answer": "Ag₂S",
+      "explanation": "Silver (Ag) reacts with trace amounts of hydrogen sulfide (H₂S) gas in the air. This reaction forms silver sulfide (Ag₂S), which is black and is seen as tarnish on the silver surface. The reaction is: 2Ag + H₂S → Ag₂S + H₂."
+    },
+    {
+      "subject": "Chemistry (Properties & Reactions)",
+      "question": "Which one of the following does NOT form oxide on reaction with oxygen?",
+      "image": "",
+      "options": [
+        "Magnesium",
+        "Lead",
+        "Tin",
+        "Silver"
+      ],
+      "answer": "Silver",
+      "explanation": "Silver (Ag) is a noble metal, meaning it is highly resistant to oxidation and corrosion. It does not react directly with oxygen in the air under normal conditions. Magnesium, Lead, and Tin are all more reactive and will form an oxide layer."
+    },
+    {
+      "subject": "Chemistry (Properties & Reactions)",
+      "question": "Lead nitrate on heating gives",
+      "image": "",
+      "options": [
+        "PbO₂ and NO₂",
+        "PbO and NO₂",
+        "PbO and NO",
+        "PbO₂ and NO"
+      ],
+      "answer": "PbO and NO₂",
+      "explanation": "The thermal decomposition of lead(II) nitrate is a standard reaction: 2Pb(NO₃)₂(s) → 2PbO(s) + 4NO₂(g) + O₂(g). The products are solid lead(II) oxide (PbO), brown nitrogen dioxide gas (NO₂), and oxygen gas (O₂)."
+    }
+  ],
+  "Chemistry (History & Basics)": [
+    {
+      "subject": "Chemistry (History & Basics)",
+      "question": "Symbol of element was introduced by",
+      "image": "",
+      "options": [
+        "John Dalton",
+        "Antoine Lavoisier",
+        "Jons Jacob Berzelius",
+        "Robert Boyle"
+      ],
+      "answer": "Jons Jacob Berzelius",
+      "explanation": "While Dalton used pictorial symbols and Lavoisier created the first modern list of elements, it was Jons Jacob Berzelius who proposed the system of using one or two letters from the element's name (usually the Latin name) as its chemical symbol (e.g., O for Oxygen, H for Hydrogen, Fe for Ferrum/Iron)."
+    }
+  ],
+  "Chemistry (Elements & Compounds)": [
+    {
+      "subject": "Chemistry (Elements & Compounds)",
+      "question": "Identify the correct pair of elements among the following which are liquid at room temperature and standard pressure",
+      "image": "",
+      "options": [
+        "Bromine and fluorine",
+        "Mercury and rubidium",
+        "Bromine and thallium",
+        "Bromine and mercury"
+      ],
+      "answer": "Bromine and mercury",
+      "explanation": "At room temperature and standard pressure (RTP), only two elements on the periodic table are liquids: Mercury (Hg), which is a metal, and Bromine (Br), which is a non-metal (halogen). Gallium, Caesium, and Rubidium are solid but melt at slightly above room temperature."
+    }
+  ],
+  "Chemistry (Acids, Bases & Salts)": [
+    {
+      "subject": "Chemistry (Acids, Bases & Salts)",
+      "question": "Which one of the following oxides shows both acidic and basic behaviour?",
+      "image": "",
+      "options": [
+        "Zinc oxide",
+        "Copper oxide",
+        "Magnesium oxide",
+        "Calcium oxide"
+      ],
+      "answer": "Zinc oxide",
+      "explanation": "Zinc oxide (ZnO) is an amphoteric oxide, which means it can react with both acids and bases. For example, it reacts with acid: ZnO + 2HCl → ZnCl₂ + H₂O. It also reacts with base: ZnO + 2NaOH + H₂O → Na₂[Zn(OH)₄]. Copper, magnesium, and calcium oxides are primarily basic oxides."
     }
   ]
 }
