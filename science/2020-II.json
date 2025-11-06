@@ -1,0 +1,155 @@
+{
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "If the linear momentum of a moving object gets doubled due to application of a force, then its kinetic energy will",
+      "image": "",
+      "options": [
+        "remain same",
+        "increase by four times",
+        "increase by two times",
+        "increase by eight times"
+      ],
+      "answer": "increase by four times",
+      "explanation": "Kinetic Energy (KE) is related to momentum (p) by the formula KE = p² / (2m). Since KE is proportional to the square of momentum (p²), if the momentum (p) is doubled (2p), the new KE will be (2p)² / (2m) = 4p² / (2m), which is 4 times the original kinetic energy."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "If the distance between two objects is increased by two times, the gravitational force between them will",
+      "image": "",
+      "options": [
+        "remain same",
+        "increase by two times",
+        "decrease by two times",
+        "decrease by four times"
+      ],
+      "answer": "decrease by four times",
+      "explanation": "According to Newton's Law of Universal Gravitation, the force (F) is inversely proportional to the square of the distance (r) between the objects (F ∝ 1/r²). If the distance is doubled (increased by 2 times), the force will decrease by a factor of 2², which is 4 times."
+    }
+  ],
+  "Physics (Waves & Properties)": [
+    {
+      "subject": "Physics (Waves & Properties)",
+      "question": "Which one of the following statements with regard to the ultraviolet light is NOT correct?",
+      "image": "",
+      "options": [
+        "It is an electromagnetic wave",
+        "It can travel through vacuum",
+        "It is a longitudinal wave",
+        "Its wavelength is shorter/ smaller than that of visible light"
+      ],
+      "answer": "It is a longitudinal wave",
+      "explanation": "Ultraviolet (UV) light is an electromagnetic (transverse) wave, not a longitudinal wave. Sound waves are examples of longitudinal waves. All other statements are correct: UV light is an EM wave, it can travel through a vacuum, and its wavelength is shorter than visible light."
+    },
+    {
+      "subject": "Physics (Waves & Properties)",
+      "question": "Which one of the following phenomena verifies the fact that light travels much faster than sound?",
+      "image": "",
+      "options": [
+        "Twinkling of stars in night sky",
+        "Lighting of a matchstick",
+        "Thunderstorm",
+        "Mirage"
+      ],
+      "answer": "Thunderstorm",
+      "explanation": "During a thunderstorm, we see the flash of lightning (light) almost instantly, but we hear the clap of thunder (sound) several seconds later. This delay occurs because light travels much faster (approx. 3x10⁸ m/s) than sound (approx. 343 m/s in air)."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "If the speed of light in air is represented by c and the speed in a medium is v, then the refractive index of the medium can be calculated using the formula",
+      "image": "",
+      "options": [
+        "c / v",
+        "v / c",
+        "c / (2v)",
+        "(c - v) / c"
+      ],
+      "answer": "c / v",
+      "explanation": "The absolute refractive index (n) of a medium is defined as the ratio of the speed of light in vacuum (or air, 'c') to the speed of light in that medium ('v'). Therefore, the formula is n = c / v."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "Which of the following lenses will bend the light rays through largest angle?",
+      "image": "",
+      "options": [
+        "Lens with power +2.0 D",
+        "Lens with power +2.5 D",
+        "Lens with power –1.5 D",
+        "Lens with power –2.0 D"
+      ],
+      "answer": "Lens with power +2.5 D",
+      "explanation": "The power of a lens (measured in Diopters, D) is a direct measure of its ability to bend light. A higher power (in absolute magnitude) corresponds to a shorter focal length and a greater bending angle. Comparing the absolute values (2.0, 2.5, 1.5, 2.0), the lens with power +2.5 D has the largest magnitude and will bend light the most."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "A luminous object is placed at a distance of 40 cm from a converging lens of focal length 25 cm. The image obtained in the screen is",
+      "image": "",
+      "options": [
+        "erect and magnified",
+        "erect and smaller",
+        "inverted and magnified",
+        "inverted and smaller"
+      ],
+      "answer": "inverted and magnified",
+      "explanation": "Using the lens formula 1/f = 1/v - 1/u.<br>Given: f = +25 cm (converging lens), u = -40 cm (object distance).<br>1/v = 1/f + 1/u = 1/25 + 1/(-40) = 1/25 - 1/40 = (8 - 5) / 200 = 3/200.<br>So, v = +200/3 cm (approx +66.7 cm).<br>Since 'v' is positive, the image is real and therefore inverted.<br>Magnification m = v/u = (+66.7) / (-40) = -1.67. Since the magnitude is greater than 1, the image is magnified."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "When a light ray enters into glass medium from water at an angle of incidence 0°, what would be the angle of refraction?",
+      "image": "",
+      "options": [
+        "90°",
+        "45°",
+        "0°",
+        "The ray will not enter at all"
+      ],
+      "answer": "0°",
+      "explanation": "An angle of incidence of 0° means the light ray is striking the surface along the normal (perpendicular to the surface). According to Snell's Law ($n_1 \sin(i) = n_2 \sin(r)$), if $i = 0°$, then $\sin(i) = 0$. This forces $\sin(r)$ to also be 0, meaning the angle of refraction $r = 0°$. The ray passes straight through without bending."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "Which one of the following combinations of source and screen would produce sharpest shadow of an opaque object?",
+      "image": "",
+      "options": [
+        "A point source and an opaque screen",
+        "An extended source and an opaque screen",
+        "A point source and a transparent screen",
+        "An extended source and a transparent screen"
+      ],
+      "answer": "A point source and an opaque screen",
+      "explanation": "To form a shadow, the screen must be opaque (to stop light). To make the shadow sharp (a clear umbra with minimal penumbra or blurriness), the light source must be as small as possible, ideally a point source. An extended source creates a fuzzy shadow."
+    }
+  ],
+  "Physics (Energy)": [
+    {
+      "subject": "Physics (Energy)",
+      "question": "Which one among the following is a non-conventional source of energy?",
+      "image": "",
+      "options": [
+        "Petroleum",
+        "Coal",
+        "Radioactive elements",
+        "Solar energy"
+      ],
+      "answer": "Solar energy",
+      "explanation": "Non-conventional energy sources are renewable (like solar, wind, hydro). Conventional sources are finite (like fossil fuels and nuclear fuel). Petroleum, coal, and radioactive elements (for nuclear fission) are conventional sources. Solar energy is a non-conventional, renewable source."
+    }
+  ],
+  "Physics (Modern Physics & Nuclear)": [
+    {
+      "subject": "Physics (Modern Physics & Nuclear)",
+      "question": "The radioactive isotope of hydrogen is",
+      "image": "",
+      "options": [
+        "protium",
+        "deuterium",
+        "tritium",
+        "hydronium"
+      ],
+      "answer": "tritium",
+      "explanation": "Hydrogen has three isotopes:<br>1. Protium (¹H): 1 proton, 0 neutrons (stable).<br>2. Deuterium (²H): 1 proton, 1 neutron (stable).<br>3. Tritium (³H): 1 proton, 2 neutrons (radioactive).<br>Hydronium (H₃O⁺) is an ion, not an isotope."
+    }
+  ]
+}
