@@ -1,0 +1,155 @@
+{
+  "Physics (Electronics)": [
+    {
+      "subject": "Physics (Electronics)",
+      "question": "When a piece of pure silicon is doped with aluminium, then",
+      "image": "",
+      "options": [
+        "the conductivity of the doped silicon piece will remain the same",
+        "the doped silicon piece will become n-type",
+        "the doped silicon piece will become p~type",
+        "the resistivity of the doped silicon piece will increase"
+      ],
+      "answer": "the doped silicon piece will become p~type",
+      "explanation": "Aluminium is a p-type dopant, which means that when a semiconductor (silicon in this case) is doped with aluminium, it creates a hole (positively charged carrier) by accepting an electron from the silicon atom. Electrical conductivity of semiconductors increase and resistivity remains same."
+    },
+    {
+      "subject": "Physics (Electronics)",
+      "question": "Which one of the following is not a semiconductor?",
+      "image": "",
+      "options": [
+        "Silicon",
+        "Germanium",
+        "Quartz",
+        "Gallium arsenide"
+      ],
+      "answer": "Quartz",
+      "explanation": "Semiconductors are solid substances that show electrical conductivity either with the addition of an impurity or because of temperature effects. Silicon, Germanium, and Galium Arsenide are semiconductors as they show electrical conductivity depending on the addition of impurity and temperature. Quartz is an insulator."
+    }
+  ],
+  "Physics (Electricity & Magnetism)": [
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "Suppose voltage V is applied across a resistance R, The power dissipated in the resistance is P. Now the same voltage V is applied across a parallel combination of three equal resistors each of resistance R. Then the power dissipated in the second case will be",
+      "image": "",
+      "options": [
+        "P",
+        "3P",
+        "P/3",
+        "2P/3"
+      ],
+      "answer": "3P",
+      "explanation": "Power (P) across a resistor = V2/R; In the first case, P1 = V2/R. In the second case, equivalent resistant of parallel combination = R/3. Power in second case (P2) = (V2)/(R/3) = 3V2/R, So, P1/P2 = 1/3 or P2 = 3P1"
+    },
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "A parallel-plate capacitor, with air in between the plates, has capacitance C. Now the space between the two plates of the capacitor is filled with a dielectric of dielectric constant 7. Then the value of the capacitance will become",
+      "image": "",
+      "options": [
+        "C",
+        "C/7",
+        "7C",
+        "14C"
+      ],
+      "answer": "7C",
+      "explanation": "Capacitance = (K * e0 * A) / d. [A = Area of each plate. e0 = Permittivity of free space. d = distance between plate. k1 = dielectric constant.] Since, K1 = 7, hence new capacitance will be 7C."
+    },
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "A copper wire of radius r and length l has a resistance of R. A second copper wire with radius 2r and length l is taken and the two wires are joined in a parallel combination. The resultant resistance of the parallel combination of the two wires will be",
+      "image": "",
+      "options": [
+        "5R",
+        "5R/4",
+        "4R/5",
+        "R/5"
+      ],
+      "answer": "R/5",
+      "explanation": "R = P * (l/A). The new resistance will be R/4 and resultant resistance will be R/5"
+    },
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "A parallel-plate capacitor of capacitance C 1 is made using two gold plates. Another parallel-plate capacitor of capacitance C 2 is made using two aluminium plates with same plate separation, and all the four plates are of same area. If r g and r a are respectively the electrical resistivities of gold and aluminium, then which one of the following relations is correct?",
+      "image": "",
+      "options": [
+        "C 1 > C 2",
+        "C 2 > C 1",
+        "C 1 Cr a = C 2 Cr g",
+        "C 1 = C 2"
+      ],
+      "answer": "C 1 = C 2",
+      "explanation": "Capacitance is defined as the ability of a system to store electric charge and can be calculated by the formula, C = Q/V, where ‘Q’ is the charge stored on each plate and ‘V’ is the applied electric potential across the plates capacitors. Capacitance does not depend on the electrical resistivities of the material of capacitors."
+    }
+  ],
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "For which one of the following does the centre of mass lie outside the body?",
+      "image": "",
+      "options": [
+        "A fountain pen",
+        "A cricket ball",
+        "A ring",
+        "A book"
+      ],
+      "answer": "A ring",
+      "explanation": "The centre of mass of a body is the point where the whole mass of a body is considered to be concentrated. It may lie within or outside the body of an object. Fountain pen, cricket ball and book are all compact body and their centre of gravity lie within the body. The centre of mass of a ring is at its centre which is outside its body."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "Consider the electromagnetic radiations having wavelengths 200 nm, 500nm and 1000 nm. Which wavelength(s) of the following can make visual sensation to a human eye?",
+      "image": "",
+      "options": [
+        "200 nm and 500 nm",
+        "500 nm and 1000 nm",
+        "500 nm only",
+        "200 nm and 1000 nm"
+      ],
+      "answer": "500 nm only",
+      "explanation": "Visual sensation or the perceptual experience of seeing an object is related to the visible spectrum, which is the region of the electromagnetic radiation that is visible to the human eye. Electromagnetic radiation in this range of wavelengths (390-700 nm) is called visible light. 200 and 1000 nm do not lie in the visible range of wavelength."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "The optical phenomenon that is primarily responsible for the observation of rainbow on a rainy day is",
+      "image": "",
+      "options": [
+        "diffraction",
+        "interference",
+        "dispersion",
+        "reflection"
+      ],
+      "answer": "dispersion",
+      "explanation": "Rainbow can be seen on a rainy day due to the phenomena of dispersion, which is an optical process involving splitting of white light into its constituent colors while passing through a lighter to heavier medium. On a rainy day, white light gets dispersed into its seven colors while passing through rain drops."
+    }
+  ],
+  "Physics (Modern Physics)": [
+    {
+      "subject": "Physics (Modern Physics)",
+      "question": "A photon of X-ray has energy of 1 keV. A photon of visible radiation has energy of 3 eV. In this context, which one of the following statements is not correct?",
+      "image": "",
+      "options": [
+        "The wavelength of X-ray photon is less than the wavelength of visible radiation photon.",
+        "Both the photons have different energies.",
+        "The speeds of both the photons in vacuum are different.",
+        "The frequency of X-ray photon is higher than the frequency of visible radiation photon."
+      ],
+      "answer": "The speeds of both the photons in vacuum are different.",
+      "explanation": "Electromagnetic radiation consists of photons which move at speed of light within a vacuum."
+    },
+    {
+      "subject": "Physics (Modern Physics)",
+      "question": "Which one of the following statements is not correct?",
+      "image": "",
+      "options": [
+        "The cathode rays originate from cathode and proceed towards the anode in a cathode-ray discharge tube.",
+        "The television picture tubes are nothing but cathode-ray tubes.",
+        "The cathode rays themselves are not visible.",
+        "The characteristics of cathode rays depend upon the nature of the gas present in the cathode-ray tube."
+      ],
+      "answer": "The characteristics of cathode rays depend upon the nature of the gas present in the cathode-ray tube.",
+      "explanation": "Cathode ray is a beam of electrons emitted from the cathode of a vacuum tube. It is invisible. Cathode ray tubes are also found in televisions and computer monitors. Since cathode ray is a beam of electrons and all electrons are identical, charge to mass ratio is same for all the gases and does not depend on the nature of gas."
+    }
+  ]
+}

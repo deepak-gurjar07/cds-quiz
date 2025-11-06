@@ -1,0 +1,88 @@
+{
+  "Physics (Thermodynamics)": [
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "Half portion of a rectangular piece of ice is wrapped with a white piece of cloth while the other half with a black one. In this context, which one among the following statements is correct?",
+      "image": "",
+      "options": [
+        "Ice melts more easily under black wrap",
+        "Ice melts more easily under white wrap",
+        "No ice melts at all under the black wrap",
+        "No ice melts at all under the white wrap"
+      ],
+      "answer": "Ice melts more easily under black wrap",
+      "explanation": "Ice under black wrap will melt easily because dark colour (black) absorbs the most of light energy falling on it."
+    },
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "Mr X was advised by an architect to make outer walls of his house with hollow bricks. The correct reason is that such walls",
+      "image": "",
+      "options": [
+        "make the building stronger",
+        "help keeping inside cooler in summer and warmer in winter",
+        "prevent seepage of moisture from outside",
+        "protect the building from lightning"
+      ],
+      "answer": "help keeping inside cooler in summer and warmer in winter",
+      "explanation": "The hollow bricks provide thermal insulations; the air in hollow bricks, does not allow outside heat or cold in the house to go out or come in the house. So, it keeps house cool in summer and warm in winter."
+    }
+  ],
+  "Physics (Properties of Matter)": [
+    {
+      "subject": "Physics (Properties of Matter)",
+      "question": "In scuba-diving, while ascending towards the water surface, there is a danger of bursting the lungs. It is because of",
+      "image": "",
+      "options": [
+        "Archimedes' principle",
+        "Boyle's law",
+        "Gay-Lussac's law of combining volumes",
+        "Graham's law of diffusion"
+      ],
+      "answer": "Boyle's law",
+      "explanation": "As scuba driver ascends towards the water surface, water pressure decreases, so according to Boyle's law air in his lungs expands to occupy a greater volume. Which increase the chances of bursting the lungs."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "The blackboard seems black because it",
+      "image": "",
+      "options": [
+        "reflects every colour",
+        "does not reflect any colour",
+        "absorbs black colour",
+        "reflects black colour"
+      ],
+      "answer": "does not reflect any colour",
+      "explanation": "Blackboard absorbs all the colours of light falling on it and does not reflect any colour due to which it appears black."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "Viewfinders, used in automobiles to locate the position of the vehicles behind, are made of",
+      "image": "",
+      "options": [
+        "plane mirror",
+        "concave mirror",
+        "convex mirror",
+        "parabolic mirror"
+      ],
+      "answer": "convex mirror",
+      "explanation": "In automobiles, convex mirror is used as a rear view mirror because the image of the vehicle formed is small in size due to this the field of view is increased and the driver of automobile can see the traffic over large area."
+    }
+  ],
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "If a ship moves from freshwater into seawater, it will",
+      "image": "",
+      "options": [
+        "sink completely",
+        "sink a little bit",
+        "rise a little higher",
+        "remain unaffected"
+      ],
+      "answer": "rise a little higher",
+      "explanation": "When a body is immersed in a fluid, the fluid exerts an upward force on it, called buoyant force. Here buoyant force is proportional to the density of fluid. As the density of sea water is higher than that of the fresh water. So extra buoyant force and ship will rise a little higher."
+    }
+  ]
+}

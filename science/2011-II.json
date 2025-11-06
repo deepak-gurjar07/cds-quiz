@@ -1,0 +1,114 @@
+{
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "The cat can survive fall from a height much more than human or any other animal. It is because the cat",
+      "image": "",
+      "options": [
+        "can immediately adjust itself to land on all four paws and bend the legs to absorb the impact of falling",
+        "has elastic bones",
+        "has thick and elastic skin",
+        "also gets injury equally with other animals, but has tremendous endurance, resistance and speedy recovery"
+      ],
+      "answer": "can immediately adjust itself to land on all four paws and bend the legs to absorb the impact of falling",
+      "explanation": "As the cat falls from a height, it bends the legs to absorb the impact of falling and immediately adjust itself."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "A body has a mass of 6 kg on the Earth; when measured on the Moon, its mass would be",
+      "image": "",
+      "options": [
+        "nearly 1 kg",
+        "less than 1 kg",
+        "less than 6 kg",
+        "6 kg"
+      ],
+      "answer": "6 kg",
+      "explanation": "Mass of an object does not change when an objects location changes. It is the weight of the body (w = mg) which changes with value of 'g' at that place."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "When a ball drops onto the floor it bounces. Why does it bounce?",
+      "image": "",
+      "options": [
+        "Newton's third law implies that for every action (drop) there is a reaction (bounce)",
+        "The floor exerts a force on the ball during the impact",
+        "The floor is perfectly rigid",
+        "The floor heats up on impact"
+      ],
+      "answer": "The floor exerts a force on the ball during the impact",
+      "explanation": "When a ball drops on to the floor then floor exerts a force for small time which is equal to change in momentum of the ball."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "Fire fly gives us cold light by virtue of the phenomenon of",
+      "image": "",
+      "options": [
+        "fluorescence",
+        "phosphorescence",
+        "chemiluminescence",
+        "effervescence"
+      ],
+      "answer": "chemiluminescence",
+      "explanation": "Fire fly gives us cold light due to chemiluminescence i.e. light produced by chemical reaction."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "The focal length of convex lens is",
+      "image": "",
+      "options": [
+        "the same for all colours",
+        "shorter for blue light than for red",
+        "shorter for red light than for blue",
+        "maximum for yellow light"
+      ],
+      "answer": "shorter for blue light than for red",
+      "explanation": "The focal length of a convex lens is shorter for blue light than for red."
+    }
+  ],
+  "Physics (Electricity & Magnetism)": [
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "Transformer is a kind of appliance that can<br>1. increase power<br>2. increase voltage<br>3. decrease voltage<br>4. measure current and voltage<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "Only 4",
+        "1 and 4",
+        "2 and 3",
+        "2, 3 and 4"
+      ],
+      "answer": "2 and 3",
+      "explanation": "Transformer is an appliance that can increase or decrease voltage."
+    },
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "When you pull out the plug connected to an electrical appliance, you often observe a spark. To which property of the appliance is this related?",
+      "image": "",
+      "options": [
+        "Resistance",
+        "Inductance",
+        "Capacitance",
+        "Wattage"
+      ],
+      "answer": "Resistance",
+      "explanation": "As the plug is pulled out, the value of resistance in the circuit decreases and hence more current tries to flow through the circuit. Pulling out the plug breaks the circuit and to complete the circuit for the flow of electricity a spark is observed."
+    }
+  ],
+  "Physics (Thermodynamics)": [
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "If the door of a running refrigerator in a closed room is kept open, what will be the net effect on the room?",
+      "image": "",
+      "options": [
+        "It will cool the room",
+        "It will heat the room",
+        "It will make no difference on the average",
+        "It will make the temperature go up and down"
+      ],
+      "answer": "It will heat the room",
+      "explanation": "It will heat the room because the heat removed from the inside is released into the room, counter acting any cooling, plus the energy that is used to operate the compressor eventually winds up being heat, therefore increasing the room temperature."
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "Physics (Thermodynamics)": [
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "Which one of the following statement is true?",
+      "image": "",
+      "options": [
+        "Temperatures differing 25° on the fahrenheit (F) scale must differ by 45° on the celsius (C) scale",
+        "0°F corresponds to – 32°C",
+        "Temperatures which differ by 10° on the celsius scale must differ by 18° on the Fahrenheit scale",
+        "Water at 90°C is warmer than water at 202°F"
+      ],
+      "answer": "Temperatures which differ by 10° on the celsius scale must differ by 18° on the Fahrenheit scale",
+      "explanation": "By the relation in different temperature scales (C-0)/5 = (F-32)/9 = (K-273)/5 = (R-0)/4. We can calculate that temperature which differ by 10° on the celsius scale must differ by 18° on the fahrenheit scale."
+    },
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "Why are inner lining of hot water geysers made up of copper?",
+      "image": "",
+      "options": [
+        "Copper has low heat capacity",
+        "Copper has high electrical conductivity",
+        "Copper does not react with steam",
+        "Copper is good conductor of both heat and electricity"
+      ],
+      "answer": "Copper is good conductor of both heat and electricity",
+      "explanation": "Copper is a good conductor of both heat an electricity due to this it is used in all such appliance where quick heat transfer is required."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "A diffraction pattern is obtained using a beam of red light. Which one among the following will be the outcome, if the red light is replaced by blue light?",
+      "image": "",
+      "options": [
+        "Bands disappear",
+        "Diffraction pattern becomes broader and further apart",
+        "Diffraction pattern becomes narrower and crowded together",
+        "No change"
+      ],
+      "answer": "Diffraction pattern becomes narrower and crowded together",
+      "explanation": "Diffraction pattern becomes narrower and crowded together."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "As the sunlight passes through the atmosphere, the rays are scattered by tiny particles of dust, pollen, soot and other minute particulate matters present there. However, when we look up, the sky appears blue during mid-day because",
+      "image": "",
+      "options": [
+        "blue light is scattered most",
+        "blue light is absorbed most",
+        "blue light is reflected most",
+        "ultraviolet and yellow component of sunlight combine"
+      ],
+      "answer": "blue light is scattered most",
+      "explanation": "As, scattering is inversely proportional to the fourth power of wavelength. Since, wavelength of blue colour is least among three primary colours red, green and blue, so violet colour scattered most. The scattered light in the sky contains blue colour in plenty and therefore sky appears blue."
+    }
+  ],
+  "Physics (Properties of Matter)": [
+    {
+      "subject": "Physics (Properties of Matter)",
+      "question": "Raw mangoes shrivel when pickled in brine. The phenomenon is associated with",
+      "image": "",
+      "options": [
+        "osmosis",
+        "reverse osmosis",
+        "increase of surface tension of fluid",
+        "decrease of surface tension of fluid"
+      ],
+      "answer": "osmosis",
+      "explanation": "Raw mangoes shrivel when pickled in brine due to osmosis i.e. flow of water from higher concentration to lower concentration through a semi-permeable membrane."
+    },
+    {
+      "subject": "Physics (Properties of Matter)",
+      "question": "Which one of the following statements is correct?",
+      "image": "",
+      "options": [
+        "The angle of contact of water with glass is acute while that of mercury with glass is obtuse",
+        "The angle of contact of water with glass is obtuse, while that of mercury with glass is acute",
+        "Both the angle of contact of water with glass and that of mercury with glass are acute",
+        "None of the above"
+      ],
+      "answer": "The angle of contact of water with glass is acute while that of mercury with glass is obtuse",
+      "explanation": "For ordinary water and glass it is about 8° (acute angle) and for mercury and glass it is about 135° (obtuse angle)."
+    }
+  ],
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "The apparent weight of a steel sphere immersed in various liquids is measured using a spring balance. The greatest reading is obtained for the liquid",
+      "image": "",
+      "options": [
+        "having the smallest density",
+        "having the largest density",
+        "in which the sphere was submerged deepest",
+        "having the greatest volume"
+      ],
+      "answer": "having the smallest density",
+      "explanation": "When a body immersed in a liquid, then the apparent weight of the body depends upon the densities of the liquids and volume of the portion of the solid immersed in liquid. So, the apparent weight of a steel sphere will be greatest for the liquid with the smallest density."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "If an object having mass of 1 kg is subjected to a force of 1 N it moves with",
+      "image": "",
+      "options": [
+        "a speed of 1 m/s",
+        "a speed of 1 km/s",
+        "an acceleration of 10 m/s2",
+        "an acceleration of 1 m/s2"
+      ],
+      "answer": "an acceleration of 1 m/s2",
+      "explanation": "As we know, F = ma or a = F/m. \\ a = 1N / 1kg = 1 m/s2"
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "An athlete diving off a high springboard can perform a variety of exercises in the air before entering the water below. Which one of the following parameters will remain constant during the fall?",
+      "image": "",
+      "options": [
+        "The athlete's linear momentum",
+        "The athlete's moment of inertia",
+        "The athlete's kinetic energy",
+        "The athlete's angular momentum"
+      ],
+      "answer": "The athlete's angular momentum",
+      "explanation": "When a athlete jumps from the spring board, he curls his body by rolling his arms and legs in. By doing so, he decreases moment of inertia of his body and hence angular speed increases to conserve the angular momentum, as I1w1 = I2w2 = constant."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "The pressure exerted on the ground by a man is greatest",
+      "image": "",
+      "options": [
+        "when the lies down in the ground",
+        "when the stands on the toes of one foot",
+        "when the stands with both foot flat on the ground",
+        "all of the above yield the same pressure"
+      ],
+      "answer": "when the stands on the toes of one foot",
+      "explanation": "Pressure is normal force per unit area, therefore, for lesser value of area pressure is greatest."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "A passenger in a moving train tosses a five rupee coin. If the coin falls behind him, then the train must be moving with a uniform",
+      "image": "",
+      "options": [
+        "acceleration",
+        "deceleration",
+        "speed",
+        "velocity"
+      ],
+      "answer": "acceleration",
+      "explanation": "As the passenger tosses the coin, it goes up and is in motion with the initial speed of the train but if the train is accelerated, so its speed increases. But the coin is in the air with initial speed of train, so the train slightly moves forward from the coin with the person and coin falls behind him. It happens when train is moving with accelerated motion."
+    }
+  ],
+  "Physics (Waves & Sound)": [
+    {
+      "subject": "Physics (Waves & Sound)",
+      "question": "The force acting on a particle executing simple harmonic motion is",
+      "image": "",
+      "options": [
+        "directly proportional to the displacement and is directed away from the mean position",
+        "inversely proportional to the displacement and is directed towards the mean position",
+        "directly proportional to the displacement and is directed towards the mean position",
+        "inversely proportional to the displacement and is directed away from the mean position"
+      ],
+      "answer": "directly proportional to the displacement and is directed towards the mean position",
+      "explanation": "The restoring force acting on the particle is always proportional to the displacement of the particle from the equilibrium position and is always directed towards the equilibrium position."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "A body is falling freely under the action of gravity alone in vacuum. Which one of the following remains constant during the fall?",
+      "image": "",
+      "options": [
+        "Potential energy",
+        "Kinetic energy",
+        "Total linear momentum",
+        "Total mechanical energy"
+      ],
+      "answer": "Total mechanical energy",
+      "explanation": "Mechanical energy is the ability of an object to do work. This energy is equal to the sum of kinetic and potential energy, it is always constant."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "Newton's laws of motion do not hold good for objects",
+      "image": "",
+      "options": [
+        "at rest",
+        "moving slowly",
+        "moving with high velocity",
+        "moving with velocity comparable to velocity of light"
+      ],
+      "answer": "moving with velocity comparable to velocity of light",
+      "explanation": "Newton's laws of motion do not hold good for objects moving with velocity comparable to velocity of light because it does not follow it on this level."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "Which one of the following statements is not correct?",
+      "image": "",
+      "options": [
+        "Weight of a body is different on different planets.",
+        "Mass of a body on the earth, on the moon and in empty space is the same.",
+        "Weightlessness of a body occurs when the gravitational forces acting on it are counter-balanced.",
+        "Weight and mass of a body are equal at sea level on the surface of the earth."
+      ],
+      "answer": "Weight and mass of a body are equal at sea level on the surface of the earth.",
+      "explanation": "Mass is the quantity of matter contained by the object. Weight is the force of gravity acting on a body. Mass is constant anywhere in the universe but weight depends upon the quantity of gravity in a particular place."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "A brick is thrown vertically from an aircraft flying two kilometres above the earth. The brick will fall with a",
+      "image": "",
+      "options": [
+        "constant speed",
+        "constant velocity",
+        "constant acceleration",
+        "constant speed for some time then with constant acceleration as it nears the earth"
+      ],
+      "answer": "constant acceleration",
+      "explanation": "An object falling from height will show constant velocity so the acceleration will be constant."
+    }
+  ],
+  "Physics (Modern Physics)": [
+    {
+      "subject": "Physics (Modern Physics)",
+      "question": "X-rays are",
+      "image": "",
+      "options": [
+        "deflected by an electric field but not by a magnetic field",
+        "deflected by a magnetic field but not by an electric field",
+        "deflected by both a magnetic field and an electric field",
+        "not deflected by an electric field or a magnetic field"
+      ],
+      "answer": "not deflected by an electric field or a magnetic field",
+      "explanation": "X-rays are electro magnetic radiations. It has penetrating ability, so it is used in radiography, airport railway security and CT scanning. It is not affected by electric and magnetic fields."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "The focal length of the lens of a normal human eye is about",
+      "image": "",
+      "options": [
+        "25 cm",
+        "1 m",
+        "2.5 mm",
+        "2.5 cm"
+      ],
+      "answer": "25 cm",
+      "explanation": "The focal length of the lens of a normal human eye is about 2.5 cm. The eye sets focus on a thing by adjusting the eye ball. The lens flexes its curvature to focus on the objects."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "The outside rearview mirror of modern automobiles is marked with warning \"objects in mirror are closer than they appear\". Such mirrors are",
+      "image": "",
+      "options": [
+        "plane mirrors",
+        "concave mirrors with very large focal lengths",
+        "concave mirrors with very small focal lengths",
+        "convex mirrors"
+      ],
+      "answer": "convex mirrors",
+      "explanation": "In convex mirrors, the image is smaller than the object. This mirror provides a wider scope of view so it becomes easy for vehicles use."
+    }
+  ]
+}

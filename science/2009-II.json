@@ -1,0 +1,77 @@
+{
+  "Physics (Waves & Sound)": [
+    {
+      "subject": "Physics (Waves & Sound)",
+      "question": "Earthquake (shock) waves are",
+      "image": "",
+      "options": [
+        "infrasonic waves",
+        "ultrasonic waves",
+        "seismic",
+        "infrared waves"
+      ],
+      "answer": "seismic",
+      "explanation": "An Earthquake is the result of a sudden release of energy in the Earth's crust that creates seismic waves."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "Laser is a device to produce",
+      "image": "",
+      "options": [
+        "a beam of white light",
+        "coherent light",
+        "microwaves",
+        "X-rays"
+      ],
+      "answer": "coherent light",
+      "explanation": "A laser is a device that emits coherent light through a process called stimulated emission."
+    }
+  ],
+  "Physics (Thermodynamics)": [
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "A perfect black body has the unique characteristic feature as",
+      "image": "",
+      "options": [
+        "a good absorber only",
+        "a good radiator only",
+        "a good absorber and a good radiator",
+        "neither a radiator nor an absorber"
+      ],
+      "answer": "a good absorber and a good radiator",
+      "explanation": "A perfect black body emits and absorbs all colours of light. A good absorber is a good emitter."
+    }
+  ],
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "Fat can be separated from milk in a cream separation because of",
+      "image": "",
+      "options": [
+        "cohesive force",
+        "gravitational force",
+        "centrifugal force",
+        "centripetal force"
+      ],
+      "answer": "centrifugal force",
+      "explanation": "Centrifugal force separates fat from milk."
+    }
+  ],
+  "Physics (Properties of Matter)": [
+    {
+      "subject": "Physics (Properties of Matter)",
+      "question": "Which one of the following is not result of surface tension?",
+      "image": "",
+      "options": [
+        "Vapour formation above the liquid surface",
+        "Convex shape of liquid meniscus",
+        "Liquid rising in a capillary",
+        "Spherical shape of mercury fallen on the floor"
+      ],
+      "answer": "Vapour formation above the liquid surface",
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "Physics (Electricity & Magnetism)": [
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "The wires are made having same length l and area of cross-section A. Wire 1 is made of copper and wire 2 is made of aluminium. It is given that the electrical conductivity of copper is more than that of aluminium. In this context, which one of the following statements is correct?",
+      "image": "",
+      "options": [
+        "The resistance of wire 1 will be higher than that of wire 2.",
+        "The resistance of wire 2 will be higher than that of wire 1.",
+        "The resistance of both the wires will be the same.",
+        "If same current is flown through both the wires, the power dissipated in both the wires will be the same."
+      ],
+      "answer": "The resistance of wire 2 will be higher than that of wire 1.",
+      "explanation": "The resistance of wire 2 will be higher than that of wire 1."
+    },
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "After using for some time, big transformers get heated up. This is due to the fact that<br>1. current produces heat in the transformers<br>2. hysteresis loss occurs in the transformers<br>3. liquid used for cooling gets heated<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "After using for some time, big transformers get heated up. This is due to the fact that current produces heat in the transformers, hysteresis loss occurs in the transformers, liquid used for cooling gets heated."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "A ray of light is incident on a plane mirror at an angle of 40° with respect to surface normal. When it gets reflected from the mirror, it undergoes a deviation of",
+      "image": "",
+      "options": [
+        "40°",
+        "100°",
+        "90°",
+        "80°"
+      ],
+      "answer": "80°",
+      "explanation": "the ray of light will undergo a deviation of 80 degrees."
+    }
+  ],
+  "Physics (Electromagnetism)": [
+    {
+      "subject": "Physics (Electromagnetism)",
+      "question": "Infrared, visible and ultraviolet radiations/light have different properties. Which one of the following statements related to these radiations/light is not correct?",
+      "image": "",
+      "options": [
+        "The wavelength of infrared is more than that of ultraviolet radiation.",
+        "The wavelength of ultraviolet is smaller than that of visible light.",
+        "The photon energy of visible light is more than that of infrared light.",
+        "The photon energy of ultraviolet is lesser than that of visible light."
+      ],
+      "answer": "The photon energy of ultraviolet is lesser than that of visible light.",
+      "explanation": "The photon energy of ultraviolet is lesser than that of visible light."
+    }
+  ],
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "A person is standing on a frictionless horizontal ground. How can he move by a certain distance on this ground?",
+      "image": "",
+      "options": [
+        "By sneezing",
+        "By jumping",
+        "By running",
+        "By rolling"
+      ],
+      "answer": "By sneezing",
+      "explanation": "Sneezing and farting would move a person standing on the frictionless ground. Any expulsion of fluids should propel the man into motion. Sneezing would result him moving in the direction his back faces and farting would get him forward. The basic principle that governance his movement is, in the horizontal plane is that no external force acts on the body so his momentum can’t change."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "A person thrown an object on a horizontal frictionless plane surface. It is noticed that there are two forces acting on this object– (i) gravitational pull and (ii) normal reaction of the surface. According to the third law of motion, the net resultant force is zero. Which one of the following can be said for the motion of the object?",
+      "image": "",
+      "options": [
+        "The object will move with acceleration.",
+        "The object will move with deceleration.",
+        "The object will move with constant speed, but varying direction.",
+        "The object will move with constant velocity."
+      ],
+      "answer": "The object will move with constant velocity.",
+      "explanation": "The object will move with constant velocity."
+    }
+  ],
+  "Physics (Properties of Matter)": [
+    {
+      "subject": "Physics (Properties of Matter)",
+      "question": "Which one of the following types of glasses is used for making optical instruments?",
+      "image": "",
+      "options": [
+        "Pyrex glass",
+        "Soft glass",
+        "Hard glass",
+        "Flint glass"
+      ],
+      "answer": "Hard glass",
+      "explanation": "Hard glass is used for making hard glass laboratory apparatus."
+    },
+    {
+      "subject": "Physics (Properties of Matter)",
+      "question": "Desalination of seawater is done by using reverse osmosis. The pressure applied to the solution is",
+      "image": "",
+      "options": [
+        "larger than osmotic pressure",
+        "smaller than osmotic pressure",
+        "equal to osmotic pressure",
+        "equal to atmospheric pressure"
+      ],
+      "answer": "larger than osmotic pressure",
+      "explanation": "Desalination by RO requires the use of an osmotic membrane. The higher the applied pressure above the osmotic pressure, the higher the rate of fresh water transports across the membranes."
+    }
+  ],
+  "Physics (Thermodynamics)": [
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "Joule-Thomson process is extremely useful and economical for attaining low temperature. The process can be categorized as",
+      "image": "",
+      "options": [
+        "isobaric process",
+        "isoenthalpic process",
+        "adiabatic process",
+        "isochoric process"
+      ],
+      "answer": "adiabatic process",
+      "explanation": "In thermodynamics, the Joule–Thomson effect describes the temperature change of a real gas or liquid when it is forced through a valve or porous plug while keeping them insulated so that no heat is exchanged with the environment. This procedure is called a throttling process or Joule–Thomson process. Since there is no heat being exchanged it is adiabatic in nature."
+    }
+  ],
+  "Physics (Waves & Sound)": [
+    {
+      "subject": "Physics (Waves & Sound)",
+      "question": "Ultrasonic waves are produced by making use of",
+      "image": "",
+      "options": [
+        "ferromagnetic material",
+        "ferrimagnetic material",
+        "piezoelectric material",
+        "pyroelectric material"
+      ],
+      "answer": "piezoelectric material",
+      "explanation": "Ultrasonic waves are generated by a transducer that includes a piezoelectric crystal that converts electrical energy (electric current) to mechanical energy (sound waves)."
+    }
+  ]
+}

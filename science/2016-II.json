@@ -1,0 +1,118 @@
+{
+  "Physics (Properties of Matter)": [
+    {
+      "subject": "Physics (Properties of Matter)",
+      "question": "The spring constant of a spring depends on its",
+      "image": "",
+      "options": [
+        "length only",
+        "material only",
+        "length and its diameter",
+        "thickness, its diameter and its material"
+      ],
+      "answer": "thickness, its diameter and its material",
+      "explanation": "F = – kx; k = spring constant and it measures stiffness or softness of spring. Hence. K depends on length, radius and material of the spring."
+    }
+  ],
+  "Physics (Electronics)": [
+    {
+      "subject": "Physics (Electronics)",
+      "question": "In a bipolar junction transistor",
+      "image": "",
+      "options": [
+        "all the three regions (the emitter, , the base and the collector) have equal concentrations of impurity",
+        "the emitter has the least concentration of impurity",
+        "the collector has the least concentration of impurity",
+        "the base has the least concentration of impurity"
+      ],
+      "answer": "all the three regions (the emitter, , the base and the collector) have equal concentrations of impurity",
+      "explanation": "A Bipolar Junction Transistor, or BJT, is a solid-state device in which the current flow between two terminals (the collector and the emitter) is controlled by the amount of current that flows through a third terminal (the base)."
+    }
+  ],
+  "Physics (Units & Measurements)": [
+    {
+      "subject": "Physics (Units & Measurements)",
+      "question": "The pressure exerted by a 760 mm column of mercury at 0°C is known as",
+      "image": "",
+      "options": [
+        "1 pascal",
+        "1 atmosphere",
+        "1 bar",
+        "1 poise"
+      ],
+      "answer": "1 atmosphere",
+      "explanation": "76cm Hg = 760 mmHg = 1 atm = 101325 Pa (mmHg = milimeters of mercury) (atm = atmosphere) (Pa = Pascal = N/m2, SI unit for pressure)"
+    },
+    {
+      "subject": "Physics (Units & Measurements)",
+      "question": "Which one of the following physical quantities has the same dimensions as that of Planck's constant h?",
+      "image": "",
+      "options": [
+        "Linear momentum",
+        "Angular momentum",
+        "Force",
+        "Potential energy"
+      ],
+      "answer": "Angular momentum",
+      "explanation": "The dimension of Plank's contant can be obtained from any of the equations in which it appears, e.g. h = E/n, l = h/p, etc. Planck's Constant h = 6.626176 × 10–34 joule-second = 6.626176 × 10–34 m2 kg/s. [h] = [M L2 T–1]. Angular momentum l = r × p. [l] = [r] [p] = [L] [M L T–1] = [M L2 T–1]. Both the Planck's constant and angular momentum have the same dimensions."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "In total internal reflection, the light travels from",
+      "image": "",
+      "options": [
+        "rarer to denser medium and it occurs with no loss of intensity",
+        "denser to rarer medium and it occurs with no loss of intensity",
+        "rarer to denser medium and it occurs with loss of intensity",
+        "denser to rarer medium and it occurs with loss of intensity"
+      ],
+      "answer": "denser to rarer medium and it occurs with no loss of intensity",
+      "explanation": ""
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "Light travels in a straight line (rectilinear propagation of light). This statement does hold if the medium of travel for light is",
+      "image": "",
+      "options": [
+        "of variable refractive index",
+        "made up of slabs of different refractive indices",
+        "homogeneous and transparent",
+        "inhomogeneous and transparent"
+      ],
+      "answer": "homogeneous and transparent",
+      "explanation": ""
+    }
+  ],
+  "Physics (Modern Physics)": [
+    {
+      "subject": "Physics (Modern Physics)",
+      "question": "The energy of a photon, whose momentum is 10 MeV/ c, where c is the speed of light, is given by",
+      "image": "",
+      "options": [
+        "10 MeV",
+        "100 MeV",
+        "1 MeV",
+        "0.1 MeV"
+      ],
+      "answer": "10 MeV",
+      "explanation": "As per the formula Energy of Photon is always equal to the multiple of the Momentum and Speed of light. Therefore; P=E/C Where P is Momentum, E is Energy and C is Speed of Light. 10 MeV/C=E/C; {P (Momentum) = 10MeV/C; as given in Question}. E= 10 MeV"
+    }
+  ],
+  "Physics (Electricity & Magnetism)": [
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "Liquids and gases never show",
+      "image": "",
+      "options": [
+        "diamagnetic property",
+        "paramagnetic property",
+        "ferromagnetic property",
+        "electromagnetic property"
+      ],
+      "answer": "ferromagnetic property",
+      "explanation": "Liquids and gases show diamagnetic, paramagnetic and electromagnetic property, but it never show ferromagnetic property."
+    }
+  ]
+}

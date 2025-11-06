@@ -1,0 +1,75 @@
+{
+  "Physics (Waves & Sound)": [
+    {
+      "subject": "Physics (Waves & Sound)",
+      "question": "Television signal cannot be received generally beyond a particular distance due to",
+      "image": "",
+      "options": [
+        "curvature of the Earth",
+        "weakness of antenna",
+        "weakness of signal",
+        "absorption of signal in air"
+      ],
+      "answer": "curvature of the Earth",
+      "explanation": "Curvature of the earth does not allow the television signals to be received beyond a particular distance."
+    },
+    {
+      "subject": "Physics (Waves & Sound)",
+      "question": "Which one of the following is the permissible level of noise in a silent zone at day time?",
+      "image": "",
+      "options": [
+        "50 dB",
+        "60 dB",
+        "65 dB",
+        "75 dB"
+      ],
+      "answer": "50 dB",
+      "explanation": "The permissible level is 50 dB."
+    }
+  ],
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "If a small raindrop falls through air",
+      "image": "",
+      "options": [
+        "its velocity goes on increasing",
+        "its velocity goes on decreasing",
+        "its velocity goes on increasing for sometime and then becomes constant",
+        "it falls with constant speed for sometime and then its velocity increases"
+      ],
+      "answer": "its velocity goes on increasing for sometime and then becomes constant",
+      "explanation": "Velocity of raindrop increases until it reaches the terminal velocity."
+    }
+  ],
+  "Physics (Modern Physics)": [
+    {
+      "subject": "Physics (Modern Physics)",
+      "question": "Consider the following satements<br>X-rays<br>1. can pass through aluminum.<br>2. can be deflected by magnetic field.<br>3. move with a velocity less than the velocity of ultraviolet ray in vacuum.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "Only 1",
+        "2 and 3",
+        "1 and 2"
+      ],
+      "answer": "Only 1",
+      "explanation": "X-rays cannot be deflected by magnetic field as they consists of no charge. X-rays and UV rays are electromagnetic wave, so they move with same velocity in vacuum i.e. 3 × 108 m/s."
+    }
+  ],
+  "Physics (Electromagnetism)": [
+    {
+      "subject": "Physics (Electromagnetism)",
+      "question": "By which one of the following, an old written material which cannot be read easily, can be read",
+      "image": "",
+      "options": [
+        "g-rays",
+        "X-rays",
+        "IR-rays",
+        "Radiofrequency waves"
+      ],
+      "answer": "IR-rays",
+      "explanation": "Infrared rays helps in reading an old written material."
+    }
+  ]
+}

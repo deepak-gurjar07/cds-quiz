@@ -1,0 +1,101 @@
+{
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "You are asked to jog in a circular track of radius 35 m. Right one complete round on the circular track, your displacement and distance covered by you respectively",
+      "image": "",
+      "options": [
+        "zero and 220 m",
+        "220 m and zero",
+        "zero and 110 m",
+        "110 m and 220 m"
+      ],
+      "answer": "zero and 220 m",
+      "explanation": "Displacement = Shortest distance between initial and final point = 0. Distance travelled by you = 2pr (Circumference of the circular track) = 2 * (22/7) * 35 = 220m"
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "In cricket match, while catching a fast moving ball, a fielder in the ground gradually pulls his hands backwards with the moving ball to reduce the velocity to zero. The act represents",
+      "image": "",
+      "options": [
+        "Newton's first law of motion",
+        "Newton's second law of motion",
+        "Newton's third law of motion",
+        "Law of conservation of energy"
+      ],
+      "answer": "Newton's second law of motion",
+      "explanation": "We know from Newton’s second law of motion F_ext = dP/dt. When dt is more F_ext will be less. The greater the rate of change of momentum, the greater is the force and vice-versa."
+    }
+  ],
+  "Physics (Electricity & Magnetism)": [
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "When an incandescent electric bulb glows",
+      "image": "",
+      "options": [
+        "the electric energy is completely converted into light",
+        "the electric energy is partly converted into light energy and partly into heat energy",
+        "the light energy is converted into electric energy",
+        "the electric energy is converted into magnetic energy"
+      ],
+      "answer": "the electric energy is partly converted into light energy and partly into heat energy",
+      "explanation": "When current flows through the filament of incandescent electric bulb, it gets heated up. Soon it becomes white hot and starts emitting light."
+    },
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "A mobile phone charger is",
+      "image": "",
+      "options": [
+        "an inverter",
+        "a UPS",
+        "a step-down transformer",
+        "a step-up transformer"
+      ],
+      "answer": "a step-down transformer",
+      "explanation": "A mobile phone charger is basically a step-down transformer which converts high voltage to low voltage."
+    }
+  ],
+  "Physics (Thermodynamics)": [
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "Two layers of a cloth of equal thickness provide warmer covering than a single layer of cloth with double the thickness. Why?",
+      "image": "",
+      "options": [
+        "Because of the air encapsulated between two layers",
+        "Since effective thickness of two layers is more",
+        "Fabric of the cloth plays the role",
+        "Weaving of the cloth plays the role"
+      ],
+      "answer": "Because of the air encapsulated between two layers",
+      "explanation": "Two layers of a cloth are warmer because air trapped between the layers acts as thermal insulator restricting the heat transfer."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "No matter how far you stand from a mirror, your image appears erect. The mirror is likely to be",
+      "image": "",
+      "options": [
+        "either plane or convex",
+        "plane only",
+        "concave",
+        "convex only"
+      ],
+      "answer": "either plane or convex",
+      "explanation": "Image formed by a plane and a convex mirror is always erect. Concave mirror forms image both erect and inverted depends on the position of the object from the mirror."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "The position, relative size and nature of the image formed by a concave lens for an object placed at infinity are respectively",
+      "image": "",
+      "options": [
+        "at focus, diminished and virtual",
+        "at focus, diminished and real",
+        "between focus and optical centre, diminished and virtual",
+        "between focus and optical centre, magnified and real"
+      ],
+      "answer": "at focus, diminished and virtual",
+      "explanation": "From the ray diagram, it is very clear that the image of the object placed at infinity from a concave lens is virtual diminished and at the focus of the lens."
+    }
+  ]
+}

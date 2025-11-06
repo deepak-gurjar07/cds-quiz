@@ -1,0 +1,62 @@
+{
+  "Physics (Properties of Matter)": [
+    {
+      "subject": "Physics (Properties of Matter)",
+      "question": "Hair of a shaving brush cling together when the brush is removed from water due to",
+      "image": "",
+      "options": [
+        "viscosity",
+        "surface tension",
+        "friction",
+        "elasticity"
+      ],
+      "answer": "surface tension",
+      "explanation": "When brush is taken out, the water film is formed between the hairs and they contract due to surface tension."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "Consider the following statements<br>1. Clear sky appears blue due to poor scattering of blue wavelength of visible light.<br>2. Red part of light shows more scattering than blue light in the atmosphere.<br>3. In the absence of atmosphere, there would be no scattering of light and sky will look black.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "1 and 2",
+        "Only 3",
+        "All of these"
+      ],
+      "answer": "Only 3",
+      "explanation": "The appearance of blue colour of sky is due to scattering of light which is not possible in absence of atmosphere."
+    }
+  ],
+  "Physics (Electromagnetism)": [
+    {
+      "subject": "Physics (Electromagnetism)",
+      "question": "The most familiar form of radiant energy in sunlight that causes tanning and sunburning of human skin, is called",
+      "image": "",
+      "options": [
+        "ultraviolet radiation",
+        "visible radiation",
+        "infrared radiation",
+        "microwave radiation"
+      ],
+      "answer": "ultraviolet radiation",
+      "explanation": "The tanning and sun burning of human skin is due to the harmful ultraviolet radiation from the sun."
+    }
+  ],
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "A boy throws four stones of same shape, size and weight with equal speed at different initial angles with the horizontal line. If the angles are 15°, 30°, 45° and 60°, at which angle the stone will cover the maximum horizontally?",
+      "image": "",
+      "options": [
+        "15°",
+        "30°",
+        "45°",
+        "60°"
+      ],
+      "answer": "45°",
+      "explanation": "Horizontal range R = (u^2 * sin(2*q)) / g. For maximum horizontal range q should be 45° so that sin(2*q) = sin(90°) = 1."
+    }
+  ]
+}

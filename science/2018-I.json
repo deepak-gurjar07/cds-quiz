@@ -1,0 +1,172 @@
+{
+  "Physics (Atomic Physics)": [
+    {
+      "subject": "Physics (Atomic Physics)",
+      "question": "Which one of the following elements is used as a timekeeper in atomic clocks?",
+      "image": "",
+      "options": [
+        "Potassium",
+        "Caesium",
+        "Calcium",
+        "Magnesium"
+      ],
+      "answer": "Caesium",
+      "explanation": "The principle of operation of an atomic clock is based on atomic physics. It uses the microwave signal that electrons in atoms emit when they change energy levels. An atomic clock uses an electron transition frequency in the microwave, optical, or ultraviolet region of the electromagnetic spectrum of atoms as a frequency standard for its timekeeping element. Caesium-based atomic clocks use the electromagnetic transitions of caesium-133 atoms as a reference point. Caesium is a chemical element with symbol Cs and atomic number 55. It is a soft, silvery-gold alkali metal."
+    }
+  ],
+  "Physics (Electricity & Magnetism)": [
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "Why is argon gas used along with tungsten wire in an electric bulb?",
+      "image": "",
+      "options": [
+        "To increase the life of the bulb",
+        "To reduce the consumption of electricity",
+        "To make the emitted light colored",
+        "To reduce the cost of the bulb"
+      ],
+      "answer": "To increase the life of the bulb",
+      "explanation": "Argon gas is used in fluorescent and incandescent light bulbs to stop the oxygen in the light bulbs from corroding the hot tungsten filament. The use of argon in light bulbs prevents the evaporation of the tungsten filaments, which results in increased light bulb life."
+    },
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "Working of safety fuses depends upon<br>1. magnetic effect of the current<br>2. chemical effect of the current<br>3. magnitude of the current<br>4. heating effect of the current<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3 only",
+        "3 and 4 only",
+        "4 only"
+      ],
+      "answer": "3 and 4 only",
+      "explanation": "The speed at which a fuse blows depends on how much current flows through it and the material of which the fuse is made. It therefore depends on magnitude and heating effect of the current."
+    },
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "Two metallic wires made from copper have same length but the radius of wire 1 is half of that of wire 2. The resistance of wire 1 is R. If both the wires are joined together in series, the total resistance becomes",
+      "image": "",
+      "options": [
+        "2R",
+        "R/2",
+        "5R/4",
+        "3R/4"
+      ],
+      "answer": "5R/4",
+      "explanation": "Use the equation R = rho * l / A, Where R = resistance; l = length; A = cross sectional area, rho = resistivity. Assume the wires are circular cross section. Wire 1 has resistance R. Wire 2 is the same length, but twice the radius, so 4 times the cross sectional area. So wire 2 has a resistance of R/4. So total resistance of 2 in series = R + R/4 = 5/4 * R"
+    },
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "A wire of copper having length l and area of cross-section A is taken and a current I is flown through it. The power dissipated in the wire is P. If we take an aluminium wire having same dimensions and pass the same current through it, the power dissipated will be",
+      "image": "",
+      "options": [
+        "P",
+        "< P",
+        "> P",
+        "2P"
+      ],
+      "answer": "> P",
+      "explanation": "A wire of copper having length l and area of cross section A is taken and a current I is flown through it. The power dissipated in the wire is P. If we take an aluminium wire having same dimensions and pass the same current through it, the power dissipated will be > P."
+    }
+  ],
+  "Physics (Thermodynamics)": [
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "Which one of the following is the correct relation between the Kelvin temperature (T) and the Celsius temperature (tc)?",
+      "image": "",
+      "options": [
+        "These are two independent temperature scales",
+        "T = tc",
+        "T = tc – 273.15",
+        "T = tc + 273.15"
+      ],
+      "answer": "T = tc + 273.15",
+      "explanation": "Temperature in Kelvin = Temperature in Celsius scale + 273.15"
+    },
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "Which of the following represents a relation for ‘heat lost = heat gained’?",
+      "image": "",
+      "options": [
+        "Principle of thermal equilibrium",
+        "Principle of colors",
+        "Principle of calorimetry",
+        "Principle of vaporization"
+      ],
+      "answer": "Principle of calorimetry",
+      "explanation": "When the two bodies are isolated from their surroundings, the amount of heat lost by the hot body must be equal to the amount of heat gained by the cold body. The same principle is used in calorimetry. As heat is energy in transit, this principle is really just conservation of energy."
+    }
+  ],
+  "Physics (Waves & Sound)": [
+    {
+      "subject": "Physics (Waves & Sound)",
+      "question": "Sound waves cannot travel through a",
+      "image": "",
+      "options": [
+        "copper wire placed in air",
+        "silver slab placed in air",
+        "glass prism placed in water",
+        "wooden hollow pipe placed in vacuum"
+      ],
+      "answer": "wooden hollow pipe placed in vacuum",
+      "explanation": "Sound cannot travel through a vacuum. A vacuum is an area without any air, like space. So sound cannot travel through space because there is no matter for the vibrations to work in."
+    }
+  ],
+  "Physics (Units & Measurements)": [
+    {
+      "subject": "Physics (Units & Measurements)",
+      "question": "Which one of the following is the value of one nanometer?",
+      "image": "",
+      "options": [
+        "10–7 cm",
+        "10–6 cm",
+        "10–4 cm",
+        "10–3 cm"
+      ],
+      "answer": "10–7 cm",
+      "explanation": "1 nanometer = 0.00000010 centimeters (cm) or 10–7 cm"
+    }
+  ],
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "Consider the following statements :<br>1. There is no net moment on a body which is in equilibrium.<br>2. The momentum of a body is always conserved.<br>3. The kinetic energy of an object is always conserved.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1 only"
+      ],
+      "answer": "1 and 2 only",
+      "explanation": "Kinetic energy (KE) is the energy of motion, and kinetic energy is not always conserved in a collision. Kinetic energy has the equation (1/2)mv2."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "The pressure of a fluid varies with depth h as P = P0 + rgh, where r is the fluid density. This expression is associated with",
+      "image": "",
+      "options": [
+        "Pascal’s law",
+        "Newton’s law",
+        "Bernoulli’s principle",
+        "Archimede’s principle"
+      ],
+      "answer": "Pascal’s law",
+      "explanation": "Pascal's principle, also called Pascal's law, in fluid (gas or liquid) mechanics, statement that, in a fluid at rest in a closed container, a pressure change in one part is transmitted without loss to every portion of the fluid and to the walls of the container."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "When the Sun is near the horizon during the morning or evening, it appears reddish. The phenomenon that is responsible for this observation is",
+      "image": "",
+      "options": [
+        "reflection of light",
+        "refraction of light",
+        "dispersion of light",
+        "scattering of light"
+      ],
+      "answer": "scattering of light",
+      "explanation": "According to Rayleigh's law, the intensity of scattered light varies inversely as the fourth power of its wavelength. Sunlight consists of seven colours. Of these, red has the maximum wavelength. During sunrise and sunset, the rays have to travel a larger part of the atmosphere because they are very close to the horizon. Therefore, light other than red is mostly scattered away. Most of the red light, which is the least scattered, enters our eyes. Hence, the sun and the sky appear red."
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "Statement I : When a gun is fired it recoils, i.e., it pushes back, with much less velocity than the velocity of the bullet.<br>Statement II : Velocity of the recoiling gun is less because the gun is much heavier than the bullet.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+        "Both the statements are individually true, but Statement II is not the correct explanation of Statement I.",
+        "Statement I is true, but Statement II is false.",
+        "Statement I is false, but statement II is true."
+      ],
+      "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+      "explanation": ""
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "In respect of the difference of the gravitational force from electric and magnetic forces, which one of the following statements is true ?",
+      "image": "",
+      "options": [
+        "Gravitational force is stronger than the other two.",
+        "Gravitational force is attractive only, whereas the electric and the magnetic forces are attractive as well as repulsive.",
+        "Gravitational force has a very short range.",
+        "Gravitational force is a long range force, while the other two are short range forces."
+      ],
+      "answer": "Gravitational force is attractive only, whereas the electric and the magnetic forces are attractive as well as repulsive.",
+      "explanation": "Gravitational force is attractive only whereas the electric and magnetic forces are attractive as well as repulsive."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "Creation of something from nothing is against the law of",
+      "image": "",
+      "options": [
+        "constant proportions",
+        "conservation of mass-energy",
+        "multiple proportions",
+        "conservation of momentum"
+      ],
+      "answer": "conservation of mass-energy",
+      "explanation": "Creation of something from nothing is against the law of conservation of mass energy."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "An electron and a proton are circulating with same speed in circular paths of equal radius. Which one among the following will happen, if the mass of a proton is about 2,000 times that of an electron ?",
+      "image": "",
+      "options": [
+        "The centripetal force required by the electron is about 2,000 times more than that required by the proton",
+        "The centripetal force required by the proton is about 2,000 times more than that required by the electron",
+        "No centripetal force is required for any charged particle",
+        "Equal centripetal force acts on both the particles as they rotate in the same circular path"
+      ],
+      "answer": "The centripetal force required by the proton is about 2,000 times more than that required by the electron",
+      "explanation": "Centripetal force = mv2/r. Given that, Mass of proton = 2000 × mass of electron. Radius and speed is same for both proton and electron. Therefore, Centripetal force is proportional to mass. Since mass of proton is 2000 times that of mass of electron, hence the centripetal force required by proton is about 2000 times more than that required by the electron."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "An object is raised to a height of 3 m from the ground. It is then allowed to fall on to a table 1 m high from ground level. In this context, which one among the following statements is correct ?",
+      "image": "",
+      "options": [
+        "Its potential energy decreases by two-thirds its original value of total energy.",
+        "Its potential energy decreases by one-third its original value of total energy.",
+        "Its kinetic energy increases by two-thirds, while potential energy increases by one-third.",
+        "Its kinetic energy increases by one-third, while potential energy decreases by one-third."
+      ],
+      "answer": "Its potential energy decreases by two-thirds its original value of total energy.",
+      "explanation": ""
+    }
+  ],
+  "Physics (Modern Physics)": [
+    {
+      "subject": "Physics (Modern Physics)",
+      "question": "In an observation, a-particles, b-particles and g-rays have same energies. Their penetrating power in a given medium in increasing order will be",
+      "image": "",
+      "options": [
+        "a, b, g",
+        "b, g, a",
+        "a, g, b",
+        "b, a, g"
+      ],
+      "answer": "a, b, g",
+      "explanation": "g - rays are the most penetrating rays, b - particles are moderately penetrating and a - particles are least penetrating."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "A person standing 1 m in front of a plane mirror approaches the mirror by 40 cm. The new distance between the person and his image in the plane mirror is",
+      "image": "",
+      "options": [
+        "60 cm",
+        "1.2 m",
+        "1.4 m",
+        "2.0 m"
+      ],
+      "answer": "1.2 m",
+      "explanation": "The new distance from the mirror is 1m - 40cm = 60cm. The distance between person and his image is 60 cm × 2 = 120 cm = 1.2 m"
+    }
+  ],
+  "Physics (Electricity & Magnetism)": [
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "Two pieces of conductor of same material and of equal length are connected in series with a cell. One of the two pieces has cross-sectional area double that of the other. Which one of the following statements is correct in this regard ?",
+      "image": "",
+      "options": [
+        "The thicker one will allow stronger current to pass through it.",
+        "The thinner one would allow stronger current to pass through it.",
+        "Same amount of electric current would pass through both the pieces producing more heat in the thicker one.",
+        "Same amount of electric current would pass through both the pieces producing more heat in the thinner one."
+      ],
+      "answer": "Same amount of electric current would pass through both the pieces producing more heat in the thinner one.",
+      "explanation": ""
+    },
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "A wire-bound standard resistor used manganin or constantan. It is because",
+      "image": "",
+      "options": [
+        "these alloys are cheap and easily available",
+        "they have high resistivity",
+        "they have low resistivity",
+        "they have resistivity which almost remains unchanged with temperature"
+      ],
+      "answer": "they have resistivity which almost remains unchanged with temperature",
+      "explanation": "Manganin is a trademarked name for an alloy of typically 86% copper, 12% manganese, and 2% nickel. Constantan is a copper-nickel alloy usually consisting of 55% copper and 45% nickel. Its main feature is its resistivity which is constant over a wide range of temperatures. Other alloys with similarly low temperature coefficients are manganin."
+    }
+  ],
+  "Physics (Properties of Matter)": [
+    {
+      "subject": "Physics (Properties of Matter)",
+      "question": "Which one among the following is used in making lead pencils ?",
+      "image": "",
+      "options": [
+        "Charcoal",
+        "Graphite",
+        "Coke",
+        "Carbon black"
+      ],
+      "answer": "Graphite",
+      "explanation": "Graphite is used in making lead pencils due to its ability to leave marks on paper and other objects. Pencil lead is most commonly a mix of powdered graphite and clay."
+    }
+  ],
+  "Chemistry (Properties of Matter)": [
+    {
+      "subject": "Chemistry (Properties of Matter)",
+      "question": "Sodium metal should be stored in",
+      "image": "",
+      "options": [
+        "Alcohol",
+        "Kerosene oil",
+        "Water",
+        "Hydrochloric acid"
+      ],
+      "answer": "Kerosene oil",
+      "explanation": "Sodium metal should be stored in kerosene oil. Sodium is a very reactive metal. It is kept in kerosene to prevent it from coming in contact with oxygen and moisture. If this happens, it will react with the moisture present in air and form sodium hydroxide. This is a strongly exothermic reaction, and lot of heat is generated. Thus sodium is kept under kerosene."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "Soap solution used for cleaning purpose appears cloudy. This is due to the fact that soap micelles can",
+      "image": "",
+      "options": [
+        "refract light",
+        "scatter light",
+        "diffract light",
+        "polarize light"
+      ],
+      "answer": "scatter light",
+      "explanation": "When soap is mixed in water a colloidal solution is formed. The soap solution has soap micelles which are an aggregate of soap molecules. These micelles are large and they scatter light. That is why the soap solution appears cloudy."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "Magnification is",
+      "image": "",
+      "options": [
+        "actual size of specimen/observed size",
+        "observed size of specimen/actual size",
+        "actual size of specimen – observed size",
+        "actual size of specimen ´ observed size"
+      ],
+      "answer": "observed size of specimen/actual size",
+      "explanation": "Magnification is the process of enlarging the apparent size, not physical size, of something. This enlargement is quantified by a calculated number also called “magnification”. When this number is less than one, it refers to a reduction in size, sometimes called minification or de-magnification."
+    }
+  ],
+  "Physics (Thermodynamics)": [
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "People prefer to wear cotton clothes in summer season. This is due to the fact that cotton clothes are",
+      "image": "",
+      "options": [
+        "good absorbers of water",
+        "good conveyors of heat",
+        "good radiators of heat",
+        "good absorbers of heat"
+      ],
+      "answer": "good absorbers of water",
+      "explanation": "Cotton readily absorbs water. This is because the fibers of the cotton have a lot of space between them. One reason cellulose makes cotton absorbent is that it contains a negative charge, which helps attract “dipolar” water molecules and absorb them. Another reason is cotton’s “hydrophilic properties.”"
+    }
+  ],
+  "Physics (Properties of Matter)": [
+    {
+      "subject": "Physics (Properties of Matter)",
+      "question": "Consider the following statements :<br>1. Particles of matter intermix on their own.<br>2. Particles of matter have force acting between them.<br>Which of the statements given above is/are correct ?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2."
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "A matter is anything that has mass and occupies space. Pen, paper, clips, sand, air, ice, etc. are different forms of matter. Every matter is made up of tiny particles. These particles are so tiny that they can’t be seen with naked eyes. Every substance is made up of particles. These particles exhibit some characteristics. They can influence the state and properties (physical and chemical) of a substance. The five characteristics shown by particles of matter are as follows. 1. All matter is made of particles 2. Particles have space between them 3. Particles are always moving 4. Particles move faster and get farther apart when heated 5. Particles are attracted to each other"
+    }
+  ],
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "If an object is at rest, then the time (X-axis) versus distance (Y-axis) graph",
+      "image": "",
+      "options": [
+        "is vertical",
+        "is horizontal",
+        "has 45° positive slope",
+        "has 45° negative slope"
+      ],
+      "answer": "is horizontal",
+      "explanation": "The distance-time graph determines the change in the position of the object. The speed of the object as well can be determined using the line graph. Here the time lies on the x-axis while the distance on the y-axis. The line graph of uniform motion is always a straight line or Horizontal."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "A car undergoes a uniform circular motion. The acceleration of the car is",
+      "image": "",
+      "options": [
+        "zero",
+        "a non-zero constant",
+        "a non-zero but not a constant",
+        "None of the above"
+      ],
+      "answer": "a non-zero but not a constant",
+      "explanation": "Uniform circular motion is accelerated because the velocity changes due to continuous change in the direction of motion. So even when the body moves to a constant speed its velocity is not constant. Therefore circular motion is an acceleration motion even when the speed remains constant."
+    }
+  ],
+  "Physics (Electricity & Magnetism)": [
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "If the speed of a moving magnet inside a coil increases, the electric current in the coil",
+      "image": "",
+      "options": [
+        "increases",
+        "decreases",
+        "reverses",
+        "remains the same"
+      ],
+      "answer": "increases",
+      "explanation": "The speed of the electric current would increase. Increasing the speed of the relative motion between the coil and the magnet – If the same coil of wire passed through the same magnetic field but its speed or velocity is increased, the wire will cut the lines of flux at a faster rate so more induced emf would be produced."
+    },
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "A 100 W electric bulb is used for 10 hours a day. How many units of energy are consumed in 30 days ?",
+      "image": "",
+      "options": [
+        "1",
+        "10",
+        "30",
+        "300"
+      ],
+      "answer": "30",
+      "explanation": "A kilowatt-hour is 1,000 watts used for one hour. A 100-watt light bulb operating for ten hours would use one kilowatt-hour (1 unit). In 30 days, it will consume 30 units."
+    }
+  ],
+  "Physics (Waves & Sound)": [
+    {
+      "subject": "Physics (Waves & Sound)",
+      "question": "The frequency (in Hz) of a note that is one octave higher than 500 Hz is",
+      "image": "",
+      "options": [
+        "375",
+        "750",
+        "1000",
+        "2000"
+      ],
+      "answer": "1000",
+      "explanation": "An octave can defined as interval between two points where the frequency at the second point is twice the frequency of the first. f = 1000 Hz. Thus, the frequency of a note that is one octave higher than 500 Hz is 1000 Hz."
+    },
+    {
+      "subject": "Physics (Waves & Sound)",
+      "question": "An echo is heard after 5 seconds of the production of sound which moves with a speed of 340 m/s. What is the distance of the mountain from the source of sound which produced the echo ?",
+      "image": "",
+      "options": [
+        "0. 085 km",
+        "0. 85 km",
+        "0.17 km",
+        "1 . 7 km"
+      ],
+      "answer": "0. 85 km",
+      "explanation": "Time to reach mountain = 5/2 = 2.5 seconds. Speed = 340 m/s. Distance = speed × time = 2.5 × 340 = 850m or 0.85 km is the distance between the source and the mountain"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "Physics (Electromagnetism)": [
+    {
+      "subject": "Physics (Electromagnetism)",
+      "question": "If the wavelengths corresponding to ultraviolet, visible and infrared radiations are given as lUV, lVIS and lIR respectively, then which one of the following gives the correct relationship among these wavelengths?",
+      "image": "",
+      "options": [
+        "l UV < l IR < l VIS",
+        "l UV > l VIS > l IR",
+        "l UV > l IR > l VIS",
+        "l UV < l VIS < l IR"
+      ],
+      "answer": "l UV < l VIS < l IR",
+      "explanation": ""
+    }
+  ],
+  "Physics (Modern Physics)": [
+    {
+      "subject": "Physics (Modern Physics)",
+      "question": "An electron and a proton starting from rest get accelerated through potential difference of 100 kV. The final speeds of the electron and the proton are Ve and Vp respectively. Which one of the following relations is correct?",
+      "image": "",
+      "options": [
+        "Ve > Vp",
+        "Ve < Vp",
+        "Ve = Vp",
+        "Cannot be determined"
+      ],
+      "answer": "Ve > Vp",
+      "explanation": ""
+    }
+  ],
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "If two vectors A and B are at an angle then",
+      "image": "",
+      "options": [
+        "| A| + | B|=| A+ B|",
+        "| A| + | B|>| A+ B|",
+        "| A| +| B|<| A+ B|",
+        "| A| +| B|=| A-B|"
+      ],
+      "answer": "| A| + | B|=| A+ B|",
+      "explanation": ""
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "In spherical polar coordinates (g, q, a), q denotes the polar angle around z-axis and a denotes the azimuthal angle raised from x-axis. Then the y-component of P is given by",
+      "image": "",
+      "options": [
+        "P sin q sina",
+        "P sin q cos a",
+        "P cos q sin a",
+        "P cos q cos a"
+      ],
+      "answer": "P sin q sina",
+      "explanation": ""
+    }
+  ],
+  "Physics (Properties of Matter)": [
+    {
+      "subject": "Physics (Properties of Matter)",
+      "question": "When hot water is placed into an empty water bottle, the bottle keeps its shape and does not soften. What type of plastic is the water bottle made from?",
+      "image": "",
+      "options": [
+        "Thermoplastic",
+        "PVC",
+        "Polyurethane",
+        "Thermosetting"
+      ],
+      "answer": "Thermosetting",
+      "explanation": "Thermoset, or thermosetting, plastics are synthetic materials that strengthen during being heated, but cannot be successfully remolded or reheated after their initial heat-forming. This is in contrast to thermoplastics, which soften when heated and harden and strengthen after cooling."
+    },
+    {
+      "subject": "Physics (Properties of Matter)",
+      "question": "The Hooke’s law is valid for",
+      "image": "",
+      "options": [
+        "only proportional region of the stress-strain curve",
+        "entire sress-strain curve",
+        "entire elastic region of the stress-strain curve",
+        "elastic as well as plastic region of the stress-strain curve"
+      ],
+      "answer": "only proportional region of the stress-strain curve",
+      "explanation": "Hooke's law is only really valid up to the proportionality limit, and this is simply because Hooke's law is a proportionality law, i.e. Force is proportional to extension."
+    }
+  ],
+  "Physics (Thermodynamics)": [
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "Which one of the following methods is/are state function/ functions?<br>1. q + w<br>2. q<br>3. w<br>4. H - TS<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 and 4 only",
+        "1 , 2 and 4",
+        "2, 3 and 4",
+        "1 only"
+      ],
+      "answer": "1 and 4 only",
+      "explanation": ""
+    },
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "For a certain reaction, DGq = -45 kJ/mol and DHq = -90 kJ / mol at 0°C. What is the minimum temperature at which the reaction will become spontaneous, assuming that DHq and DSq are independent of temperture?",
+      "image": "",
+      "options": [
+        "273 K",
+        "298 K",
+        "546 K",
+        "596 K"
+      ],
+      "answer": "546 K",
+      "explanation": ""
+    },
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "For an ideal gas, which one of the following statements does not hold true?",
+      "image": "",
+      "options": [
+        "The speed of all gas molecules is same.",
+        "The kinetic energies of all gas molecules are not same.",
+        "The potential energy of the gas molecules is zero.",
+        "There is no interactive force between the molecules."
+      ],
+      "answer": "The kinetic energies of all gas molecules are not same.",
+      "explanation": "Gas particles are small and the total volume occupied by gas molecules is negligible relative to the total volume of their container. The average kinetic energy of gas particles is proportional to the absolute temperature of the gas, and all gases at the same temperature have the same average kinetic energy."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "Which one of the following is the correct sequence of passage of light in a compound microscope?",
+      "image": "",
+      "options": [
+        "Condenser - Objective lens-Eye-piece - Body tube",
+        "Objective lens - Condenser-Body tube-Eyepiece",
+        "Condenser-Objective lens-Body tube-Eyepiece",
+        "Eyepiece-Objective lens-Body tube-Mirror"
+      ],
+      "answer": "Condenser-Objective lens-Body tube-Eyepiece",
+      "explanation": "Correct sequence of passage of light in a compound microscope: light source-condenser-specimen-objective lens-ocular lens-body tube-eyepiece."
+    }
+  ]
+}

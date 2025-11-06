@@ -1,0 +1,90 @@
+{
+  "Physics (Waves & Sound)": [
+    {
+      "subject": "Physics (Waves & Sound)",
+      "question": "Which one of the following statements is not correct ?",
+      "image": "",
+      "options": [
+        "Sounds wave in gases are longitudinal in nature",
+        "Sounds wave having frequency below 20 Hz are known as ultrasonic waves",
+        "Sounds waves having higher amplitudes are louder",
+        "Sound waves with high audible frequencies are sharp"
+      ],
+      "answer": "Sounds wave having frequency below 20 Hz are known as ultrasonic waves",
+      "explanation": "The sound waves having frequency below 20 Hz are inaudible. Ultrasonic waves are those waves which have the frequency of above 20,000 Hz."
+    },
+    {
+      "subject": "Physics (Waves & Sound)",
+      "question": "A person rings a metallic bell near a strong concrete wall. He hears the echo after 0.3 s. if the sound moves with a speed of 340 m/s, how far is the wall from him?",
+      "image": "",
+      "options": [
+        "102 m",
+        "11 m",
+        "51 m",
+        "30 m"
+      ],
+      "answer": "51 m",
+      "explanation": "Let the distance is x metre. Total distance = Velocity × Time. 2x = 340 × 0.3 = 102 metre. The distance of wall is x = 102 / 2 = 51 metre."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "A myopic person has a power of 1.25 dioptre, what is the focal length and nature of his lens ?",
+      "image": "",
+      "options": [
+        "50 cm and convex lens",
+        "80 cm and convex lens",
+        "50 cm and concave lens",
+        "80 cm and concave lens"
+      ],
+      "answer": "80 cm and concave lens",
+      "explanation": "The nature of the lens used to correct myopic eye is a concave lens. D = 1/f(metre). f = 1/D = 1/1.25 = 100/125 = 0.80 metre = 80 cm"
+    }
+  ],
+  "Physics (Electricity & Magnetism)": [
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "Which one of the following statements about bar magnet is correct ?",
+      "image": "",
+      "options": [
+        "The pole strength of the north-pole of a bar magnet is larger than that of the south-pole",
+        "When a piece of bar magnet is bisected perpendicular to its axis, the north and south pole get separated",
+        "When a piece of bar magnet is bisected perpendicular to its axis two new bar magnets are formed",
+        "The poles of a bar magnet are unequal in magnitude and opposite in nature"
+      ],
+      "answer": "When a piece of bar magnet is bisected perpendicular to its axis two new bar magnets are formed",
+      "explanation": "If any magnet is divided into two parts, every part will be a new magnet."
+    }
+  ],
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "The rate of change of momentum of a body equal of the resultant :",
+      "image": "",
+      "options": [
+        "energy",
+        "power",
+        "force",
+        "impulse"
+      ],
+      "answer": "force",
+      "explanation": "Newton's 2nd Law - The rate of Change of momentum always acts in the direction of resultant force acting on a body (F = ma) (where m = mass; a = aceeleration)"
+    }
+  ],
+  "Physics (Units & Measurements)": [
+    {
+      "subject": "Physics (Units & Measurements)",
+      "question": "The SI unit of mechanical power is :",
+      "image": "",
+      "options": [
+        "Joule",
+        "Watt",
+        "Newton-Second",
+        "Joule-Second"
+      ],
+      "answer": "Watt",
+      "explanation": "Watt is the SI unit of mechanical power."
+    }
+  ]
+}

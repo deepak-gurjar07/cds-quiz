@@ -1,0 +1,131 @@
+{
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "The upper and lower portions in common type of bi-focal lenses are respectively",
+      "image": "",
+      "options": [
+        "concave and convex",
+        "convex and concave",
+        "both concave of different focal lengths",
+        "both convex of different focal lengths"
+      ],
+      "answer": "concave and convex",
+      "explanation": "The upper and lower portions in common type of bifocal lenses are concave and convex respectively."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "In the phenomenon of dispersion of light, the light wave of shortest wavelength is",
+      "image": "",
+      "options": [
+        "accelerated and refracted the most",
+        "slowed down and refracted the most",
+        "accelerated and refracted the least",
+        "slowed down and refracted the least"
+      ],
+      "answer": "slowed down and refracted the most",
+      "explanation": "Short wavelength is slowed down and refracted the most"
+    }
+  ],
+  "Physics (Electricity & Magnetism)": [
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "Tungsten is used for the construction of filament in electric bulb because of its",
+      "image": "",
+      "options": [
+        "high specific resistance",
+        "low specific resistance",
+        "high light emitting power",
+        "high melting point"
+      ],
+      "answer": "high melting point",
+      "explanation": "Tungsten has the highest melting point and lowest vapour pressure of all metals."
+    },
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "Inactive Nitrogen and Argon gases are usually used in electric bulbs in order to",
+      "image": "",
+      "options": [
+        "increase the intensity of light emitted",
+        "increase the life of the filament",
+        "make the emitted light coloured",
+        "make the production of bulb economical"
+      ],
+      "answer": "increase the life of the filament",
+      "explanation": "The inert gas within the bulb prevents the filament from evaporating.Thus it increases the life of the filament."
+    }
+  ],
+  "Physics (Waves & Sound)": [
+    {
+      "subject": "Physics (Waves & Sound)",
+      "question": "An oscilloscope is an instrument which allows us to see waves produced by",
+      "image": "",
+      "options": [
+        "Visible light",
+        "X-rays",
+        "Sound",
+        "Gamma rays"
+      ],
+      "answer": "Sound",
+      "explanation": "Oscilloscope is an instrument which allows us to see waves produced by sound. The microphone can then pick up the sound and convert it to an electrical signal which can be displayed on the oscilloscope."
+    },
+    {
+      "subject": "Physics (Waves & Sound)",
+      "question": "For a harmonic oscillator, the graph between momentum p and displacement q would come out as",
+      "image": "",
+      "options": [
+        "a straight line",
+        "a parabola",
+        "a circle",
+        "an ellipse"
+      ],
+      "answer": "an ellipse",
+      "explanation": ""
+    }
+  ],
+  "Physics (Atomic Physics)": [
+    {
+      "subject": "Physics (Atomic Physics)",
+      "question": "The distribution of electrons into different orbits of an atom, as suggested by Bohr; is",
+      "image": "",
+      "options": [
+        "2 electrons in the K-orbit, 6 electrons in the L-orbit, 18 electrons in the M-orbit",
+        "2 electrons in the K-orbit, 8 electrons in the L-orbit, 32 electrons in the M-orbit",
+        "2 electrons in the K-orbit, 8 electrons in the L-orbit, 18 electrons in the M-orbit",
+        "2 electrons in the K-orbit, 8 electrons in the L-orbit, 16 electrons in the M-orbit"
+      ],
+      "answer": "2 electrons in the K-orbit, 8 electrons in the L-orbit, 18 electrons in the M-orbit",
+      "explanation": "Maximum n of electrons in K,L, M and N is 2, 8, 18 and 32 respectively."
+    }
+  ],
+  "Physics (Nuclear Physics)": [
+    {
+      "subject": "Physics (Nuclear Physics)",
+      "question": "Carbon or Graphite rods are used in atomic reactors as moderators for sustained nuclear chain reaction through nuclear fission process. In this process",
+      "image": "",
+      "options": [
+        "the neutrons are made fast",
+        "the protons are made fast",
+        "the neutrons are made slow",
+        "the protons are made slow"
+      ],
+      "answer": "the neutrons are made slow",
+      "explanation": "Moderators like carbon and Graphite are used for slowing down the neutrons in a nuclear reactor. Neutrons from fission have very high speeds and must be slowed greatly by \"moderation\" to maintain the chain reaction."
+    }
+  ],
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "The distance-time graph for an object is shown above. Which one of the following statements holds true for this object ?",
+      "image": "",
+      "options": [
+        "The object is moving with uniform speed",
+        "The object is at rest",
+        "The object is having non-linear motion",
+        "The object is moving with non-uniform speed"
+      ],
+      "answer": "The object is at rest",
+      "explanation": ""
+    }
+  ]
+}

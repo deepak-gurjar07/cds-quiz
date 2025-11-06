@@ -1,0 +1,159 @@
+{
+  "Physics (Thermodynamics)": [
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "Assertion (A): Steam is more harmful for human body than the boiling water in case of burn.<br>Reason (R) : Boiling water contains more heat than steam.",
+      "image": "",
+      "options": [
+        "Both A and R are true and R is the correct explanation of A",
+        "Both A and R are true, but R is not the correct explanation of A",
+        "A is true, but R is false",
+        "A is false, but R is true"
+      ],
+      "answer": "A is true, but R is false",
+      "explanation": "Steam burns are more serious than burns from boiling water even though both are at 100°C becasue when steam condenses it give up very high heat energy i.e. additional 22.6 × 105 joule of heat (latent heat of vapourisation) compared to boiling water."
+    },
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "What would be the best choice for window material to keep the outside heat away?",
+      "image": "",
+      "options": [
+        "Single-pane glass",
+        "Double-pane glass without a gap in between",
+        "Double-pane glass with water filled in between",
+        "Double-pane glass with air in between"
+      ],
+      "answer": "Double-pane glass with air in between",
+      "explanation": "To keep the outside heat away, windows of double-pane glass with air in between is the best choice because air is the bad conductor of heat."
+    },
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "Assertion (A): In a pressure cooker food is cooked above boiling point.<br>Reason (R): Boiling point of water increases as the pressure increases.",
+      "image": "",
+      "options": [
+        "Both A and R are true and R is the correct explanation of A",
+        "Both A and R are true, but R is not the correct explanation of A",
+        "A is true, but R is false",
+        "A is false, but R is true"
+      ],
+      "answer": "Both A and R are true and R is the correct explanation of A",
+      "explanation": "In a pressure cooker while cooking pressure increases due to which boiling point of water also increases as PµT ."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "Why is it difficult to see through fog?",
+      "image": "",
+      "options": [
+        "Rays of light suffer total internal reflection from the fog droplets",
+        "Rays of light are scattered by the fog droplets",
+        "Fog droplets absorb light",
+        "The refractive index of fog is extremely high"
+      ],
+      "answer": "Rays of light are scattered by the fog droplets",
+      "explanation": "The rays of light are scattered by the fog droplets due to which it become difficult to see through fog."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "A ray of light is incident on a plane mirror at an angle 30° with the normal at the point of incidence. The ray will be deviated from its incidence direction by what angle?",
+      "image": "",
+      "options": [
+        "30°",
+        "60°",
+        "120°",
+        "None of these"
+      ],
+      "answer": "60°",
+      "explanation": "By law of reflection, angle of incidence i is equal to angle of reflection r. Total deviation of ray = 30° + 30° = 60°"
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "The phenomenon of mirage occurs due to which one of the following?",
+      "image": "",
+      "options": [
+        "Polarisation of light",
+        "Dispersion of light",
+        "Diffraction of light",
+        "Total internal reflection of light"
+      ],
+      "answer": "Total internal reflection of light",
+      "explanation": "Total internal reflection is responsible for mirage formation in deserts."
+    }
+  ],
+  "Physics (Properties of Matter)": [
+    {
+      "subject": "Physics (Properties of Matter)",
+      "question": "The density of water varies with temperature which helps the aquatic animals to live in cold water. At what temperature is the density of water maximum?",
+      "image": "",
+      "options": [
+        "1°C",
+        "2°C",
+        "3°C",
+        "4°C"
+      ],
+      "answer": "4°C",
+      "explanation": "Density of water is maximum at 4°C."
+    }
+  ],
+  "Physics (Cosmology)": [
+    {
+      "subject": "Physics (Cosmology)",
+      "question": "Who gave the first evidence of the big-bang theory?",
+      "image": "",
+      "options": [
+        "Edwin Hubble",
+        "Albert Einstein",
+        "S Chandrasekhar",
+        "Stephen Hawking"
+      ],
+      "answer": "Edwin Hubble",
+      "explanation": "Edwin Hubble gave the first evidence of the big-bang theory."
+    }
+  ],
+  "Physics (Units & Measurements)": [
+    {
+      "subject": "Physics (Units & Measurements)",
+      "question": "Bar is a unit of which one of the following?",
+      "image": "",
+      "options": [
+        "Force",
+        "Energy",
+        "Pressure",
+        "Frequency"
+      ],
+      "answer": "Pressure",
+      "explanation": "1 Bar = 105 Pa. Both bar and Pa are the unit of pressure."
+    }
+  ],
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "On which one of the following conservative laws, does a rocket work?",
+      "image": "",
+      "options": [
+        "Mass",
+        "Energy",
+        "Linear momentum",
+        "Angular momentum"
+      ],
+      "answer": "Linear momentum",
+      "explanation": "Rocket works on the principle of conservation of linear momentum."
+    }
+  ],
+  "Physics (Electricity & Magnetism)": [
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "Which one of the following common devices works on the basis of the principle of mutual induction?",
+      "image": "",
+      "options": [
+        "Tubelight",
+        "Transformer",
+        "Photodiode",
+        "LED"
+      ],
+      "answer": "Transformer",
+      "explanation": "Transformer is based on the principle of mutual induction."
+    }
+  ]
+}
