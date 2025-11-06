@@ -1,0 +1,133 @@
+{
+  "Physics (Atomic Physics)": [
+    {
+      "subject": "Physics (Atomic Physics)",
+      "question": "Scattering of a-particles by a thin gold foil suggests the presence of",
+      "image": "",
+      "options": [
+        "electron in an atom",
+        "proton in an atom",
+        "positively charged nucleus at the centre of an atom",
+        "isotopes of gold"
+      ],
+      "answer": "positively charged nucleus at the centre of an atom",
+      "explanation": "Scattering of a- Particles by a thin gold foil suggest the presence of Positively charged nucleus at the centre of an atom.Experiment was performed by Rutherford in which he allowed a beam of a- Particles to fallon a thin gold foil."
+    }
+  ],
+  "Physics (Waves & Sound)": [
+    {
+      "subject": "Physics (Waves & Sound)",
+      "question": "The property of the sound waves that determines the pitch of the sound is its",
+      "image": "",
+      "options": [
+        "frequency",
+        "amplitude",
+        "wavelength",
+        "intensity"
+      ],
+      "answer": "frequency",
+      "explanation": "The frequency of a sound wave is what your ear understands as pitch. A higher frequency sound has a higher pitch, and a lower frequency sound has a lower pitch."
+    }
+  ],
+  "Physics (Modern Physics)": [
+    {
+      "subject": "Physics (Modern Physics)",
+      "question": "Which one of the following is not a property of the X-rays?",
+      "image": "",
+      "options": [
+        "They are deflected by electric fields.",
+        "They are not deflected by magnetic fields.",
+        "They have high penetration length in matter.",
+        "Their wavelength is much smaller than that of visible light."
+      ],
+      "answer": "They are deflected by electric fields.",
+      "explanation": "X-rays are not deflected by electric and magnetic field."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "Which one of the following is not true about the image formed by a plane mirror?",
+      "image": "",
+      "options": [
+        "It is of the same size as the subject.",
+        "It is laterally inverted.",
+        "It is real image.",
+        "It is formed as far behind the mirror as the object is in front."
+      ],
+      "answer": "It is real image.",
+      "explanation": "Image formed by a plane mirror is always virtual and erect. The size of the image is equal to that of the object. The image formed is as far behind the mirror as the object is in front of it. The image is laterally inverted."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "In a periscope, the two plane mirrors are kept",
+      "image": "",
+      "options": [
+        "parallel to each other",
+        "perpendicular to each other",
+        "at an angle of 60° with each other",
+        "at an angle of 45° with each other"
+      ],
+      "answer": "parallel to each other",
+      "explanation": "A simple periscope is just a long tube with a mirror at each end. The mirrors are fitted into each end of the tube as shown in the figure. Hence, there are 2 plane mirrors used which are placed parallel to each other."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "If the speed of light in air is 3 ´ 108 m/s, then the speed of light in a medium of refractive index 3/2 is",
+      "image": "",
+      "options": [
+        "2 ´ 108 m/s",
+        "9/4 ´ 108 m/s",
+        "3/2 ´ 108 m /s",
+        "3 ´ 108 m/s"
+      ],
+      "answer": "2 ´ 108 m/s",
+      "explanation": "Refractive index of a medium = Speed of light in air / Speed of light in medium. 3/2 = (3´10^8) / Speed of light in medium. Speed of light in medium = (3´10^8) * (2/3) = 2 × 10^8 m/s"
+    }
+  ],
+  "Physics (Electromagnetism)": [
+    {
+      "subject": "Physics (Electromagnetism)",
+      "question": "Which one of the following types of radiation has the shortest wavelength?",
+      "image": "",
+      "options": [
+        "Radio waves",
+        "Visible light",
+        "Infrared (IR)",
+        "Ultraviolet (UV)"
+      ],
+      "answer": "Ultraviolet (UV)",
+      "explanation": "The higher energy, shorter wavelength far UV region spans wavelengths between 91 and 200 nm. Extreme UV radiation has the shortest wavelength range and highest energies of the regions of the ultraviolet spectrum and lies on the border between UV and X-ray radiation."
+    }
+  ],
+  "Physics (Units & Measurements)": [
+    {
+      "subject": "Physics (Units & Measurements)",
+      "question": "The unit of the force constant k of a spring is",
+      "image": "",
+      "options": [
+        "N-m",
+        "N/m",
+        "N-m2",
+        "N/m2"
+      ],
+      "answer": "N/m",
+      "explanation": "In SI units, displacements are measured in meters (m), and forces in newtons (N or kg·m/s2). Therefore, the spring constant k, and each element of the tensor , is measured in newtons per meter (N/m), or kilograms per second squared (kg/s2)."
+    }
+  ],
+  "Physics (Thermodynamics)": [
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "If x is the temperature of a system in Kelvin and y is the temperature of the system in °C, then the correct relation between them is",
+      "image": "",
+      "options": [
+        "x = 273 – y",
+        "x = 273 + y",
+        "x = 173 + y",
+        "x = 173 –y"
+      ],
+      "answer": "x = 273 + y",
+      "explanation": "Temperature in Kelvin = 273+ temperature in °C. Temperature in Kelvin = x (given). Temperature in °C = y (given). Therefore, x = 273+ y"
+    }
+  ]
+}
