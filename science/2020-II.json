@@ -291,5 +291,138 @@
       "answer": "Zinc oxide",
       "explanation": "Zinc oxide (ZnO) is an amphoteric oxide, which means it can react with both acids and bases. For example, it reacts with acid: ZnO + 2HCl → ZnCl₂ + H₂O. It also reacts with base: ZnO + 2NaOH + H₂O → Na₂[Zn(OH)₄]. Copper, magnesium, and calcium oxides are primarily basic oxides."
     }
+  ],
+  {
+  "Biology (Botany & Classification)": [
+    {
+      "subject": "Biology (Botany & Classification)",
+      "question": "Under the Kingdom Plantae, which of the following individuals are predominantly aquatic?",
+      "image": "",
+      "options": [
+        "Bryophytes",
+        "Algae",
+        "Pteridophyta",
+        "Gymnosperms"
+      ],
+      "answer": "Algae",
+      "explanation": "Kingdom Plantae includes green, brown and red algae... Plants that do not have well-differentiated body design fall in this group. The plants in this group are commonly called algae. These plants are predominantly aquatic. Examples are Spirogyra, Ulothrix, Cladophora and Chara."
+    },
+    {
+      "subject": "Biology (Botany & Classification)",
+      "question": "All the individuals of a particular organism, such as rose plants, belong to a taxonomic category called",
+      "image": "",
+      "options": [
+        "species",
+        "genus",
+        "family",
+        "order"
+      ],
+      "answer": "species",
+      "explanation": "A species is the most fundamental unit of taxonomic classification, representing a group of closely related organisms that can interbreed to produce fertile offspring. For example, all individuals of the specific rose plant *Rosa indica* belong to that one species."
+    }
+  ],
+  "Biology (Evolution)": [
+    {
+      "subject": "Biology (Evolution)",
+      "question": "Wings of birds and bats are considered analogous structures because they have",
+      "image": "",
+      "options": [
+        "common origin and common function",
+        "different origin and common function",
+        "common origin and different function",
+        "different origin and different function"
+      ],
+      "answer": "different origin and common function",
+      "explanation": "Bird and bat wings are analogous because they serve the same function (flight) but evolved independently from different ancestral structures. This is a result of convergent evolution. (As forelimbs, however, they are homologous, as both birds and bats inherited forelimbs from a common ancestor)."
+    }
+  ],
+  "Biology (Human Physiology & Disease)": [
+    {
+      "subject": "Biology (Human Physiology & Disease)",
+      "question": "Apart from hyper acid secretion, peptic ulcers are also developed due to bacterial infection. The causative agent is",
+      "image": "",
+      "options": [
+        "H. pylori",
+        "E. coli",
+        "S. aureus",
+        "S. pneumoniae"
+      ],
+      "answer": "H. pylori",
+      "explanation": "Peptic ulcer disease is often caused by the bacterium *Helicobacter pylori* (H. pylori). The bacteria stick to the mucus layer in the digestive tract and cause inflammation, which can break down the stomach's protective lining, allowing acid to damage the tissue and form an ulcer."
+    }
+  ],
+  "Biology (Botany)": [
+    {
+      "subject": "Biology (Botany)",
+      "question": "Which one of the following statements about phloem is correct?",
+      "image": "",
+      "options": [
+        "Phloem transports water and minerals",
+        "Phloem transports photosynthetic products",
+        "Phloem is a simple tissue",
+        "Phloem gives support to the plant"
+      ],
+      "answer": "Phloem transports photosynthetic products",
+      "explanation": "Phloem is a complex vascular tissue in plants responsible for transporting sugars (photosynthetic products), produced in the leaves, to other parts of the plant like roots, fruits, and growing tips. Xylem, in contrast, transports water and minerals."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "Mature sclerenchyma cells have",
+      "image": "",
+      "options": [
+        "cellulose wall and are living",
+        "lignified wall and are living",
+        "suberized wall and are dead",
+        "lignified wall and are dead"
+      ],
+      "answer": "lignified wall and are dead",
+      "explanation": "Mature sclerenchyma cells are specialized for structural support. They possess very thick, rigid secondary cell walls heavily impregnated with lignin (lignified). This makes the walls strong but impermeable, and as a result, the cells are dead at functional maturity."
+    }
+  ],
+  "Biology (Genetics)": [
+    {
+      "subject": "Biology (Genetics)",
+      "question": "In human beings, the chromosomes that determine birth of a normal female child are",
+      "image": "",
+      "options": [
+        "one X chromosome from mother and one X chromosome from father",
+        "one X chromosome from mother and one Y chromosome from father",
+        "two X chromosome from mother and one X chromosome from father",
+        "one X chromosome and one Y chromosome from father and one X chromosome from mother"
+      ],
+      "answer": "one X chromosome from mother and one X chromosome from father",
+      "explanation": "A mother has two X chromosomes (XX) and can only pass one X chromosome to her offspring. A father has one X and one Y chromosome (XY) and can pass either an X or a Y. A normal female child (XX) is born when she inherits one X chromosome from her mother and one X chromosome from her father."
+    }
+  ],
+  "Biology (Cell Biology & Microbiology)": [
+    {
+      "subject": "Biology (Cell Biology & Microbiology)",
+      "question": "Antibiotic such as penicillin blocks",
+      "image": "",
+      "options": [
+        "cell wall formation in bacteria",
+        "RNA synthesis in bacteria",
+        "DNA synthesis in bacteria",
+        "division in bacteria"
+      ],
+      "answer": "cell wall formation in bacteria",
+      "explanation": "Penicillin is a beta-lactam antibiotic. It works by interfering with the synthesis of peptidoglycan, a critical component of the bacterial cell wall. By blocking the enzyme responsible for building this wall, the bacteria (especially Gram-positive bacteria) become unable to maintain their structural integrity and burst due to osmotic pressure."
+    }
+  ],
+  "Biology (Biotechnology & Techniques)": [
+    {
+      "subject": "Biology (Biotechnology & Techniques)",
+      "question": "Which one of the following is used for storing biological tissues?",
+      "image": "",
+      "options": [
+        "Liquid nitrogen",
+        "Liquid helium",
+        "Liquid argon",
+        "Liquid bromine"
+      ],
+      "answer": "Liquid nitrogen",
+      "explanation": "Liquid nitrogen is used for cryopreservation of biological tissues and cells. Its extremely low boiling point (–196 °C or –321 °F) causes biological material to freeze almost instantly, halting all metabolic and enzymatic activity and preventing degradation, thus preserving the tissue for long-term storage."
+    }
   ]
+}
 }
