@@ -1,0 +1,32 @@
+{
+  "Biochemistry": [
+    {
+      "subject": "Biochemistry",
+      "question": "Consider the following<br>Enzymes and protein can be correlated with each other in the following ways<br>1. All proteins are enzyme.<br>2. All enzymes are protein.<br>3. All enzymes are not protein.<br>4. All proteins are not enzyme.<br>Which of the above are correct?",
+      "image": "",
+      "options": [
+        "1 and 3",
+        "2 and 4",
+        "1, 2 and 3",
+        "2, 3 and 4"
+      ],
+      "answer": "2 and 4",
+      "explanation": "All enzymes are protein by composition but all proteins are not enzymes."
+    }
+  ],
+  "Human Physiology (Endocrine System)": [
+    {
+      "subject": "Human Physiology (Endocrine System)",
+      "question": "Consider the following statements in respect of thyroid gland.<br>1. It is situated in the neck.<br>2. It is vital to maintain of normal body temperature.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Thyroid gland is one of the largest endocrine glands which is present in the neck. It is responsible to control body’s metabolism, temperature, appetite and muscle strength, etc."
+    }
+  ]
+}

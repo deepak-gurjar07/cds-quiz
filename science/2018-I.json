@@ -1,7 +1,7 @@
 {
-  "Physics (Atomic Physics)": [
+  "Physics (Modern Physics)": [
     {
-      "subject": "Physics (Atomic Physics)",
+      "subject": "Physics (Modern Physics)",
       "question": "Which one of the following elements is used as a timekeeper in atomic clocks?",
       "image": "",
       "options": [
@@ -48,10 +48,10 @@
       "options": [
         "2R",
         "R/2",
-        "5R/4",
-        "3R/4"
+        "5/4 R",
+        "3/4 R"
       ],
-      "answer": "5R/4",
+      "answer": "5/4 R",
       "explanation": "Use the equation R = rho * l / A, Where R = resistance; l = length; A = cross sectional area, rho = resistivity. Assume the wires are circular cross section. Wire 1 has resistance R. Wire 2 is the same length, but twice the radius, so 4 times the cross sectional area. So wire 2 has a resistance of R/4. So total resistance of 2 in series = R + R/4 = 5/4 * R"
     },
     {
@@ -111,9 +111,9 @@
       "explanation": "Sound cannot travel through a vacuum. A vacuum is an area without any air, like space. So sound cannot travel through space because there is no matter for the vibrations to work in."
     }
   ],
-  "Physics (Units & Measurements)": [
+  "Physics (Units & Dimensions)": [
     {
-      "subject": "Physics (Units & Measurements)",
+      "subject": "Physics (Units & Dimensions)",
       "question": "Which one of the following is the value of one nanometer?",
       "image": "",
       "options": [
@@ -166,7 +166,175 @@
         "scattering of light"
       ],
       "answer": "scattering of light",
-      "explanation": "According to Rayleigh's law, the intensity of scattered light varies inversely as the fourth power of its wavelength. Sunlight consists of seven colours. Of these, red has the maximum wavelength. During sunrise and sunset, the rays have to travel a larger part of the atmosphere because they are very close to the horizon. Therefore, light other than red is mostly scattered away. Most of the red light, which is the least scattered, enters our eyes. Hence, the sun and the sky appear red."
+      "explanation": "According to Rayleigh''s law, the intensity of scattered light varies inversely as the fourth power of its wavelength. Sunlight consists of seven colours. Of these, red has the maximum wavelength. During sunrise and sunset, the rays have to travel a larger part of the atmosphere because they are very close to the horizon. Therefore, light other than red is mostly scattered away. Most of the red light, which is the least scattered, enters our eyes. Hence, the sun and the sky appear red."
+    }
+  ],
+  "Human Physiology": [
+    {
+      "subject": "Human Physiology",
+      "question": "Which one of the following elements is involved in the control of water content of the blood?",
+      "image": "",
+      "options": [
+        "Potassium",
+        "Lithium",
+        "Rubidium",
+        "Caesium"
+      ],
+      "answer": "Potassium",
+      "explanation": "Kidney directly controls water content of blood. Kidneys purify the blood by removing toxins from it, and in doing this water is excreted along with these toxins. Potassium and sodium elements are involved in the process."
+    },
+    {
+      "subject": "Human Physiology",
+      "question": "In which one of the following types of connective tissues in animals does fat get stored?",
+      "image": "",
+      "options": [
+        "Adipocyte",
+        "Chondrocyte",
+        "Osteocyte",
+        "Reticulocyte"
+      ],
+      "answer": "Adipocyte",
+      "explanation": "Adipocytes are cells that derive from multipotential mesenchymal cells; their main role is to store energy in the form of lipids to cushion and insulate the body from the outer environment."
+    },
+    {
+      "subject": "Human Physiology",
+      "question": "Which one of the following statements about lymph is correct?",
+      "image": "",
+      "options": [
+        "Lymph is formed due to leakage of blood through capillaries.",
+        "Lymph contains blood cells such as RBC.",
+        "Lymph is also circulated by the blood circulating heart.",
+        "Lymph only transports hormones."
+      ],
+      "answer": "Lymph is formed due to leakage of blood through capillaries.",
+      "explanation": ""
+    },
+    {
+      "subject": "Human Physiology",
+      "question": "Accumulation of which one of the following in the muscles of spinters leads to cramp?",
+      "image": "",
+      "options": [
+        "Lactic acid",
+        "Ethanol",
+        "Pyruvic acid",
+        "Glucose"
+      ],
+      "answer": "Lactic acid",
+      "explanation": "Muscle cramping is a common problem encountered by athletes and non-athletes alike. Lactic acid is formed and accumulated in the muscle under conditions of high energy demand, rapid fluctuations of the energy requirement and insufficient supply of O2. It causes muscles to get cramps."
+    }
+  ],
+  "Botany": [
+    {
+      "subject": "Botany",
+      "question": "Which one of the following elements is essential for the formation of chlorophyll in green plants?",
+      "image": "",
+      "options": [
+        "Calcium",
+        "Iron",
+        "Magnesium",
+        "Potassium"
+      ],
+      "answer": "Magnesium",
+      "explanation": "Magnesium is essential for the formation of chlorophyll in green plants. Without magnesium, chlorophyll cannot capture sun energy needed for photosynthesis. In short, magnesium is required to give leaves their green color."
+    }
+  ],
+  "Health and Disease": [
+    {
+      "subject": "Health and Disease",
+      "question": "Statement I :<br>A person may suffer from tuberculosis if she/he frequently visits crowded place.<br>Statement II :<br>Bacteria of tuberculosis spread through droplets by sneezing or coughing.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+        "Statement I is true but Statement II is false",
+        "Statement I is false but Statement II is true"
+      ],
+      "answer": "Statement I is false but Statement II is true",
+      "explanation": "Tuberculosis (TB) is caused by a type of bacterium called Mycobacterium tuberculosis. It's spread when a person with active TB disease in their lungs coughs or sneezes and someone else inhales the expelled droplets, which contain TB bacteria."
+    }
+  ],
+  "Ecology": [
+    {
+      "subject": "Ecology",
+      "question": "Statement I :<br>Bioaccumulation is a process of progressive accumulation of heavy metals and pesticides in an organism.<br>Statement II :<br>Large fishes of the pond are found to have higher concentration of pesticides than planktons of the same pond.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+        "Statement I is true but Statement II is false",
+        "Statement I is false but Statement II is true"
+      ],
+      "answer": "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+      "explanation": "Bioaccumulation is defined as the increase in concentration of a substance(s) in an organism or a part of that organism. Toxic substances are lipophilic or fat-loving, the reason why these substances are deposited and concentrated in the fat tissues of the organisms. The affected organism has a higher concentration of the substance than the concentration in the organism's surrounding environment. The toxic substances are very slowly metabolized or excreted so if the organism keeps on consuming prey or food contaminated with toxic substances, the concentration of the substance will further increase in its body, hence, bioaccumulation results. When a certain threshold level is reached, measured in parts per million (ppm), symptoms due to the type of toxin are manifested."
+    }
+  ],
+  "Zoology": [
+    {
+      "subject": "Zoology",
+      "question": "Which one of the following is a true fish as per the biological system of classification?",
+      "image": "",
+      "options": [
+        "Silver fish",
+        "Jelly fish",
+        "Cuttle fish",
+        "Flying fish"
+      ],
+      "answer": "Flying fish",
+      "explanation": "Fish are the gill-bearing aquatic craniate animals that lack limbs with digits. Fish, the member of the Animalia Kingdom is classified into Phylum Chordata and Vertebrata Subphylum. Fishes poses notochord, tubular nerve chord, paired gills, segmentation of the body parts, post anal tail, ventral heart, and an endoskeleton to be the member of the Chordata. In order to be a vertebrate, it poses backbone. This back bone supports and protects the spinal cord. All the species of the fish found in the world are classified into the following three groups.<br>• Agnatha - jawless fish<br>• Chrondrichthyes - cartilaginous fish<br>• Osteichthyes - bony fish<br>Flying fish is a bony fish."
+    },
+    {
+      "subject": "Zoology",
+      "question": "Which one of the following pairs about organ/part that helps in locomotion is not correctly matched?",
+      "image": "",
+      "options": [
+        "Euglena : Flagellum",
+        "Paramecium : Cilia",
+        "Nereis : Pseudopodia",
+        "Starfish : Tubefeet"
+      ],
+      "answer": "Nereis : Pseudopodia",
+      "explanation": "Nereis possess setae and parapodia for locomotion."
+    },
+    {
+      "subject": "Zoology",
+      "question": "Which of the following classes of animals has/have three-chambered heart?",
+      "image": "",
+      "options": [
+        "Pisces and Amphibia",
+        "Amphibia and Reptilia",
+        "Reptilia only",
+        "Amphibia only"
+      ],
+      "answer": "Amphibia and Reptilia",
+      "explanation": "Three chambered hearts with two atria and one ventricle is present in amphibian and reptiles. The 3 chambered heart contains only one ventricle in which oxygen poor and oxygen rich intermingle, but not entirely. In amphibians, the pulmonary respiration is improved because they absorbs oxygen through skin also."
+    }
+  ],
+  "Cell Biology": [
+    {
+      "subject": "Cell Biology",
+      "question": "Lysosome is formed from which of the following cell organelles?",
+      "image": "",
+      "options": [
+        "Nucleus",
+        "Endoplasmic reticulum",
+        "Golgi bodies",
+        "Ribosomes"
+      ],
+      "answer": "Golgi bodies",
+      "explanation": "Lysosomes are spherical membranous sacs of enzymes. Lysosome enzymes are made by proteins from the endoplasmic reticulum and enclosed within vesicles by the Golgi apparatus. Lysosomes are formed by budding from the Golgi complex."
+    },
+    {
+      "subject": "Cell Biology",
+      "question": "A protein is synthesized in the endoplasmic reticulum bound ribosomes and it targets to the inner thylakoid space of chloroplast. How many double-layered membrane layers it has to pass to reach its destination?",
+      "image": "",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "3",
+      "explanation": ""
     }
   ]
 }

@@ -39,7 +39,7 @@
         "good absorbers of heat"
       ],
       "answer": "good absorbers of water",
-      "explanation": "Cotton readily absorbs water. This is because the fibers of the cotton have a lot of space between them. One reason cellulose makes cotton absorbent is that it contains a negative charge, which helps attract “dipolar” water molecules and absorb them. Another reason is cotton’s “hydrophilic properties.”"
+      "explanation": "Cotton readily absorbs water. This is because the fibers of the cotton have a lot of space between them. ... One reason cellulose makes cotton absorbent is that it contains a negative charge, which helps attract “dipolar” water molecules and absorb them. Another reason is cotton’s “hydrophilic properties.”"
     }
   ],
   "Physics (Properties of Matter)": [
@@ -110,7 +110,7 @@
         "300"
       ],
       "answer": "30",
-      "explanation": "A kilowatt-hour is 1,000 watts used for one hour. A 100-watt light bulb operating for ten hours would use one kilowatt-hour (1 unit). In 30 days, it will consume 30 units."
+      "explanation": "A kilowatt-hour is 1,000 watts used for one hour. As an example, a 100-watt light bulb operating for ten hours would use one kilowatt-hour. How to calculate electric usage cost: 1. Volts × Amps = Watts 2. Watts ÷ 1,000 = Kilowatts (kW) 3. Kilowatts (kW) × Hours of Use = Kilowatt Hours (kWh). A 100-Watt bulb if kept on for 10 hours will consume: 100 × 10 = 1000 Watt-Hour = 1 Kilowatt-Hour (kWH) = 1 unit"
     }
   ],
   "Physics (Waves & Sound)": [
@@ -138,7 +138,151 @@
         "1 . 7 km"
       ],
       "answer": "0. 85 km",
-      "explanation": "Time to reach mountain = 5/2 = 2.5 seconds. Speed = 340 m/s. Distance = speed × time = 2.5 × 340 = 850m or 0.85 km is the distance between the source and the mountain"
+      "explanation": "Duration = 2.5seconds. Speed = 340 m/s. Distance = speed × time. 2.5×340 = 850m or 0.85 km is the distance between the source and the mountain"
+    }
+  ],
+  "Ecology": [
+    {
+      "subject": "Ecology",
+      "question": "Which one of the following is the correct sequential phase in the successional development of vegetation community in a habitat ?",
+      "image": "",
+      "options": [
+        "Migration, Reaction, Stabilization and Nudation",
+        "Migration, Stabilization, Reaction and Nudation",
+        "Nudation, Migration, Reaction and Stabilization",
+        "Reaction, Migration, Stabilization and Nudation"
+      ],
+      "answer": "Nudation, Migration, Reaction and Stabilization",
+      "explanation": "Nudation Invasion / Migration Competition and reaction Stabilization or climax Succession causes Initiating causes - These include biotic and climatic factors which destroy the existing populations of the area. Climatic factors include wind, fire, natural disasters, erosion etc. The biotic factors include activities of other organisms."
+    },
+    {
+      "subject": "Ecology",
+      "question": "Food chain is",
+      "image": "",
+      "options": [
+        "relationship between autotrophic organisms",
+        "exchange of genetic material between two organisms",
+        "passage of food (and thus energy) from one organism to another",
+        "modern entrepreneur establishment providing food outlets"
+      ],
+      "answer": "passage of food (and thus energy) from one organism to another",
+      "explanation": "A food chain shows how each living thing gets food and how nutrients and energy are passed from creature to creature. Food chains begin with plant-life and end with animal-life. Some animals eat plants, some animals eat other animals. A simple food chain could start with grass, which is eaten by rabbits."
+    }
+  ],
+  "Nutrition": [
+    {
+      "subject": "Nutrition",
+      "question": "Which one of the following acids, is also known as Vitamin C?",
+      "image": "",
+      "options": [
+        "Methanoic acid",
+        "Ascorbic acid",
+        "Lactic acid",
+        "Tartaric acid"
+      ],
+      "answer": "Ascorbic acid",
+      "explanation": "Vitamin C, also known as ascorbic acid and ascorbate, is a vitamin found in various foods and sold as a dietary supplement. It is used to prevent and treat scurvy. Vitamin C is an essential nutrient involved in the repair of tissue and the enzymatic production of certain neurotransmitters."
+    }
+  ],
+  "Cell Biology": [
+    {
+      "subject": "Cell Biology",
+      "question": "Which one of the following is not found in animal cells ?",
+      "image": "",
+      "options": [
+        "Free ribosomes",
+        "Mitochondria",
+        "Nucleolus",
+        "Cell wall"
+      ],
+      "answer": "Cell wall",
+      "explanation": "Animal cells do not have cell walls because they do not need them. Cell walls, which are found in plant cells, maintain cell shape, almost as if each cell has its own exoskeleton. This rigidity allows plants to stand upright without the need for bones."
+    },
+    {
+      "subject": "Cell Biology",
+      "question": "Which one of the following cell organelles is known as ‘suicide bags’ of a cell ?",
+      "image": "",
+      "options": [
+        "Lysosomes",
+        "Plastids",
+        "Endoplasmic reticulum",
+        "Mitochondria"
+      ],
+      "answer": "Lysosomes",
+      "explanation": "Lysosomes are found in animal cell, they are also known as suicidal bags of the cell. A human cell contains around 300 lysosomes. They not only digest large molecules but also responsible for breaking down and getting rid of waste products of the cell. They have enzymes which allow them to carry out these processes."
+    },
+    {
+      "subject": "Cell Biology",
+      "question": "Which one of the following is active transport ?",
+      "image": "",
+      "options": [
+        "It is the movement of a substance against a diffusion gradient with the use of energy from respiration.",
+        "It is the movement of a substance against a diffusion gradient without the use of energy.",
+        "It is the movement of a substance against a diffusion gradient with the use of energy from photosynthesis,",
+        "It is the movement of a substance along a diffusion gradient with the use of energy from respiration."
+      ],
+      "answer": "It is the movement of a substance against a diffusion gradient with the use of energy from photosynthesis,",
+      "explanation": "In cellular biology, active transport is the movement of molecules across a membrane from a region of lower concentration to a region of higher concentration— against the concentration gradient. Active transport requires cellular energy to achieve this movement. There are two types of active transport: primary active transport that uses adenosine triphosphate (ATP), and secondary active transport that uses an electrochemical gradient."
+    }
+  ],
+  "Botany": [
+    {
+      "subject": "Botany",
+      "question": "Marsilea, Fern and Horse-tail are examples of which one of the following plant groups ?",
+      "image": "",
+      "options": [
+        "Pteridophyta",
+        "Bryophyta",
+        "Gymnosperms",
+        "Angiosperms"
+      ],
+      "answer": "Pteridophyta",
+      "explanation": "A pteridophyte is a vascular plant (with xylem and phloem) that disperses spores. Because pteridophytes produce neither flowers nor seeds, they are sometimes referred to as “cryptogams”, meaning that their means of reproduction is hidden. Examples include ferns, horsetails and club-mosses."
+    }
+  ],
+  "Health and Disease": [
+    {
+      "subject": "Health and Disease",
+      "question": "Which one of the following organisms is responsible for sleeping sickness ?",
+      "image": "",
+      "options": [
+        "Leishmania",
+        "Trypanosoma",
+        "Ascaris",
+        "Helicobacter"
+      ],
+      "answer": "Trypanosoma",
+      "explanation": "Trypanosoma is a genus of kinetoplastids (class Trypanosomatidae[1]), a monophyletic[2] group of unicellular parasitic flagellate protozoa. Trypanosoma is part of the phylum Sarcomastigophora. Most trypanosomes are heteroxenous and most are transmitted via a vector. The majority of species are transmitted by blood-feeding invertebrates, but there are different mechanisms among the varying species. Some, such as Trypanosoma equiperdum, are spread by direct contact. In an invertebrate host they are generally found in the intestine, but normally occupy the bloodstream or an intracellular environment in the mammalian host. Trypanosomes infect a variety of hosts and cause various diseases, including the fatal human diseases sleeping sickness, caused by Trypanosoma brucei, and Chagas disease, caused by Trypanosoma cruzi."
+    }
+  ],
+  "Human Physiology": [
+    {
+      "subject": "Human Physiology",
+      "question": "Which one of the following body parts/organs of the human body does not have smooth muscles ?",
+      "image": "",
+      "options": [
+        "Ureters",
+        "Iris of eye",
+        "Bronchi of lungs",
+        "Biceps"
+      ],
+      "answer": "Biceps",
+      "explanation": "Smooth muscle cells are found in the walls of hollow organs, including the stomach, intestines, urinary bladder and uterus, and in the walls of passageways, such as the arteries and veins of the circulatory system, and the tracts of the respiratory, urinary, and reproductive systems."
+    }
+  ],
+  "Microbiology": [
+    {
+      "subject": "Microbiology",
+      "question": "Chlorophyll in photosynthetic prokaryotic bacteria is associated with",
+      "image": "",
+      "options": [
+        "plastids",
+        "membranous vesicles",
+        "nucleoids",
+        "chromosomes"
+      ],
+      "answer": "membranous vesicles",
+      "explanation": "The chlorophyll in photosynthetic prokaryotic bacteria is associated with membranous vesicles. These vesicles are typically spherical, ranging in size from 20 to 100 nm in Gram-positive bacteria and archaea to 100–300 nm in Gram-negative bacteria. They can contain cell-wall material, as well as a variable content enclosed by the membrane."
     }
   ]
 }

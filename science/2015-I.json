@@ -50,7 +50,7 @@
         "Equal centripetal force acts on both the particles as they rotate in the same circular path"
       ],
       "answer": "The centripetal force required by the proton is about 2,000 times more than that required by the electron",
-      "explanation": "Centripetal force = mv2/r. Given that, Mass of proton = 2000 × mass of electron. Radius and speed is same for both proton and electron. Therefore, Centripetal force is proportional to mass. Since mass of proton is 2000 times that of mass of electron, hence the centripetal force required by proton is about 2000 times more than that required by the electron."
+      "explanation": "Centripetal force = mv2/r. Given that, Mass of proton = 2000 × mass of electron. Radius and speed is same for both proton and electron. \\ Centripetal force a mass. Since mass of proton is 2000 times that of mass of electron, hence the centripetal force required by proton is about 2000 times more than that required by the electron."
     },
     {
       "subject": "Physics (Mechanics)",
@@ -78,7 +78,7 @@
         "b, a, g"
       ],
       "answer": "a, b, g",
-      "explanation": "g - rays are the most penetrating rays, b - particles are moderately penetrating and a - particles are least penetrating."
+      "explanation": "g - rays are the most penetrating rays. b - particles are moderately penetrating and a - particles are least penetrating."
     }
   ],
   "Physics (Optics)": [
@@ -93,7 +93,7 @@
         "2.0 m"
       ],
       "answer": "1.2 m",
-      "explanation": "The new distance from the mirror is 1m - 40cm = 60cm. The distance between person and his image is 60 cm × 2 = 120 cm = 1.2 m"
+      "explanation": "The distance between person and his image is 60 cm × 2 = 1.2 m"
     }
   ],
   "Physics (Electricity & Magnetism)": [
@@ -152,6 +152,79 @@
       ],
       "answer": "Kerosene oil",
       "explanation": "Sodium metal should be stored in kerosene oil. Sodium is a very reactive metal. It is kept in kerosene to prevent it from coming in contact with oxygen and moisture. If this happens, it will react with the moisture present in air and form sodium hydroxide. This is a strongly exothermic reaction, and lot of heat is generated. Thus sodium is kept under kerosene."
+    }
+  ],
+  "Cell Biology": [
+    {
+      "subject": "Cell Biology",
+      "question": "Which one among the following statements is correct ?",
+      "image": "",
+      "options": [
+        "Prokaryotic cells possess nucleus.",
+        "Cell membrane is present both in plant and animal cells.",
+        "Mitochondria and chloroplasts are not found in eukaryotic cells.",
+        "Ribosomes are present in eukaryotic cells only."
+      ],
+      "answer": "Cell membrane is present both in plant and animal cells.",
+      "explanation": "A prokaryote is a single-celled organism that lacks a membrane-bound nucleus (karyon). Plant and animal cells are both eukaryotic cells, so they have several features in common, such as the presence of a cell membrane, mitochondria and endoplasmic reticulum. Chloroplasts are found in plant cells which is eukaryotic. Ribosomes are found in both prokaryotes and eukaryotes."
+    }
+  ],
+  "Zoology": [
+    {
+      "subject": "Zoology",
+      "question": "Which one among the following statements is not true for Mammals ?",
+      "image": "",
+      "options": [
+        "They possess hair on the body.",
+        "Some of them lay eggs.",
+        "Their heart is three chambered",
+        "Some are aquatic."
+      ],
+      "answer": "Their heart is three chambered",
+      "explanation": "Characteristics of mammals:<br>• Vertebrates (which means they have a backbone or spine).<br>• Regulate their own body temperate which allows them to live in almost every climate on Earth.<br>• Have hair on their bodies.<br>• Produce milk to feed their babies.<br>• Four chambered heart: two atria and two ventricles (bird and mammal)"
+    }
+  ],
+  "Human Physiology": [
+    {
+      "subject": "Human Physiology",
+      "question": "In human digestive system, the process of digestion starts in",
+      "image": "",
+      "options": [
+        "Oesophagus",
+        "Buccal cavity",
+        "Duodenum",
+        "Stomach"
+      ],
+      "answer": "Buccal cavity",
+      "explanation": "In human digestive system the process of digestion starts in buccal cavity. The buccal cavity is more commonly known as the mouth, and it is the beginning of the digestive system for humans and animals alike. It starts with the lips and ends with the throat, covering the oral cavity, the tongue, and the jaw in between."
+    },
+    {
+      "subject": "Human Physiology",
+      "question": "Which one among the following structures or cells is not present in connective tissues ?",
+      "image": "",
+      "options": [
+        "Chondrocytes",
+        "Axon",
+        "Collagen fibre",
+        "Lymphocytes"
+      ],
+      "answer": "Axon",
+      "explanation": "An axon is also known as a nerve fibre. It is a long, slender projection of a nerve cell, or neuron that typically conducts electrical impulses away from the neuron's cell body. Each nerve is a cordlike structure that contains many axons and also called nerve fibres. Within a nerve, each axon is surrounded by a layer of connective tissue called the endoneurium."
+    }
+  ],
+  "Health and Disease": [
+    {
+      "subject": "Health and Disease",
+      "question": "Which one of the following diseases in humans can spread through air ?",
+      "image": "",
+      "options": [
+        "Dengue",
+        "Tuberculosis",
+        "HIV-AIDS",
+        "Goitre"
+      ],
+      "answer": "Tuberculosis",
+      "explanation": "The TB bacteria are put into the air when a person with TB disease of the lungs or throat coughs, sneezes, speaks, or sings. People nearby may breathe in these bacteria and become infected."
     }
   ]
 }

@@ -24,7 +24,7 @@
         "30 m"
       ],
       "answer": "51 m",
-      "explanation": "Let the distance is x metre. Total distance = Velocity × Time. 2x = 340 × 0.3 = 102 metre. The distance of wall is x = 102 / 2 = 51 metre."
+      "explanation": "Let the distance is x metre. Distance = Velocity × Time. x = 340 × 0.3 = 102 metre (This is the total distance). \\ The distance of wall is 102/2 = 51 metre."
     }
   ],
   "Physics (Optics)": [
@@ -39,7 +39,7 @@
         "80 cm and concave lens"
       ],
       "answer": "80 cm and concave lens",
-      "explanation": "The nature of the lens used to correct myopic eye is a concave lens. D = 1/f(metre). f = 1/D = 1/1.25 = 100/125 = 0.80 metre = 80 cm"
+      "explanation": "The nature of the lens used to correct myopic eye is a concave lens. \\ D = 1/f(metre) = 1/D = 1/1.25 = 100/125 = 0.80 metre = 80 cm"
     }
   ],
   "Physics (Electricity & Magnetism)": [
@@ -69,12 +69,12 @@
         "impulse"
       ],
       "answer": "force",
-      "explanation": "Newton's 2nd Law - The rate of Change of momentum always acts in the direction of resultant force acting on a body (F = ma) (where m = mass; a = aceeleration)"
+      "explanation": "Newton's 2nd Law - The rate of Change of momentum always acts in the direction of resultant force acting on a body Þ (F = ma) (where m = mass; a = aceeleration)"
     }
   ],
-  "Physics (Units & Measurements)": [
+  "Physics (Units & Dimensions)": [
     {
-      "subject": "Physics (Units & Measurements)",
+      "subject": "Physics (Units & Dimensions)",
       "question": "The SI unit of mechanical power is :",
       "image": "",
       "options": [
@@ -85,6 +85,174 @@
       ],
       "answer": "Watt",
       "explanation": "Watt is the SI unit of mechanical power."
+    }
+  ],
+  "Biochemistry": [
+    {
+      "subject": "Biochemistry",
+      "question": "Plants contain a variety of sterols like stigmasterol, ergosterol, sitosterol etc. which very closely resemble cholesterol. These plant sterols are referred as:",
+      "image": "",
+      "options": [
+        "Phytosterols",
+        "Caleiferols",
+        "Ergocaleiferols",
+        "Lumisterols"
+      ],
+      "answer": "Phytosterols",
+      "explanation": "Phytosterols (plant sterols) are a family of molecules related to cholesterol. Structurally, these are very similar to cholesterol except that they always contain some substitutions at the C24 position on the sterol side chain."
+    },
+    {
+      "subject": "Biochemistry",
+      "question": "Vitamin B12 deficiency causes pernicious anemia, Animals cannot synthesize vitamin B12. Humans must obtain all their vitamin B12 from their diet. The complexing metal ion in vitamin B12 is :",
+      "image": "",
+      "options": [
+        "Mg2+ (Magnesium ion)",
+        "Fe2+ (Iron ion)",
+        "Co3+(Cobalt ion)",
+        "Zn2+(Zine ion)"
+      ],
+      "answer": "Co3+(Cobalt ion)",
+      "explanation": "Cobalt is the active centre of coenzymes called cobalamins, the most common example of which is vitamin B12."
+    },
+    {
+      "subject": "Biochemistry",
+      "question": "Glucose is a source of energy. Which one of the following types of molecule is glucose ?",
+      "image": "",
+      "options": [
+        "Carbohydrate",
+        "Protein",
+        "Fat",
+        "Nucleic acid"
+      ],
+      "answer": "Carbohydrate",
+      "explanation": "Glucose is a sugar with the molecular formula C6H12O6. The suffix \"-ose\" is a chemical classifier, denoting a Carbohydrate."
+    },
+    {
+      "subject": "Biochemistry",
+      "question": "Which one of the following hormones contains peptide chain ?",
+      "image": "",
+      "options": [
+        "Oxytocin",
+        "Corticotropin",
+        "Insulin",
+        "Cortisone"
+      ],
+      "answer": "Insulin",
+      "explanation": "Insulin is a peptide hormone produced by beta cells in the pancreas and by Brockmann body in some teleost fish."
+    }
+  ],
+  "Human Physiology": [
+    {
+      "subject": "Human Physiology",
+      "question": "In artificial insemination (AI) process. Which of the following is/are introduced into the uterus of the female ?",
+      "image": "",
+      "options": [
+        "Egg only",
+        "Fertilized egg",
+        "Sperm only",
+        "Egg and sperm"
+      ],
+      "answer": "Sperm only",
+      "explanation": "The Artificial Insemination (AI) is the process in which a thin, flexible tube (Catheter) is used to put sperm artificially into a woman's cervix."
+    }
+  ],
+  "Genetics": [
+    {
+      "subject": "Genetics",
+      "question": "Genetically modified (GM) crops contain modified genetic material due to :<br>1. introduction of new DNA<br>2. removal of existing DNA<br>3. introduction of RNA<br>4. introduction of new traits<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3",
+        "3 and 4",
+        "1,2 and 4"
+      ],
+      "answer": "1,2 and 4",
+      "explanation": "Introduction of new traits to the plant which does not occur naturally in the species introduction of new DNA and removal of existing DNA are the processes by which Genetically Modified crops are produced."
+    },
+    {
+      "subject": "Genetics",
+      "question": "The Germplasm is required for the propagation of plants and animals, Germplasm is the :<br>1. genetic resources<br>2. seeds or tissues for breeding<br>3. egg and sperm repository<br>4. a germ cell's determining zone<br>Select the correct answer using the code given below",
+      "image": "",
+      "options": [
+        "1 only",
+        "1, 2 and 3",
+        "2 and 3 only",
+        "2 and 4"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "Germplasm is a biosubstance (eg. - seeds, tissue pollen grains, sperms & eggs etc.) which is used as genetic material for animal & plant breeding for preservation and research purpose."
+    }
+  ],
+  "Nutrition": [
+    {
+      "subject": "Nutrition",
+      "question": "Which one of the following vitamins has a role in blood clotting ?",
+      "image": "",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answer": "Vitamin K",
+      "explanation": "Vitamin K is essential for the functioning of several proteins involved in physiological processes that encompass, but are not limited to, the regulation of blood clotting."
+    },
+    {
+      "subject": "Nutrition",
+      "question": "Which of the following pairs of vitamin and disease is / are correctly matched ?<br>1. Vitamin A - Rickets<br>2. Vitamin B1 - Beribri<br>3. Vitamin C - Scurvy<br>Select the correct answer using the code given below:",
+      "image": "",
+      "options": [
+        "2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "2 and 3 only",
+      "explanation": "Vitamin A - Night blindness<br>Vitamin B1 - Beriberi<br>Vitamin C - Scurvy"
+    }
+  ],
+  "Cell Biology": [
+    {
+      "subject": "Cell Biology",
+      "question": "The living content of cell is called protoplasm. It is composed of :",
+      "image": "",
+      "options": [
+        "Cytoplasm only",
+        "Cytoplasm and nucleoplasm",
+        "Nucleoplasm only",
+        "Cytoplasm, nucleoplasm and other organelles"
+      ],
+      "answer": "Cytoplasm, nucleoplasm and other organelles",
+      "explanation": "Protoplasm is the whole content of a cell enclosed within the cell membrane, including both the cytoplasm and nucleus."
+    }
+  ],
+  "Health and Disease": [
+    {
+      "subject": "Health and Disease",
+      "question": "Which one of the following is considered as 'good cholesterol' with reference to individuals facing the risk of cardio-vascular diseases and hypertension?",
+      "image": "",
+      "options": [
+        "High Density Lipoprotein (HDL)",
+        "Low Density Lipoprotein(LDL)",
+        "Triglyceride",
+        "Fatty acids"
+      ],
+      "answer": "High Density Lipoprotein (HDL)",
+      "explanation": "Good Cholesterol refers to HDL (High Density Lipoprotein), Lipoproteins are complex particles composed of multiple type of proteins."
+    },
+    {
+      "subject": "Health and Disease",
+      "question": "Dengue virus is known to cause low platelet count in blood of patient by :<br>1. interfering in the process of platelet production in bone marrow<br>2. infecting endothelial cells<br>3. binding with platelets<br>4. accumulating platelets in intestine<br>Select the correct answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "1 and 3 only",
+        "3 and 4",
+        "1, 2 and 3"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "Dengue virus after infection, interferes the production of platelets in bone marrow, infects endothelial cells and bind with platelets."
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
-  "Physics (Electromagnetism)": [
+  "Physics (Electricity & Magnetism)": [
     {
-      "subject": "Physics (Electromagnetism)",
+      "subject": "Physics (Electricity & Magnetism)",
       "question": "If the wavelengths corresponding to ultraviolet, visible and infrared radiations are given as lUV, lVIS and lIR respectively, then which one of the following gives the correct relationship among these wavelengths?",
       "image": "",
       "options": [
-        "l UV < l IR < l VIS",
-        "l UV > l VIS > l IR",
-        "l UV > l IR > l VIS",
-        "l UV < l VIS < l IR"
+        "lUV < lIR < lVIS",
+        "lUV > lVIS > lIR",
+        "lUV > lIR > lVIS",
+        "lUV < lVIS < lIR"
       ],
-      "answer": "l UV < l VIS < l IR",
+      "answer": "lUV < lVIS < lIR",
       "explanation": ""
     }
   ],
@@ -35,12 +35,12 @@
       "question": "If two vectors A and B are at an angle then",
       "image": "",
       "options": [
-        "| A| + | B|=| A+ B|",
-        "| A| + | B|>| A+ B|",
-        "| A| +| B|<| A+ B|",
-        "| A| +| B|=| A-B|"
+        "|A| + |B| = |A+B|",
+        "|A| + |B| > |A+B|",
+        "|A| + |B| < |A+B|",
+        "|A| + |B| = |A-B|"
       ],
-      "answer": "| A| + | B|=| A+ B|",
+      "answer": "|A| + |B| = |A+B|",
       "explanation": ""
     },
     {
@@ -88,7 +88,7 @@
   "Physics (Thermodynamics)": [
     {
       "subject": "Physics (Thermodynamics)",
-      "question": "Which one of the following methods is/are state function/ functions?<br>1. q + w<br>2. q<br>3. w<br>4. H - TS<br>Select the correct answer using the code given below.",
+      "question": "Which one of the following methods is/are state function/functions?<br>1. q + w<br>2. q<br>3. w<br>4. H - TS<br>Select the correct answer using the code given below.",
       "image": "",
       "options": [
         "1 and 4 only",
@@ -139,6 +139,135 @@
       ],
       "answer": "Condenser-Objective lens-Body tube-Eyepiece",
       "explanation": "Correct sequence of passage of light in a compound microscope: light source-condenser-specimen-objective lens-ocular lens-body tube-eyepiece."
+    }
+  ],
+  "Cell Biology": [
+    {
+      "subject": "Cell Biology",
+      "question": "Which one of the following functions is not carried out by smooth endoplasmic reticulum?",
+      "image": "",
+      "options": [
+        "Transport of materials",
+        "Synthesis of lipid",
+        "Synthesis of protein",
+        "Synthesis of steroid hormone"
+      ],
+      "answer": "Synthesis of protein",
+      "explanation": "The smooth endoplasmic reticulum (smooth ER) is continuous with the rough ER but has few or no ribosomes on its cytoplasmic surface. Functions of the smooth ER include: Synthesis of carbohydrates, lipids, and steroid hormones."
+    },
+    {
+      "subject": "Cell Biology",
+      "question": "Which one of the following cell organelles mainly functions as storehouse of digestive enzymes?",
+      "image": "",
+      "options": [
+        "Desmosome",
+        "Ribosome",
+        "Lysosome",
+        "Vacuoles"
+      ],
+      "answer": "Lysosome",
+      "explanation": "One of the key organelles involved in digestion and waste removal is lysosome. Lysosomes are organelles that contain digestive enzymes."
+    }
+  ],
+  "Botany": [
+    {
+      "subject": "Botany",
+      "question": "Which one of the following tissues is responsible for increase of girth in the stem of a plant?",
+      "image": "",
+      "options": [
+        "Tracheid",
+        "Pericycle",
+        "Intercalary meristem",
+        "Lateral meristem"
+      ],
+      "answer": "Lateral meristem",
+      "explanation": "Secondary or lateral meristems, which are found in all woody plants and in some herbaceous ones, consist of the vascular cambium and the cork cambium. They produce secondary tissues from a ring of vascular cambium in stems and roots."
+    }
+  ],
+  "Ecology": [
+    {
+      "subject": "Ecology",
+      "question": "Which one of the following organisms is dependent on saprophytic mode of nutrition?",
+      "image": "",
+      "options": [
+        "Agaricus",
+        "Ulothrix",
+        "Riccia",
+        "Cladophora"
+      ],
+      "answer": "Agaricus",
+      "explanation": "Saprophytes live on dead organic matter, including dead wood, dung, and fallen leaves. Most fungi commonly called mushrooms are saprophytes, such as the extremely common Agaricus genus. Perhaps their most important function is the decomposition of organic matter into soil."
+    }
+  ],
+  "Zoology": [
+    {
+      "subject": "Zoology",
+      "question": "Which one of the following has a bilateral symmetry in its body organization?",
+      "image": "",
+      "options": [
+        "Asterias",
+        "Sea anemone",
+        "Nereis",
+        "Echinus"
+      ],
+      "answer": "Nereis",
+      "explanation": "Nereis is a genus of polychaete worms in the family Nereididae and has a bilateral symmetry in its body organization."
+    },
+    {
+      "subject": "Zoology",
+      "question": "Which one of the following pairs of animals is warm-blooded?",
+      "image": "",
+      "options": [
+        "Crocodile and Ostrich",
+        "Hagfish and Dogfish",
+        "Tortoise and Ostrich",
+        "Peacock and Camel"
+      ],
+      "answer": "Peacock and Camel",
+      "explanation": "Aves (crow, parrot, peacock, sparrow, kiwi etc) and Mammals (man, dog, camel, rat etc) are warm blooded animals."
+    }
+  ],
+  "Genetics": [
+    {
+      "subject": "Genetics",
+      "question": "Which one of the following statements regarding histone proteins is correct?",
+      "image": "",
+      "options": [
+        "Histones are proteins that are present in mitochondrial membrane.",
+        "Histones are proteins that are present in nucleus in association with DNA.",
+        "Histones are proteins associated with lipids in the cytosol.",
+        "Histones are proteins associated with carbohydrates in the cytosol."
+      ],
+      "answer": "Histones are proteins that are present in nucleus in association with DNA.",
+      "explanation": "Histones are a family of basic proteins that associate with DNA in the nucleus and help condense it into chromatin, they are alkaline (basic pH) proteins, and their positive charges allow them to associate with DNA. They are found inside the nucleus of eukaryotic cells."
+    }
+  ],
+  "Human Physiology": [
+    {
+      "subject": "Human Physiology",
+      "question": "Which one of the following statements regarding haemoglobin is correct?",
+      "image": "",
+      "options": [
+        "Haemoglobin present in RBC can carry only oxygen but not carbon dioxide.",
+        "Haemoglobin of RBC can carry both oxygen and carbon dioxide.",
+        "Haemoglobin of RBC can carry only carbon dioxide.",
+        "Haemoglobin is only used for blood clotting and not for carrying gases."
+      ],
+      "answer": "Haemoglobin of RBC can carry both oxygen and carbon dioxide.",
+      "explanation": "The protein inside red blood cells that carries oxygen to cells and carbon dioxide to the lungs is haemoglobin. Oxygen enters the blood from the lungs and carbon dioxide is expelled out of the blood into the lungs. The blood serves to transport both gases. Oxygen is carried to the cells. Carbon dioxide is carried away from the cells."
+    },
+    {
+      "subject": "Human Physiology",
+      "question": "Which one of the following statements is correct?",
+      "image": "",
+      "options": [
+        "Urea is produced in liver.",
+        "Urea is produced in blood.",
+        "Urea is produced from digestion of starch.",
+        "Urea is produced in lung and kidney."
+      ],
+      "answer": "Urea is produced in liver.",
+      "explanation": "The liver contains a system of carrier molecules and enzymes which quickly coverts the ammonia into urea."
     }
   ]
 }

@@ -52,7 +52,7 @@
         "ultraviolet and yellow component of sunlight combine"
       ],
       "answer": "blue light is scattered most",
-      "explanation": "As, scattering is inversely proportional to the fourth power of wavelength. Since, wavelength of blue colour is least among three primary colours red, green and blue, so violet colour scattered most. The scattered light in the sky contains blue colour in plenty and therefore sky appears blue."
+      "explanation": "As, scattering µ 1/λ4. Since, wavelength of blue colour is least among three primary colours red, green and blue, so violet colour scattered most. The scattered light in the sky contains blue colour in plenty and therefore sky appears blue."
     }
   ],
   "Physics (Properties of Matter)": [
@@ -108,7 +108,7 @@
         "an acceleration of 1 m/s2"
       ],
       "answer": "an acceleration of 1 m/s2",
-      "explanation": "As we know, F = ma or a = F/m. \\ a = 1N / 1kg = 1 m/s2"
+      "explanation": "As we know, F = ma or a = F/m. \\ a = 1N/1kg = 1 m/s2"
     },
     {
       "subject": "Physics (Mechanics)",
@@ -121,7 +121,7 @@
         "The athlete's angular momentum"
       ],
       "answer": "The athlete's angular momentum",
-      "explanation": "When a athlete jumps from the spring board, he curls his body by rolling his arms and legs in. By doing so, he decreases moment of inertia of his body and hence angular speed increases to conserve the angular momentum, as I1w1 = I2w2 = constant."
+      "explanation": "When a athlete jumps from the spring board, he curls his body by rolling his arms and legs in. By doing so, he decreases moment of inertia of his body and hence angular speed increases to conserve the angular momentum, as I1 w1 = I2 w2 = constant."
     },
     {
       "subject": "Physics (Mechanics)",
@@ -148,11 +148,9 @@
       ],
       "answer": "acceleration",
       "explanation": "As the passenger tosses the coin, it goes up and is in motion with the initial speed of the train but if the train is accelerated, so its speed increases. But the coin is in the air with initial speed of train, so the train slightly moves forward from the coin with the person and coin falls behind him. It happens when train is moving with accelerated motion."
-    }
-  ],
-  "Physics (Waves & Sound)": [
+    },
     {
-      "subject": "Physics (Waves & Sound)",
+      "subject": "Physics (Mechanics)",
       "question": "The force acting on a particle executing simple harmonic motion is",
       "image": "",
       "options": [

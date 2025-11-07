@@ -97,5 +97,147 @@
       "answer": "at focus, diminished and virtual",
       "explanation": "From the ray diagram, it is very clear that the image of the object placed at infinity from a concave lens is virtual diminished and at the focus of the lens."
     }
+  ],
+  "Botany": [
+    {
+      "subject": "Botany",
+      "question": "Which one of the following elements is present in green pigment of leaf?",
+      "image": "",
+      "options": [
+        "Magnesium",
+        "Phosphorus",
+        "Iron",
+        "Calcium"
+      ],
+      "answer": "Magnesium",
+      "explanation": "Magnesium is found in green pigment of leaf. The green pigment is called chlorophyll molecule. Chlorophyll is chemically a tetrapyrrole structure in which Mg++ exists in the centre."
+    },
+    {
+      "subject": "Botany",
+      "question": "Which of the following structures of a plant is responsible for transpiration?",
+      "image": "",
+      "options": [
+        "Xylem",
+        "Root",
+        "Stomata",
+        "Bark"
+      ],
+      "answer": "Stomata",
+      "explanation": "Stomata are minute pores that are used for gas exchange. Air containing carbon dioxide and oxygen enter the plant through these pores where it is used i n photosynthesis and respiration. Also water vapour evaporates into the atmosphere through these poresb y a process called transpiration."
+    },
+    {
+      "subject": "Botany",
+      "question": "Which of the following does not possess a specialised conducting tissue for transport of water and other substances in plants?",
+      "image": "",
+      "options": [
+        "Marchantia",
+        "Marsilea",
+        "Cycas",
+        "Fern"
+      ],
+      "answer": "Marchantia",
+      "explanation": "Marchantia belongs to group bryophytes. In bryophytes plants absorb water through general body surface and other substances also. Bryophytes lack xylem and phloem Marsilea and fern belong to group pteridophytes having xylem tissue for transport of water. Cycas belongs to gymnosperm also having xylem."
+    }
+  ],
+  "Human Physiology": [
+    {
+      "subject": "Human Physiology",
+      "question": "Match the following<br>List-I (Gland)<br>A. Pancreas<br>B. Pituitary<br>C. Adrenal<br>D. Kidneys<br>List-II (Hormone)<br>1. Cortisol<br>2. Vitamin D<br>3. Thyroid stimulating hormone<br>4. Glucagon<br>Codes:<br>A B C D<br>(a) 4 3 1 2<br>(b) 4 1 3 2<br>(c) 2 1 3 4<br>(d) 2 3 1 4",
+      "image": "",
+      "options": [
+        "4 3 1 2",
+        "4 1 3 2",
+        "2 1 3 4",
+        "2 3 1 4"
+      ],
+      "answer": "4 3 1 2",
+      "explanation": "Pancreas secretes glucagon hormone, pituitary secretes thyroid stimulating hormone. Adrenal glands secrete cortisol and kidney synthesises or converts biological inactive 25-hydroxychole calciferol (vitamin D-3) into biological active 1,25 dihydroxychole calciferol (vitamin D-3)."
+    },
+    {
+      "subject": "Human Physiology",
+      "question": "Deficiency of which of the following elements is responsible for weakening of bones?<br>1. Calcium<br>2. Phosphorus<br>3. Nitrogen<br>4. Carbon<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "Only 1",
+        "1, 2 and 3",
+        "Only 4"
+      ],
+      "answer": "1 and 2",
+      "explanation": "Deficiency of calcium causes weakening of bones because bone consists of calcium and phosphate both."
+    },
+    {
+      "subject": "Human Physiology",
+      "question": "Which of the following statements is/are correct?<br>1. Amnion contains fluid.<br>2. Ultrasound scan can detect the sex of an embryo.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Amnion is a membrane filled with fluid which covers the embryo.<br>The sex of growing embryo (foetus) may be determined by ultrasound as early as 11 weeks pregnancy."
+    }
+  ],
+  "Ecology": [
+    {
+      "subject": "Ecology",
+      "question": "In a forest, animals like voles and woodlice feed on plant roots and barks respectively. Among the other carnivores, foxes, shrews and owls are present in that forest. Following predictions are made by a group of observers who have visited the forest.<br>1. If the roots of the tree develop a disease, then voles and foxes will starve and not the owls.<br>2. Population of voles is dependent on wood lice population through food web.<br>3. If owl population declines, it will indirectly affect wood lice population.<br>4. If barks of tree are affected due to a disease, then reduction of wood lice will affect the shrew population forcing owls to eat more voles.<br>Which of the above predictions is/are correct?",
+      "image": "",
+      "options": [
+        "1,2, and 4",
+        "Only 3",
+        "1 and 2",
+        "Only 2"
+      ],
+      "answer": "Only 2",
+      "explanation": "If owl population decreases, it will indirectly affect wood lice population. If owl population will decrease, the population of wood lice increases. Reason is that owl is not present to eat the wood lice population."
+    }
+  ],
+  "Zoology": [
+    {
+      "subject": "Zoology",
+      "question": "Among the following animals, choose the one having three pairs of legs.",
+      "image": "",
+      "options": [
+        "Spider",
+        "Scorpion",
+        "Bug",
+        "Mite"
+      ],
+      "answer": "Bug",
+      "explanation": "Among the given options , bug possesses only three pairs of legs. All the insects in phylum Arthropoda have three pairs of legs in given option only bug belongs to class-insecta."
+    }
+  ],
+  "Biochemistry": [
+    {
+      "subject": "Biochemistry",
+      "question": "Which of the following statements is/are correct regarding fats?<br>1. Fats are needed for the formation of cell membrane.<br>2. Fats help the body to absorb calcium from food.<br>3. Fats are required to repair damaged tissue.<br>4. Body cannot release energy in fats as quickly as the energy in carbohydrates.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1 and 4",
+        "Only 1",
+        "2 and 4",
+        "3 and 4"
+      ],
+      "answer": "1 and 4",
+      "explanation": "Fats are essential for the formation of all membranes Fats are present in the form of phospholipid. Phospholipid are the same as triglycerides except that one of the three fatty acid units is replaced by a molecule having phosphorus. Body can not release energy in fats as quickly as the energy in carbohydrates because fat first will oxidise into carbohydrate to evolve energy."
+    }
+  ],
+  "Health and Disease": [
+    {
+      "subject": "Health and Disease",
+      "question": "People suffering from 'anorexia nervosa'",
+      "image": "",
+      "options": [
+        "develop paralysis",
+        "show poor reflex",
+        "cannot speak properly",
+        "eat very little and fear gaining weight"
+      ],
+      "answer": "eat very little and fear gaining weight",
+      "explanation": "Anorexia nervosa is an eating disorder characterised by improper food restriction, inappropriate taking meal habits or rituals, obsession with having a slim body, and an irrational fear of weight gain, and a distorted body self-perception."
+    }
   ]
 }

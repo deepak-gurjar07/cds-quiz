@@ -1,7 +1,7 @@
 {
-  "Physics (Waves & Sound)": [
+  "Physics (Electricity & Magnetism)": [
     {
-      "subject": "Physics (Waves & Sound)",
+      "subject": "Physics (Electricity & Magnetism)",
       "question": "Television signal cannot be received generally beyond a particular distance due to",
       "image": "",
       "options": [
@@ -14,17 +14,17 @@
       "explanation": "Curvature of the earth does not allow the television signals to be received beyond a particular distance."
     },
     {
-      "subject": "Physics (Waves & Sound)",
-      "question": "Which one of the following is the permissible level of noise in a silent zone at day time?",
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "By which one of the following, an old written material which cannot be read easily, can be read",
       "image": "",
       "options": [
-        "50 dB",
-        "60 dB",
-        "65 dB",
-        "75 dB"
+        "g-rays",
+        "X-rays",
+        "IR-rays",
+        "Radiofrequency waves"
       ],
-      "answer": "50 dB",
-      "explanation": "The permissible level is 50 dB."
+      "answer": "IR-rays",
+      "explanation": "Infrared rays helps in reading an old written material."
     }
   ],
   "Physics (Mechanics)": [
@@ -57,19 +57,19 @@
       "explanation": "X-rays cannot be deflected by magnetic field as they consists of no charge. X-rays and UV rays are electromagnetic wave, so they move with same velocity in vacuum i.e. 3 × 108 m/s."
     }
   ],
-  "Physics (Electromagnetism)": [
+  "Physics (Waves & Sound)": [
     {
-      "subject": "Physics (Electromagnetism)",
-      "question": "By which one of the following, an old written material which cannot be read easily, can be read",
+      "subject": "Physics (Waves & Sound)",
+      "question": "Which one of the following is the permissible level of noise in a silent zone at day time?",
       "image": "",
       "options": [
-        "g-rays",
-        "X-rays",
-        "IR-rays",
-        "Radiofrequency waves"
+        "50 dB",
+        "60 dB",
+        "65 dB",
+        "75 dB"
       ],
-      "answer": "IR-rays",
-      "explanation": "Infrared rays helps in reading an old written material."
+      "answer": "50 dB",
+      "explanation": "The permissible level is 50 dB."
     }
   ]
 }

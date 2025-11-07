@@ -95,5 +95,143 @@
       "answer": "convex mirrors",
       "explanation": "In convex mirrors, the image is smaller than the object. This mirror provides a wider scope of view so it becomes easy for vehicles use."
     }
+  ],
+  "Genetics": [
+    {
+      "subject": "Genetics",
+      "question": "Genetic screening is",
+      "image": "",
+      "options": [
+        "analysis of DNA to check the presence of a particular gene in a person",
+        "analysis of gene in a population",
+        "pedigree analysis",
+        "screening of infertility in parents"
+      ],
+      "answer": "analysis of DNA to check the presence of a particular gene in a person",
+      "explanation": "Genetic screening is a process through which analysis of gene is performed to find out defective gene causing a specific disorder in a person."
+    },
+    {
+      "subject": "Genetics",
+      "question": "Who among the following is considered as the father of genetic engineering?",
+      "image": "",
+      "options": [
+        "Philip Drinker",
+        "Paul Berg",
+        "Thomas Addison",
+        "Alpheuss Packard Jr."
+      ],
+      "answer": "Paul Berg",
+      "explanation": "Paul Berg (1926), an American biochemist is considered as the father of genetic engineering. He evolved a technique to join DNAs from two different organisms."
+    },
+    {
+      "subject": "Genetics",
+      "question": "Which of the following cause(s) variation in the genetic material of progeny?<br>1. Sexual reproduction<br>2. Asexual reproduction<br>3. Mutations<br>4. Epigenetic changes<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "2 only",
+        "1, 2 and 3",
+        "1, 3 and 4",
+        "1 and 3 only"
+      ],
+      "answer": "1, 3 and 4",
+      "explanation": "Epigenetic Changes, mutations (due to change in DNA structure) and sexual reproduction (due to change during meiosis process) cause variation in the genetic material of off spring."
+    }
+  ],
+  "Biochemistry": [
+    {
+      "subject": "Biochemistry",
+      "question": "Cobalt is associated with",
+      "image": "",
+      "options": [
+        "growth hormone",
+        "vitamin B12",
+        "hemoglobin",
+        "intestinal enzymes"
+      ],
+      "answer": "vitamin B12",
+      "explanation": "Cobalt is an element taking part in the composition of Vitamin B12. It plays an important role in production of blood cells."
+    }
+  ],
+  "Human Physiology": [
+    {
+      "subject": "Human Physiology",
+      "question": "Absorption of water in the human body can be found in<br>1. renal tubule in kidney<br>2. hepatic cells in liver<br>3. large intestine<br>4. pancreatic duct<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "1 and 3 only",
+        "2 and 4",
+        "3 only"
+      ],
+      "answer": "1 and 3 only",
+      "explanation": "Large intestine is the last part of alimentary canal where extra water is absorbed to prepare the waste as a solid stool.<br>Renal tubule in kidney is responsible for absorption of water to produce proper concentration of urine."
+    },
+    {
+      "subject": "Human Physiology",
+      "question": "Neutrophils and lymphocytes originate from",
+      "image": "",
+      "options": [
+        "kidney tubule",
+        "spleen",
+        "bone marrow",
+        "lymph node"
+      ],
+      "answer": "bone marrow",
+      "explanation": "Bone marrow is located within the bone cavities. It is composed of stromal cells and parenchymal cells. Neutrophils and lymphocytes are blood cells which are produced within bone marrow."
+    }
+  ],
+  "Health and Disease": [
+    {
+      "subject": "Health and Disease",
+      "question": "Measles is a disease caused by",
+      "image": "",
+      "options": [
+        "bacteria",
+        "virus",
+        "protozoa",
+        "worm"
+      ],
+      "answer": "virus",
+      "explanation": "Measles is a viral disease which is also called rubeola. It is a contagious disease spreading through contact sneezing and coughing etc."
+    },
+    {
+      "subject": "Health and Disease",
+      "question": "The mandate of the scheme entitled 'Directly Observed Treatment, Short-Course (DOTS)' launched by WHO is to ensure that",
+      "image": "",
+      "options": [
+        "doctors treat patients with medicine for a short duration",
+        "doctors do not start treatment without a trial",
+        "patients complete their course of drug",
+        "patients voluntarily take vaccines"
+      ],
+      "answer": "patients complete their course of drug",
+      "explanation": "DOTS (Directly Observed Treatment, Short course) launched by WHO is a therapy for treatment of TB patient."
+    },
+    {
+      "subject": "Health and Disease",
+      "question": "Penicillin inhibits synthesis of bacterial",
+      "image": "",
+      "options": [
+        "cell wall",
+        "protein",
+        "RNA",
+        "DNA"
+      ],
+      "answer": "protein",
+      "explanation": "Penicillin is very effective medicine against bacterial infection. During bacterium division, it prevents the cell wall formation. Thus it helps in prevention of bacterial growth."
+    },
+    {
+      "subject": "Health and Disease",
+      "question": "Most antibiotics target bacterial parasites interfering with various factors of growth of metabolism such as<br>1. synthesis of cell wall<br>2. bacterial protein Synthesis<br>3. synthesis of nuclear membrane<br>4. mitochondrial function<br>Select the correct answer using the code given below",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "1 and 4",
+        "2 and 3 only",
+        "1 and 2 only"
+      ],
+      "answer": "1 and 2 only",
+      "explanation": "Mostly antibiotics inhibit the synthesis of cell wall and protein synthesis in bacteria. Due to this reason, bacterial infection is controlled by this type of medicines."
+    }
   ]
 }

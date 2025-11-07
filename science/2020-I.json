@@ -1,7 +1,7 @@
 {
-  "Physics (Atomic Physics)": [
+  "Physics (Modern Physics)": [
     {
-      "subject": "Physics (Atomic Physics)",
+      "subject": "Physics (Modern Physics)",
       "question": "Scattering of a-particles by a thin gold foil suggests the presence of",
       "image": "",
       "options": [
@@ -12,6 +12,19 @@
       ],
       "answer": "positively charged nucleus at the centre of an atom",
       "explanation": "Scattering of a- Particles by a thin gold foil suggest the presence of Positively charged nucleus at the centre of an atom.Experiment was performed by Rutherford in which he allowed a beam of a- Particles to fallon a thin gold foil."
+    },
+    {
+      "subject": "Physics (Modern Physics)",
+      "question": "Which one of the following is not a property of the X-rays?",
+      "image": "",
+      "options": [
+        "They are deflected by electric fields.",
+        "They are not deflected by magnetic fields.",
+        "They have high penetration length in matter.",
+        "Their wavelength is much smaller than that of visible light."
+      ],
+      "answer": "They are deflected by electric fields.",
+      "explanation": "X-rays are not deflected by electric and magnetic field."
     }
   ],
   "Physics (Waves & Sound)": [
@@ -27,21 +40,6 @@
       ],
       "answer": "frequency",
       "explanation": "The frequency of a sound wave is what your ear understands as pitch. A higher frequency sound has a higher pitch, and a lower frequency sound has a lower pitch."
-    }
-  ],
-  "Physics (Modern Physics)": [
-    {
-      "subject": "Physics (Modern Physics)",
-      "question": "Which one of the following is not a property of the X-rays?",
-      "image": "",
-      "options": [
-        "They are deflected by electric fields.",
-        "They are not deflected by magnetic fields.",
-        "They have high penetration length in matter.",
-        "Their wavelength is much smaller than that of visible light."
-      ],
-      "answer": "They are deflected by electric fields.",
-      "explanation": "X-rays are not deflected by electric and magnetic field."
     }
   ],
   "Physics (Optics)": [
@@ -82,12 +80,12 @@
         "3 ´ 108 m/s"
       ],
       "answer": "2 ´ 108 m/s",
-      "explanation": "Refractive index of a medium = Speed of light in air / Speed of light in medium. 3/2 = (3´10^8) / Speed of light in medium. Speed of light in medium = (3´10^8) * (2/3) = 2 × 10^8 m/s"
+      "explanation": "Refractive index of a medium = Speed of light in air / Speed of light in medium. 3/2 = (3´108) / Speed of light in medium. Speed of light in medium = (3´108) * 2/3 = 2 × 108 m/s"
     }
   ],
-  "Physics (Electromagnetism)": [
+  "Physics (Electricity & Magnetism)": [
     {
-      "subject": "Physics (Electromagnetism)",
+      "subject": "Physics (Electricity & Magnetism)",
       "question": "Which one of the following types of radiation has the shortest wavelength?",
       "image": "",
       "options": [
@@ -98,11 +96,37 @@
       ],
       "answer": "Ultraviolet (UV)",
       "explanation": "The higher energy, shorter wavelength far UV region spans wavelengths between 91 and 200 nm. Extreme UV radiation has the shortest wavelength range and highest energies of the regions of the ultraviolet spectrum and lies on the border between UV and X-ray radiation."
+    },
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "The resistivity r of a material may be expressed in units of",
+      "image": "",
+      "options": [
+        "ohm",
+        "ohm/cm",
+        "ohm-cm",
+        "ohm-cm2"
+      ],
+      "answer": "ohm-cm",
+      "explanation": "The electrical resistivity is the electrical resistance per unit length and per unit of cross-sectional area at a specified temperature. The SI unit of electrical resistivity is the ohm.metre. It is commonly represented by the Greek letter r rho."
+    },
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "The electromagnetic waves, which are used for satellite communication, are",
+      "image": "",
+      "options": [
+        "infrared radiations",
+        "ultraviolet radiations",
+        "radio waves",
+        "visible lights"
+      ],
+      "answer": "radio waves",
+      "explanation": "Radio waves are used to carry satellite signals. These waves travel at 300,000 km/s (the speed of light). Communications satellites are used to send and receive radio signals for television, phone or internet communications. Large concave reflectors called satellite dishes are normally used to send and receive these signals."
     }
   ],
-  "Physics (Units & Measurements)": [
+  "Physics (Mechanics)": [
     {
-      "subject": "Physics (Units & Measurements)",
+      "subject": "Physics (Mechanics)",
       "question": "The unit of the force constant k of a spring is",
       "image": "",
       "options": [
@@ -127,7 +151,166 @@
         "x = 173 –y"
       ],
       "answer": "x = 273 + y",
-      "explanation": "Temperature in Kelvin = 273+ temperature in °C. Temperature in Kelvin = x (given). Temperature in °C = y (given). Therefore, x = 273+ y"
+      "explanation": "Temperature in Kelvin = 273+ temperature in °C. Temperature in Kelvin = x (given). Temperature in °C = y (given). \\ x = 273+ y"
+    }
+  ],
+  "Health and Disease": [
+    {
+      "subject": "Health and Disease",
+      "question": "Which one of the following is not an epidemic disease?",
+      "image": "",
+      "options": [
+        "Cholera",
+        "Malaria",
+        "Smallpox",
+        "Elephantiasis"
+      ],
+      "answer": "Elephantiasis",
+      "explanation": "Elephantiasis is also known as lymphatic filariasis. It’s caused by parasitic worms, and can spread from person to person through mosquitoes. Elephantiasis causes swelling of the scrotum, legs, or breasts. Elephantiasis is considered a neglected tropical disease (NTD)"
+    }
+  ],
+  "Zoology": [
+    {
+      "subject": "Zoology",
+      "question": "Which one of the following animals has a three-chambered heart?",
+      "image": "",
+      "options": [
+        "Scoliodon",
+        "Salamander",
+        "Pigeon",
+        "Human being"
+      ],
+      "answer": "Salamander",
+      "explanation": "Salamander belongs to group Amphibia, which shows 3 chambered heart (two auricles and one ventricle). In the 3 chambered heart, partial mixing of blood takes place. All amphibians have three chambered heart."
+    }
+  ],
+  "Botany": [
+    {
+      "subject": "Botany",
+      "question": "Which one of the following is the correct sequence of events during sexual reproduction in plants?",
+      "image": "",
+      "options": [
+        "Seedling, formation of embryo, pollination, fertilization, division of zygote",
+        "Formation of embryo, seedling, pollination, fertilization, division of zygote",
+        "Pollination, fertilization, division of zygote, formation of embryo, seedling",
+        "Seedling, formation of embryo, division of zygote, pollination, fertilization"
+      ],
+      "answer": "Pollination, fertilization, division of zygote, formation of embryo, seedling",
+      "explanation": "Sequence of events of sexual reproduction in flowers are:<br>(1) Pollination- transfer of pollen to stigma.<br>(2) Fertilization- fusion of male gamete and egg cell produce zygote and fusion of polar nuclei with male gamete produce triploid endosperm.<br>(3) Embryo formation- zygote divides many time by mitosis and produces embryo.<br>(4) Seedling- embryo differentiate and becomes plumule, radicle and one or two cotyledons. Endosperm divides by mitosis to produce endosperm tissue which is food store. Integuments surrounding embryo sac forms testa (seed coat)."
+    }
+  ],
+  "Biochemistry": [
+    {
+      "subject": "Biochemistry",
+      "question": "Which one of the following is the ‘energy currency’ for cellular processes?",
+      "image": "",
+      "options": [
+        "Glucose",
+        "ATP",
+        "ADP",
+        "Pyruvic acid"
+      ],
+      "answer": "ATP",
+      "explanation": "Energy is usually liberated from the ATP molecule to do work in the cell by a reaction that removes one of the phosphate-oxygen groups, leaving adenosine diphosphate (ADP). so the energy currency of the cell is ATP."
+    }
+  ],
+  "Human Physiology": [
+    {
+      "subject": "Human Physiology",
+      "question": "Which one of the following is the first enzyme to mix with food in the digestive tract?",
+      "image": "",
+      "options": [
+        "Trypsin",
+        "Cellulose",
+        "Pepsin",
+        "Amylase"
+      ],
+      "answer": "Amylase",
+      "explanation": "Salivary amylase, present in saliva, is the first digestive enzyme that gets mixed with food in oral cavity during the process of mastication and bolus formation."
+    },
+    {
+      "subject": "Human Physiology",
+      "question": "Which one of the following is the correct sequence of organs that occur in the path of urine flow in human body?",
+      "image": "",
+      "options": [
+        "Kidney, ureter, urinary bladder, urethra",
+        "Kidney, urinary bladder, ureter, urethra",
+        "Kidney, ureter, urethra, urinary bladder",
+        "Urinary bladder, kidney, urethra, ureter"
+      ],
+      "answer": "Kidney, ureter, urinary bladder, urethra",
+      "explanation": "Urine transport follows a path through the kidneys, ureters, urinary, bladder and urethra."
+    },
+    {
+      "subject": "Human Physiology",
+      "question": "Which of the following endocrine glands is not found in pair in humans?",
+      "image": "",
+      "options": [
+        "Adrenal",
+        "Pituitary",
+        "Testis",
+        "Ovary"
+      ],
+      "answer": "Pituitary",
+      "explanation": "Endocrineglands are a pair of testis in males and a pair of ovaries in females. Pituitary gland is the master gland that regulates the activity of other endocrine glands. Hence, pituitary gland does not exist in pairs."
+    }
+  ],
+  "Chemistry": [
+    {
+      "subject": "Chemistry",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (Name)<br>A. Bleaching powder<br>B. Baking soda<br>C. Washing soda<br>D. Slaked lime<br>List-II (Formula)<br>1. NaHCO3<br>2. Na2CO3 × 10H2O<br>3. Ca(OH)2<br>4. CaOC12<br>Codes:<br>A B C D<br>(a) 4 1 2 3<br>(b) 4 2 1 3<br>(c) 3 2 1 4<br>(d) 3 1 2 4",
+      "image": "",
+      "options": [
+        "4 1 2 3",
+        "4 2 1 3",
+        "3 2 1 4",
+        "3 1 2 4"
+      ],
+      "answer": "4 1 2 3",
+      "explanation": "Bleaching Powder CaOCl2<br>Baking Soda NaHCO3<br>Washing Soda Na2CO3.10H2O<br>Slaked lime Ca(OH)2"
+    },
+    {
+      "subject": "Chemistry",
+      "question": "The number of water molecules associated with copper sulphate molecule to form crystals is",
+      "image": "",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "5",
+      "explanation": "The copper sulphate crystals contains 5 molecules of water of crystallization. CuSO4. 5H2O which are blue in colour."
+    }
+  ],
+  "Cell Biology": [
+    {
+      "subject": "Cell Biology",
+      "question": "Which one of the following cell organelles contains DNA?",
+      "image": "",
+      "options": [
+        "Golgi apparatus",
+        "Mitochondrion",
+        "Lysosome",
+        "Endoplasmic reticulum"
+      ],
+      "answer": "Mitochondrion",
+      "explanation": "The three organelles that contain DNA are the nucleus, mitochondria and chloroplasts. Organelles are membrane-bound subunits within a cell analogous to organs in the body - that perform specific functions. The nucleus is the control center of the cell, and houses genetic information."
+    }
+  ],
+  "History of Science": [
+    {
+      "subject": "History of Science",
+      "question": "Who among the following scientists introduced the concept of immunization to the medical world?",
+      "image": "",
+      "options": [
+        "Edward Jenner",
+        "Robert Koch",
+        "Robert Hooke",
+        "Carl Linnaeus"
+      ],
+      "answer": "Edward Jenner",
+      "explanation": "In 1798 Edward Jenner introduced inoculation with cowpox (smallpox vaccine), a much safer procedure. This procedure, referred to as vaccination, gradually replaced smallpox inoculation, now called variolation to distinguish it from vaccination. Until the 1880s vaccine/vaccination referred only to smallpox, but Louis Pasteur developed immunization methods for chicken cholera and anthrax in animals and for human rabies, and suggested that the terms vaccine/vaccination should be extended to cover the new procedures. This can cause confusion if care is not taken to specify which vaccine is used e.g. measles vaccine or influenza vaccine."
     }
   ]
 }

@@ -14,9 +14,9 @@
       "explanation": "F = – kx; k = spring constant and it measures stiffness or softness of spring. Hence. K depends on length, radius and material of the spring."
     }
   ],
-  "Physics (Electronics)": [
+  "Physics (Modern Physics)": [
     {
-      "subject": "Physics (Electronics)",
+      "subject": "Physics (Modern Physics)",
       "question": "In a bipolar junction transistor",
       "image": "",
       "options": [
@@ -27,11 +27,24 @@
       ],
       "answer": "all the three regions (the emitter, , the base and the collector) have equal concentrations of impurity",
       "explanation": "A Bipolar Junction Transistor, or BJT, is a solid-state device in which the current flow between two terminals (the collector and the emitter) is controlled by the amount of current that flows through a third terminal (the base)."
+    },
+    {
+      "subject": "Physics (Modern Physics)",
+      "question": "The energy of a photon, whose momentum is 10 MeV/ c, where c is the speed of light, is given by",
+      "image": "",
+      "options": [
+        "10 MeV",
+        "100 MeV",
+        "1 MeV",
+        "0.1 MeV"
+      ],
+      "answer": "10 MeV",
+      "explanation": "As per the formula Energy of Photon is always equal to the multiple of the Momentum and Speed of light. Therefore; P=E/C Where P is Momentum, E is Energy and C is Speed of Light. 10 MeV/C=E/C ;{P (Momentum) = 10MeV/C; as given in Question}. E= 10 MeV"
     }
   ],
-  "Physics (Units & Measurements)": [
+  "Physics (Mechanics)": [
     {
-      "subject": "Physics (Units & Measurements)",
+      "subject": "Physics (Mechanics)",
       "question": "The pressure exerted by a 760 mm column of mercury at 0°C is known as",
       "image": "",
       "options": [
@@ -42,9 +55,11 @@
       ],
       "answer": "1 atmosphere",
       "explanation": "76cm Hg = 760 mmHg = 1 atm = 101325 Pa (mmHg = milimeters of mercury) (atm = atmosphere) (Pa = Pascal = N/m2, SI unit for pressure)"
-    },
+    }
+  ],
+  "Physics (Units & Dimensions)": [
     {
-      "subject": "Physics (Units & Measurements)",
+      "subject": "Physics (Units & Dimensions)",
       "question": "Which one of the following physical quantities has the same dimensions as that of Planck's constant h?",
       "image": "",
       "options": [
@@ -54,7 +69,7 @@
         "Potential energy"
       ],
       "answer": "Angular momentum",
-      "explanation": "The dimension of Plank's contant can be obtained from any of the equations in which it appears, e.g. h = E/n, l = h/p, etc. Planck's Constant h = 6.626176 × 10–34 joule-second = 6.626176 × 10–34 m2 kg/s. [h] = [M L2 T–1]. Angular momentum l = r × p. [l] = [r] [p] = [L] [M L T–1] = [M L2 T–1]. Both the Planck's constant and angular momentum have the same dimensions."
+      "explanation": "The dimension of Plank's contant can be obtained from any of the equations in which it appears, e.g. h = E/n, l = h/p, etc. Planck's Constant h = 6.626176 × 10–34 joule-second = 6.626176 × 10–34 m2 kg/s. [h] = [M L2 T–1]. Angular momentum l = r × p. [l] = [r] [p] = [L] [M L T–1] = [M L2 T–1]. Compare Eqs. (1) and (2). See that both the Planck's constant and angular momentum have the same dimensions."
     }
   ],
   "Physics (Optics)": [
@@ -85,21 +100,6 @@
       "explanation": ""
     }
   ],
-  "Physics (Modern Physics)": [
-    {
-      "subject": "Physics (Modern Physics)",
-      "question": "The energy of a photon, whose momentum is 10 MeV/ c, where c is the speed of light, is given by",
-      "image": "",
-      "options": [
-        "10 MeV",
-        "100 MeV",
-        "1 MeV",
-        "0.1 MeV"
-      ],
-      "answer": "10 MeV",
-      "explanation": "As per the formula Energy of Photon is always equal to the multiple of the Momentum and Speed of light. Therefore; P=E/C Where P is Momentum, E is Energy and C is Speed of Light. 10 MeV/C=E/C; {P (Momentum) = 10MeV/C; as given in Question}. E= 10 MeV"
-    }
-  ],
   "Physics (Electricity & Magnetism)": [
     {
       "subject": "Physics (Electricity & Magnetism)",
@@ -113,6 +113,165 @@
       ],
       "answer": "ferromagnetic property",
       "explanation": "Liquids and gases show diamagnetic, paramagnetic and electromagnetic property, but it never show ferromagnetic property."
+    }
+  ],
+  "Ecology": [
+    {
+      "subject": "Ecology",
+      "question": "Which one of the following is most sensitive to environmental change?",
+      "image": "",
+      "options": [
+        "Amphibian",
+        "Reptile",
+        "Mammal",
+        "Insect"
+      ],
+      "answer": "Amphibian",
+      "explanation": "Environmental changes affecting all regions the world and influence all organisms. Amphibians are one of the most sensitive groups to change, whether that is caused by habitat loss, invasive species, disease, trade or climate change. Nearly 33% of the amphibian species of the world are categorized as threatened on the Red List. Furthermore, given their complex life cycles and other traits, amphibians are often recognized as indicators of ecosystem health."
+    }
+  ],
+  "Health and Disease": [
+    {
+      "subject": "Health and Disease",
+      "question": "The HIV virus weakens the immunity of a person because it destroys",
+      "image": "",
+      "options": [
+        "mast cells",
+        "platelets",
+        "erythrocytes",
+        "lymphocytes"
+      ],
+      "answer": "lymphocytes",
+      "explanation": "The human immunodeficiency virus (HIV) seeks and destroys CD4+ cells, a type of T lymphocyte (T cell). T cells are critical to the immune system. They're responsible for warding off diseases and most infections, including viral infections."
+    },
+    {
+      "subject": "Health and Disease",
+      "question": "Deficiency of fluoride leads to which one of the following health problems?",
+      "image": "",
+      "options": [
+        "Tooth caries",
+        "Mottling of tooth",
+        "Bending of bones",
+        "Stiffening of joints"
+      ],
+      "answer": "Tooth caries",
+      "explanation": "Fluorine deficiency is a disorder which may cause increased dental caries (or tooth decay, is the breakdown of dental tissues by the acidic products released by the \"bacterial fermentation of dietary carbohydrates.\") and possibly osteoporosis (a bone disorder which leads to a decrease in bone mass, and an increase in bone fragility), due to a lack of fluoride in the diet."
+    }
+  ],
+  "Environmental Science": [
+    {
+      "subject": "Environmental Science",
+      "question": "Which one of the following air pollutants combines with the haemoglobin of human blood and reduces its oxygen-carrying capacity, leading to suffocation and may cause even death?",
+      "image": "",
+      "options": [
+        "Chlorofluorocarbon",
+        "Fly ash",
+        "Carbon monoxide",
+        "Sulphur dioxide"
+      ],
+      "answer": "Carbon monoxide",
+      "explanation": "Carbon monoxide (CO) has strong affinity to combine/ bind with haemoglobin in blood to form carboxyhaemoglobin, which reduces oxygen carrying capacity of blood to cause headache, nausea, asphyxiation and fainting (low supply of O2 to body though one may inhale normally). Against normal level of 0.5% CO in blood, severe pollution may lead to 8 to 9% CO."
+    }
+  ],
+  "Botany": [
+    {
+      "subject": "Botany",
+      "question": "An irregular mode of reproduction resulting in the development of an embryo without fertilization is called<br>1. Parthenogenesis<br>2. Apogamy<br>3. Sporophytic budding<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "Parthenogenesis, a reproductive strategy that involves development of a female (rarely a male) gamete (sex cell) without fertilization. It occurs commonly among lower plants and invertebrate animals (particularly rotifers, aphids, ants, wasps, and bees) and rarely among higher vertebrates.<br>Apogamy is a type of reproduction, occurring in some ferns, in which the sporophyte develops from the gametophyte without fusion of gametes<br>Adventive embryony, also called sporophytic apomixis, sporophytic budding, or nucellar embryony: Here there may be a megagametophyte in the ovule, but the embryos do not arise from the cells of the gametophyte; they arise from cells of nucellus or the integument."
+    }
+  ],
+  "Physics (Waves)": [
+    {
+      "subject": "Physics (Waves)",
+      "question": "Which one of the following statements is not correct?",
+      "image": "",
+      "options": [
+        "The response of the ear to sound of increasing intensity is approximately logarithmic.",
+        "The sensitivity of the human ear does not vary with the frequency of the sound.",
+        "When two or more waves traverse the same medium, the displacement of any element of the medium is the algebraic sum of the displacements due to each wave.",
+        "Longitudinal waves can travel in all media-solids, liquids and gases."
+      ],
+      "answer": "The sensitivity of the human ear does not vary with the frequency of the sound.",
+      "explanation": "The human ear can respond to minute pressure variations in the air if they are in the audible frequency range, roughly 20 Hz - 20 kHz."
+    }
+  ],
+  "Human Physiology": [
+    {
+      "subject": "Human Physiology",
+      "question": "Which one of the following hormones is essential for the uptake of glucose by cells in the human body?",
+      "image": "",
+      "options": [
+        "GH",
+        "TSH",
+        "Insulin",
+        "Cortisol"
+      ],
+      "answer": "Insulin",
+      "explanation": "Insulin is a hormone made by the pancreas that allows your body to use sugar (glucose) from carbohydrates in the food that you eat for energy or to store glucose for future use. Insulin helps keeps your blood sugar level from getting too high (hyperglycemia) or too low (hypoglycemia)."
+    },
+    {
+      "subject": "Human Physiology",
+      "question": "'Altitude sickness' is caused at high altitude due to",
+      "image": "",
+      "options": [
+        "high partial pressure of oxygen",
+        "low partial pressure of oxygen",
+        "low level of haemoglobin",
+        "high partial pressure of carbon dioxide"
+      ],
+      "answer": "low partial pressure of oxygen",
+      "explanation": "Altitude sickness is a disorder caused at high altitude due to low partial pressure of oxygen. Symptoms of altitude sickness include weakness, sleepiness, and lack of appetite."
+    }
+  ],
+  "Cell Biology": [
+    {
+      "subject": "Cell Biology",
+      "question": "Which of the following cells do not contain nucleus?<br>1. Root hair cells<br>2. Red blood cells<br>3. Platelets<br>4. Monocytes<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 and 3 only",
+        "l, 2 and 4",
+        "2, 3 and 4"
+      ],
+      "answer": "2 and 3 only",
+      "explanation": "Prokaryotes (meaning 'before nucleus') are cells without a definite nucleus. The DNA floats in the cytoplasm and they divide through mitosis. RBC and platelets present in eukaryotes also do not have nucleus."
+    }
+  ],
+  "Biochemistry": [
+    {
+      "subject": "Biochemistry",
+      "question": "Biological catalysts are protein molecules which<br>1. speed up a chemical reaction<br>2. remain unchanged after reaction<br>3. function optimally at 37°C<br>4. do not have an enzymatic activity<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "1, 2 and 3",
+        "2 and 3 only",
+        "1,3 and 4"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "Enzymes are soluble protein molecules that can speed up chemical reactions in cells. These reactions include respiration, photosynthesis and making new proteins. For this reason enzymes are sometimes called biological catalysts. These enzymes functions optimally at 37° C and it remains unchanged after reaction."
+    },
+    {
+      "subject": "Biochemistry",
+      "question": "The elemental composition of an adult human body by mass is",
+      "image": "",
+      "options": [
+        "C > O > H > N",
+        "O > C > H > N",
+        "N > C > H > O",
+        "N > C > O > H"
+      ],
+      "answer": "O > C > H > N",
+      "explanation": "The elemental composition of an adult human body by mass is O>C>H>N respectively. 99% of the mass of the human bodies are made up of just six elements: oxygen (65%), carbon (18%), hydrogen (9.5%), nitrogen (3.2%), calcium (1.5%), and phosphorus (1.2%)."
     }
   ]
 }

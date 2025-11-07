@@ -29,9 +29,9 @@
       "explanation": "The appearance of blue colour of sky is due to scattering of light which is not possible in absence of atmosphere."
     }
   ],
-  "Physics (Electromagnetism)": [
+  "Physics (Electricity & Magnetism)": [
     {
-      "subject": "Physics (Electromagnetism)",
+      "subject": "Physics (Electricity & Magnetism)",
       "question": "The most familiar form of radiant energy in sunlight that causes tanning and sunburning of human skin, is called",
       "image": "",
       "options": [
@@ -56,7 +56,7 @@
         "60°"
       ],
       "answer": "45°",
-      "explanation": "Horizontal range R = (u^2 * sin(2*q)) / g. For maximum horizontal range q should be 45° so that sin(2*q) = sin(90°) = 1."
+      "explanation": "Horizontal range R = u2 sin2q / g. For maximum horizontal range q should be 45°. R max = u2 / g [ Q sin2q =sin90°=1]"
     }
   ]
 }

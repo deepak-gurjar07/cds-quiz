@@ -1,0 +1,133 @@
+{
+  "Human Physiology (Circulatory System)": [
+    {
+      "subject": "Human Physiology (Circulatory System)",
+      "question": "Which of the following part of blood carry out the function of body defence?",
+      "image": "",
+      "options": [
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Haemoglobins"
+      ],
+      "answer": "White blood cells",
+      "explanation": "White blood cells (WBC) bring out the function of body defence."
+    }
+  ],
+  "Diseases": [
+    {
+      "subject": "Diseases",
+      "question": "Match the following<br>List-I (Disease)<br>A. Conjunctivitis<br>B. Dermatitis<br>C. Gout<br>D. Meningitis<br>List-II (Part of Human Body Affected)<br>1. Eyes<br>2. Joints<br>3. Skin<br>4. Spinal cord<br>Codes: A B C D",
+      "image": "",
+      "options": [
+        "2 4 1 3",
+        "1 3 2 4",
+        "2 3 1 4",
+        "1 4 2 3"
+      ],
+      "answer": "1 3 2 4",
+      "explanation": "The correct match is: A-1 (Conjunctivitis - Eyes), B-3 (Dermatitis - Skin), C-2 (Gout - Joints), D-4 (Meningitis - Spinal cord)."
+    },
+    {
+      "subject": "Diseases",
+      "question": "Which one of the following is not an insect borne disease?",
+      "image": "",
+      "options": [
+        "Beri-beri",
+        "Kala-azar",
+        "Malaria",
+        "Plague"
+      ],
+      "answer": "Beri-beri",
+      "explanation": "Beri-beri is not insect borne disease. It is caused by the deficiency of vitamin-B1 or thiamine."
+    },
+    {
+      "subject": "Diseases",
+      "question": "Consider the following statements.<br>1. Cigarette smoking exposes a person to benzene.<br>2. Benzene is a known carcinogen.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Benzene (C6H6) is cause of bone marrow failure."
+    }
+  ],
+  "Environmental Science": [
+    {
+      "subject": "Environmental Science",
+      "question": "Which of the following gases is released from rice fields in the most prominent quantities?",
+      "image": "",
+      "options": [
+        "Carbon dioxide",
+        "Methane",
+        "Carbon monoxide",
+        "Sulphur dioxide"
+      ],
+      "answer": "Methane",
+      "explanation": "Methane (CH4) is produced in rice fields in the most prominent quantities. Because when organic matter decomposes without O2 in the water logged rice paddies, bacteria in the water produce methane."
+    }
+  ],
+  "Human Physiology (Endocrine System)": [
+    {
+      "subject": "Human Physiology (Endocrine System)",
+      "question": "Which one of the following glands produces the growth hormone (somatotrophin)?",
+      "image": "",
+      "options": [
+        "Adrenal",
+        "Pancreas",
+        "Pituitary",
+        "Thyroid"
+      ],
+      "answer": "Pituitary",
+      "explanation": "Somatotrophin is produced by the anterior pituitary."
+    }
+  ],
+  "Human Physiology (Reproductive System)": [
+    {
+      "subject": "Human Physiology (Reproductive System)",
+      "question": "In the human body, Cowper's glands form a part of which one of the following system?",
+      "image": "",
+      "options": [
+        "Digestive system",
+        "Endocrine system",
+        "Reproductive system",
+        "Nervous system"
+      ],
+      "answer": "Reproductive system",
+      "explanation": "Cowper’s gland is related with reproductive system. Cowper’s gland is the bulbourethal gland found in human males. They are found in pair and secrete viscous secretion called pre ejaculate that helps in coitus."
+    }
+  ],
+  "Botany": [
+    {
+      "subject": "Botany",
+      "question": "Cloves, used as a spice, are derived from which of the following plant parts?",
+      "image": "",
+      "options": [
+        "Seeds",
+        "Fruits",
+        "Flower buds",
+        "Young leaves"
+      ],
+      "answer": "Flower buds",
+      "explanation": "Cloves are the flower buds of a tree in the family Myrtaceae. The tree is evergreen growing, contains large leaves and flowers grouped in terminal clusters."
+    }
+  ],
+  "Botany (Microbiology)": [
+    {
+      "subject": "Botany (Microbiology)",
+      "question": "Which one among the following kinds of organisms resides in the roots of pulse plants to do nitrogen fixation?",
+      "image": "",
+      "options": [
+        "Bacteria",
+        "Fungi",
+        "Protozoa",
+        "Virus"
+      ],
+      "answer": "Bacteria",
+      "explanation": "Rhizobium (a kind of bacteria) lives in plant roots of pulse plant (legumes) to fix nitrogen."
+    }
+  ]
+}

@@ -68,24 +68,11 @@
       ],
       "answer": "Sound",
       "explanation": "Oscilloscope is an instrument which allows us to see waves produced by sound. The microphone can then pick up the sound and convert it to an electrical signal which can be displayed on the oscilloscope."
-    },
-    {
-      "subject": "Physics (Waves & Sound)",
-      "question": "For a harmonic oscillator, the graph between momentum p and displacement q would come out as",
-      "image": "",
-      "options": [
-        "a straight line",
-        "a parabola",
-        "a circle",
-        "an ellipse"
-      ],
-      "answer": "an ellipse",
-      "explanation": ""
     }
   ],
-  "Physics (Atomic Physics)": [
+  "Physics (Modern Physics)": [
     {
-      "subject": "Physics (Atomic Physics)",
+      "subject": "Physics (Modern Physics)",
       "question": "The distribution of electrons into different orbits of an atom, as suggested by Bohr; is",
       "image": "",
       "options": [
@@ -96,11 +83,9 @@
       ],
       "answer": "2 electrons in the K-orbit, 8 electrons in the L-orbit, 18 electrons in the M-orbit",
       "explanation": "Maximum n of electrons in K,L, M and N is 2, 8, 18 and 32 respectively."
-    }
-  ],
-  "Physics (Nuclear Physics)": [
+    },
     {
-      "subject": "Physics (Nuclear Physics)",
+      "subject": "Physics (Modern Physics)",
       "question": "Carbon or Graphite rods are used in atomic reactors as moderators for sustained nuclear chain reaction through nuclear fission process. In this process",
       "image": "",
       "options": [
@@ -116,7 +101,7 @@
   "Physics (Mechanics)": [
     {
       "subject": "Physics (Mechanics)",
-      "question": "The distance-time graph for an object is shown above. Which one of the following statements holds true for this object ?",
+      "question": "The distance-time graph for an object is shown above.<br>Which one of the following statements holds true for this object ?",
       "image": "",
       "options": [
         "The object is moving with uniform speed",
@@ -126,6 +111,163 @@
       ],
       "answer": "The object is at rest",
       "explanation": ""
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "For a harmonic oscillator, the graph between momentum p and displacement q would come out as",
+      "image": "",
+      "options": [
+        "a straight line",
+        "a parabola",
+        "a circle",
+        "an ellipse"
+      ],
+      "answer": "an ellipse",
+      "explanation": ""
+    }
+  ],
+  "Health and Disease": [
+    {
+      "subject": "Health and Disease",
+      "question": "Which one among the following is the generic name of the causal organism of Elephantiasis ?",
+      "image": "",
+      "options": [
+        "Filaria",
+        "Microfilaria",
+        "Wuchereria bancrofti",
+        "Culex pipiens"
+      ],
+      "answer": "Wuchereria bancrofti",
+      "explanation": "Elephantiasis is a symptom of a variety of diseases, where parts of a person's body swell to massive proportions. It is caused by a number of parasitic worms, particularly Wuchereria bancrofti."
+    }
+  ],
+  "Nutrition": [
+    {
+      "subject": "Nutrition",
+      "question": "Which one among the following statements is not correct?",
+      "image": "",
+      "options": [
+        "Pulses are rich in proteins",
+        "Milk is a rich source of Vitamin A",
+        "Cereals are very poor source of carbohydrates",
+        "Vegetables are rich source of minerals"
+      ],
+      "answer": "Cereals are very poor source of carbohydrates",
+      "explanation": "Cereals are good source of carbohydrate."
+    }
+  ],
+  "Human Physiology": [
+    {
+      "subject": "Human Physiology",
+      "question": "Which of the statements given below are correct?<br>1. A person having blood group 'A' can donate blood to persons having blood group 'A' and blood group 'AB'.<br>2. A person having blood group 'AB' can donate blood to persons having blood groups 'A', 'B', 'AB' or 'O'.<br>3. A person with blood group 'O' can donate blood to persons having any blood group.<br>4. A person with blood group 'O' can receive blood from the person of any of the blood groups.<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1, 2, 3 and 4",
+        "l and 2 only",
+        "3 and 4 only",
+        "1 and 3 only"
+      ],
+      "answer": "1 and 3 only",
+      "explanation": "A person with AB blood group can receive blood from any group but cannot donate blood to any group other than AB. O individual can receive blood only from a group of O individual but can donate blood to all groups."
+    },
+    {
+      "subject": "Human Physiology",
+      "question": "Which one among the following is the correct pathway for the elimination of urine ?",
+      "image": "",
+      "options": [
+        "Kidneys, Ureters, Bladder, Urethra",
+        "Kidneys, Urethra, Bladder, Ureters",
+        "Urethra, Ureters, Bladder, Kidneys",
+        "Bladder, Ureters, Kidneys, Urethra"
+      ],
+      "answer": "Kidneys, Ureters, Bladder, Urethra",
+      "explanation": "The kidneys filter metabolic wastes, excess ions, and chemicals from the blood to form urine. The ureters are a pair of tubes that carry urine from the kidneys to the urinary bladder. The urethra is the tube through which urine passes from the bladder to the exterior of the body."
+    },
+    {
+      "subject": "Human Physiology",
+      "question": "Which of the following statements is/are correct ?<br>1. Coronary artery supplies blood to heart muscles.<br>2. Pulmonary vein supplies blood to lungs.<br>3. Hepatic artery supplies blood to kidneys.<br>4. Renal vein supplies blood to kidneys.<br>Select the correct answer using the code given below:",
+      "image": "",
+      "options": [
+        "l, 2 and 3",
+        "1 and 2 only",
+        "2 and 4",
+        "1, 3 and 4"
+      ],
+      "answer": "1 and 2 only",
+      "explanation": "The coronary arteries deliver blood to the heart muscle, providing a continuous supply of oxygen and nutrients needed for it to stay healthy and function normally. The pulmonary veins receive oxygenated blood from the lungs and drain into the left atrium of the heart.The Hepatic artery supplies oxygen-rich blood to the liver, pylorus, pancreas, and duodenum. The renal arteries carry a large portion of total blood flow to the kidneys."
+    }
+  ],
+  "Cell Biology": [
+    {
+      "subject": "Cell Biology",
+      "question": "Which of the following parts are found in both plant and animal cells ?",
+      "image": "",
+      "options": [
+        "Cell membrane, Chloroplast, Vacuole",
+        "Cell wall, Nucleus, Vacuole",
+        "Cell membrane, Cytoplasm, Nucleus",
+        "Cell wall, Chloroplast, Cytoplasm"
+      ],
+      "answer": "Cell membrane, Cytoplasm, Nucleus",
+      "explanation": "Cell Membrane, Cytoplasm and Nucleus are found in both plant and animal cells."
+    }
+  ],
+  "Agriculture": [
+    {
+      "subject": "Agriculture",
+      "question": "Which one of the following types of pesticides is convenient to control stored grain pests ?",
+      "image": "",
+      "options": [
+        "Systemic pesticides",
+        "Fumigants",
+        "Contact poisons",
+        "Stomach poisons"
+      ],
+      "answer": "Fumigants",
+      "explanation": "Fumigants are used to penetrate and remain in the container for long enough to kill all stages of insects present in stores grains."
+    }
+  ],
+  "Zoology": [
+    {
+      "subject": "Zoology",
+      "question": "Match List I with List II and select the correct answer using the code given below the Lists:<br>List-I (Animal)<br>A. Ascaris<br>B. Malarial parasite<br>C. Housefly<br>D. Cow<br>List-II (Phyla)<br>1. Mammalia<br>2. Arthropoda<br>3. Nematoda<br>4. Protozoa<br>Codes:<br>A B C D<br>(a) 3 4 2 1<br>(b) 3 2 4 1<br>(c) 1 2 4 3<br>(d) 1 4 2 3",
+      "image": "",
+      "options": [
+        "3 4 2 1",
+        "3 2 4 1",
+        "1 2 4 3",
+        "1 4 2 3"
+      ],
+      "answer": "3 4 2 1",
+      "explanation": "The correct match is as follows:<br>Ascaris - Nematoda<br>Malarial parasite - Protozoa<br>Housefly - Arthropoda<br>Cow - Mammalia"
+    },
+    {
+      "subject": "Zoology",
+      "question": "Which one among the following cattle breed produces highest amount of milk ?",
+      "image": "",
+      "options": [
+        "Brown Swiss",
+        "Holstein",
+        "Dutch belted",
+        "Blaarkop"
+      ],
+      "answer": "Holstein",
+      "explanation": "Holstein Friesians are world's highest-production dairy animals. They are found mostly in Netherlands/Germany."
+    }
+  ],
+  "Ecology": [
+    {
+      "subject": "Ecology",
+      "question": "Which one among the following pairs is not correctly matched ?",
+      "image": "",
+      "options": [
+        "Sandal wood plant : Partial root parasite",
+        "Cuscuta : Parasite",
+        "Nepenthes : Carnivorous",
+        "Mushrooms : Autotroph"
+      ],
+      "answer": "Mushrooms : Autotroph",
+      "explanation": "Mushroom is not autotroph."
     }
   ]
 }

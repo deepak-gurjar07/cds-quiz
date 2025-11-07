@@ -1,7 +1,7 @@
 {
-  "Physics (Waves & Sound)": [
+  "Physics (Mechanics)": [
     {
-      "subject": "Physics (Waves & Sound)",
+      "subject": "Physics (Mechanics)",
       "question": "The time period of a simple pendulum having a spherical wooden bob is 2 s. If the bob is replaced by a metallic one twice as heavy, the time period will be",
       "image": "",
       "options": [
@@ -11,49 +11,8 @@
         "less than 1 s"
       ],
       "answer": "2s",
-      "explanation": "Time period of a simple pendulum T = 2p * sqrt(l/g) depends on its length 'l' and acceleration due to gravity 'g' and independent of mass of the bob."
+      "explanation": "Time period of a simple pendulum T = 2p * sqrt(l/g) depends on its length 'l ' and acceleration due to gravity 'g' and independent of mass of the bob."
     },
-    {
-      "subject": "Physics (Waves & Sound)",
-      "question": "In SONAR, we use",
-      "image": "",
-      "options": [
-        "ultrasonic waves",
-        "infrasonic waves",
-        "radio waves",
-        "audible sound waves"
-      ],
-      "answer": "ultrasonic waves",
-      "explanation": "Sonar (sound navigation and ranging) is a technique that uses sound propagation to navigate (usually under water, as in submarine navigation), communicate with or detect objects on or under the surface of the water, such as the vessels as ultrasonic waves which is used having very high frequency > 20,000 Hz."
-    },
-    {
-      "subject": "Physics (Waves & Sound)",
-      "question": "Two identical piano wires have same fundamental frequency when kept under the same tension. What will happen if tension of one of the wire is slightly increased and both the wires are made to vibrate simultaneously?",
-      "image": "",
-      "options": [
-        "Noise",
-        "Beats",
-        "Resonance",
-        "Non-linear effects"
-      ],
-      "answer": "Beats",
-      "explanation": ""
-    },
-    {
-      "subject": "Physics (Waves & Sound)",
-      "question": "Motion of an oscillating liquid column in a U-tube is",
-      "image": "",
-      "options": [
-        "periodic but not simple harmonic",
-        "non-periodic",
-        "simple harmonic and time period is independent of the density of the liquid",
-        "simple harmonic and time period depends on the density of the liquid"
-      ],
-      "answer": "simple harmonic and time period is independent of the density of the liquid",
-      "explanation": "Motion of an oscillating liquid column in a U-tube is called simple harmonic motion with time period independent of on the density of the liquid."
-    }
-  ],
-  "Physics (Mechanics)": [
     {
       "subject": "Physics (Mechanics)",
       "question": "A liquid is kept in a regular cylindrical vessel upto a certain height. If this vessel is replaced by another cylindrical vessel having half the area of cross-section of the bottom, the pressure on the bottom will",
@@ -104,7 +63,7 @@
         "a blunt knife decreases the area of intersection"
       ],
       "answer": "a blunt knife decreases the pressure for a given force",
-      "explanation": "Pressure = force / area. Bluntness of knife increases area, hence decreases the pressure for a given force."
+      "explanation": "Pressure = force/area. Bluntness of knife increases area, hence decreases the pressure for a given force."
     },
     {
       "subject": "Physics (Mechanics)",
@@ -130,7 +89,7 @@
         "54 km/h"
       ],
       "answer": "54.55 km/h",
-      "explanation": "Average speed = total distance / total time = (300+300) / ((300/50) + (300/60)) = 600 / (6+5) = 600 / 11 = 54.55 km/h"
+      "explanation": "Average speed = total distance / total time = (300+300) / (300/50 + 300/60) = 600 / (6+5) = 600/11 = 54.55 km/h"
     },
     {
       "subject": "Physics (Mechanics)",
@@ -144,20 +103,61 @@
       ],
       "answer": "non-contact forces",
       "explanation": "All of these forces doesn’t need any physical contact to exist hence, non-contact forces."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "Motion of an oscillating liquid column in a U-tube is",
+      "image": "",
+      "options": [
+        "periodic but not simple harmonic",
+        "non-periodic",
+        "simple harmonic and time period is independent of the density of the liquid",
+        "simple harmonic and time period depends on the density of the liquid"
+      ],
+      "answer": "simple harmonic and time period is independent of the density of the liquid",
+      "explanation": "Motion of an oscillating liquid column in a U-tube is called simple harmonic motion with time period independent of on the density of the liquid."
+    }
+  ],
+  "Physics (Waves & Sound)": [
+    {
+      "subject": "Physics (Waves & Sound)",
+      "question": "In SONAR, we use",
+      "image": "",
+      "options": [
+        "ultrasonic waves",
+        "infrasonic waves",
+        "radio waves",
+        "audible sound waves"
+      ],
+      "answer": "ultrasonic waves",
+      "explanation": "Sonar (sound navigation and ranging) is a technique that uses sound propagation to navigate (usually under water, as in submarine navigation), communicate with or detect objects on or under the surface of the water, such as the vessels as ultrasonic waves which is used having very high frequency > 20,000 Hz."
+    },
+    {
+      "subject": "Physics (Waves & Sound)",
+      "question": "Two identical piano wires have same fundamental frequency when kept under the same tension. What will happen if tension of one of the wire is slightly increased and both the wires are made to vibrate simultaneously?",
+      "image": "",
+      "options": [
+        "Noise",
+        "Beats",
+        "Resonance",
+        "Non-linear effects"
+      ],
+      "answer": "Beats",
+      "explanation": ""
     }
   ],
   "Physics (Electricity & Magnetism)": [
     {
       "subject": "Physics (Electricity & Magnetism)",
-      "question": "Which one among the following correctly defines a unit magnetic pole in SI units?",
+      "question": "Which one among the following correctly defines a unit magnetic pole in SI units?<br>It is the pole which when placed in air at a distance of",
       "image": "",
       "options": [
-        "It is the pole which when placed in air at a distance of 1 foot from an equal and a similar poled repels it with a force of 1 pound",
-        "It is the pole which when placed in air at a distance of 1 m from an equal and a similar pole repels it with a force of 1 N",
-        "It is the pole which when placed in air at a distance of 1 cm from an equal and a similar pole repels it with a force of 1 dyne",
-        "It is the pole which when placed in air at a distance of 1 metre from an equal and a similar pole repels it with a force of 1 N/m2"
+        "1 foot from an equal and a similar poled repels it with a force of 1 pound",
+        "1 m from an equal and a similar pole repels it with a force of 1 N",
+        "1 cm from an equal and a similar pole repels it with a force of 1 dyne",
+        "1 metre from an equal and a similar pole repels it with a force of 1 N/m2"
       ],
-      "answer": "It is the pole which when placed in air at a distance of 1 m from an equal and a similar pole repels it with a force of 1 N",
+      "answer": "1 m from an equal and a similar pole repels it with a force of 1 N",
       "explanation": ""
     },
     {
@@ -171,7 +171,33 @@
         "voltage more than the input voltage"
       ],
       "answer": "current more than the input current",
-      "explanation": "In step-down transformer Np > Ns, Ep > Es, Ip < Is where N, E and I used for no. of turns, emf and current respectively."
+      "explanation": "In step-down transformer Np > Ns, Ep > Es, Ip < Is and buoyant force µ density of fluid. Here N, E and I used for no. of turns, emf and current respectively."
+    },
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "A rectifier is an electronic device used to convert",
+      "image": "",
+      "options": [
+        "AC voltage into DC voltage",
+        "DC voltage into AC voltage",
+        "sinusoidal pulse into square pulse",
+        "None of the above"
+      ],
+      "answer": "AC voltage into DC voltage",
+      "explanation": "A rectifier is used to convert AC voltage into DC voltage and invertor converts DC voltage into AC voltage."
+    },
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "A device, which is used in our TV set, computer, radio set for storing the electric charge, is",
+      "image": "",
+      "options": [
+        "resistor",
+        "inductor",
+        "capacitor",
+        "conductor"
+      ],
+      "answer": "capacitor",
+      "explanation": "Capacitor (condenser) is used to store energy in an electric field. Capacitance of a capacitor C, defined as the ratio of charge ± Q on each conductor to the voltage V between them. C = Q/V"
     },
     {
       "subject": "Physics (Electricity & Magnetism)",
@@ -185,6 +211,19 @@
       ],
       "answer": "the total charge on the two spheres is conserved",
       "explanation": "If two conducting spheres are separately charged and brought in contact, then the total charge on the two spheres is conserved. This is the law of conservation of charge."
+    },
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "Light Emitting Diode (LED) converts",
+      "image": "",
+      "options": [
+        "light energy into electrical energy",
+        "electrical energy into light energy",
+        "thermal energy into light energy",
+        "mechanical energy into electrical energy"
+      ],
+      "answer": "electrical energy into light energy",
+      "explanation": "Light Emitting Diode (LED) is semiconductor device – a forward bias p-n junction diode which converts electrical energy into light energy."
     }
   ],
   "Physics (Modern Physics)": [
@@ -257,6 +296,19 @@
     },
     {
       "subject": "Physics (Thermodynamics)",
+      "question": "When ice melts, its",
+      "image": "",
+      "options": [
+        "volume decreases",
+        "volume increases",
+        "volume and mass both decrease",
+        "volume decreases while mass increases"
+      ],
+      "answer": "volume decreases",
+      "explanation": "When ice melts its density increases i.e. its volume decreases. Mass is an invariant quantity."
+    },
+    {
+      "subject": "Physics (Thermodynamics)",
       "question": "The gas used in a refrigerator is",
       "image": "",
       "options": [
@@ -283,19 +335,6 @@
     }
   ],
   "Physics (Properties of Matter)": [
-    {
-      "subject": "Physics (Properties of Matter)",
-      "question": "When ice melts, its",
-      "image": "",
-      "options": [
-        "volume decreases",
-        "volume increases",
-        "volume and mass both decrease",
-        "volume decreases while mass increases"
-      ],
-      "answer": "volume decreases",
-      "explanation": "When ice melts its density increases i.e. its volume decreases. Mass is an invariant quantity."
-    },
     {
       "subject": "Physics (Properties of Matter)",
       "question": "Which type/types of pen uses/use capillary action in addition to gravity for flow of ink?",
@@ -334,47 +373,6 @@
       ],
       "answer": "reduces drastically the surface tension between water and oil",
       "explanation": "One end of hairpin shaped detergents attracted to water and other to molecules of oil or grease that reduces drastically the surface tension between water and oil."
-    }
-  ],
-  "Physics (Electronics)": [
-    {
-      "subject": "Physics (Electronics)",
-      "question": "A rectifier is an electronic device used to convert",
-      "image": "",
-      "options": [
-        "AC voltage into DC voltage",
-        "DC voltage into AC voltage",
-        "sinusoidal pulse into square pulse",
-        "None of the above"
-      ],
-      "answer": "AC voltage into DC voltage",
-      "explanation": "A rectifier is used to convert AC voltage into DC voltage and invertor converts DC voltage into AC voltage."
-    },
-    {
-      "subject": "Physics (Electronics)",
-      "question": "A device, which is used in our TV set, computer, radio set for storing the electric charge, is",
-      "image": "",
-      "options": [
-        "resistor",
-        "inductor",
-        "capacitor",
-        "conductor"
-      ],
-      "answer": "capacitor",
-      "explanation": "Capacitor (condenser) is used to store energy in an electric field. Capacitance of a capacitor C, defined as the ratio of charge ± Q on each conductor to the voltage V between them. C = Q/V"
-    },
-    {
-      "subject": "Physics (Electronics)",
-      "question": "Light Emitting Diode (LED) converts",
-      "image": "",
-      "options": [
-        "light energy into electrical energy",
-        "electrical energy into light energy",
-        "thermal energy into light energy",
-        "mechanical energy into electrical energy"
-      ],
-      "answer": "electrical energy into light energy",
-      "explanation": "Light Emitting Diode (LED) is semiconductor device – a forward bias p-n junction diode which converts electrical energy into light energy."
     }
   ],
   "Physics (Optics)": [
@@ -416,6 +414,51 @@
       ],
       "answer": "white",
       "explanation": "When an object reflects all the colours of a white light, then it would appear white. White light is the combination of all seven colours (VIBGYOR) of light."
+    }
+  ],
+  "Cell Biology": [
+    {
+      "subject": "Cell Biology",
+      "question": "Which organelle in the cell, other than nucleus, contains DNA?",
+      "image": "",
+      "options": [
+        "Endoplasmic reticulum",
+        "Golgi apparatus",
+        "Lysosome",
+        "Mitochondria"
+      ],
+      "answer": "Mitochondria",
+      "explanation": "Mitochondrial DNA is the DNA located in organelles called mitochondria. In eukaryotic cells it converts chemical energy from food into a Adenosine Triphosphate (ATP) that cells can use."
+    }
+  ],
+  "Ecology": [
+    {
+      "subject": "Ecology",
+      "question": "Which one among the following groups of items contains only biodegradable items?",
+      "image": "",
+      "options": [
+        "Paper, grass, glass",
+        "Wood, flower, iron-scrap",
+        "Sewage, plastic, leather",
+        "Cow-dung, paddy-husk, vegetable wastes"
+      ],
+      "answer": "Cow-dung, paddy-husk, vegetable wastes",
+      "explanation": "A biodegradable product gets decomposition safely and quickly, through biological process into the raw materials and disappear into the environment. Cow-dung, padddy-husk and vegetable wastes, are biodegradable products."
+    }
+  ],
+  "Genetics": [
+    {
+      "subject": "Genetics",
+      "question": "Two strands of DNA are held together by",
+      "image": "",
+      "options": [
+        "hydrogen bonds",
+        "covalent bonds",
+        "electrostatic force",
+        "Van der Waals' forces"
+      ],
+      "answer": "hydrogen bonds",
+      "explanation": "Two strand of DNA are held together by hydrogen- bond formed between the bases of two strand. Adenine pairs with Thymine by two Hydrogen-bond and Guanine pairs with cytosine by three Hydrogen-bond."
     }
   ]
 }
