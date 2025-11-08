@@ -1,0 +1,422 @@
+{
+  "World Geography": [
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following sequences of water bodies, from lower to higher salinity concentration, is correct?",
+      "image": "",
+      "options": [
+        "Gulf of California-Baltic Sea-Red Sea-Arctic sea",
+        "Baltic Sea-Arctic Sea-Gulf of California-Red Sea",
+        "Red Sea-Gulf of California-Arctic Sea-Baltic Sea",
+        "Arctic Sea-Gulf of California-Baltic Sea-Red Sea"
+      ],
+      "answer": "Baltic Sea-Arctic Sea-Gulf of California-Red Sea",
+      "explanation": "The correct sequences of water bodies, from lower to higher salinity concentration, is Baltic sea- Arctic Sea- Gulf of California-Red sea."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Rain bearing clouds look black because",
+      "image": "",
+      "options": [
+        "all light is scattered by them",
+        "the large number of water droplets in them absorb all the sunlight",
+        "they reflect the sunlight back into the atmosphere",
+        "there is a lot of dust condensed on the water vapour in such clouds"
+      ],
+      "answer": "all light is scattered by them",
+      "explanation": "If the object does not reflect any colour, it appearsblack. The tiny droplets of water in rain clouds scatter the white light of the sun. Red is scattered first, and violet the last. This happens at such a high altitude that no rays of the sun reach the bottom of the cloud. Thus, we do not see the rays of the sun and this results in a dark effect."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Why do we have a leap year every four years?",
+      "image": "",
+      "options": [
+        "The Earth gets shifted out of orbit every four year",
+        "The revolution slows down a little once every four years",
+        "The length of a year is not an integer number of days",
+        "It is a convention"
+      ],
+      "answer": "The length of a year is not an integer number of days",
+      "explanation": "Number of days in a year is 365 days and 6 hours (It is not a complete day). Having years of 365 days makes the year too short. To keep up with the real length of the year maintaining an integer number of days,an extra day is added every four years."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The riverbank is weakest where the river turns. This is because water",
+      "image": "",
+      "options": [
+        "gets concentrated on the inner bank of the turn, making it denser",
+        "effectively bounces off the outer bank as it turns exerting an extra pressure on the bank",
+        "flows faster as it turns",
+        "reacts more effectively with the bank at a turn"
+      ],
+      "answer": "effectively bounces off the outer bank as it turns exerting an extra pressure on the bank",
+      "explanation": "Water effectively bounces off the outer bank as it turns exerting an extra pressure on the bank. This is why the river bank is weakest where the river turns."
+    },
+    {
+      "subject": "World Geography",
+      "question": "In absorption of insolation, the most significant part is played by",
+      "image": "",
+      "options": [
+        "carbon dioxide",
+        "ozone",
+        "oxygen",
+        "haze"
+      ],
+      "answer": "carbon dioxide",
+      "explanation": "In absorption of isolation the most significant part is played by Carbon dioxide."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Farmers are requested to mix lime with soil while farming their fields. This is because",
+      "image": "",
+      "options": [
+        "lime is very helpful in maintaining the water content in the soil",
+        "lime decreases the acidity of soil",
+        "lime decreases the basicity of soil",
+        "high concentration of lime is necessary for the plant growth"
+      ],
+      "answer": "lime decreases the acidity of soil",
+      "explanation": "Farmers are advisedto mix lime with soil while farming their fields becauseit increases the pH of acidic soil (the higher the pH the less acidic the soil); in other words, soil acidity is reduced and alkalinity increased."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following statements regarding Chinook winds is not correct?",
+      "image": "",
+      "options": [
+        "These are local winds",
+        "They descend along the Eastern slopes of the rocky mountain in mid-latitudes",
+        "They bring lots of rain with them",
+        "They benefit agriculture"
+      ],
+      "answer": "They benefit agriculture",
+      "explanation": "Along the eastern slopes of the Rockies, the Chinook wind provides a welcome respite from the long winter chill.<br>Impact of Chinooks<br>Loss of moisture due to significant drops in humidity.<br>Soil moisture is lost, and the high winds may result in soil loss<br>Loss of soil moisture<br>Summer Chinooks can damage small plants and agriculture products<br>Susceptible people may get headaches or suffer nervous disorders<br>Rapid Large Temperature Changes Can Occur<br>Snow may melt or evaporate through sublimation"
+    },
+    {
+      "subject": "World Geography",
+      "question": "There are three distinct characters of temperature stratification of atmosphere around the Earth. Which one among the following is the correct arrangement of the layers (from the Earth's surface upwards)?",
+      "image": "",
+      "options": [
+        "Thermosphere - Stratosphere -Troposphere",
+        "Troposphere - Thermosphere - Stratosphere",
+        "Troposphere - Stratosphere - Thermosohere",
+        "Thermosphere- Troposphere - Stratosphere"
+      ],
+      "answer": "Troposphere - Stratosphere - Thermosohere",
+      "explanation": "Troposphere: This is the lowest atmospheric layer and is about seven miles (11 km) thick. Most clouds and weather are found in the troposphere.<br>Stratosphere: The stratosphere is found from about 7 to 30 miles (11-48 kilometres) above the Earth's surface. In this region of the atmosphere is the ozone layer found.<br>Mesosphere: The mesosphere is above the stratosphere. Here the atmosphere is very rarefied, that is, thin, and the temperature is decreasing with altitude.<br>Thermosphere: The thermosphere starts at about 55 kilometres. The temperature is quite hot.<br>Exosphere: The exosphere is the region beyond the thermosphere.<br>Ionosphere: The ionosphere overlaps the other atmospheric layers, from above the Earth. The air is ionized by the Sun's ultraviolet light."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Consider the following diagram<br>North Pole<br>Horse Latitude<br>A<br>Polar High Pressure Belts<br>South Pole<br>In the diagram given above, what does A denote ?",
+      "image": "",
+      "options": [
+        "Doldrums",
+        "Trade winds",
+        "Westerlies",
+        "Easterlies"
+      ],
+      "answer": "Doldrums",
+      "explanation": "A region of the globe found over the oceans near the equator in the intertropical convergence zone and having weather characterized variously by calm air, light winds, or squalls and thunderstorms is called Doldrums."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Ozone holes are more pronounced at the",
+      "image": "",
+      "options": [
+        "Equator",
+        "Tropic of Cancer",
+        "Tropic of Capricorn",
+        "Poles"
+      ],
+      "answer": "Poles",
+      "explanation": "Ozone holes are more pronounced at the polar regions especially over Antarctica."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Sargasso sea is characterised by",
+      "image": "",
+      "options": [
+        "very cold water",
+        "very warm water",
+        "highly saline water",
+        "typical marine vegetation"
+      ],
+      "answer": "typical marine vegetation",
+      "explanation": "The Sargasso Sea is a strange and a unique creation of the nature. Sargassosea is charaterised by typical marine Vegetition."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Statement I Tsunami is small in open ocean yet may be over 30 m high when it reaches a coastline.<br>Statement II Tsunamis have long wavelength and they travel across the open ocean at high speed. As they approach shore, the wavelength decreases and the wave height increases.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+        "Statement I is true, but Statement II is false",
+        "Statement I is false, but Statement II is true"
+      ],
+      "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+      "explanation": "In the open ocean the height of tsunami is less than 1 meter however, its height increases up to 15 meters or more at shallow coastal water. The wavelength in the open ocean is between 650 to 960 km/h."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Statement I The planet Neptune appears blue in colour.<br>Statement II The presence of methane gas in the atmosphere of Neptune is responsible for its colour",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+        "Statement I is true, but Statement II is false",
+        "Statement I is false, but Statement II is true"
+      ],
+      "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+      "explanation": "Neptune's atmosphere is made up of hydrogen, helium and methane. The methane in Neptune's upper atmosphere absorbs the red light from the sun but reflects the blue light from the Sun back into space. This is why Neptune appears blue."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Statement I Comets revolve around the Sun only in long elliptical orbits.<br>Statement II A comet develops a tail when it gets close to the Sun",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+        "Statement I is true, but Statement II is false",
+        "Statement I is false, but Statement II is true"
+      ],
+      "answer": "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+      "explanation": "A comet is an icy small Solar System body that, when passing close to the Sun, heats up and begins to outgas, displaying a visible atmosphere or coma, and sometimes also a tail."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The variability among living organisms from all sources including terrestrial, marine and other ecosystems and the ecological complexes of which they are part which includes diversity within species, between species of ecosystems refers to",
+      "image": "",
+      "options": [
+        "geographical diversity",
+        "zoological diversity",
+        "ecological diversity",
+        "biological diversity"
+      ],
+      "answer": "biological diversity",
+      "explanation": "Biological diversity is used to refer to the total number of different species on Earth. A collection of this biodiversity would include human beings, Bengal tigers, sugar maples, oyster mushrooms, bacteria, and the millions of other living organisms found on Earth."
+    },
+    {
+      "subject": "World Geography",
+      "question": "During the recent venus transit (June 2012) bracket, the planet appeared as a tiny black circle moving on the Sun. The black colour on the Sun is because the planet",
+      "image": "",
+      "options": [
+        "is black in colour",
+        "obstructed all light from the Sun",
+        "was invisible due to bright rays from the Sun",
+        "behaved as a black hole during its transit"
+      ],
+      "answer": "obstructed all light from the Sun",
+      "explanation": "The black colour on the sun is because of a planet which obstructs all light from the sun."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The waves that help scientists to understand the internal structure of the Earth are",
+      "image": "",
+      "options": [
+        "primary waves",
+        "secondary waves",
+        "surface waves",
+        "longitudinal waves"
+      ],
+      "answer": "secondary waves",
+      "explanation": "Secondary waves (S waves) are the second fastest travelling seismic waves (after primary waves) and can travel through solids but not through liquids or gases. It helps scientists to understand the internal structure of the Earth."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which among the following phenomenas can occur when very warm and humid air is rising over a mass of a very cold air?<br>1. Calm weather<br>2. Snowfall<br>3. Storms and cyclonic storms<br>4. Intense rain and hail<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "2 and 3",
+        "3 and 4",
+        "1 and 4"
+      ],
+      "answer": "1 and 4",
+      "explanation": "storms and cyclonic storms and intense rain and hail can occur when very warm and humid air rises over a mass of a very cold air."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following is called terrestrial planet?",
+      "image": "",
+      "options": [
+        "Mercury",
+        "Jupiter",
+        "saturn",
+        "Uranus"
+      ],
+      "answer": "Mercury",
+      "explanation": "There are four terrestrial planets in our Solar System: Mercury, Venus, Earth, and Mars. The terrestrial planets in our Solar System are also known as the inner planets because these planets are the four closest to the Sun."
+    }
+  ],
+  "Indian Geography": [
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List I (Tribal Group) List II (State where Prodominantly Located)<br>A. Reang 1. Arunachal Pradesh<br>B. Dimasa 2. Nagaland<br>C. Konyak 3. Tripura<br>D. Mishmi 4. Asom<br>Codes<br>A B C D A B C D",
+      "image": "",
+      "options": [
+        "1 2 4 3",
+        "1 4 2 3",
+        "3 2 4 1",
+        "3 4 2 1"
+      ],
+      "answer": "3 4 2 1",
+      "explanation": "Reang is the scheduled tribes of the Indian state of Tripura. Dimasa is a tribalgroup of people in Assam. The Konyak are the Naga tribal group.Mishmi tribal people are mostly of Arunachal Pradesh (formerly North East Frontier Agency) in extreme northeastern India, near Tibet and Assam, speaking dialects of the Tibeto-Burman linguistic family."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which among the following cities of India will have mid day Sun exactly overhead only a year?",
+      "image": "",
+      "options": [
+        "Delhi and Chennai",
+        "Srinagar and Darjeeling",
+        "Hyderabad and Kohima",
+        "Nagpur and Kolkata"
+      ],
+      "answer": "Srinagar and Darjeeling",
+      "explanation": "No correct answer. Mid-day sun is exactly overhead only once a year in cities in India which are located exactly on the Tropic of Cancer i.e. 23o 26' 16\" N. Those located above the Tropic will never have the sun overhead anytime of the year, while those located below the Tropic will have it twice a year, once between March 22 and June 22 and the other time between June 22 and September 22. All the above cities are either located above the Tropic of Cancer or below it. The approximate latitudes are given below:<br>Delhi - 28o 36' 36\"; Chennai 13o 04'; Srinagar 34o 05' 24\";<br>Darjeeling 27o 03'; Hyderabad 17o 22'; Kohima 25o 40';<br>Nagpur 21o 15'; Kolkata 22o 34'."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "The main aim of watershed management strategy of India is",
+      "image": "",
+      "options": [
+        "promoting silviculture",
+        "hillslope management",
+        "arid land management",
+        "soil conservation"
+      ],
+      "answer": "soil conservation",
+      "explanation": "The main objectives of the watershed management strategy of India are to restore the ecological balance by harnessing, conserving and developing degraded natural resources such as soil, vegetative cover and water."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Surface water resources are highest in",
+      "image": "",
+      "options": [
+        "Ganga plains",
+        "North-Eastern India",
+        "Peninsular India",
+        "Indus plains"
+      ],
+      "answer": "Ganga plains",
+      "explanation": ""
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which of the following are responsible for the decrease of per capita holding of cultivated land in India?<br>1. Low per capita income.<br>2. Rapid rate of increase of population.<br>3. Practice of dividing land equally among the heirs.<br>4. Use of traditional techniques<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "2 and 3",
+        "1 and 4",
+        "2, 3 and 4"
+      ],
+      "answer": "2 and 3",
+      "explanation": "The reason for the decrease of per capita holding of cultivated land is:<br>Population is growing very fast in India and practice of dividing land equally among the heirs goes on. Hence, family land is inherited by the heirs equally. Each heir has the legal right to demarcate and subdivide his inheritance."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Consider the following statements<br>1. Rural forestry aims to raise the trees on community land and on privately owned land.<br>2. Farm forestry encourages individual farmers to plant trees on their own farmland to meet the domestic need of the family.<br>Which of the statement(s) given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Only 2",
+      "explanation": "Farm forestry is when Individual farmers are being encouraged to plant trees on their own farmland to meet the domestic needs of the family."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Tank irrigation is practised mainly in Peninsular India because<br>1. undulating relief and hard rocks make it difficult to dig canals and wells<br>2. rivers are rainfed<br>3. of compact nature of population and agricultural fields<br>Select the correct answer using the codes given below<br>Codes",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "2 and 3",
+        "1 and 3",
+        "All of these"
+      ],
+      "answer": "1 and 2",
+      "explanation": "The tank irrigation is practised mainly in peninsular India due to the following reasons:<br>1. The undulating relief and hard rocks make it difficult to dig canals and wells.<br>2. There is little percolation of rain water due to hard rock structure and ground water is not available in large quantity.<br>3. Most of the rivers of this region are seasonal and dry up in summer season. Therefore, they cannot supply water to canals throughout the year.<br>4. There are several streams which become torrential during rainy season. The only way to make best use of this water is to impound it by constructing bunds and building tanks. Otherwise this water would go waste to the sea.<br>5. The scattered nature of population and agricultural fields also favour tank irrigation."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List I (River) List II (Tributary)<br>A. Ganga 1. Chambal and Ken<br>B. Indus 2. Wainganga and Indravati<br>C. Yamuna 3. Chenab and Sutlej<br>D.Godavari 4. Gomti and Kosi<br>Codes<br>A B C D A B C D",
+      "image": "",
+      "options": [
+        "4 1 3 2",
+        "4 3 1 2",
+        "2 1 3 4",
+        "2 3 1 4"
+      ],
+      "answer": "4 3 1 2",
+      "explanation": "Correct match of Rivers & its tributaries<br>List – I(River) List - II (Tributaries)<br>Ganga Gomti and Kosi<br>Indus Chenab and Sutlej<br>Yamuna Chambal and Ken<br>Godavari Wainganga and Indravati"
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List I (Mineral) List II (Producing Centre in Map)<br>A. Copper<br>B. Mica<br>C. Chromite<br>D. Lignite<br>Codes<br>A B C D A B C D",
+      "image": "",
+      "options": [
+        "2 4 1 3",
+        "2 1 4 3",
+        "3 1 4 2",
+        "3 4 1 2"
+      ],
+      "answer": "3 1 4 2",
+      "explanation": ""
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List I (Hill Station) List II (Location in Map)<br>A. Dharamsala<br>B. Almora<br>C. Nainital<br>D. Darjeeling<br>Codes<br>A B C D A B C D",
+      "image": "",
+      "options": [
+        "1 2 3 4",
+        "1 3 2 4",
+        "2 1 4 3",
+        "2 4 1 3"
+      ],
+      "answer": "1 2 3 4",
+      "explanation": "Dharamsala is in Himachal Pradesh.It is known worldwide for the presence of the Dalai Lama.<br>Almora is situated in Uttarakhand. Nainital is a popular hill station also in Uttarakhand. The four famous lakes of Nainital are Bhimtal Lake,Sattal, Khurpa Tal, Naukuchia Tal.Darjeeling is situated in West Bengal. Darjeeling Himalayan Railwayis a UNESCO World Heritage Site."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Arrange the following tributaries of river Brahmaputra from West to East.<br>1. Lohit<br>2. Dibang<br>3. Subansiri<br>4. Tista<br>Select the correct answer using the codes given below<br>Codes",
+      "image": "",
+      "options": [
+        "4, 3, 2, 1",
+        "4, 3, 1, 2",
+        "3, 4. 2. 1",
+        "2, 4, 3. 1"
+      ],
+      "answer": "4, 3, 1, 2",
+      "explanation": "The tributaries of Brahmaputra from west to east - Tista, Subarnsiri, Lohit, and dibang.<br>Tista is said to be the lifeline of Sikkim, the Subansiri River is a tributary of the Brahmaputra River in Assam and Arunachal Pradesh, and the Tibet Autonomous Region of China.Lohit River flows in Arunachal Pradesh.Dibang River flows through the northeast states of Arunachal Pradesh and Assam."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Gaddis are",
+      "image": "",
+      "options": [
+        "fishermen of Kerala",
+        "pastoralists of Arunachal Pradesh",
+        "shepherds Himachal Pradesh",
+        "nomads of Rajasthan desert"
+      ],
+      "answer": "shepherds Himachal Pradesh",
+      "explanation": "The Gaddis are a tribe living mainly in Himachal Pradesh and Jammu and Kashmir. They belong to the class of the shepherds and their job is looking after goats and sheep."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List I (Biosphere Reserve) List II (State)<br>A. Nilgiri 1. Odisha<br>B.Manas 2. Madhya Pradesh<br>C. Panchmarhi 3. Tamul Nadu<br>D. Simeslipal 4. Asom<br>Codes<br>A B C D A B C D",
+      "image": "",
+      "options": [
+        "3 2 4 1",
+        "1 4 2 3",
+        "3 4 2 1",
+        "1 2 4 3"
+      ],
+      "answer": "3 4 2 1",
+      "explanation": "The Nilgiri Biosphere Reserve is an International Biosphere Reserve in the Western Ghats and Nilgiri Hills ranges of South India. Manas Wildlife Sanctuary is situated in Assam and UNESCO Natural World Heritage site which is a Project Tiger Reserve.The Panchmarhi Biosphere Reserve is situated in the Satpura Range of Madhya Pradesh state.Simlipal National Park is a national park and a tiger reserve situated in the Indian state of Odisha."
+    }
+  ]
+}

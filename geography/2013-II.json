@@ -1,0 +1,383 @@
+{
+  "World Geography": [
+    {
+      "subject": "World Geography",
+      "question": "Oil is found in petroliferous rock. Which one among the following structures demonstrates an ideal trap?",
+      "image": "",
+      "options": [
+        "Horizontal structure",
+        "Fault structure",
+        "Synclinal structure",
+        "Anticlinal structure"
+      ],
+      "answer": "Fault structure",
+      "explanation": "Fault trap is a kind of structural trap.Here, the fracture and slippage of rock along a fault line may bring an impermeable stratum in contact with a layer of permeable reservoir rock and thus forms a barrier to petroleum migration."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following statements is not correct?",
+      "image": "",
+      "options": [
+        "Solar noon occurs simultaneously at locations with the same longitude",
+        "One meridian, which is directly under the Sun, experiences solar noon at a given time",
+        "Places having same longitude experience solar noon at different times",
+        "Solar noon occurs at different times at locations with the same latitude"
+      ],
+      "answer": "One meridian, which is directly under the Sun, experiences solar noon at a given time",
+      "explanation": "Places having same longitude experience solar moon at different times."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The westerlies have their origin in the",
+      "image": "",
+      "options": [
+        "polar highs",
+        "subtropical highs",
+        "equatorial lows",
+        "sub polar lows"
+      ],
+      "answer": "subtropical highs",
+      "explanation": "The westerlies generally blow between 30° and 60° latitude in both the Northern and Southern hemispheres from the west towards the east. These winds are thus called westerly winds, after the direction from whence the winds come.It blows below the subtropical highs in the Southern Hemisphere."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Mid-latitude cyclones",
+      "image": "",
+      "options": [
+        "usually move across North-America from East to West",
+        "are generally found only over the ocean",
+        "generally bring clear skis and little precipitation",
+        "are formed in regions of strong temperature contrasts"
+      ],
+      "answer": "are formed in regions of strong temperature contrasts",
+      "explanation": "Mid-latitude or frontal cyclones are large travelling atmospheric cyclonic storms up to 2000 kilometres in diameter with centres of low atmospheric pressure. The jet stream plays a major role in the location of mid-latitude cyclones."
+    },
+    {
+      "subject": "World Geography",
+      "question": "In soil, water that, is readily available to plant roots is",
+      "image": "",
+      "options": [
+        "gravitational water",
+        "capillary water",
+        "hygroscopic water",
+        "bound water"
+      ],
+      "answer": "capillary water",
+      "explanation": "Capillary water is retained on the soil particles by surface forces. It is held so strongly that gravity cannot remove it from the soil particles. The molecules of capillary water are free and mobile and are present in a liquid state. Plant roots are able to absorb it. Capillary water is, therefore, also known as available water."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following are true of matrilineal societies?<br>1. Newly married couple stays with the woman's parents.<br>2. As per the rules of inheritance, the property passes from mother to daughter.<br>3. Women play a dominant role in the family.<br>4. Examples of matrilineal societies are those of the Khasi and Jaintia tribes of Meghalaya.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1, 2, 3 and 4",
+        "1 and 3",
+        "2 and 4",
+        "1, 2 and 4"
+      ],
+      "answer": "1, 2, 3 and 4",
+      "explanation": "Matrilineal descent is a kinship system where a descent group traces its ancestral lineage via the maternal (uterine) side of the group. The property passes from mother to daughter. Women are dominant in the family. The examples of matrilineal societies are Khasi and Jaintia tribes of Meghalaya."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following is a sea without having a coastline?",
+      "image": "",
+      "options": [
+        "North sea",
+        "Sargasso sea",
+        "Baltic sea",
+        "Bering sea"
+      ],
+      "answer": "Sargasso sea",
+      "explanation": "While all other seas in the world are defined at least in part by land boundaries, the Sargasso Sea is defined only by ocean currents. The Sargasso Sea does not have a coastline as it is located in the middle of the Atlantic Ocean."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The Circle of illumination divides Earth into two hemispheres known as",
+      "image": "",
+      "options": [
+        "East and West",
+        "North and South",
+        "Day and night",
+        "Summer and Winter"
+      ],
+      "answer": "Day and night",
+      "explanation": "The edge of the sunlit hemisphere forms a circular boundary separating the earth into a light half and a dark half."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following African countries is not landlocked?",
+      "image": "",
+      "options": [
+        "Zambia",
+        "Uganda",
+        "Angola",
+        "Zimbabwe"
+      ],
+      "answer": "Angola",
+      "explanation": "A landlocked country is a country entirely enclosed by land or whose only coastlines lie on closed seas. Angola is situated in Southern Africa, bordering the South Atlantic Ocean, between Namibia and Democratic Republic of the Congo."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Satellite having the same orbital period as the period of rotation of the Earth about its ouwn axis is known as",
+      "image": "",
+      "options": [
+        "polar satellite",
+        "stationary satellite",
+        "geostationary satellite",
+        "INSAT"
+      ],
+      "answer": "geostationary satellite",
+      "explanation": "A geostationary satellite is an earth-orbiting satellite, placed at an altitude of approximately 35,800 kilometres (22,300 miles) directly over the equatorand revolves in the same direction as the earth rotates (west to east)."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Statement I Southern part of France is famous for wine making industry.<br>Statement II Southern part of France produces a variety of fruits due to Mediterranean climate.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+        "Both the statements are individually true, but Statement II is not the correct explanation of Statement I",
+        "Statement I is true, but Statement II is false",
+        "Statement I is false, but Statement II is true"
+      ],
+      "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+      "explanation": "Numerous grape varieties are cultivated in France including both internationally wellknown and obscure local varieties.Hence, Southern part of France is famous for wine making industry."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following is responsible for formation of Ozone Holes' in the stratosphere?",
+      "image": "",
+      "options": [
+        "Benzopyrene",
+        "Hydrocarbons",
+        "Chloro Fluoro Carbons",
+        "UV radiation"
+      ],
+      "answer": "Chloro Fluoro Carbons",
+      "explanation": "Chlorofluorocarbons (CFCs) are nontoxic, nonflammable chemicals containing atoms of carbon, chlorine, and fluorine. They are used in the manufacture of aerosol sprays, blowing agents for foams and packing materials as solvents and as refrigerants. CFCs contribute to ozone depletion in the upper atmosphere."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Albedo effect would be relatively higher in",
+      "image": "",
+      "options": [
+        "early morning and late evening",
+        "early morning only",
+        "noon",
+        "late evening only"
+      ],
+      "answer": "early morning and late evening",
+      "explanation": "Albedo also varies according to the angle of incidence of the Sun Raysbeing higher for slating rays and lower for vertical or nearly vertical rays. From this we can derive that albedo will be relatively higher during early morning and late evening because at both times, Sun rays are slanting."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Composite volcanic cone is also called strata cone because of the",
+      "image": "",
+      "options": [
+        "alternating sheets of lava and pyroclastic materials",
+        "uneven streams of lava flow",
+        "cataclysmic eruption",
+        "eruption of lava flow from a fissure"
+      ],
+      "answer": "alternating sheets of lava and pyroclastic materials",
+      "explanation": "Composit volcano (Strato-volcano) is a volcanic cone built of alternating layers of Lava and Pyroclastic materials, over a lengthy time period."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Cordillera in North America is a",
+      "image": "",
+      "options": [
+        "river basin",
+        "high plateau",
+        "inland lake",
+        "mountain system"
+      ],
+      "answer": "mountain system",
+      "explanation": "Cordilleras of North America is a part of the Cordilleran mountain system found in the western part of North America and extendingthrough the coterminous United States and Alaska, Canada, and Mexico."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The humidity of air measured in percentage is called",
+      "image": "",
+      "options": [
+        "absolute humidity",
+        "specific humidity",
+        "relative humidity",
+        "all of these"
+      ],
+      "answer": "relative humidity",
+      "explanation": "The amount of water vapour in the air at any given time is usually less than that required to saturate the air. The relative humidity is the percent ofsaturation humidity, generally calculated in relation to saturated vapour density.<br>Relative Humidity = actual vapor density / saturation vapor density x100%"
+    },
+    {
+      "subject": "World Geography",
+      "question": "Chinook is a",
+      "image": "",
+      "options": [
+        "cold wind in Europe",
+        "tropical desert storm in West Asia",
+        "warm wind in North-America",
+        "depression to South Africa"
+      ],
+      "answer": "warm wind in North-America",
+      "explanation": "Chinook is a warm, dry, gusty, westerly wind that blows down the Rocky Mountains in North America."
+    }
+  ],
+  "Indian Geography": [
+    {
+      "subject": "Indian Geography",
+      "question": "Amarkantak plateau in the Maikal hills marks the origin of the river",
+      "image": "",
+      "options": [
+        "Gandak",
+        "Chambal",
+        "Narmada",
+        "Ghaggar"
+      ],
+      "answer": "Narmada",
+      "explanation": "The origin of the river is a tiny reservoir named as Narmada Kund which is situated on the Amarkantak Hill in Anuppur District of East Madhya Pradesh. Amarkantak region is a unique natural heritage area and is the meeting point of the Vindhyas and the Satpuras, with the Maikal Hills being the fulcrum."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Red soil colour is caused by",
+      "image": "",
+      "options": [
+        "aluminium compounds",
+        "mercury compounds",
+        "iron compound",
+        "clay"
+      ],
+      "answer": "iron compound",
+      "explanation": "Red soils develop in a warm, temperate, wet climate under deciduous forests and have thin organic and mineral layers overlying a yellowish-brown leached layer resting on red layer made of iron oxide(ferric oxide). Red soils generally form from iron-rich sediments. They are usually poor growing soils, low in nutrients and humus and difficult to cultivate."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which of the following statements about Nathu la Pass are correct?<br>1. It links Sikkim with Tibet.<br>2. It was the main artery of the ancient Silk Route.<br>3. It was reopened in the year 2006.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "1 and 2",
+        "2 and 3",
+        "1 and 3"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "Nathu La is a mountain pass in the Himalayas. It connects the Indian state of Sikkim with China's Tibet Autonomous Region. Nathu La is located on the 563 km Old Silk Route, an offshoot of the historic Silk Road. It was sealed by India after the 1962 Sino-Indian War and was re-opened in 2006 following numerous bilateral trade agreements."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one among the following is the correct sequence of the rivers from North to South?",
+      "image": "",
+      "options": [
+        "Damodar-Brahmani-Mahanadi-Tungabhadra",
+        "Damodar-Mahanadi-Brahmani-Tungabhadra",
+        "Brahmani-Tungabhadra-Damodar-Mahanadi",
+        "Damodar-Brahmani-Tungabhadra-Mahanadi"
+      ],
+      "answer": "Damodar-Brahmani-Mahanadi-Tungabhadra",
+      "explanation": ""
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one among the following states does not form part of the Narmada basin ?",
+      "image": "",
+      "options": [
+        "Madhya Pradesh",
+        "Gujrat",
+        "Rajasthan",
+        "Maharashtra"
+      ],
+      "answer": "Rajasthan",
+      "explanation": "The Narmada River travels a distance of 1,312 km before it falls into Gulf of Cambay in the Arabian Sea near Bharuch in Gujarat. The first 1,079 km of its run is in Madhya Pradesh. In the next length of 35 km, the river forms the boundary between the States of Madhya Pradesh and Maharashtra. Again, in the next length of 39 km, it forms the boundarybetween Maharashtra and Gujarat."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Consider the following sanctuaries of India<br>1. Periyar<br>2. Dachigam<br>3. Sariska<br>4. Kanha<br>Which one among the following is the correct sequence of location of the above sanctuaries from South to North?",
+      "image": "",
+      "options": [
+        "1, 4, 2, 3",
+        "4, 1, 3, 2",
+        "1, 4, 3, 2",
+        "3, 1, 4, 2"
+      ],
+      "answer": "1, 4, 3, 2",
+      "explanation": "Periyar National Park and Wildlife Sanctuary is a protected area in the districts of Idukki and Pathanamthitta in Kerala.<br>Kanha National Park is one of the tiger reserves of India and the largest national park of Madhya Pradesh.<br>The Sariska Tiger Reserve is an Indian national park located in the Alwar district of Rajasthan.<br>Dachigam National Park is located in Jammu and Kashmir."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Statement I Typical laterite soils in India are generally fertile.<br>Statement II Laterite soils generally experience leaching.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+        "Both the statements are individually true, but Statement II is not the correct explanation of Statement I",
+        "Statement I is true, but Statement II is false",
+        "Statement I is false, but Statement II is true"
+      ],
+      "answer": "Both the statements are individually true, but Statement II is not the correct explanation of Statement I",
+      "explanation": "Formation of lateritic soils due to weathering of rocks under humid tropical conditions consists of oxides of iron and aluminium. It is not fertile. Murrom and bricks are made from it. When dry it is harden, when rain it is clay. It is produced by large scale chemical weathering where silica and bases are leached from the parent material."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List I (Hydroelectric power station) List II (Location in map)<br>A. Nagarjuna Sagar<br>B. Mettur<br>C. Hirakund<br>D. Sileru",
+      "image": "",
+      "options": [
+        "3 4 1 2",
+        "3 1 4 2",
+        "2 1 4 3",
+        "2 4 1 3"
+      ],
+      "answer": "3 1 4 2",
+      "explanation": ""
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Why is Himalayan region poor in mineral resources?",
+      "image": "",
+      "options": [
+        "Himalayan region is made up of crystalline rocks",
+        "Displacement of rock strata has disturbed the arrangement of rocks and made it complex.",
+        "The climatic conditions are not suitable for exploration of minerals",
+        "The rugged terrain makes exploration of minerals difficult and costly"
+      ],
+      "answer": "Displacement of rock strata has disturbed the arrangement of rocks and made it complex.",
+      "explanation": ""
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which of the following are UNESCO recognised world heritage sites?<br>1. Caves of Ajanta.<br>2. Temple and Caves at Ellora.<br>3. Mandapas of Mahabalipurarn.<br>4. Caves of Kanheri.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1 and 4",
+        "1, 2 and 3",
+        "1, 3 and 4",
+        "2, 3 and 4"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": ""
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List I (Industrial production) List II (Place of production)<br>A. Brassware 1. Kanchipuram<br>B. Silk Sarees 2. Lucknow<br>C. Chikkan Embroidery 3. Muradabad<br>D. Sports Goods 4. Jalandhar",
+      "image": "",
+      "options": [
+        "3 1 2 4",
+        "3 2 1 4",
+        "4 2 1 3",
+        "4 1 2 3"
+      ],
+      "answer": "3 1 2 4",
+      "explanation": ""
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following dams is constructed across Krishna River?",
+      "image": "",
+      "options": [
+        "Ukai Dam",
+        "Krishna Sagar Dam",
+        "Srisailam Dam",
+        "Mettur Dam"
+      ],
+      "answer": "Srisailam Dam",
+      "explanation": "Srisailam Dam is the 2nd largest capacity hydroelectric project in the country. The dam is constructed across the Krishna River which flows in the Kurnool district of Andhra Pradesh."
+    }
+  ]
+}

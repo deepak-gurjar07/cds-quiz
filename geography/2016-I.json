@@ -1,0 +1,253 @@
+{
+  "World Geography": [
+    {
+      "subject": "World Geography",
+      "question": "Stalactites and stalagmites are features of :",
+      "image": "",
+      "options": [
+        "glacial topography",
+        "volcanic topography",
+        "karst topography",
+        "fluvial topography"
+      ],
+      "answer": "karst topography",
+      "explanation": "In Geography and Geology, Karst topography refers to the processes arised due to solubility of rocks in natural water."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following is the correct sequence of the given planets in increasing order of their size (diameter)?",
+      "image": "",
+      "options": [
+        "Mars - Venus - Earth - Mercury - Uranus",
+        "Mercury - Mars - Venus - Earth - Uranus",
+        "Mercury - Mars - Venus - Uranus - Earth",
+        "Venus - Mercury - Marsu - Earth - Uranus"
+      ],
+      "answer": "Mercury - Mars - Venus - Earth - Uranus",
+      "explanation": "Mercury Mars Venus Earth Uranus<br>4,800 km 6,800 km 12,100 km 12,750 km 51,118 km"
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements is / are correct ?<br>1. The Earth is nearest to the sun at Perihelion, which generally occurs on January 3<br>2. The Earth is farthest away from the Sun at Perihelion, which generally occurs on July 4<br>3. The Earth is farthest away from the Sun at Aphelion, which generally occurs on July 4<br>4. The Earth is nearest to the Sun at Aphelion, which generally occurs on January 3<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 and 4",
+        "1 and 3",
+        "1 and 2"
+      ],
+      "answer": "1 and 3",
+      "explanation": "The Earth is closest to the Sun or at its Perihelion- about two weeks after the December solstice, i.e. 3 January and farthest from the Sun or at its Aphelion, about two weeks after the June solstice, i.e., 4 July."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following islands is of volcanic origin?",
+      "image": "",
+      "options": [
+        "Reunion island",
+        "Andaman & Nicobar islands",
+        "Lakshadweep island",
+        "Maldives"
+      ],
+      "answer": "Reunion island",
+      "explanation": "It is a French overseas island in the Indian Ocean"
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following is the cause of long -term sea- level change ?",
+      "image": "",
+      "options": [
+        "Atmospheric disturbance",
+        "Change in marine water density",
+        "Melting of icebergs",
+        "Melting of ice sheets"
+      ],
+      "answer": "Melting of ice sheets",
+      "explanation": "Melting of ice-sheets greatly effecting the long-term sea- level change."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following is the reason due to which the wind in the southern hemisphere is deflected towards its left?",
+      "image": "",
+      "options": [
+        "Difference in the water masses of northern and southern hemisphere",
+        "Temperature and pressure variations",
+        "Inclined axis of the Earth",
+        "Rotation of the Earth"
+      ],
+      "answer": "Rotation of the Earth",
+      "explanation": "The anticlock wise rotation of Earth deflects winds to the right in the northern hemisphere and to the left in the southern hemisphere."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The ‘eye’ of the cyclone has :",
+      "image": "",
+      "options": [
+        "abnormally high temperature and lowest pressure",
+        "abnormally low temperature and pressure",
+        "clear sky and lowest temperature",
+        "dense cloud cover and low pressure"
+      ],
+      "answer": "clear sky and lowest temperature",
+      "explanation": "The 'eye' is the focus of the hurricane, the point about which the rest of the storm rotates and where the lowest surface pressures are found in the storm."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements is /are correct ?<br>1. Acid rain reacts with buildings made from limestone<br>2. Burning of sulphur containing coal can contribute to acid rain<br>3. Eutrophication is an effective measure to control pollution<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1 and 2 only",
+      "explanation": "Acid precipitation affects stone primarily by dissolution and alteration. The chemical smoke expelled from various coal burning powerplant causes production of acid rains."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements relating to the Bandung Conference on Afro - Asian Resurgence (1955) are correct?<br>1. Bandung Conference was organized by Indonesia, Myanmar (Burma), Ceylon (Sri Lanka), India, and Pakistan in which 29 Countries representing more than half of the world’s population sent delegates<br>2. The conference reflected the five sponsors dissatisfaction with what they regarded as a reluctance by the Westen power to consult with them on decisions affecting Asia<br>3. The Conference was concerned over tension between the People’s Republic of China and the United States<br>Select the correct answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "Bandung Conference was a meeting of Asian and African states, most of which were newly independent."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements regarding Mediterranean and Monsoon climate is / are correct?<br>1. Precipitation in Mediterranean climate is in winter while in monsoon climate it is mostly in summer<br>2. The annual range of temperature in Mediterranean climate is higher than the Monsoon climate<br>3. Rainy and dry seasons are found in both the climates<br>Select the correct answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1 and 3 only",
+      "explanation": ""
+    }
+  ],
+  "Indian Geography": [
+    {
+      "subject": "Indian Geography",
+      "question": "Consider the following statements :<br>1. Most of the coal and the ferrous group of minerals in India occur in the peninsula, south of the Vindhyas<br>2. The peninsular India once formed part of the super- continent which included Australia, Antarctica, Africa and South America<br>Which of the statments given above is / are correct ?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "2only",
+      "explanation": "Over 97 per cent of the country's total coal reserves are located in the valleys of Son, Damodar, Mahanadi and Godavari."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "The Mahatma Gandhi National Marine Park is located in :",
+      "image": "",
+      "options": [
+        "Pirotan Island",
+        "Rameswaram",
+        "Ganga Sagar Island",
+        "Port Blair"
+      ],
+      "answer": "Port Blair",
+      "explanation": "Mahatma Gandhi Marine National Park is a national park in Wandoor on the Andaman Islands situated 29 Km. from Port Blair."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Consider the following tributaries of river Brahmaputra :<br>1. Lohit<br>2. Tista<br>3. Subansiri<br>4. Sankosh<br>Arrange the above rivers from west to east:",
+      "image": "",
+      "options": [
+        "2 - 4 - 3 - 1",
+        "2 - 3 - 4 - 1",
+        "4 - 2 - 3 - 1",
+        "3 - 1 - 2 - 4"
+      ],
+      "answer": "2 - 4 - 3 - 1",
+      "explanation": "Tista, Sankosh, Subansiri and Lohit are the tributaries of river Brahmaputra, from west to east."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which of the following statements regarding chemical industry in India is /are correct ?<br>1. Chemical industry is one of the oldest industries in India<br>2. Dyestuff sector is one of the important segments of chemical industry<br>3. Textile industry accounts for the largest consumption of dyestuffs<br>Select the correct answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1,2 and 3"
+      ],
+      "answer": "1,2 and 3",
+      "explanation": "Dyestuff sector is one of the important segments of chemical industry. Chemical industry is one of the oldest industries in India. The maximum consumption of dyestuffs is in Textile industry."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which of the following statements about India’s scientific and research mission in Antarctica is / are correct ?<br>1. The first scientific base station in Antarctica was Dakshin Gangotri<br>2. Dakshin Gangotri is now being used as supply base and transit camp<br>3. The Maitri station is manned throughout the year for scientific activities<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "Dakshin Gangotri was the first scientific base station of India in Antarctica, part of the Indian Antarctic Program. Now it is being used for the purpose of supply base and transit camp"
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Arrange the following popular hill stations of India in terms of their height (from highest to the lowest) from the mean sea level :<br>1. Mussoorie<br>2. Shimla<br>3. Ooty<br>4 Darjeeling<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "3 - 2 - 4 - 1",
+        "3 - 1- 4 - 2",
+        "2 - 3 - 4 - 1",
+        "2 - 4 - 1 - 3"
+      ],
+      "answer": "3 - 2 - 4 - 1",
+      "explanation": "Ooty ® Shimla ® Darjeeling ® Mussoorie<br>2,240 mt 2,205 mt 2,042 mt 2,006 mt."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Consider the following map of India :<br>The areas marked in the map given above account for the production of which one of the following cash crops?",
+      "image": "",
+      "options": [
+        "Cotton",
+        "Groundnut",
+        "Sugarcane",
+        "Tobacco"
+      ],
+      "answer": "Groundnut",
+      "explanation": "Cotton cultivation is done mostly in Andhra Pradesh, Telangana, Tamil Nadu, Gujarat, Karnataka and Maharashtra, Haryana, Punjab, Rajasthan."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Pir Panjal Range in the Himalayas is a part of :",
+      "image": "",
+      "options": [
+        "Shiwalik",
+        "Trans Himalaya",
+        "Central Himalaya",
+        "Lesser Himalaya"
+      ],
+      "answer": "Lesser Himalaya",
+      "explanation": "Pir Panjal Range is concerned with lesser Himalayan region. It includes Himachal Pradesh, Jammu & Kashmir and Kashmir (POK)"
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Consider the following statements regarding laterite soils of India :<br>1. Laterite soils are generally red in colour<br>2. Laterite soils are rich in nitrogen ans potash<br>3. Laterite soils are well developed in Rajasthan and up<br>4. Tapioca and cashew nuts grow well in this soil<br>Which of the statement given above is are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2, 3 and 4",
+        "1 and 4 only",
+        "1, 2 and 4"
+      ],
+      "answer": "1 and 4 only",
+      "explanation": "Laterite soil is Characterized by the possession of iron oxides with red colour. Nitrogen, Phosphorus and potash are not present in proper quantity so it shows low fertile texture. Tapioca and cashewnuts are generally grown in such soil. This soil is found less or more in states- Odisha, Maharashtra, Andhra, Tamil Nadu, Karnataka, Meghalaya and West Bengal."
+    }
+  ]
+}

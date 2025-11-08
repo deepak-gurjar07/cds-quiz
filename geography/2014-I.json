@@ -1,0 +1,227 @@
+{
+  "Indian Geography": [
+    {
+      "subject": "Indian Geography",
+      "question": "Veliconda group of low hills is a structural part of",
+      "image": "",
+      "options": [
+        "Nilgiri Hills",
+        "Western Ghats",
+        "Eastern Ghats.",
+        "Cardamom Hills"
+      ],
+      "answer": "Eastern Ghats.",
+      "explanation": "The Velikonda Range is a low mountain range that forms part of the Eastern Ghats mountain range system."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List I (Irrigation/Power Projects) List II (River)<br>A. Bhakra Nangal 1. Bhagirathi<br>B. Dul Hasti 2. Mahanadi<br>C. Hirakund 3. Chandra<br>D. Tehri 4. Sutlej",
+      "image": "",
+      "options": [
+        "4 2 3 1",
+        "4 3 2 1",
+        "1 3 2 4",
+        "1 2 3 4"
+      ],
+      "answer": "4 3 2 1",
+      "explanation": ""
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List I (Hydroelectric power station) List II (Location in the map)<br>A. Srisailam<br>B. Sabarigin<br>C. Hirakud<br>D. Sileru",
+      "image": "",
+      "options": [
+        "3 1 4 2",
+        "3 4 1 2",
+        "2 4 1 3",
+        "2 1 4 3"
+      ],
+      "answer": "3 4 1 2",
+      "explanation": "The Srisailam Dam is constructed across the Krishna River in Kurnool district, Andhra Pradesh.<br>Sabarigiri Hydroelectric Power Plantis located at Moozhiyar, Pathanamthitta district, Kerala, India.<br>Hirakud Dam is built across the Mahanadi River, about 15 km from Sambalpur in Odisha.<br>Sileru Dam is situated on the boarder of Andhra Pradesh and Odisha."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following is a land-locked harbour?",
+      "image": "",
+      "options": [
+        "Vishakhapatnam",
+        "Ennore",
+        "Mumbai",
+        "Haldia"
+      ],
+      "answer": "Vishakhapatnam",
+      "explanation": "Vishakhapatanam is the deepest landlocked port in India."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Arrange the locations of four oil refineries of india from west to East.",
+      "image": "",
+      "options": [
+        "Koyali, Kochi. Panipat, Mathura",
+        "Kochi, Koyali, Panipat, Mathura",
+        "Koyali, Panipat, Kochi, Mathura",
+        "Koyali, Panipat, Mathura, Kochi"
+      ],
+      "answer": "Koyali, Kochi. Panipat, Mathura",
+      "explanation": "Kochi Refinery was set up on 27th April, 1963.<br>Koyali Refinery was built with Soviet assistance and went on stream in October, 1965.<br>Panipat Refinery was set up in 1998 at Baholi Village in Distt. Panipat, Haryana. Koyali is situated on 73.110 East longitude while Kochi is on 76.260 East longitude.<br>Mathura Refinery was commissioned in January, 1982."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "What would be the influence on the weather conditions when in mid-winter a feeble high pressure develops over the North-Western part of India?<br>1. High and dry winds would blow outward from this high pressure area.<br>2. The Northern plain would become cold.<br>3. Scorching winds (locally called loo) would blow during the day time.<br>4. There would be torrential rains brought by thunderstorms.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "2 and 3",
+        "3 and 4",
+        "All of these"
+      ],
+      "answer": "1 and 2",
+      "explanation": ""
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which of the following is/are West flowing river(s) of India?<br>1. Mahanadi<br>2. Krishna<br>3. Narmada<br>4. Cauvery<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1, 2 and 4",
+        "2 and 3",
+        "Only 3",
+        "1 and 3"
+      ],
+      "answer": "Only 3",
+      "explanation": "West flowing rivers:<br>Narmada River(1057 km)- Rises in Amarkantak Plateau and flows in to gulf of khambat<br>Tapti(724 km) - Rises from Betul district in Maharashtra. Luni and Payaswani are also west flowing rivers."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which of the following methods is/are suitable for soil conservation in hilly region?<br>1. Terracing and contour bunding<br>2. Shifting cultivation<br>3. Contour ploughing<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1 and 3",
+        "Only 2",
+        "Only 3",
+        "All of these"
+      ],
+      "answer": "1 and 3",
+      "explanation": "Terracing is the mechanical practice used on slopping agricultural land to reduce the length and /or the degree of slope.<br>Contour ploughingis the farming practice of ploughingand/or planting across a slope following its elevation contour lines.<br>Shifting agricultureis asystem of cultivation that preserves soil fertility by plot (field) rotation, as distinct from crop rotation."
+    }
+  ],
+  "World Geography": [
+    {
+      "subject": "World Geography",
+      "question": "Biodiversity is richer in",
+      "image": "",
+      "options": [
+        "tropical regions",
+        "polar regions",
+        "temperate regions",
+        "oceans"
+      ],
+      "answer": "tropical regions",
+      "explanation": "Biodiversity is richer in tropical regions. Biodiversity is a measure of the health of ecosystems. Greater biodiversity implies greater health. Biodiversity is in part a function of climate. In terrestrial habitats, tropical regions are typically rich whereas Polar Regions support fewer species."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following is/are the stage(s) of demographic transition?<br>1. High death rate and birthrate, low growth rate.<br>2. Rapid decline in birthrate, very low<br>3. Rapid decline in birthrate continued decline in death rate.<br>4. Low death rate and birthrate, low growth rate.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "Only 1",
+        "1,2 and 3",
+        "3 and 4",
+        "1 and 4"
+      ],
+      "answer": "1 and 4",
+      "explanation": "The \"Demographic Transition\" is a model that describes population change over time.<br>Five stages of Demographic Transition:<br>High birth rate and death rates however population growth is small.<br>High birth rate but falling death rate. The total population begins to expand rapidly.<br>Falling birth rate, continuing falling death rate. The population growth slows down.<br>Low birth rate and low death rate. The population growth is small, and fertility continues to fall.<br>Death rate slightly exceeds the birth rate and this causes population decline."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements regarding the duration of day and night is correct?",
+      "image": "",
+      "options": [
+        "Difference is least near the Equator and progressively increases away from it",
+        "Difference is maximum at the Equator and progressively decreases away from it",
+        "Difference is least at the Tropics and progressively increases towards the Equator and Poles",
+        "Difference is maximum at the Tropics and progressively decreases towards the Equator and Poles"
+      ],
+      "answer": "Difference is least near the Equator and progressively increases away from it",
+      "explanation": "On the equator, the day and night stay approximately the same length all year round."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following is depositional landform ?",
+      "image": "",
+      "options": [
+        "Stalagmite",
+        "Lapis",
+        "Sinkhole",
+        "Cave"
+      ],
+      "answer": "Stalagmite",
+      "explanation": "Stalagmite is a onical mineral deposit, usually calcite or aragonite, built up on the floor of a cavern,formed from the dripping of mineral-rich water."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following is/are direct source(s) of information about the interior of the Earth?<br>1. Earthquake wave<br>2. Volcano<br>3. Gravitational force<br>4. Earth magnetism<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "Only 2",
+        "3 and 4",
+        "All of these"
+      ],
+      "answer": "1 and 2",
+      "explanation": "Earthquake waves are propagating vibrations that carry energy from the source of the shaking outward in all directions.<br>A volcano is a mountain that opens downward to a pool of molten rock below the surface of the earth. When pressure builds up, eruptions occur."
+    },
+    {
+      "subject": "World Geography",
+      "question": "'Population dividend' refers to",
+      "image": "",
+      "options": [
+        "total number of population",
+        "youthful age structure of a population",
+        "relatively high proportion of experienced aged people",
+        "migration from richer region to poorer region"
+      ],
+      "answer": "youthful age structure of a population",
+      "explanation": "Population dividend or Demographic dividend refers to a period - usually 20 to 30 years - when fertility rates fall due to significant reductions in child and infant mortality rates. It occurs when the proportion of working people in the total population is high because this indicates that more people have the potential to be productive and contribute to growth of the economy."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The vegetation type characterised by (i) a large expanse of grassland with scattered trees and shrubs, (ii) lying between tropical rain forest and tropical steppes and deserts and (iii) flat-topped trees, is called",
+      "image": "",
+      "options": [
+        "mid-latitude broad-leaf mixed forest",
+        "temperate rain forest",
+        "tropical savanna",
+        "mid-latitude grassland"
+      ],
+      "answer": "tropical savanna",
+      "explanation": "A Savannais a rolling grassland scattered with shrubs and isolated trees, which can be found between a tropical rainforest and desert biome. Savannas are also known as tropical grasslands. They are found in a wide band on either side of the equator on the edges of tropical rainforests."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements relating to Earthquakes is/are correct?<br>1. The point of origin of Earthquake is called epicenter.<br>2. The lines joining the places which were affected Earthquake at the same point of time are called homoseismal lines.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Only 2",
+      "explanation": "Hypocenter - The point of origin of an earthquake.<br>Homoseismal Lines- The lines joining the places which experience the earthquake tremors at the same time called Homoseismal Lines."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following is the example of subsistence farming?",
+      "image": "",
+      "options": [
+        "Shifting cultivation",
+        "Commercial farming",
+        "Extensive and intensive farming",
+        "Organic farming"
+      ],
+      "answer": "Shifting cultivation",
+      "explanation": "Subsistence farming is self sufficiency farming in which the farmers grow enough food to feed themselves and families. It is mostly practiced in developing countries. Shifting cultivation is a type/ example of subsistence farming in which the farmers clear a patch of forest land by cutting and burning of trees and then crops are grown."
+    }
+  ]
+}

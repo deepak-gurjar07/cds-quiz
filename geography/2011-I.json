@@ -1,0 +1,305 @@
+{
+  "World Geography": [
+    {
+      "subject": "World Geography",
+      "question": "The term 'demographic gap' signifies the difference",
+      "image": "",
+      "options": [
+        "in sex ratio",
+        "in age",
+        "in child / woman ratio",
+        "between the birth and the death rate"
+      ],
+      "answer": "between the birth and the death rate",
+      "explanation": "Demographic gap is the difference between birth rate and death rate that develops when a country undergoes demographic transition."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Most of the communication satellites today are placed in a geostationary orbit. In order to stay over the same spot on the Earth, a geostationary satellite has to be directly above the",
+      "image": "",
+      "options": [
+        "Tropic of Cancer",
+        "Either North or South Pole",
+        "Equator",
+        "Tropic of Capricorn"
+      ],
+      "answer": "Equator",
+      "explanation": "A geostationary satellite is an earth-orbiting satellite. It is placed at an altitude of approximately 35,800 kilometres directly over the equator that revolves in the same direction the earth rotates (west to east)."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Wind is often found to blow in a hot summer day due to",
+      "image": "",
+      "options": [
+        "conduction of heat between air and soil on the Earth",
+        "radiation from the soil",
+        "convection current of air",
+        "None of the above"
+      ],
+      "answer": "conduction of heat between air and soil on the Earth",
+      "explanation": "Wind is often found to blow in a hot summer day due to conduction of heat between air and soil on the Earth."
+    },
+    {
+      "subject": "World Geography",
+      "question": "What is the similarity between Milwaukee Deep, Java Trench and Challenger Deep?",
+      "image": "",
+      "options": [
+        "They all are trenches in the Pacific Ocean",
+        "They are the deepest points of the Atlantic, Indian and Pacific Oceans, respectively",
+        "They all are trenches in the India Ocean",
+        "They all are deeps of the Atlantic Ocean"
+      ],
+      "answer": "They are the deepest points of the Atlantic, Indian and Pacific Oceans, respectively",
+      "explanation": "They are the deepest points of the Atlantic,India and Pacific Oceanrespectively. Milwaukee Deep is the deepest part of the Atlantic Ocean. Java Trench is located in the northeastern Indian Ocean. The Challenger Deep is located in the Pacific Ocean."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following statement is correct?",
+      "image": "",
+      "options": [
+        "In summer season, the duration of day is more in Northern Hemisphere",
+        "In winter season, the duration of day is more in Northern Hemisphere",
+        "In summer season, the duration of day is less in Northern Hemisphere",
+        "In winter season, the duration of day is more in Southern Hemisphere"
+      ],
+      "answer": "In summer season, the duration of day is more in Northern Hemisphere",
+      "explanation": "During summer season(May, June, and July) the northern hemisphere is exposed to more direct sunlight because the hemisphere faces the sun."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Global Positioning System (GPS) is associated with<br>1. determining latitude and longitude<br>2. constellation of satellites<br>3. US system of GPS and Russian system of GLONASS<br>4. navigation<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1,2 and 4",
+        "1 and 4",
+        "2 and 3",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "explanation": "The Global Positioning System (GPS) is a satellitebased system that can be used to locate positions anywhere on the earth. It is associated with longitude and latitude. It is a \"constellation\" of 24 well-spaced satellites that orbit the Earth and make it possible for people with ground receivers to pinpoint their geographic location. The Russian government has developed a system, similar to GPS, called GLONASS. The US began the GPS project in 1973."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The angular speed of a whirlwind in a Tornado towards the centre",
+      "image": "",
+      "options": [
+        "decreases rapidly",
+        "increases",
+        "remains constant",
+        "slowly becomes zero"
+      ],
+      "answer": "remains constant",
+      "explanation": "The angular speed of a whirlwind in a Tornado towards the centre remains constant."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Currently half of the world's population live in just 6 countries. Identify them from the following",
+      "image": "",
+      "options": [
+        "India, China, Pakistan, Brazil, Bangladesh, Indonesia",
+        "India, China, Bangladesh, South Africa, Pakistan, Indonesia",
+        "China, India. United States, Indonesia, Brazil, Pakistan",
+        "China, India, Bangladesh, United States, Pakistan, Indonesia"
+      ],
+      "answer": "China, India. United States, Indonesia, Brazil, Pakistan",
+      "explanation": "According to data from the United Nations half of those 7.2 billion people live in only six countries: the United States, Brazil, Pakistan, India, China, and Indonesia. The world population has reached 7.2 billion."
+    },
+    {
+      "subject": "World Geography",
+      "question": "In the interior of the Earth",
+      "image": "",
+      "options": [
+        "the temperature falls with increasing depth",
+        "the pressure falls with increasing depth",
+        "the temperature rises with increasing depth",
+        "both temperature and pressure fall with increasing depth"
+      ],
+      "answer": "the temperature rises with increasing depth",
+      "explanation": "The temperature inside the earth's surface increases with depth.From 20 m below the earth's surface, the temperature increases at the rate of 1 degree Celsius for every 40 m of descent. This rapid increase of temperature continues up to a great depth."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Asia has large areas of inland drainage. Why is it so?",
+      "image": "",
+      "options": [
+        "Rainfall is seasonal and scanty",
+        "There is a number of intermontane plateaus",
+        "River channels are obstructed by lava flows",
+        "It is a very large continent"
+      ],
+      "answer": "Rainfall is seasonal and scanty",
+      "explanation": "Asia has large areas of inland drainage because rainfall is seasonal and scanty."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The Earth revolves around the Sun in an elliptical path and the Sun is located at one focus of the ellipse. Imagine a situation in which the Earth goes around the Sun on a circular path. Which one among the following would result in under that situation?",
+      "image": "",
+      "options": [
+        "It would not make and difference",
+        "Difference between seasons will be reduced",
+        "The earth would become very hot",
+        "The Earth would become very cold"
+      ],
+      "answer": "Difference between seasons will be reduced",
+      "explanation": "In the given condition, difference between seasons will be reduced."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which among the following monoculture crops provide(s) immediate cash to the farmers?<br>1. Tea in Asom<br>2. Rubber in Africa<br>3. Sugarcane in Malaysia<br>4. Coffee in Brazil",
+      "image": "",
+      "options": [
+        "Only 1",
+        "2 and 3",
+        "3 and 4",
+        "1 and 4"
+      ],
+      "answer": "3 and 4",
+      "explanation": "Cash crops are those which are produced for the purpose of generating cash or money. The products are therefore intended to be marketed for profit.Sugarcane and coffee are cash crops which provide immediate cash to farmers."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Why South-East Asia has the largest concentration of peasant population at the global scale?",
+      "image": "",
+      "options": [
+        "The area is dominated by shifting cultivation due to favourable terrain character",
+        "Intensive subsistence farming is practised in the region",
+        "The region has favourable and healthier climate",
+        "The area has a large forested area which is cleared for cultivation of various crops"
+      ],
+      "answer": "Intensive subsistence farming is practised in the region",
+      "explanation": "The term, 'intensive subsistence agriculture' is used to describe a type of agriculture characterised by high output per unit of land and relatively low output per worker. Sometimes it is also known as 'monsoon type of agriculture'. It is found in China, Japan, Korea, India, Pakistan, Sri Lanka, the greater part of continental South-East Asia. This is why the largest population of peasants is found in this area."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following best explains the reason for the Eastern and Western boundaries of the Pacific Ocean experiencing frequent earth-quake?",
+      "image": "",
+      "options": [
+        "There are deep ocean trenches along these margins",
+        "High mountain stretch along the continental margins adjacent to this ocean",
+        "The currents of the vast Pacific Ocean continue to dash against the continental margins",
+        "These margins coincide with the plate margins"
+      ],
+      "answer": "These margins coincide with the plate margins",
+      "explanation": "The eastern and western boundaries of the Pacific Ocean experience frequent earthquake because High mountain strech along the continental margins adjacent to this ocean."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following best explain why the lower course of a river is sometimes chocked with sediments?<br>1. The valley of a river is widest in its lower course.<br>2. The velocity of a river in its lower course is low.<br>3. The delta sometimes develops in a river's lower course.<br>4. Much of the river water is drawn for irrigation in the lower course<br>Select the correct answer using the codes given below.",
+      "image": "",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 3 and 4",
+        "1, 2 and 3",
+        "2 and 4"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "The lower course of a river is sometimes chocked with sediments because the valley of a river is widest in its lower course, the velocity of a river in its lower course is low and the delta sometimes develops in a river's lower course."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Why do Fold Mountains have enormous thickness of sedimentary rocks?",
+      "image": "",
+      "options": [
+        "Due to deposition of sediments in a valley for millions of years",
+        "Due to accumulation of sediments in a geosyncline",
+        "The plains were folded into mountains",
+        "The sediments were folded into recumbent and nappe folds"
+      ],
+      "answer": "Due to accumulation of sediments in a geosyncline",
+      "explanation": "Fold Mountains form when two tectonic plates move together (a convergent plate boundary). Fold Mountains form from sedimentary rocks that accumulate along the margins of continents."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Mr X has been invited to participate in a conference to be held at Buenos Aires. He has choosen the following shortest flight route<br>Mumbai to Frankfurt (non-stop)<br>Frankfurt to Sao Paulo (non-stop)<br>Sao Paulo to Buenos Aires (non-stop)<br>Which one of the following seas will likely to be flown over by Mr X ?",
+      "image": "",
+      "options": [
+        "Tasman Sea",
+        "Labrador Sea",
+        "Beautfort Sea",
+        "Black Sea"
+      ],
+      "answer": "Black Sea",
+      "explanation": "Mr X will likely to be flown over Black Sea. Since Black Sea is bounded by Europe, Anatolia and Caucasus, it is ultimately connected to the Atlantic Ocean."
+    }
+  ],
+  "Indian Geography": [
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List-I (Natural Vegetation of India) List-II (Annual Rainfall Received)<br>A. Tropical evergreen forests 1. 100-200 cm<br>B. Tropical deciduous forests 2. Above 200 cm<br>C. Tropical dry forests 3. Less than 50 cm<br>D. Arid forests 4. Above 300 cm<br>5. 50-100 cm",
+      "image": "",
+      "options": [
+        "A-1 B-2 C-5 D-3",
+        "A-4 B-3 C-1 D-5",
+        "A-2 B-1 C-5 D-3",
+        "A-2 B-1 C-3 D-4"
+      ],
+      "answer": "A-2 B-1 C-5 D-3",
+      "explanation": "A. Tropical evergreen forests- Above 200 cm<br>B. Tropical deciduous forests - 100-200 cm<br>C. Tropical Dry forest- 50-100 cm<br>D. Arid forest- Less than 50 cm"
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List-I (Biosphere Reserve) List-II (Places)<br>A. Manas 1. Meghalaya<br>B. Pachmarhi 2. Asom<br>C. Nokrek 3. Madhya Pradesh<br>D. Achanakmar Amarkantak 4. Chhattisgarh",
+      "image": "",
+      "options": [
+        "A-4 B-3 C-1 D-2",
+        "A-2 B-1 C-3 D-4",
+        "A-4 B-1 C-3 D-2",
+        "A-2 B-3 C-1 D-4"
+      ],
+      "answer": "A-2 B-3 C-1 D-4",
+      "explanation": "1. Manas- Asom<br>2. Pachmarhi - Madhya Pradesh<br>3. Nokrek - Meghalaya<br>4. Achanakmar-Amarkantak- Chhattisgarh,"
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "The Vindhyan system of rocks is important for the production of",
+      "image": "",
+      "options": [
+        "precious stones and building materials",
+        "iron ore and manganese",
+        "bauxite and mica",
+        "copper and uranium"
+      ],
+      "answer": "precious stones and building materials",
+      "explanation": "The Vindhyan system of rocks is important for the production of precious stones and building materials. The system derives its name from the Vindhyan hills where its rocks are prominently exposed. It forms a dividing line between the Ganga Plain and the Deccan. The main rocks of the Vindhyan system are coarse, medium and fine textured sandstones, shales and limestones. The Vindhyan system of rocks bear out precious stones, ornamental stones, diamonds, building materials, and raw materials for cement, lime, glass and chemical industries"
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "The rainfall distribution pattern over the Ganga basin decreases from the",
+      "image": "",
+      "options": [
+        "West to East and North to South",
+        "East to West and North to South",
+        "West to East and South to North",
+        "East to West and South to North"
+      ],
+      "answer": "East to West and North to South",
+      "explanation": "The rainfall distribution pattern over the Ganga basin decreases from the East to West and North to South."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Consider the following statements with regard to the mining industry of India<br>1. The spatial distribution of minerals is uneven.<br>2. The mining industry since colonial days has been export-oriented.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Both statements are correct."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Consider the following statements about black soil of India<br>1. Black soil becomes sticky when it is wet.<br>2. Black soil contains adequate nitrogen as well as phosphorus required for the growth of plants.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Only 1",
+      "explanation": "Black soils become sticky when it is wet. It is rich in iron, lime, calcium, Magnesium, carbonates, and alumina and poor in Phosphorous, Nitrogen and Organic matter. The soil is black in colour because it is volcanic in origin. It is created from igneous rocks, and is also called 'regur soil'."
+    }
+  ]
+}

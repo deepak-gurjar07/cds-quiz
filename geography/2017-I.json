@@ -1,0 +1,188 @@
+{
+  "Indian Geography": [
+    {
+      "subject": "Indian Geography",
+      "question": "The ratio of gross cropped area to the net sown area is called",
+      "image": "",
+      "options": [
+        "cropping intensity",
+        "intensity of crop rotation",
+        "crop productivity",
+        "cropping diversity"
+      ],
+      "answer": "cropping intensity",
+      "explanation": "Higher cropping intensity means that a larger portion of the net area is being cropped more than once during an agricultural year. Crop rotation is growing different crops in succession on a particular land. Genetic and phenotypic diversity of plants used in agriculture is called cropping diversity and ratio of agricultural outputs to agricultural inputs is crop productivity."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following is the correct sequence of occurrences of rivers from Chennai to Kolkata when travelled by road (shortest distance)?",
+      "image": "",
+      "options": [
+        "Krishna, Kaveri, Godavari, Mahanadi, Subarnarekha",
+        "Krishna, Periyar, Godavari, Mahanadi, Subarnarekha",
+        "Penneru, Krishna, Godavari, Mahanadi, Subarnarekha",
+        "Penneru, Mahanadi, Subarnarekha, Godavari, Krishna"
+      ],
+      "answer": "Penneru, Krishna, Godavari, Mahanadi, Subarnarekha",
+      "explanation": "Pennneru River flows through Nellore (Andhra Pradesh), Krishna River through Vijayawada (Andhra Pradesh) and Sangli (Maharashtra), Godavari River through Rajahmundry (Andhra Pradesh) and Mahanadi River through Odisha, and Subarnarekha River trough Jharkhand, West Bengal and Odisha. The correct sequence of rivers from Chennai to Kolkata is Pennneru, Krishna, Godavari, Mahanadi, and Subarnarekha."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following about sugar industry of Peninsular India is not correct?",
+      "image": "",
+      "options": [
+        "High yield per hectare of sugarcane",
+        "Higher sucrose content",
+        "Long crushing season",
+        "Most of the mills in the Peninsula are located mainly along the east coast"
+      ],
+      "answer": "Most of the mills in the Peninsula are located mainly along the east coast",
+      "explanation": "Tropical climate of Peninsular India contributes to higher yield of sugarcane with high sucrose content. Most of the mills are situated along the west coast in Maharashtra, Gujarat, Karnataka."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following ports is located on estuary?",
+      "image": "",
+      "options": [
+        "Kandala",
+        "Marmagao",
+        "Kolkata-Haldia",
+        "Tuticorin"
+      ],
+      "answer": "Marmagao",
+      "explanation": "Marmagao, a port in Goa, is located on the estuary formed by Zuari and Mandovi Rivers. Kandala Port is a seaport located on the Gulf of Kutch in Gujarat. Kolkata-Haldia is a riverine port system in the city of Kolkata and Haldia. Tuticorin Port is a seaport located in Tuticorin, Tamil Nadu."
+    }
+  ],
+  "World Geography": [
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following statements with regard to volcanoes is not correct?",
+      "image": "",
+      "options": [
+        "Stratovolcanoes produce lava flows that initially follow valleys but are highly resistant to erosion.",
+        "The surrounding areas can remain highlands, lava ridges or mesas.",
+        "Hawaiian shield volcanoes are eroded by streams that form deeply carved valleys with steeply sloping heads.",
+        "The system of streams on a dissected volcano cone is not a radial drainage pattern."
+      ],
+      "answer": "The system of streams on a dissected volcano cone is not a radial drainage pattern.",
+      "explanation": "The System of streams on a dissected volcano cone is a radial drainage pattern, since these streams take their position on a slope of an initial land surface."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements with regard to the Mediterranean agriculture is/ are correct?<br>1. The Mediterranean agriculture is highly specialized commercial agriculture.<br>2. It is intensive subsistence agriculture dominated by wet paddy cultivation.<br>3. It is a primitive subsistence agriculture.<br>4. Viticulture is a speciality of the Mediterranean region.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 4 only",
+        "1, 3 and 4"
+      ],
+      "answer": "1 and 4 only",
+      "explanation": "The main characteristics of Mediterranean agriculture are specialized commercial farming, viticulture or grape cultivation, cereal and vegetable cultivation, limited animal husbandry, and orchard farming. It promotes intensive form of farming, but does not involve wet paddy cultivation. It also includes advance farming practice."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following statements with regard to the winter solstice is correct?",
+      "image": "",
+      "options": [
+        "The South Pole experiences 24 hours of darkness.",
+        "It occurs on June 21.",
+        "The North Pole experiences 24 hours of darkness.",
+        "The Sun is at aphelion."
+      ],
+      "answer": "The North Pole experiences 24 hours of darkness.",
+      "explanation": "Either of the two days of the year (June 21 and December 21) when the sun reaches its highest or lowest point in the sky at noon, marking the longest and shortest days, is called solstice. Winter solstice is experienced by the North Pole in December which is marked by shortest period of daylight."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Tropical evergreen rain forest biome provides optimum environmental conditions for the growth of plants and animals. Which one among the following statements regarding this is not correct?",
+      "image": "",
+      "options": [
+        "It has heavy rainfall and high temperature throughout the year.",
+        "This biome is also called mega-thermal biome.",
+        "The evergreen rain forest biome extends between 10° N and 10° S latitudes.",
+        "The maximum development of this biome has taken place in central and southern California, and north- western coastal lands of Africa."
+      ],
+      "answer": "The maximum development of this biome has taken place in central and southern California, and north- western coastal lands of Africa.",
+      "explanation": "Tropical evergreen rainforest or Tropical rainforests experience heavy rainfall and high temperature, and extend between 10o N and 10o S latitudes. The biome Tropical rainforests is of megathermal type as organisms are adapted to high temperature and wet and humid condition. Tropical rainforests are located in South America, lowland regions in Africa, and the islands off of Southeast Asia, Central America and parts of Australia."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Tsunami waves are the undersea occurrence of earthquake exceeding 7.5 on Richter scale. Which one of the following statements regarding this is not correct?",
+      "image": "",
+      "options": [
+        "It often generates strong waves.",
+        "The Pacific coasts are most vulnerable to Tsunami waves.",
+        "Tsunami waves are also called high-energy tidal waves or seismic sea waves.",
+        "Tsunami is a Latin word."
+      ],
+      "answer": "Tsunami is a Latin word.",
+      "explanation": "Tsunami, a Japanese word, is a series of waves generated in a water body due to the displacement of a large volume of water. It is also called seismic sea wave (gravitational water waves) and can generate strong water waves. About 80% of tsunamis are witnessed in the Pacific Ocean."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements with regard to cloudburst is/ are correct?<br>1. It is defined as sudden localized very heavy downpour with cloud thunder and lightning.<br>2. It mostly occurs in the hilly areas.<br>3. It results into very high intensity of rainfall, i.e., 250 mm-300 mm in a couple of hours.<br>4. It occurs only during daytime.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "l, 2 and 3",
+        "1, 3 and 4",
+        "2 and 3 only",
+        "2 only"
+      ],
+      "answer": "l, 2 and 3",
+      "explanation": "A cloudburst can be defined as heavy rainfall in a short period of time. It can occur in any time of the day and is usually accompanied by thunder and lightning. Rainfall intensity can be equal to or greater than 100 mm per hour. Cloudburst occurs mostly in the hilly areas as the chances of collision of cloud with hills are more."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following With regard to Aridisol, one of the soil orders, is not correct?",
+      "image": "",
+      "options": [
+        "Lack of water for plants during most part of the year",
+        "High organic matter",
+        "Large accumulation of carbonates at depth",
+        "Absence of deep wide cracks"
+      ],
+      "answer": "High organic matter",
+      "explanation": "Aridisol, one of the orders of soil, has saline or alkaline soils with very little organic matter, and is mainly found in arid or semi-arid regions. Vegetation is very sparse and is of xerophytic type. Limited leaching leads to the formation of subsurface soil horizons with minerals like carbonates. silicate clays and gypsum."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following statements with regard to Jet stream, an upper level tropospheric wave, is not correct?",
+      "image": "",
+      "options": [
+        "It is a narrow band of high-velocity wind.",
+        "It follows the wave path near the tropopause at elevations of 8 km to 15 km.",
+        "Jet streams are typically continuous over long distances.",
+        "In summer, the polar front jet achieves its maximum force."
+      ],
+      "answer": "In summer, the polar front jet achieves its maximum force.",
+      "explanation": "Jet streams are fast flowing air currents occurring in the atmosphere of some planets, including the Earth. On Earth, the jet streams are located near the altitude of the tropopause at the height of 8-16 km. Jet streams are found continuous over long distances. Polar front jet stream achieves its maximum force in winter, due to great temperature gradient between the snow-covered land and warm off-store currents."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The Gulf Stream is a poleward flowing current in the Atlantic Ocean. Which one of the following statements with regard to this is not correct?",
+      "image": "",
+      "options": [
+        "It is similar to the Kuroshio current in the North Pacific Ocean.",
+        "It transports warm, tropical water towards polar region.",
+        "This current is a major factor in weather along the east coast of the USA.",
+        "The warm water of the Gulf Stream sustains the coral reefs of West Pacific Coast."
+      ],
+      "answer": "The warm water of the Gulf Stream sustains the coral reefs of West Pacific Coast.",
+      "explanation": "Gulf Stream is similar to Kuroshio, a north-flowing ocean current on the west side of the North Pacific Ocean. Gulf Stream brings warm tropical water towards polar region such a Northern Europe. Gulf Stream does not flow through the West Pacific Coast."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The fact that the planets move around the Sun, not in circles but in ellipses, was first demonstrated by",
+      "image": "",
+      "options": [
+        "Galileo",
+        "Martin Luther",
+        "Johannes Kepler",
+        "Copernicus"
+      ],
+      "answer": "Johannes Kepler",
+      "explanation": "Johannes Kepler proposed three laws of planetary motion, including The Law of Ellipses, The Law of Equal Areas and The Law of Harmonies. wherein he proposed that planets move round the Sun in ellipses. Copernicus observed that planets revolve around the Sun. Martin Luther was a German professor of theology. Galileo mainly worked on phases of Venus and discovery of Jupiter."
+    }
+  ]
+}

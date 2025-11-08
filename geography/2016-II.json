@@ -1,0 +1,227 @@
+{
+  "World Geography": [
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following gases is released mostly from landfills in urban areas?",
+      "image": "",
+      "options": [
+        "Nitrogen",
+        "Hydrogen",
+        "Methane",
+        "Oxygen"
+      ],
+      "answer": "Methane",
+      "explanation": "Landfill gas (LFG) is a natural by product of the decomposition of organic material in landfills. LFG is composed of roughly 50 percent methane (the primary component of natural gas), 50 percent carbon dioxide (CO2 ) and a small amount of non-methane organic compounds."
+    },
+    {
+      "subject": "World Geography",
+      "question": "With reference to earthquakes, which of the following statements are correct?<br>1. Earthquakes largely occur along the converging plate boundaries.<br>2. Point of origin of earthquake in lithosphere is known as focus/hypocentre.<br>3. Intensity of earthquake decreases with distance from the epicentre.<br>4. Epicentre of earthquake always remains over continents only.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3",
+        "2 and 3 only",
+        "1 and 4"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "The epicenter, in seismology is the point on the Earth's surface directly above a hypocenter or focus, the point where an earthquake or an underground explosion originates. It does not always remains over continents only."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements concerning atmosphere of the Earth are correct?<br>1. In stratosphere, temperature increases with altitude.<br>2. In mesosphere, temperature decreases with altitude.<br>3. The lowest temperature of the atmosphere is recorded in the upper part of mesosphere.<br>4. Tropopause is an isothermal zone.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "l, 2 and 3 only",
+        "3 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": "1, 2, 3 and 4",
+      "explanation": "The stratosphere extends from the top of the troposphere to about 50 km (31 miles) above the ground. In this layer temperature increases with increase in altitude. Above the stratosphere is the mesosphere. It extends upward to a height of about 85 km (53 miles) above our planet. Most meteors burn up in the mesosphere. Unlike the stratosphere, temperatures once again grow colder as you rise up through the mesosphere. The coldest temperatures in Earth's atmosphere, about -90° C (-130° F), are found near the top of this layer. At the upper edge of the troposphere is a narrow transition zone known as the tropopause, which is an isothermal zone."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following pairs of lakes is connected by 500 Canal?",
+      "image": "",
+      "options": [
+        "Superior and Michigan",
+        "Superior and Huron",
+        "Huron and Ontario",
+        "Huron and Erie"
+      ],
+      "answer": "Superior and Huron",
+      "explanation": "Soo Canal connects lake Superior with lake Huron in North America."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (Strait)<br>A. Strait of Hormuz<br>B. Strait of Bab-el-Mandeb<br>C. Strait of Malacca<br>D. Strait of Sunda<br>List-II (Water Body)<br>1. Java Sea<br>2. Andaman Sea<br>3. Red Sea<br>4. Gulf of Persia",
+      "image": "",
+      "options": [
+        "A-4, B-2, C-3, D-1",
+        "A-1, B-3, C-2, D-4",
+        "A-1, B-2, C-3, D-4",
+        "A-4, B-3, C-2, D-1"
+      ],
+      "answer": "A-4, B-3, C-2, D-1",
+      "explanation": "Strait of Hormuz, also called Strait of Ormuz, channel linking the Persian Gulf (west) with the Gulf of Oman and the Arabian Sea (southeast).<br>Bab-el-Mandeb is a strait located between Yemen on the Arabian Peninsula, and Djibouti and Eritrea in the Horn of Africa. It connects the Red Sea to the Gulf of Aden.<br>Strait of Malacca, waterway connecting the Andaman Sea (Indian Ocean) and the South China Sea (Pacific Ocean).<br>Strait of Sunda is a strait between Sumatra and Java, linking the Java Sea with the Indian Ocean."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List I (Ocean current)<br>A. Agulhas Current<br>B. Humboldt Current<br>C. Labrador Current<br>D. Falkland Current<br>List II (Country)<br>1. Peru<br>2. South Africa<br>3. Argentina<br>4. Canada",
+      "image": "",
+      "options": [
+        "A-3, B-4, C-1, D-2",
+        "A-2, B-1, C-4, D-3",
+        "A-3, B-1, C-4, D-2",
+        "A-2, B-4, C-1, D-3"
+      ],
+      "answer": "A-2, B-1, C-4, D-3",
+      "explanation": "Agulhas Current flows down the east coast of Africa from 27°S to 40°S.<br>The Humboldt Current, also known as Peru Current, is an ocean current that flows along the western coast of South America, affecting the water and air temperatures of coastal Chile and Peru.<br>The Labrador Current is a cold current in the North Atlantic Ocean which flows from the Arctic Ocean south along the coast of Labrador (Canada).<br>Falkland Current is an ocean current flowing northward along the Argentine coast."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following fishing banks is located off the coast of the United Kingdom ?",
+      "image": "",
+      "options": [
+        "Great Fisher Bank",
+        "Grand Banks",
+        "Dogger Bank",
+        "Reed Bank"
+      ],
+      "answer": "Dogger Bank",
+      "explanation": "Dogger Bank is a large sandbank in a shallow area of the North Sea about 100 kilometres off the east coast of England. It has long been known by fishermen to be a productive fishing bank."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following statements is not correct?",
+      "image": "",
+      "options": [
+        "Position of the Sun, Earth and Moon in a straight line of 180° angle is known as syzygy.",
+        "Syzygy conjunction causes solar eclipse.",
+        "Syzygy opposition causes lunar eclipse.",
+        "Syzygy conjunction occurs at the time of perihelion only."
+      ],
+      "answer": "Syzygy conjunction occurs at the time of perihelion only.",
+      "explanation": ""
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following is not related to wind erosion?",
+      "image": "",
+      "options": [
+        "Wind gap",
+        "Zeugen",
+        "Dreikanter",
+        "Demoiselle"
+      ],
+      "answer": "Wind gap",
+      "explanation": "A wind gap is a gap through which a waterway once flowed that is now dry as a result of stream capture. Wind gaps often provide routes which, due to their gently inclined profile, are suitable for trails, roads, and railroads through mountainous terrain.<br>Examples of wind gaps in the Blue Ridge Mountains of Virginia include Swift Run Gap, Rockfish Gap, and Buford's Gap. The Karu valley of Ladakh is the example of wind gap in India. Zeugen, Dreikanter and Demoiselle are the example of Wind erosion."
+    }
+  ],
+  "Indian Geography": [
+    {
+      "subject": "Indian Geography",
+      "question": "Which of the following pairs of Indian State and tribal population are correct?<br>1. Madhya Pradesh : Largest tribal population<br>2. Mizoram : Highest percentage of tribal population out of the total population of the State<br>3. Chhattisgarh : Second largest tribal population after Madhya Pradesh<br>4. Arunachal Pradesh : Second highest percentage of tribal population out of the total population of the State after Mizoram<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "2 and 4 only",
+        "1, 2 and 3",
+        "2, 3 and 4"
+      ],
+      "answer": "1 and 2 only",
+      "explanation": "Madhya Pradesh has the largest Tribal population. It has more than 1.6 crore Schedule Tribe population whom are 21% of state population according to 2011 census. A2A. As per the 2011 census, Madhya Pradesh has the highest ST population. The population of Mizoram in 2001 Census has been 888,573. Of them, 839,310 are Scheduled Tribes (STs) constituting 94.5 per cent of the total population of the state. Maharashtra has the second largest tribal population after Madhya Pradesh . Hence, pair 3 is not correct."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "With regard to water transportation in India, which of the following statements are correct?<br>1. Headquarters of Central Inland Water Transport Corporation is located at Delhi.<br>2. Headquarters of Inland Waterways Authority of India is located at Noida.<br>3. National Inland Navigation Institute is located at Kolkata.<br>4. First National Inland Waterway was between Haldia and Allahabad.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "2 and 3",
+        "2 and 4 only",
+        "1, 2 and 4"
+      ],
+      "answer": "2 and 4 only",
+      "explanation": "The Water transport provides the cheapest source of transportation to any country. At present, there are about 14,500 km long navigable waterways in India. Central Inland Water Corporation Limited (CIWTC LTD) was incorporated in May 1967 as a Govt. of India undertaking. Its head office is at Kolkata. The National Inland Navigation Institute (NINI) has been set up by Inland Waterways Authority of India (IWAI) at Patna, Bihar in February 2004."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "If the latitude and, longitudinal extent of an Indian State/ UT is 15°48'00\"N to 14°53'15\"N and 74°20'13\"E to 74°40'33\"E, then which one of the following is that State/UT?",
+      "image": "",
+      "options": [
+        "Puducherry",
+        "Chandigarh",
+        "Goa",
+        "Delhi"
+      ],
+      "answer": "Goa",
+      "explanation": "The location of Goa is on the western coast of the Indian peninsula, in the Konkan coastal belt. it lies between the latitudes 14°53'54\" \" North to 15°48'00 North and longitudes 74° 20'13\" East to 73° 40'33\" East."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (Place)<br>A. Bongaigaon<br>B. Koraput<br>C. Pinjore<br>D. Sirpur<br>List-II (Industry)<br>1. Paper<br>2. Machine tools<br>3. Aircraft<br>4. Petrochemical",
+      "image": "",
+      "options": [
+        "A-4, B-2, C-3, D-1",
+        "A-4, B-3, C-2, D-1",
+        "A-1, B-2, C-3, D-4",
+        "A-1, B-3, C-2, D-4"
+      ],
+      "answer": "A-4, B-3, C-2, D-1",
+      "explanation": "Bongaigaon is one of the important cities in Assam. It has a major petrochemical industry, the Indian Oil Corporation Limited."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following is not a tributary of the river Ganga?",
+      "image": "",
+      "options": [
+        "Son",
+        "Mahananda",
+        "Teesta",
+        "Sharada"
+      ],
+      "answer": "Teesta",
+      "explanation": "Teesta River is a tributary of Brahmaputra River, flowing through India and Bangladesh. The major left-bank tributaries of Ganga include Ramganga, Gomti, Ghaghara, Gandak, Kosi, Mahananda and Sharda and its major right- bank tributaries include Yamuna, Son, Punpun and Damodar."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which of the following statements regarding soil is/ are correct?<br>1. Alluvial soils are rich in nitrogen content.<br>2. Black soils are rich in iron and lime but deficient in nitrogen.<br>3. Laterite soils are rich in iron and aluminium but deficient in nitrogen and potassium.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "3 only",
+        "2 and 3 only",
+        "l, 2 and 3"
+      ],
+      "answer": "2 and 3 only",
+      "explanation": "Alluvium soils are very rich in chemicals like Potash, Phosphoric acid, lime and carbon compounds but are deficient in Nitrogen and humus. Black soil is rich in metals such as Iron, Magnesium and Aluminum, but is deficient in Nitrogen, Potassium, Phosphorous and Humus. Laterite soil is poor in organic matter, nitrogen, phosphate and calcium, while iron oxide and potash are in excess."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following statements concerning the natural vegetation of India is not correct?",
+      "image": "",
+      "options": [
+        "Sal is found in moist deciduous forests.",
+        "Casuarina is largely found along the coastal region of Tamil Nadu.",
+        "Deodar is a coniferous species of tree.",
+        "Shola forests are found mainly on the upper reaches of Himalaya."
+      ],
+      "answer": "Shola forests are found mainly on the upper reaches of Himalaya.",
+      "explanation": "Shola forests are found in the higher altitude hill regions of the Nilgiris, Kanyakumari district, Idukki district, the Western Ghats and associated ranges in the states of Karnataka, Kerala and Tamil Nadu. Due to their isolation, altitude and evergreen character, shola forests are home to many threatened and endemic species."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (Term)<br>A. Kurinchi<br>B. Palai<br>C. Neytal<br>D. Mullai<br>List II (Meaning)<br>1. Pastoral region<br>2. Seashore<br>3. Arid region<br>4. Mountainous region",
+      "image": "",
+      "options": [
+        "A-1, B-2, C-3, D-4",
+        "A-1, B-3, C-2, D-4",
+        "A-4, B-3, C-2, D-1",
+        "A-4, B-2, C-3, D-1"
+      ],
+      "answer": "A-4, B-3, C-2, D-1",
+      "explanation": "The Sangam landscape is a poetic device that was characterstic of love poetry in classical Tamil Sangam literature. The core of the device was the categorization of poems into different thinais or modes, depending on the nature, location, mood and type of relationship represented by the poem. Each thinai was closely associated with a particular landscape, and imagery associated with that landscape.<br>Kurunchi - Mountainous Region<br>Palai- Arid region<br>Neytal- Seashore<br>Mullai- Pastoral region"
+    }
+  ]
+}

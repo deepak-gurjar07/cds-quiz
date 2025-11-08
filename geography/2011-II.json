@@ -1,0 +1,292 @@
+{
+  "World Geography": [
+    {
+      "subject": "World Geography",
+      "question": "Match the following<br>List-I (Local wing) List-II (Area of Prevalence)<br>A. Chinook 1. North Affrican desert<br>B. Foehn 2. Rocky mountain slopes of the USA<br>C. Sirocco 3. Northern slopes of Alps<br>D. Mistral 4. Sourthern slopes of Alps",
+      "image": "",
+      "options": [
+        "A-2 B-3 C-1 D-4",
+        "A-2 B-1 C-3 D-4",
+        "A-4 B-1 C-3 D-2",
+        "A-4 B-3 C-1 D-2"
+      ],
+      "answer": "A-2 B-3 C-1 D-4",
+      "explanation": "1. Chinook wind- Rocky Mountains<br>2. Foehn- Northern slopes of the Alps<br>3. Sirocco- North African desert<br>4. Mistral - Southern slopes of Alps"
+    },
+    {
+      "subject": "World Geography",
+      "question": "Horse latitudes lie within the atmospheric pressure belts of",
+      "image": "",
+      "options": [
+        "Polar high",
+        "Equatorial low",
+        "Sub-tropical high.",
+        "Sub-polar low"
+      ],
+      "answer": "Sub-tropical high.",
+      "explanation": "The horse latitudes are regions located at about 30 degrees north and south of the equator. These latitudes are characterized by calm winds and little precipitation."
+    },
+    {
+      "subject": "World Geography",
+      "question": "A nautical mile is equal to",
+      "image": "",
+      "options": [
+        "5060 feet",
+        "5280 feet",
+        "6060 feet",
+        "6080 feet"
+      ],
+      "answer": "6080 feet",
+      "explanation": "A nautical mile is 1,852 meters, or 1.852 kilometers. In the English measurement system, a nautical mile is 1.1508 miles, or 6,076 feet."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The thermal equator is found",
+      "image": "",
+      "options": [
+        "at the equator",
+        "South of the geographical equator",
+        "North of the geographical equator",
+        "at the tropic of cancer"
+      ],
+      "answer": "North of the geographical equator",
+      "explanation": "Thermal Equatoris an imaginary line round the earth running through the point on each meridian with the highest average temperature. It lies mainly to the north because of the larger landmasses and thus greater continental summer heating."
+    },
+    {
+      "subject": "World Geography",
+      "question": "'El Nino' associated with the formation of the South West Monsoon of India is",
+      "image": "",
+      "options": [
+        "an abnormally warm ocean current",
+        "a periodic warm air-mass",
+        "a periodic warm wind",
+        "a periodic low pressure centre"
+      ],
+      "answer": "an abnormally warm ocean current",
+      "explanation": "El Nino is a warm ocean current. The term El Niño refers to the large-scale oceanatmosphere climate interaction linked to a periodic warming in sea surface temperatures across the central and east-central Equatorial Pacific."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The broken hills famous for zinc and lead are located in",
+      "image": "",
+      "options": [
+        "Turkey",
+        "France",
+        "Germany",
+        "Australia"
+      ],
+      "answer": "Australia",
+      "explanation": "Broken Hills are located in New South Wales, Australia. It is a mining city."
+    },
+    {
+      "subject": "World Geography",
+      "question": "When we consider 15° meridian on a world map or globe and count them in an Eastward direction starting with Greenwich meridian (0°), we find that the time of this meridian is",
+      "image": "",
+      "options": [
+        "same as Greenwich",
+        "1 hour fast",
+        "1 hour slow",
+        "12 hours fast"
+      ],
+      "answer": "1 hour fast",
+      "explanation": "Time is advance towards the east as sun rises first in the east then in west."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements regarding ozone layer within the atmosphere is/are correct?<br>1. It absorbs most of the ultraviolet radiation found in the Sun's rays.<br>2. Chlorofluorocarbons are serious threat to the ozone layer.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Ozone Layer absorbs most of the ultraviolet radiation found in the sun's rays. Chlorofluorocarbon is a serious threat to the ozone layer. Other Ozone depleting gases are Halon, Carbon tetrachloride (CCl4), Methyl chloroform (CH3CCl3), Methyl bromide (CH3Br) etc."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Climate change resulting in the rise of temperature may benefit which of the countries/regions?",
+      "image": "",
+      "options": [
+        "South Africa",
+        "East Indies islands comprising of Java, Sumatra and Borneo",
+        "The Western coasts of South America",
+        "Russia and Northern Europe"
+      ],
+      "answer": "Russia and Northern Europe",
+      "explanation": "Climate change benefits Russia and Northern Europe as they are in colder region."
+    },
+    {
+      "subject": "World Geography",
+      "question": "How many kilometres are represented by 1° of latitude?",
+      "image": "",
+      "options": [
+        "321 km",
+        "211 km",
+        "111 km",
+        "91 km"
+      ],
+      "answer": "111 km",
+      "explanation": "111 Kms are represented by 1 degree latitude."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Name the Continents that form a mirror image of each other",
+      "image": "",
+      "options": [
+        "North America and South America",
+        "Asia and Africa",
+        "Africa and South America",
+        "Europe and Asia"
+      ],
+      "answer": "Africa and South America",
+      "explanation": "Africa and South America form a mirror image of each other."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Statement I Anticyclone, which is a high pressure wind system, does not bring about significant change in weather condition.<br>Statement II The outward movement of wind from the high pressure centre keeps limited scope for weather disturbance.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+        "Both the statements are individually true, but Statement II is not the correct explanation of Statement I",
+        "Statement I is true, but Statement II is false",
+        "Statement I is false, but Statement II is true"
+      ],
+      "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+      "explanation": ""
+    },
+    {
+      "subject": "World Geography",
+      "question": "Statement I El Nino is a temperature rising phenomenon over the Pacific Ocean and usually causes dry monsoon in South Asia.<br>Statement II Tsunamis are usually not noticed as the massive ocean waves move silently but assume destructive form as these travel through shallow waters of continental shelves.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+        "Both the statements are individually true, but Statement II is not the correct explanation of Statement I",
+        "Statement I is true, but Statement II is false",
+        "Statement I is false, but Statement II is true"
+      ],
+      "answer": "Both the statements are individually true, but Statement II is not the correct explanation of Statement I",
+      "explanation": ""
+    },
+    {
+      "subject": "World Geography",
+      "question": "Renewable energy can be obtained from",
+      "image": "",
+      "options": [
+        "Fossils",
+        "Radioactive elements",
+        "Biomass",
+        "Natural gas"
+      ],
+      "answer": "Biomass",
+      "explanation": "Biomass is a renewable energy resource derived from the carbonaceous waste of various human and natural activities. It can be derived from numerous sources as agricultural crops, household waste and wood etc."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following is not an important factor of climate of an area?",
+      "image": "",
+      "options": [
+        "Latitude",
+        "Longitude",
+        "Altitude",
+        "Distance from the sea"
+      ],
+      "answer": "Longitude",
+      "explanation": "While the latitude of a particular location affects its climate, the longitude can determine the time zone a particular location is in."
+    },
+    {
+      "subject": "World Geography",
+      "question": "South Pacific island nation Samoa, positioned to the East of the International Date Line, on May 2011 decided to forego a day and shift to the time zone on its West. The reason for this shifting is to",
+      "image": "",
+      "options": [
+        "facilitate smooth internal administration throughout the country",
+        "attain political stability in the country",
+        "facilitate trade with Australia and New Zealand",
+        "promote tourism industry in the country"
+      ],
+      "answer": "facilitate trade with Australia and New Zealand",
+      "explanation": "The move is designed to simplify the country's trade relations. Samoa's biggest trading partners are situated on the opposite side of the dateline. Despite their geographical proximity, Australia and New Zealand are nearly one calendar day ahead. Samoa will switch time zones by redrawing the international dateline. The change will occur at midnight on December 29, 2011."
+    }
+  ],
+  "Indian Geography": [
+    {
+      "subject": "Indian Geography",
+      "question": "Arrange the following oil refineries of India from west to East<br>1. Koyali<br>2. Bongaigaon<br>3. Mathura<br>4. Haldia<br>Select the correct answer using the code given below",
+      "image": "",
+      "options": [
+        "1, 2, 3, 4",
+        "1, 3, 4, 2",
+        "3, 1, 2, 4",
+        "2, 4, 3, 1"
+      ],
+      "answer": "1, 3, 4, 2",
+      "explanation": "The oil refineries of India from west to east:Koyali (Gujarat), Mathura(U.P), Haldia (West Bengal), Bongaigaon (Assam)."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "According to the Census 2011, which one among the following Union Territories has the least population?",
+      "image": "",
+      "options": [
+        "Daman and Diu",
+        "Dadra and Nagar Haveli",
+        "Lakshadweep",
+        "Puducherry"
+      ],
+      "answer": "Lakshadweep",
+      "explanation": "According to census 2011, the least population is in Lakshadweep i.e. 64,429(0.01 % of total population)."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which of the following statements regarding red soils of India is/are correct?<br>1. The colour of the soil is red due to ferric oxide content.<br>2. Red soils are rich in lime, humous and potash.<br>3. They are porous and have friable structure.<br>Select the correct answer using the code given below",
+      "image": "",
+      "options": [
+        "Only 1",
+        "1 and 3",
+        "2 and 3",
+        "1, 2 and 3"
+      ],
+      "answer": "1 and 3",
+      "explanation": "Red soils are very poor in lime, humous and potash."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Kanha National Park belongs to which one among the following biogeographical areas in the world?",
+      "image": "",
+      "options": [
+        "Tropical Sub-humid Forests",
+        "Tropical Humid Forests",
+        "Tropical Dry Forests",
+        "Tropical Moist Forests"
+      ],
+      "answer": "Tropical Dry Forests",
+      "explanation": "Kanha National Park belongs to tropical moist dry deciduous forest. It is a tiger reserve of India and the largest national park of Madhya Pradesh."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one among the following cities never get the vertical rays of the Sun all through the year?",
+      "image": "",
+      "options": [
+        "Chennai",
+        "Mumbai",
+        "Kolkata",
+        "Srinagar"
+      ],
+      "answer": "Srinagar",
+      "explanation": "Any city north of the Tropic of Cancer will never have the sun directly overhead. Thus, Sri Nagar never gets vertical rays of the sun all through the year. Its latitude is approximately 34 degree north."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one among the following rivers does not flow into the Bay of Bengal?",
+      "image": "",
+      "options": [
+        "Mahanadi",
+        "Cauveri",
+        "Tapti",
+        "Godavari"
+      ],
+      "answer": "Tapti",
+      "explanation": "Tapti does not flow in to the Bay of Bengal. The river rises in the eastern Satpura Range of southern Madhya Pradesh and flows into the Gulf of Cambay of the Arabian Sea."
+    }
+  ]
+}

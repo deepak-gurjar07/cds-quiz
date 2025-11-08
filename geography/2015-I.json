@@ -1,0 +1,253 @@
+{
+  "World Geography": [
+    {
+      "subject": "World Geography",
+      "question": "Statement I : Tides are the rise and fall of sea levels caused by the combined effects of the gravitational forces exerted by the Moon and the Sun, and the rotation of the Earth.<br>Statement II : Earth rotates from the West towards the East once in 24 hours with respect to the Sun.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+        "Statement I is true but Statement II is false",
+        "Statement I is false but Statement II is true"
+      ],
+      "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+      "explanation": "Tides are rise and fall of sea levels caused by the combined effect of the gravitational forces exerted by the moon and the sun and the rotation of the earth because the Earth rotates once in about 24 hours with respect to the sun. The tidal range is not constant but changes depending on where the sun and moon are."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Statement I : Sideral day is shorter than Solar day.<br>Statement II : The motion of the Earth in its orbit around the Sun is termed as revolution.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+        "Statement I is true but Statement II is false",
+        "Statement I is false but Statement II is true"
+      ],
+      "answer": "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+      "explanation": "The sidereal day is the time it takes for the Earth to complete one rotation about its axis with respect to the 'fixed' stars. By fixed, we mean that we treat the stars as if they were attached to an imaginary celestial sphere at a very large distance from the Earth. A measurement of the sidereal day is made by noting the time at which a particular star passes the celestial meridian (i.e. directly overhead) on two successive nights. On Earth, a sidereal day lasts for 23 hours 56 minutes 4.091 seconds, which is slightly shorter than the solar day measured from noon to noon. At the same time that the Earth spins on its axis, it also orbits or revolves around the Sun. This movement is called revolution."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The Earth without rotational movement would result into<br>1. no sun-rise and sun-set.<br>2. no occurrence of day and night cycle.<br>3. only one season.<br>Select the correct answer using the code given below",
+      "image": "",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1 and 2 only",
+      "explanation": "The Earth completes one \"rotation\" every twenty four hours. A rotation is when the planet spins around once. The Earth rotates counter-clockwise; this is why the Sun \"rises\" in the east and \"sets\" in the west. Revolution is when one object completes a circular path around another object. The Earth takes 365.24 days to revolve around the Sun. This is why a year is 365 days long. During the year the Earth is angled differently towards the Sun. These changing angles provide us with different Sun intensities and therefore we get four different seasons."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br>List I (Ocean current)<br>A. Guinea current<br>B. Oyashio current<br>C. Canaries current<br>D. Kuroshio current<br>List II (Location in Map)",
+      "image": "",
+      "options": [
+        "A-4; B-3; C-1; D-2",
+        "A-2; B-3; C-1; D-4",
+        "A-2; B-1; C-3; D-4",
+        "A-4; B-1; C-3; D-2"
+      ],
+      "answer": "A-2; B-3; C-1; D-4",
+      "explanation": "A- 2, B- 3, C- 1, D- 4<br>The Guinea Current is a slow warm water current that flows to the east along the Guinea coast of West Africa. Oyashio Current is a cold subarctic ocean current that flows south and circulates counter-clockwise in the western North Pacific Ocean. The Canary Current is a wind-driven surface current that is part of the North Atlantic Gyre. The Kuroshio is a north-flowing ocean current on the west side of the North Pacific Ocean"
+    },
+    {
+      "subject": "World Geography",
+      "question": "Arrange the following layers of atmosphere vertically from the surface of the Earth :<br>1. Mesosphere<br>2. Troposphere<br>3. Stratosphere<br>4. Thermosphere<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1-2-3-4",
+        "2-1-3-4",
+        "2-3-1-4",
+        "3-4-2-1"
+      ],
+      "answer": "2-3-1-4",
+      "explanation": "The correct sequence is as follows:<br>1. Troposphere<br>2. Stratosphere<br>3. Mesosphere<br>4. Thermosphere"
+    },
+    {
+      "subject": "World Geography",
+      "question": "Consider the contour plot given below :<br>1800 1700 1600 1500 1400 1300 1200 1100<br>1000<br>900<br>800<br>700<br>Contour in Metres<br>The above contours of an area indicate several, relief features. Which one among the following relief features is not depicted here ?",
+      "image": "",
+      "options": [
+        "Steep slope",
+        "River valley",
+        "Conical hill",
+        "Gentle slope"
+      ],
+      "answer": "Conical hill",
+      "explanation": "A conical hill is a hill with uniform slope and is represented by concentric contours spaced almost regularly. It is a small but distinctive rock hill, 655 metres (2,150 ft) high, on the southern slopes of Mount Terror, above Cape MacKay, on Ross Island."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Seismic gaps are",
+      "image": "",
+      "options": [
+        "parts of plate boundaries in oceans where tsunamis occur frequently.",
+        "sections of plate boundaries that have ruptured repeatedly in the recent past.",
+        "sections of plate boundaries that have not ruptured in the recent past.",
+        "plate boundaries having no volcanic activity."
+      ],
+      "answer": "sections of plate boundaries that have not ruptured in the recent past.",
+      "explanation": "If most of a plate boundary had ruptured recently in large earthquakes the seismic gaps can be defined as those segments where no recent rapture has occurred. Such gaps are expected to be filled in the near future by earthquakes and therefore the seismic hazard within gaps is more imminent than elsewhere along the same plate boundary."
+    },
+    {
+      "subject": "World Geography",
+      "question": "In the absence of Cold Labrador Current, which one among the following would happen ?",
+      "image": "",
+      "options": [
+        "There will be no North-East Atlantic fishing grounds",
+        "There will be no North-West Atlantic fishing grounds",
+        "There will be no fishing ground in the North Atlantic Ocean",
+        "Semi-arid condition of the Atlantic coast of the USA and Canada would prevail"
+      ],
+      "answer": "There will be no North-West Atlantic fishing grounds",
+      "explanation": "Labrador current and Gulf stream meet at grand bank which is fishing ground. This Place is located on the west of the North Atlantic current. Therefore in the absence of cold labrador current there will be no North-West Atlantic fishing ground."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br>List I (Type of Grass) List II (Country)<br>A. Llanos 1. Australia<br>B. Prairies 2. Venezuela<br>C. Pampas 3. USA<br>D. Downs 4. Argentina",
+      "image": "",
+      "options": [
+        "1 4 3 2",
+        "1 3 4 2",
+        "2 4 3 1",
+        "2 3 4 1"
+      ],
+      "answer": "2 3 4 1",
+      "explanation": "The correct match is as follows:<br>Llanos- Venezuela<br>Prairies- USA<br>Pampas -Argentina<br>Downs - Australia"
+    },
+    {
+      "subject": "World Geography",
+      "question": "Ozone layer of the Earth's atmosphere is important for living organisms because it",
+      "image": "",
+      "options": [
+        "prevents entry of ultra-violet rays",
+        "prevents entry of X-rays",
+        "maintains level of oxygen on Earth",
+        "prevents acid rain on Earth"
+      ],
+      "answer": "prevents entry of ultra-violet rays",
+      "explanation": "The ozone layerrefers to a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet (UV) radiation. Ultra Violet radiation is very harmful to all living things. UV radiation can be harmful to the skin and is the main cause of sunburn; excessive exposure can also cause cataracts, immune system suppression, and genetic damage, and skin cancer."
+    },
+    {
+      "subject": "World Geography",
+      "question": "If 82° 30' east longitude (Allahabad) shows 6 : 00 am of Sunday (local time), what would be the local time of Florida (USA) located on 82° west longitude ?",
+      "image": "",
+      "options": [
+        "6 : 58 pm of Saturday",
+        "7 : 02 pm of Sunday",
+        "6 : 58 am of Sunday",
+        "7 : 02 am of Saturday"
+      ],
+      "answer": "6 : 58 pm of Saturday",
+      "explanation": "The time of Florida would be 6.58 p.m on Saturday."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following statements regarding water cycle is correct ?",
+      "image": "",
+      "options": [
+        "Transpiration by plants does contribute to cloud formation.",
+        "Only evaporation of surface water of rivers and oceans is responsible for cloud formation.",
+        "Rainfall does not contribute in maintenance of underground water table.",
+        "Underground water may also be connected to surface water."
+      ],
+      "answer": "Underground water may also be connected to surface water.",
+      "explanation": "Underground water may also be connected to surface water through wetlands. Groundwater can flow into--or out of wetlands (springs or flow-through wetlands) which may in turn flow into lakes and streams."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br>List I (Ocean current) List II (Coast)<br>A. Humboldt 1. Namibia – Angola<br>B. North Atlantic Drift 2. Chile – Peru<br>C. Benguela 3. Mozambique – Madagascar<br>D. Agulhas 4. United Kingdom Norway",
+      "image": "",
+      "options": [
+        "A-2; B-1; C-4; D-3",
+        "A-2; B-4; C-1; D-3",
+        "A-3; B-4; C-1; D-2",
+        "A-3; B-1; C-4; D-2"
+      ],
+      "answer": "A-2; B-4; C-1; D-3",
+      "explanation": "The correct match is as follows:<br>Humboldt- Chile-Peru<br>North Atlantic Drift - U.K- Norway<br>Benguela- Namibia -Angola<br>Agulhas - Mozambique -Madagascar"
+    },
+    {
+      "subject": "World Geography",
+      "question": "The horizontal wind circulation near the Earth's surface is due to the<br>1. pressure gradient.<br>2. frictional force.<br>3. coriolis force.<br>Select the correct answer using the code give below :",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1 and 3 only",
+      "explanation": "In the horizontal direction, where gravity does not operate, the equilibrium of forces usually involves a balance between the pressure-gradient force and the Coriolis force."
+    }
+  ],
+  "Indian Geography": [
+    {
+      "subject": "Indian Geography",
+      "question": "Statement I : India's off shore and deep sea fish catch is very poor considering the marine potential.<br>Statement II : Indian coast does not have many gulfs, bays, estuaries and backwaters.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+        "Statement I is true but Statement II is false",
+        "Statement I is false but Statement II is true"
+      ],
+      "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+      "explanation": "India's off shore and deep sea fish catch is very poor considering the marine potential of 20-25 million tonnes because Indian coast does not have many gulfs, bays, estuaries and back waters as is the case with Norway. As such it lacks good fishing grounds."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Arrange the following tributaries of river Indus from North to South :<br>1. Chenab<br>2. Jhelum<br>3. Ravi<br>4. Sutlej<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "4-3-1-2",
+        "2-3-1-4",
+        "1-2-3-4",
+        "2-1-3-4"
+      ],
+      "answer": "2-1-3-4",
+      "explanation": "The Indus River originates near the Mansarovar Lake in the Tibetan plateau, on the northern slopes of the Kailash Mountain Range. Given below are the main tributaries of the Indus River from north to south:<br>• Jhelum<br>• Chenab<br>• Ravi<br>• Sutlej"
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Tank irrigation is commonly found in South-Central parts of India. What could be the reason ?<br>1. Insufficient shallow ground water<br>2. Rocky plateau with impervious surface depression<br>3. Undulating terrain helps in accumulation of rain water in depression or man-made tank<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1 only",
+      "explanation": "In the semi arid tropical region of India tanks are constructed mainly in south and central India due to shallow ground water."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which of the following is/are the reason(s) behind Gujarat being the leading producer of Salt in India ?<br>1. The long length of coastline<br>2. Long duration of hot and dry conditions<br>3. Presence of gulf areas<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "2 only",
+        "1, 2 and 3",
+        "1 and 3 only"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "Gujarat is blessed with the longest coastline of 1600 km. Summers (March through May) are quite hot, however, with temperatures typically rising well above 100 °F (38 °C) during the day and dropping only into the 90s F (low 30s C) at night, Gujarat is drier in the north than in the south. Rainfall is lowest in the northwestern part of the state-in the Rann of Katch. The coastline of Gujarat includes two, gulf areas Gulf of Katchh and Gulf of Khambat."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Consider the following statements with regard to cold waves in winter season in northern India:<br>1. There is lack of maritime influence.<br>2. Northern India is nearer to the Himalayan region.<br>3. Air mass comes from polar regions to northern India.<br>Which of the statements given above is/are correct ?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 and 3",
+        "1 and 3",
+        "1 and 2"
+      ],
+      "answer": "1 and 2",
+      "explanation": "In northern India, there is light rainfall during winter. This is caused by the cyclonic storms which originate in the Mediterranean Sea and travels towards India. These winds are called western disturbances. They cause heavy snowfall in the higher reaches of the Himalayas and rainfall in the plains. They result in a cold wave in northern India."
+    }
+  ]
+}

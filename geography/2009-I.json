@@ -1,0 +1,383 @@
+{
+  "Indian Geography": [
+    {
+      "subject": "Indian Geography",
+      "question": "Madhya Pradesh shares its border with how many States?",
+      "image": "",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "5",
+      "explanation": "Madhya Pradesh shares its border with 5 states which are Uttar Pradesh, Chhattisgarh, Maharashtra, Gujarat and Rajasthan."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "In which one of the following places is the Forest Survey of India (FSI), a national organisation engaged in forest cover mapping, forest inventory and training in the field of remote sensing and GIS, located?",
+      "image": "",
+      "options": [
+        "Dehradun",
+        "Itanagar",
+        "Ahmedabad",
+        "Aizawl"
+      ],
+      "answer": "Dehradun",
+      "explanation": "Forest Survey of India (FSI) is an organisation under the Ministry of Environment & Forests. Government of India conducts survey and assessment of forest resources in the country. The organization came into being in June, 1981.The headquarters of FSI are at Dehradun."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following is the longest national highway in India?",
+      "image": "",
+      "options": [
+        "NH 2",
+        "NH 7",
+        "NH 8",
+        "NH 31"
+      ],
+      "answer": "NH 7",
+      "explanation": "National Highway 7 is the longest national highway in India. It runs through the states of Uttar Pradesh, Madhya Pradesh, Maharashtra,Telangana, Andhra Pradesh, Karnataka, and Tamil Nadu. The highway connects several important Indian cities such as Varanasi, Rewa,Jabalpur, Nagpur, Adilabad, Nirmal, Kamareddy, Hyderabad, Kurnool, Anantapur, Chikkaballapur, Bangalore, Krishnagiri, Dharmapuri, Salem, Namakkal, Velur, Karur,Dindigul, Madurai, Virudhunagar, Tirunelveli.It is 2,369 km from Varanasi to Kanyakumari."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following states is the largest producer of black pepper in India?",
+      "image": "",
+      "options": [
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "answer": "Kerala",
+      "explanation": "Kerala is the largest producer of pepper in India.Kerala accounts for 97.4 per cent of the total area under the crop in the country. In 2014-15, Karnataka has overtaken Kerala and become the country's leading pepper producer, accounting for 45% of the total production. Karnataka produced 33,000 metric tonnes of pepper in 2014-15, against Kerala's 28,000MT."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "The shaded area in the map given below is the major producer of which one of the following?",
+      "image": "",
+      "options": [
+        "Cotton",
+        "Groundnut",
+        "Wheat",
+        "Mustard"
+      ],
+      "answer": "Cotton",
+      "explanation": "The shaded area in the map is major cotton producer states in India. Cotton producing states in India are Gujarat, Maharashtra, Andhra Pradesh, Karnataka, Tamil Nadu etc."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following oil fields of India is the oldest and still producing oil?",
+      "image": "",
+      "options": [
+        "Bombay High",
+        "Digboi",
+        "Ankleshwar",
+        "Naharkatiya"
+      ],
+      "answer": "Digboi",
+      "explanation": "The Digboi refinery was set up in 1901 by Assam Oil Company Ltd.It is situated in upper Assam district of Tinsukia. Digboi oilfield has the oldest running oil well in India."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following States of India is the largest producer of lignite coal?",
+      "image": "",
+      "options": [
+        "Maharashtra",
+        "Gujarat",
+        "Madhya Pradesh",
+        "Tamil Nadu"
+      ],
+      "answer": "Tamil Nadu",
+      "explanation": "Lignite coal is mainly produced in two states - Tamil Nadu and Gujarat. Neyveli is the lignite field in Tamil Nadu which is located in South Arcol district. Neyveli is the largest lignite coal mine of India."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List-I (Multi purpose River Projects) List-II (Hydel Power Station)<br>A. Rihand 1. Hirakund<br>B. Gandak 2. Balmikinagar<br>C. Chambal 3. Pipri<br>D. Mahanadi 4. Kota",
+      "image": "",
+      "options": [
+        "A-3 B-4 C-2 D-1",
+        "A-1 B-2 C-4 D-3",
+        "A-3 B-2 C-4 D-1",
+        "A-1 B-4 C-2 D-3"
+      ],
+      "answer": "A-3 B-2 C-4 D-1",
+      "explanation": "1. Rihand - Pipri<br>2. Gandak- Balmikinagar<br>3. Chambal- Kota<br>4. Mahanadi- Hirakund"
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which of the following sequences of the oil refineries of India as they occur from South to North is correct?",
+      "image": "",
+      "options": [
+        "Kochi-Mangalore-Mumbai-Koyali",
+        "Koyali-Mumbai-Mangalore-Kochi",
+        "Kochi-Mumbai-Mangalore-Koyali",
+        "Mangalore-Kochi-Mumbai-Koyali"
+      ],
+      "answer": "Kochi-Mangalore-Mumbai-Koyali",
+      "explanation": "The correct sequence is Kochi- Mangalore- Mumbai- Koyali"
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following pairs is not correctly matched?<br>River City<br>A. Gomuti Lucknow<br>B. Saryu Ayodhya<br>C. Alakananda Badrinath<br>D. Narmada Satna",
+      "image": "",
+      "options": [
+        "Gomuti Lucknow",
+        "Saryu Ayodhya",
+        "Alakananda Badrinath",
+        "Narmada Satna"
+      ],
+      "answer": "Narmada Satna",
+      "explanation": "The source of the Narmada is Amarkantak in the Anuppur District (eastern Madhya Pradesh)."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following lakes in India has the highest water salinity?",
+      "image": "",
+      "options": [
+        "Dal",
+        "Chilila",
+        "Wular",
+        "Sambhar"
+      ],
+      "answer": "Sambhar",
+      "explanation": "Sambhar lake in Rajasthan is the largest salt water lake in India."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List-I River List-II Tributary<br>A. Brahmaputra 1. Musi<br>B. Krishna 2. Tawa<br>C. Narmada 3. Bhavani<br>D. Cauveri 4. Dikhow",
+      "image": "",
+      "options": [
+        "A-4 B-2 C-1 D-3",
+        "A-4 B-1 C-2 D-3",
+        "A-3 B-2 C-1 D-4",
+        "A-3 B-1 C-2 D-4"
+      ],
+      "answer": "A-4 B-1 C-2 D-3",
+      "explanation": "1. Brahamaputra- Dikhow<br>2. Krishna- Musi<br>3. Narmada- Tawa<br>4. Cauveri- Bhavani"
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following is the oldest mountain range in India?",
+      "image": "",
+      "options": [
+        "Himalayas",
+        "Aravalli",
+        "Satpura",
+        "Nilgiri"
+      ],
+      "answer": "Aravalli",
+      "explanation": "The Aravalli range are the oldest fold mountains in India."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following longitudes determines the Indian sandard time?",
+      "image": "",
+      "options": [
+        "85.5° E",
+        "86.5° E",
+        "84.5° E",
+        "82.5° E"
+      ],
+      "answer": "82.5° E",
+      "explanation": "Indian Standard Time is calculated on the basis of 82.5° E longitude in Shankargarh Fort mirzapur (Allahabad)."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List-I (Pass) List-II (State)<br>A. Zoji La Pass 1. Sikkim<br>B. Bara Lacha Pass 2. Uttarakhand<br>C. Jelep La Pass 3. Himachal Preadesh<br>D. Niti Pass 4. Jammu and Kashmir",
+      "image": "",
+      "options": [
+        "A-4 B-1 C-3 D-2",
+        "A-2 B-3 C-1 D-4",
+        "A-4 B-3 C-1 D-2",
+        "A-2 B-1 C-3 D-4"
+      ],
+      "answer": "A-4 B-3 C-1 D-2",
+      "explanation": "1. Zoji La Pass- Jammu and Kashmir<br>2. Bara Lacha Pass- Himachal Pradesh<br>3. Jalep La Pass- Sikkim<br>4. Niti pass- Uttarakhand."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "In which one of the following islands of India is an active volcano found?",
+      "image": "",
+      "options": [
+        "Car Nicobar Island",
+        "Nancowry Island",
+        "Barren Island",
+        "Maya Bunder Island"
+      ],
+      "answer": "Barren Island",
+      "explanation": "Barren Island is located in the Andaman Sea. It is the only confirmed active volcano in South Asia."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Consider the following regions of India<br>1. Western Ghats<br>2. Aravalli Hills<br>3. Eastern Himalayas<br>Which of the above is/are biodiversity hot spot/hot spots?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "1 and 3",
+        "2 and 3",
+        "All of the above"
+      ],
+      "answer": "1 and 3",
+      "explanation": "The Western Ghats or Sahyadri is one of the eight \"hottest hotspots\" of biological diversity in the world. Eastern Himalaya is situated between Central Nepal in the west and Myanmar has been declared a biodiversity hotspot by Conservation International."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Consider the following statements<br>1. National parks are a special category of protected areas of land and sea coasts where people are an integral part of the system.<br>2. Sanctuaries are concerned with conservation of particular species.<br>3. Biosphere reserves are connected with the habitat of a particular wild animal.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1,2 and 3",
+        "Only 2",
+        "1 and 2",
+        "1 and 3"
+      ],
+      "answer": "1 and 2",
+      "explanation": "National Park an area of countryside, or occasionally sea or fresh water, protected by the state for the enjoyment of the general public or the preservation of wildlife.<br>An animal sanctuary is a facility where animals are brought to live and be protected for the rest of their lives.<br>A biosphere reserve is an area of land or water that is protected by law in order to support the conservation of ecosystems, as well as the sustainability of mankind's impact on the environment."
+    }
+  ],
+  "World Geography": [
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following pairs is not correctly matched?<br>Country Currency<br>A. Brazil Reals<br>B. China Yuan<br>C. Mexico Pesos<br>D. Thailand Ringgit",
+      "image": "",
+      "options": [
+        "Brazil Reals",
+        "China Yuan",
+        "Mexico Pesos",
+        "Thailand Ringgit"
+      ],
+      "answer": "Thailand Ringgit",
+      "explanation": "1. Brazil- cruzado Real<br>2. China- Yuan<br>3. Mexico- Mexican Peso<br>4. Thailand- Thai Baht"
+    },
+    {
+      "subject": "World Geography",
+      "question": "In which one of the following is higher percentage of carbon found?",
+      "image": "",
+      "options": [
+        "Lignite coal",
+        "Peat coal",
+        "Bituminous coal",
+        "Anthracite coal"
+      ],
+      "answer": "Anthracite coal",
+      "explanation": "Anthracite has higher percentage of Carbon. It has a carbon content of over 87% on a dry ash-free basis."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following is the tide produced as a consequence of Moon and Sun pulling the Earth in the same direction?",
+      "image": "",
+      "options": [
+        "Spring tide",
+        "Neap tide",
+        "High tide",
+        "Low tide"
+      ],
+      "answer": "Spring tide",
+      "explanation": "Spring tides occur when the sun and moon are directly in line with the earth and their gravitational pulls reinforce each other."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following is an object with such a strong gravitational field that even light cannot escape from its surface?",
+      "image": "",
+      "options": [
+        "Neutron Star",
+        "White Dwarf",
+        "Black hole",
+        "Supernova Star"
+      ],
+      "answer": "Black hole",
+      "explanation": "Black holes are objects of extreme density, with such strong gravitational attraction that even light cannot escape from their grasp if it comes near enough. The term \"black hole\" was coined in 1967 by John Wheeler."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Because of which one of the following factors, clouds do not precipitate in deserts?",
+      "image": "",
+      "options": [
+        "Low pressure",
+        "Low humidity",
+        "High wind velocity",
+        "High temperature"
+      ],
+      "answer": "Low humidity",
+      "explanation": "Deserts usually have a large diurnal and seasonal temperature range, with high daytime temperatures (in summer up to 45 °C or 113 °F), and low night-time temperatures (in winter down to 0 °C; 32 °F) due to extremely low humidity. Clouds does not precipitates in deserts due to low humidity."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Assertion (A) Water in an open pond remains cool even on a hot summer day.<br>Reason (R) Water on heating evaporates and heat energy gets converted into latent heat.",
+      "image": "",
+      "options": [
+        "Both A and R are true and R is the correct explanation of A",
+        "Both A and R are true, but R is not the correct explanation of A",
+        "A is true, but R is false",
+        "A is false, but R is true"
+      ],
+      "answer": "Both A and R are true and R is the correct explanation of A",
+      "explanation": "Both A and R are true and R is the correct explanation of A."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Assertion (A) Physiological density is preferable to arithmetic density as an index of population density.<br>Reason (R) Physiological density is based on arable land while arithmetic density is based on total area.",
+      "image": "",
+      "options": [
+        "Both A and R are true and R is the correct explanation of A",
+        "Both A and R are true, but R is not the correct explanation of A",
+        "A is true, but R is false",
+        "A is false, but R is true"
+      ],
+      "answer": "A is false, but R is true",
+      "explanation": "A is false, but R is true"
+    },
+    {
+      "subject": "World Geography",
+      "question": "Assertion (A) Despite low evaporation and stable stratification of the atmosphere, salinity is high in polar regions.<br>Reason (R) Sea water freezes leaving the remaining water saline than before.",
+      "image": "",
+      "options": [
+        "Both A and R are true and R is the correct explanation of A",
+        "Both A and R are true, but R is not the correct explanation of A",
+        "A is true, but R is false",
+        "A is false, but R is true"
+      ],
+      "answer": "A is false, but R is true",
+      "explanation": "A is false, but R is true"
+    },
+    {
+      "subject": "World Geography",
+      "question": "Assertion (A) Venus is the brightest object in the sky after the Sun.<br>Reason (R) Venus is the second planet from the Sun in our solar system.",
+      "image": "",
+      "options": [
+        "Both A and R are true and R is the correct explanation of A",
+        "Both A and R are true, but R is not the correct explanation of A",
+        "A is true, but R is false",
+        "A is false, but R is true"
+      ],
+      "answer": "Both A and R are true and R is the correct explanation of A",
+      "explanation": "Both A and R are true and R is the correct explanation of A"
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following is categorised as millet?",
+      "image": "",
+      "options": [
+        "Wheat",
+        "Rice",
+        "Sorghum",
+        "Maize"
+      ],
+      "answer": "Sorghum",
+      "explanation": "Sorghum is a genus of plants in the grass family. One species is grown for grain and many of which are used as fodder plants. Millets are a group of highly variable small-seeded grasses, widely grown around the world as cereal crops or grains for fodder and human food. Thus, Sorghum is categorized as millet."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following zones of the atmosphere is rich in ozone gas?",
+      "image": "",
+      "options": [
+        "Mesosphere",
+        "Troposphere",
+        "Stratosphere",
+        "Ionosphere"
+      ],
+      "answer": "Stratosphere",
+      "explanation": "Stratosphere is rich in Ozone gas."
+    }
+  ]
+}

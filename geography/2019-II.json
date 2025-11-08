@@ -1,0 +1,266 @@
+{
+  "World Geography": [
+    {
+      "subject": "World Geography",
+      "question": "The term soil impoverishment relates to which one of the following ?",
+      "image": "",
+      "options": [
+        "Soil erosion",
+        "Soil deposition",
+        "Soil getting very deficient in plant nutrients",
+        "Soil getting enriched with plant nutrients"
+      ],
+      "answer": "Soil getting very deficient in plant nutrients",
+      "explanation": "Soil impoverishment is based on the innate ability of prairie plants to tolerate and flourish in soils with low levels of nitrogen. Soil impoverishment, or reverse fertilization, involves the removal of nutrients from the soil.It is most of- ten done by introducing large amounts of organic matter to the soil."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Match List I with List II and select the correct answer using the code given below the lists :<br>List I (Soil type)<br>A. Oxisols<br>B. Vertisols<br>C. Histosols<br>D. Entisols<br>List II (Major characteristic)<br>1. Very rich in organic matter<br>2. Soil lacking horizons<br>3. Very old and highly weathered<br>4. Rich in clay content and highly basic",
+      "image": "",
+      "options": [
+        "A-3, B-1, C-4, D-2",
+        "A-3, B-4, C-1, D-2",
+        "A-2, B-1, C-4, D-3",
+        "A-2, B-4, C-1, D-3"
+      ],
+      "answer": "A-3, B-4, C-1, D-2",
+      "explanation": "Oxisols- (from French oxide, “oxide”) are very highly weathered soils that are found primarily in the intertropical regions of the world. These soils contain few weatherable minerals and are often rich in Fe and Al oxide minerals.<br>Vertisols -a clayey soil with little organic matter which occurs in regions having distinct wet and dry seasons. The dominant soil-forming processes in Vertisols are: cracking, argilli-pedoturbation (mixing of clay in the pedon) and mass movement of materials due to shrinkage and swelling of clays during drying/wetting cycles. ... The wetting and drying cycles cause the clays to expand and contract.<br>Histosols- (from Greek histos, “tissue”) are soils that are composed mainly of organic materials. They contain at least 20-30 percent organic matter by weight and are more than 40 cm thick. Bulk densities are quite low, often less than 0.3 g cm3.<br>Entisols- are defined as soils that do not show any profile development other than an A horizon. An entisol has no diagnostic horizons, and most are basically unaltered from their parent material, which can be unconsolidated sediment or rock."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following mountains separates Black Sea and Caspian Sea ?",
+      "image": "",
+      "options": [
+        "Urals",
+        "Caucasus",
+        "Carpathians",
+        "Balkan mountains"
+      ],
+      "answer": "Caucasus",
+      "explanation": "The Caucasus Mountains are a mountain system at the intersection of Europe and Asia. Stretching between the Black Sea and the Caspian Sea, it surrounds the eponymous Caucasus region and is home to Mount Elbrus, the highest peak in Europe."
+    },
+    {
+      "subject": "World Geography",
+      "question": "What is Inter-cropping ?",
+      "image": "",
+      "options": [
+        "It is the time period between two cropping seasons.",
+        "It is growing of two or more crops in random mixture.",
+        "It is growing of two or more crops in definite row patterns.",
+        "It is growing of different crops on a piece of land in a pre-planned succession."
+      ],
+      "answer": "It is growing of two or more crops in definite row patterns.",
+      "explanation": "Intercropping is growing two or more crops next to each other at the same time.It is very important not to have crops competing with each other for space, nutrients, water, or sunlight. An example of an intercropping strategy is planting one crop that has deep roots with another that has shallow roots."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following, is not a geographical requirement for cultivation of cotton ?",
+      "image": "",
+      "options": [
+        "Temperature reaching 25°C or more in summer",
+        "Moderate to light rainfall",
+        "Medium loam soil with good drainage",
+        "A growing period of at least 100 frost free days"
+      ],
+      "answer": "Medium loam soil with good drainage",
+      "explanation": "Climate: Cotton grows well in warm and moist climate where summer is long and where there is salinity in the soil. Temperature: Cotton grown well in a temperature of 24°C. But cotton bursts out, high temperature is injurious. Rainfall: 60-100 cm rainfall is essential for the cultivation of cotton."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following statements regarding temperate coniferous forest biome is not correct ?",
+      "image": "",
+      "options": [
+        "They are characterized by very little undergrowth.",
+        "They have a growing period of 50 to 100 days in a year.",
+        "There is low variation in annual temperature.",
+        "There is high range in spatial distribution of annual precipitation."
+      ],
+      "answer": "They are characterized by very little undergrowth.",
+      "explanation": "Temperate coniferous forest is a terrestrial habitat type defined by the World Wide Fund for Nature. Temperate coniferous forests are found predominantly in areas with warm summers and cool winters and vary in their kinds of plant life. In some, needle leaf trees dominate, while others are home primarily to broadleaf evergreen trees or a mix of both tree types.[1] A separate habitat type, the tropical coniferous forests, occurs in more tropical climates. Temperate coniferous forests are common in the coastal areas of regions that have mild winters and heavy rainfall, or inland in drier climates Temperate coniferous forests sustain the highest levels of biomass in any terrestrial ecosystem and are notable for trees of massive proportions in temperate rainforest regions."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which Greek philosopher coined the term “Geography” in the 3rd century B.C.E. ?",
+      "image": "",
+      "options": [
+        "Euclid",
+        "Plato",
+        "Eratosthenes",
+        "Clio"
+      ],
+      "answer": "Eratosthenes",
+      "explanation": "Eratosthenes of Cyrene was a Greek polymath: a mathematician, geographer, poet, astronomer and music theorist. He was a man of learning, becoming the chief librarian at the Library of Alexandria. His work is comparable to what is now known as the study of geography and he introduced some of the terminology still used today."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following statements regarding sex composition is not correct ?",
+      "image": "",
+      "options": [
+        "In some countries, sex ratio is expressed as number of males per thousand females,",
+        "In India, sex ratio is expressed as number of females per thousand males.",
+        "At world level, sex ratio is about 102 males per 100 females.",
+        "In Asia, there is high sex ratio."
+      ],
+      "answer": "In Asia, there is high sex ratio.",
+      "explanation": "Sex Composition - The number of women and men in a country is an important demographic characteristic. The ratio between the number of women and men in the population is called the Sex Ratio. In some countries it is calculated by using the formula: or the number of males per thousand females."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following regions is an important supplier of citrus fruits ?",
+      "image": "",
+      "options": [
+        "Equatorial region",
+        "Mediterranean region",
+        "Desert region",
+        "Sub-humid region"
+      ],
+      "answer": "Mediterranean region",
+      "explanation": "Around 70% of the world’s total citrus production is grown in the Northern Hemisphere, in particular countries around the Mediterranean and the United States, although Brazil is the largest citrus producer."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following is the most noticeable characteristic of the Mediterranean climate ?",
+      "image": "",
+      "options": [
+        "Limited geographical extent .",
+        "Dry summer",
+        "Dry winter",
+        "Moderate temperature"
+      ],
+      "answer": "Moderate temperature",
+      "explanation": "A Mediterranean climate or dry summer climate is characterized by dry summers and mild, wet winters. The climate receives its name from the Mediterranean Basin, where this climate type is most common. Mediterranean climate zones are typically located along the western sides of continents, between roughly 30 and 45 degrees north and south of the equator. The main cause of Mediterranean, or dry summer climate, is the subtropical ridge which extends northwards during the summer and migrates south during the winter due to increasing north-south temperature differences."
+    }
+  ],
+  "Indian Geography": [
+    {
+      "subject": "Indian Geography",
+      "question": "Rain caused by thunder storms during the hot weather season (min. March to mid-June) in Karnataka are called",
+      "image": "",
+      "options": [
+        "Kalbaisakhi",
+        "Mango Showers",
+        "Loo",
+        "Cherry bosoms"
+      ],
+      "answer": "Mango Showers",
+      "explanation": "Mango showers is a colloquial term to describe the occurrence of pre-monsoon rainfall. These rains normally occur from March to April, Their intensity can range from light showers to heavy and persistent thunderstorms towards the close of the summer season, pre-monsoon showers are common especially in Kerala, Karnataka and parts of Tamil Nadu in India. They help in the early ripening of mangoes and are often referred to as “Mango showers."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match List I with List II and select the correct. answer using the code given below the lists :<br>List I (Peak)<br>A. Anaimudi<br>B. Doddabetta<br>C. Dhupgarh<br>D. Guru Shikhar<br>List II (Name of Hill)<br>1. Nilgiri<br>2. Satpura<br>3. Aravali<br>4. Annamalai",
+      "image": "",
+      "options": [
+        "A-3, B-2, C-1, D-4",
+        "A-3, B-1, C-2, D-4",
+        "A-4, B-1, C-2, D-3",
+        "A-4, B-2, C-1, D-3"
+      ],
+      "answer": "A-4, B-1, C-2, D-3",
+      "explanation": "Anaimudi peak is located in Anamalai Hills in Kerala at the elevation of 2,695 meters (8,843 ft), it is considered the highest peak in the Western Ghats and the whole of South India. Dodabetta, is located approximately 10 km away from Ooty. It towers to a staggering height of 8650 feet or 2,623 meters above the sea level and is the highest peak in the Nilgiri Hills. Dhoopgarh is the highest point in the Mahadeo Hills (Satpura Range), Madhya Pradesh, India. Located in Pachmarhi, it has an elevation of 1,352 metres (4,429 ft). Guru Shikhar, a peak in the Arbuda Mountains of Rajasthan, is the highest point of the Aravalli Range. It rises to an elevation of 1,722 metres (5,650 ft)."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Coral reefs are not found in which one of the following regions ?",
+      "image": "",
+      "options": [
+        "Lakshadweep Islands",
+        "Gulf of Kachchh",
+        "Gulf of Mannar",
+        "Gulf of Cambay"
+      ],
+      "answer": "Gulf of Cambay",
+      "explanation": "Coral reefs are located in tropical oceans near the equator. The largest coral reef is the Great Barrier Reef in Australia. The second largest coral reef can be found off the coast of Belize, in Central America. Other reefs are found in Hawaii, the Red Sea and other areas in tropical oceans. Coral reef are not present in Gulf of Cambay. For habitat of coral reef they require warm, shallow, clear, sunny and agitated water."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "In which one of the following States is jute not significantly cultivated ?",
+      "image": "",
+      "options": [
+        "Assam",
+        "West Bengal",
+        "Odisha",
+        "Andhra Pradesh"
+      ],
+      "answer": "Andhra Pradesh",
+      "explanation": "The cultivation of jute in India is mainly confined to the eastern region of the country . The jute crop is grown in nearly 83 districts of seven states - West Bengal, Assam , Orissa, Bihar, Uttar Pradesh, Tripura and Meghalaya."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Name the site that gives us valuable information about India’s maritime links on the Coromandel coast.",
+      "image": "",
+      "options": [
+        "Bharukachchha",
+        "Karur",
+        "Arikamedu",
+        "Anuradhapura"
+      ],
+      "answer": "Arikamedu",
+      "explanation": "The Coromandel Coast is the southeastern coast region of the Indian subcontinent, bounded by the Utkal Plains to the north, the Bay of Bengal to the east, the Kaveri delta to the south and the Eastern Ghats to the west, extending over an area of about 22,800 square kilometres. Its definition can also include the north western coast of the island of Sri Lanka.[citation needed] The coast has an average elevation of 80 metres and is backed by the Eastern Ghats, a chain of low, flat-topped hills.\nArikamedu is a coastal fishing village, under the Ariankuppam Panchayat, on the southeastern coast of India, 4 kilometres (2.5 mi) from Pundicherry, on the Pundicherry-Cuddalore road; it was originally a French colonial town. It is located on the bank of the Ariyankuppam River (for most part of the year the river is considered a lagoon), also known as Virampattinam River, which forms the northern outlet of the Gingee River as it joins the Bay of Bengal. As the site is located at the bend of the river it provides protection to sea-going vessels that dock there."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Where are the largest quantity of cichlids found in India ?",
+      "image": "",
+      "options": [
+        "Backwaters of Kerala",
+        "Sunderbans",
+        "Narmada",
+        "Godavari"
+      ],
+      "answer": "Backwaters of Kerala",
+      "explanation": "Cichlid are fish from the family Cichlidae in the order Cichliformes. Cichlids were traditionally classed in a suborder, Labroidei, along with the wrasses (Labridae), in the order Perciformes but molecular studies have contradicted this grouping. The closest living relatives of cichlids are probably the convict blennies and both families are classified in the 5th edition of Fishes of the World as the two families in the Cichliformes, part of the subseries Ovalentaria. This family is both large and diverse. At least 1,650 species have been scientifically described,[5] making it one of the largest vertebrate families.\nThe largest quantity of cichilds are found in backwater of kerala."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following Indian States has no international boundary ?",
+      "image": "",
+      "options": [
+        "Bihar",
+        "Chhattisgarh",
+        "Uttarakhand",
+        "Meghalaya"
+      ],
+      "answer": "Chhattisgarh",
+      "explanation": "Madhya Pradesh, Jharkhand, Chhattisgarh, Haryana, Delhi do not have coastline nor international border."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following is not correct regarding South India ?",
+      "image": "",
+      "options": [
+        "Diurnal range of temperature is less",
+        "Annual range of temperature is less",
+        "Temperature is high throughout the year",
+        "Extreme climatic conditions are found"
+      ],
+      "answer": "Extreme climatic conditions are found",
+      "explanation": "The south India region has a tropical climate and depends on monsoons for rainfall. The region, which includes Karnataka, inland Tamil Nadu and western Andhra Pradesh, gets between 400 and 750 millimetres (15.7 and 29.5 in) of rainfall annually with hot summers and dry winters with temperatures around 20–24 °C (68–75 °F)."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match List I with List II and select the correct answer using the code given below the lists .<br>List I (Ethnic Territorial Segment)<br>A. Maruta Makkal<br>B. Kuravan Makkal<br>C. Mullai Makkal<br>D. Neyta! Makkal<br>List II (Related Occupational Pattern)<br>1. Pastoralists<br>2. Fishing people<br>3. Ploughmen<br>4. Hill people",
+      "image": "",
+      "options": [
+        "A-3, B-1, C-4, D-2",
+        "A-2, B-1, C-4, D-3",
+        "A-3, B-4, C-1, D-2",
+        "A-2, B-4, C-1, D-3"
+      ],
+      "answer": "A-3, B-4, C-1, D-2",
+      "explanation": "Maruta makkal or tribes were ploughmen (ulavar) inabiting fertile, well-watered tracts (panai) and living in villages called ur. The Kuravar is an ethnic Tamil community native to the Kurinji mountain region of southern India. Mullai Makkal or Pastoralists, also called Ayar (Cowmen) were the habitat of Tamil regions. Netal Makkal were fishing people living in large coastal village called Pattinam and who were living in small villages, called pakkam."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following rivers takes a ‘U’ turn at Namcha Barwa and enters India ?",
+      "image": "",
+      "options": [
+        "Ganga",
+        "Tista",
+        "Barak",
+        "Brahmaputra"
+      ],
+      "answer": "Brahmaputra",
+      "explanation": "Brahmaputra takes a ‘U’ turn at Namcha Barwa and then continues to flow in Arunachal Pradesh and after that, it is called as “Dihang River or Siang River”. Explanation: The ‘U’ turn is pointed at the beginning of Grand Canyon."
+    }
+  ]
+}

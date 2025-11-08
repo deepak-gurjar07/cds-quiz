@@ -1,0 +1,344 @@
+{
+  "World Geography": [
+    {
+      "subject": "World Geography",
+      "question": "A collection of gas dust which appears as a bright ball of light in the sky with a glowing tail is called",
+      "image": "",
+      "options": [
+        "Star",
+        "Comet",
+        "Constellation",
+        "Galaxy"
+      ],
+      "answer": "Comet",
+      "explanation": "Comet is a celestial object consisting of a nucleus of ice and dust and, when near the sun, a 'tail' of gas and dust particles pointing away from the sun."
+    },
+    {
+      "subject": "World Geography",
+      "question": "High spring tides occur at new Moon and full Moon because the",
+      "image": "",
+      "options": [
+        "Moon and Earth are at right angles",
+        "Sun and Moon are at right angles",
+        "Sun, Earth and the Moon are in straight line",
+        "Sun and Earth are at right angles"
+      ],
+      "answer": "Sun, Earth and the Moon are in straight line",
+      "explanation": "High spring tides occur at new moon and full moon because the Sun,Earth and Moon are in straight line."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Leaching is the maximum in the soil type of",
+      "image": "",
+      "options": [
+        "Laterite",
+        "Red",
+        "Regur",
+        "Desert"
+      ],
+      "answer": "Laterite",
+      "explanation": "In agriculture, leaching refers to the loss of water-soluble plant nutrients from the soil, due to rain and irrigation. The rate of leaching increases with the amount of rainfall, high temperatures, and the removal of protective vegetation. In areas of extensive leaching, many plant nutrients are lost, leaving quartz and hydroxides of iron, manganese, and aluminium. This remainder forms a distinctive type of soil, called laterite."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following regions is culturally closer to India but ethnically closer to China?",
+      "image": "",
+      "options": [
+        "Central Asia",
+        "West Asia",
+        "Polynesia",
+        "South-East Asia"
+      ],
+      "answer": "South-East Asia",
+      "explanation": "Southeast Asia is a sub region of Asia, consisting of the countries that are geographically south of China, east of India. Southeast Asia consists of two geographic regions: Maritime Southeast Asia and Mainland Southeast Asia. Mainland Southeast Asia comprises of Cambodia, Laos,Myanmar (Burma), Thailand, Vietnam, and West Malaysia. These countries are culturally closer to India but ethnically closer to China. Currently, there is around 190-205 million Buddhists in Southeast Asia, making it the second largest religion in the region, after Islam. Thus, around 35 to 38% of the global Buddhist population resides in Southeast Asia. The region has been greatly influenced by the cultures and religions of India and China."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which water body separates Australia from New Zealand?",
+      "image": "",
+      "options": [
+        "Cook Straits",
+        "Megallan",
+        "Tasman Sea",
+        "Great Barrier Reef"
+      ],
+      "answer": "Tasman Sea",
+      "explanation": "The Tasman Sea separates Australia from New Zealand."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Radio waves are reflected back to Earth from the",
+      "image": "",
+      "options": [
+        "Troposphere",
+        "Exosphere",
+        "Stratosphere",
+        "Ionosphere"
+      ],
+      "answer": "Ionosphere",
+      "explanation": "Radio waves are reflected back to earth from the Ionosphere. The ionosphere is a shell of electrons and electrically charged atoms and molecules that surrounds the Earth. It is a region of Earth's upper atmosphere, from about 60 km to 600 km altitude."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The pacific Islands from new Guinea South East-wards to the Fiji Islands' group is called",
+      "image": "",
+      "options": [
+        "The Polynesia",
+        "The Mellanesia",
+        "The Micronesia",
+        "The Autralasia"
+      ],
+      "answer": "The Mellanesia",
+      "explanation": "Mellanesia region consists of the four countries of Vanuatu, Solomon Islands, Fiji and Guinea. It is a sub-region of Oceania extending from the western end of the Pacific Ocean to the Arafura Sea, and eastward to Fiji. Besides these independent countries, Melanesia also includes New Caledonia, Maluku Islands and West Papua."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Israel has common borders with",
+      "image": "",
+      "options": [
+        "Lebanon, Syria, Jordan and Egypt",
+        "Turkey, Syria, Jordan and Yemen",
+        "Lebanon, Syria, Turkey and Jordan",
+        "Cyprus, Turkey, Jorden and Egypt"
+      ],
+      "answer": "Lebanon, Syria, Jordan and Egypt",
+      "explanation": "Israel has common borders with Lebanon, Syria, jordan, and Egypt."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which continent of the world does not have a desert?",
+      "image": "",
+      "options": [
+        "Australia",
+        "Europe",
+        "Asia",
+        "North America"
+      ],
+      "answer": "Europe",
+      "explanation": "Europe does not have a desert. It has Accona desert- a semi-desert in central Italy."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following countries is located South of the equator?",
+      "image": "",
+      "options": [
+        "Cameroon",
+        "Sudan",
+        "Nigeria",
+        "Rwanda"
+      ],
+      "answer": "Rwanda",
+      "explanation": "Rwanda is located north of the equator."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Consider the following statements<br>1. Suez Canal is an important link between developed countries and developing countries.<br>2. It joins the Mediterranean Sea with the Gulf of Suez<br>3. It is not a sea level canal.<br>Which of the statement given above is/are correct?",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "1 and 3",
+        "2 and 3",
+        "Only 1"
+      ],
+      "answer": "Only 1",
+      "explanation": "The Suez Canal connects the Mediterranean Sea and the Red Sea. It allows ships to travel between Europe and South Asia. It is an artificial sea-level waterway in Egypt."
+    }
+  ],
+  "Indian Geography": [
+    {
+      "subject": "Indian Geography",
+      "question": "Which of the following factors is/are responsible for high concentration of jute mills in the Hugli basin?<br>Select the correct answer using the code given below<br>1. Nearness to coal fields.<br>2. Convenient dry climate for spinning and weaving.",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Only 2",
+      "explanation": "Jute Mills are highly concentrated in Hugli Basin (West Bengal) because This industry requires a lot of water which is easily available from the Hugli River. Jute is the crop of hot and humid climate. It requires high temperature varying from 24°C to 35°C and heavy rainfall of 120 to 150 cm with 80 to 90 per cent relative humidity during the period of its growth.This type of climate is found in West Bengal."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List-I (Place) List-II (Famous for)<br>A. Balaghat 1. Oil field<br>B. Katni 2. Iron ore<br>C. Singrauli 3. Manganese<br>D. Kalol 4. Bauxite<br>5. Coal",
+      "image": "",
+      "options": [
+        "A-1 B-2 C-4 D-3",
+        "A-3 B-4 C-5 D-1",
+        "A-3 B-5 C-4 D-1",
+        "A-1 B-2 C-5 D-3"
+      ],
+      "answer": "A-3 B-4 C-5 D-1",
+      "explanation": "About 80% of the manganese production in India comes from Balaghat District of Madhya Pradesh. Katni (Madhya Pradesh ) is famous for Bauxite mines.Singrauli Coalfield is spread across the districts of Singrauli(Madhya Pradesh). Most of the coal is dispatched to pithead power plants as Singrauli Super Thermal Power Station, Rihand Thermal Power Station and Vindhyachal Thermal Power Station etc. Kalol in Gujaratis famous for its oil fields."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Sal trees are the typical species of",
+      "image": "",
+      "options": [
+        "Tropical rain forest",
+        "Tropical monsoon forest",
+        "Taiga forest",
+        "Tundra forest"
+      ],
+      "answer": "Tropical monsoon forest",
+      "explanation": "The trees in Monsoon Forests shed their leaves for about six to eight weeks in summer on account of a long dry spell. The rainfall suited for such forests is between75 to 200 cm. Sal is of the dry deciduous variety of tropical monsoon forest."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Consider the following statements<br>1. In the month of July, the Inter Tropical Convergence Zone is located in the Indo Gangetic plain.<br>2. Northen Inter Tropical Convergence Zone is the zone of clouds and heavy rainfall.<br>Which of the statement given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "The southeast trade winds in the southern hemisphere and the northeast trade winds in the northern hemisphere meet each other near the equator. The meeting place of these winds is known as the Inter-Tropical Convergence Zone (ITCZ). In the month of July, the ITCZ shifts to 20°- 25° N latitude and is located in the Indo-Gangetic Plain and the South-West monsoons blow from the Arabian Sea and the Bay of Bengal. NITCZ is the zone of clouds and heavy rainfall."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "The ageing index in India has increased from 14% in 1951 to > 21% in 2001. With respect to this which of the following effects is/are correct?<br>1. Decline in the proportion of child population.<br>2. Increase in the proportion of old population.<br>Select the correct answer from the codes given below",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Only 2",
+      "explanation": "Increase in the proportion of old population."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "In a significant climate responsive project, in which one of the following places recently an abandoned thermal power plant has been converted into a mega solar power enerating station which poised to give a huge fillip to India's renewable energy ambition?",
+      "image": "",
+      "options": [
+        "Talcher (Odisha)",
+        "Namrup (Asom)",
+        "Jamuria (Paschim Bangal)",
+        "Jaisalmar (Rajasthan)"
+      ],
+      "answer": "Jamuria (Paschim Bangal)",
+      "explanation": "Jamuria (Paschim Bangal)"
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Assertion (A) The Himalayan meadows are suitable for transhumance.<br>Reason (R) In these areas transport facility to move from one place to another is good.",
+      "image": "",
+      "options": [
+        "Both A and R are true and R is the correct explanation of A",
+        "Both A and R are true, but R is not the correct explanation of A",
+        "A is true, but R is false",
+        "A is false, but R is true"
+      ],
+      "answer": "Both A and R are true and R is the correct explanation of A",
+      "explanation": "Both A and R are true and R is the correct explanation of A"
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Assertion (A) Convectional rains occur during pre-monsoon summer in India.<br>Reason (R) Such rains occur due to adiabatic cooling.",
+      "image": "",
+      "options": [
+        "Both A and R are true and R is the correct explanation of A",
+        "Both A and R are true, but R is not the correct explanation of A",
+        "A is true, but R is false",
+        "A is false, but R is true"
+      ],
+      "answer": "Both A and R are true and R is the correct explanation of A",
+      "explanation": "Both A and R are true and R is the correct explanation of A"
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Consider the following statements<br>1. Jim Corbett National Park is the oldest national park of india.<br>2. It was one of the nine tiger reserves created at the launch of the Project Tiger in 1973.<br>3. Initially it was named as 'Hailey National Park'.<br>Which of the statements given above are correct?",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "All of these",
+        "2 and 3",
+        "1 and 3"
+      ],
+      "answer": "All of these",
+      "explanation": "All statements are correct."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "What is the name of the strait where 'Adams bridge' is situated?",
+      "image": "",
+      "options": [
+        "Bering Strait",
+        "Cook Strait",
+        "Palk Strait",
+        "Taiwan Strait"
+      ],
+      "answer": "Palk Strait",
+      "explanation": "Adam's Bridge is a chain of limestone shoals between Rameswaram Island (Tamil Nadu) and Mannar Island(Sri Lanka). The bridge is 30 kilometres long and separates the Gulf of Mannar from the Palk Strait."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "The hill range that separates the State of Manipur from the State of Nagaland is known as",
+      "image": "",
+      "options": [
+        "Arakan hills",
+        "Patkai hills",
+        "Barail hills",
+        "Manipur hills"
+      ],
+      "answer": "Barail hills",
+      "explanation": "The hill range that separates the State of Manipur from the State of Nagaland is known as Barail hills."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "What is the correct sequence of the location of the following sea ports of India from South to North?",
+      "image": "",
+      "options": [
+        "Cochin, Thiruvananthapuram, Calicut, Mangalore",
+        "Calicut, Thiruvananthapuram, Cochin, Mangalore",
+        "Thiruvananthapuram, Cochin, Calicut, Mangalore",
+        "Thiruvananthapuramr Calicut, Mangalore, Cochin"
+      ],
+      "answer": "Thiruvananthapuram, Cochin, Calicut, Mangalore",
+      "explanation": "The correct sequence is Thiruvananthapuram- Cochin-Calicut- Mangalore"
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "In the map given four petrochemical centres are marked with numbers. Match them with the following four places and select the correct answer using the code given below<br>A. Koyali<br>B. Trombay<br>C. Jamnagar<br>D. Mangalore",
+      "image": "",
+      "options": [
+        "A-2 B-3 C-1 D-4",
+        "A-2 B-1 C-3 D-4",
+        "A-4 B-2 C-3 D-1",
+        "A-4 B-3 C-2 D-1"
+      ],
+      "answer": "A-2 B-3 C-1 D-4",
+      "explanation": "Koyli- Gujarat, Trombay- Suburb of Mumbai, Jamnagar- Gujarat, Manglore- Karnataka"
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "The channel separating the Andaman Island from the Nicobar Islands is known as",
+      "image": "",
+      "options": [
+        "Coco channel",
+        "10° channel",
+        "Duncan passage",
+        "somboraro channel"
+      ],
+      "answer": "10° channel",
+      "explanation": "The Ten Degree Channel is a channel that separates the South Andaman and Car Nicobar in the Bay of Bengal."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List-I (River) List-II (Source)<br>A. Ganga 1. Amarkantak<br>B. Son 2. Gaumukh<br>C. Godavari 3. Mahabaleshwar<br>D. Krishna 4. Trimbakeshwer",
+      "image": "",
+      "options": [
+        "A-1 B-2 C-4 D-5",
+        "A-2 B-1 C-3 D-4",
+        "A-4 B-3 C-1 D-2",
+        "A-2 B-1 C-4 D-3"
+      ],
+      "answer": "A-2 B-1 C-4 D-3",
+      "explanation": "1. Ganga - Gaumukh<br>2. Son- Amarkantak<br>3. Godavari- Trimbakeshwar<br>4. Krishna- Mahabaleshwar"
+    }
+  ]
+}

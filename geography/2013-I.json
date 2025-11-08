@@ -1,0 +1,253 @@
+{
+  "World Geography": [
+    {
+      "subject": "World Geography",
+      "question": "The expression South Asia usually includes",
+      "image": "",
+      "options": [
+        "Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and SriLanka",
+        "Nepal, Bhutan, India, Afghanistan, China, Pakistan and SriLanka",
+        "Bangladesh, India, China, Nepal, Japan, Pakistan and Maldives",
+        "Bangladesh, Bhutan, China, Maldives, Nepal, Pakistan and Sri Lanka"
+      ],
+      "answer": "Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and SriLanka",
+      "explanation": "South Asia comprises the sub-Himalayan countries. According to the United Nations geographical region classification, the current territories areAfghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistanand Sri Lanka."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following is not an igneous rock?",
+      "image": "",
+      "options": [
+        "Granite",
+        "Basalt",
+        "Gabbro",
+        "Gneiss"
+      ],
+      "answer": "Gneiss",
+      "explanation": "Gneiss is a high grade metamorphic rock, meaning that it has been subjected to higher temperatures and pressures than schist. It is formed by the metamorphosis of granite, or sedimentary rock."
+    },
+    {
+      "subject": "World Geography",
+      "question": "If the time of a place located on 165° E meridian is 11:00 pm on Sunday, what would be the time at the place located on 165° W meridian?",
+      "image": "",
+      "options": [
+        "11:00 pm on Sunday",
+        "12:00 noon on Sunday",
+        "1:00 am on Sunday",
+        "11:00 pm on Saturday"
+      ],
+      "answer": "11:00 pm on Saturday",
+      "explanation": "There is a difference of 360 degree longitude between 165 degree east and 165 degree west. The time interval is 24 hours because every 15 degree longitude, there is a time difference of 1 hour."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following statesments about the International Date Line is not correct ?",
+      "image": "",
+      "options": [
+        "The International Date Line is largely based on the 180° meridian",
+        "The difference in time between the places just either side of the International Date Line is almost 1 day",
+        "The difference in time to the extent of 1 day on either side of the International Date Line is caused by inclined axis of the Earth",
+        "The International Date Line mostly passes through the Pacific Ocean"
+      ],
+      "answer": "The difference in time to the extent of 1 day on either side of the International Date Line is caused by inclined axis of the Earth",
+      "explanation": "The difference in time to the extent of 1 day on either side of the International Date Line is caused by rising of the sun in the east and not by inclined axis of the earth."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following is not a cause of generation of ocean currents ?",
+      "image": "",
+      "options": [
+        "Planetary winds",
+        "Variation in ocean water temperature",
+        "Revolution of the Earth",
+        "Shape and configuration of the coastliness"
+      ],
+      "answer": "Revolution of the Earth",
+      "explanation": "Revolution of the earth is not associated with the generation of ocean current."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The highest of all spring tides occurs at the time of",
+      "image": "",
+      "options": [
+        "full or new moon in association with winter solstice",
+        "full or new moon in association with equinox",
+        "full or new moon in association with summer solstice",
+        "winter as well as summer solstices"
+      ],
+      "answer": "full or new moon in association with equinox",
+      "explanation": "Spring tides occur twice each lunar month all year long without regard to the season. Neap tides, which also occur twice a month happen when the sun and moon are at right angles to each other. During full or new moons- which occur when the earth, sun, and moon are nearly in alignment-average tidal ranges are slightly larger."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which parts of the Earth’s surface experience least variation in incoming solar radiation throughout the year?",
+      "image": "",
+      "options": [
+        "Poles",
+        "Equatorial regions",
+        "Tropics of Cancer and Capricorn",
+        "Arctic and Antarctic circles"
+      ],
+      "answer": "Equatorial regions",
+      "explanation": "Equatorial regions are located in a band around the Equator and cover about 6% of the Earth's surface. They are often in lowland areas and have a climate that is hot and wet all year round. In these parts, earth surface experiences least variation in incoming solar radiation throughout the year."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following is a cold ocean current?",
+      "image": "",
+      "options": [
+        "Canary current",
+        "Brazil current",
+        "Gulf stream",
+        "Kuroshio current"
+      ],
+      "answer": "Canary current",
+      "explanation": "Canary Current is a cold current which blows in the North Atlantic Ocean."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The planetary winds that blow from the sub-tropical high pressure belts to the equator are known as",
+      "image": "",
+      "options": [
+        "westerlies",
+        "doldrums",
+        "polar winds",
+        "trade winds"
+      ],
+      "answer": "trade winds",
+      "explanation": "Trade winds blow from the subtropical highs or horse latitudes toward the low pressure of the ITCZ(Intertropical Convergence Zone)."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following statements regarding recycling is/ are correct?<br>1. Recycling is just the collection and separation of the waste materials.<br>2. Recycling is the collection and separation of the materials from the waste stream and their subsequent processing to produce a marketable product.<br>3. Recycling leads to reduction of waste disposal cost.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "Only 1",
+        "1 and 2",
+        "2 and 3",
+        "1 and 3"
+      ],
+      "answer": "2 and 3",
+      "explanation": "Recycling is the practice of collection and separation of the materials from the waste stream and their subsequent processing to produce a marketable product whichwould otherwise be discarded as waste. It leads to reduction of waste disposal cost."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Nearly 30% of the solar radiations return back to the space without contributing anything to the Earth's surface temperature. This amount of radiation is known as",
+      "image": "",
+      "options": [
+        "Black body",
+        "tropopause",
+        "Earth's albedo",
+        "mesopause"
+      ],
+      "answer": "Earth's albedo",
+      "explanation": "Albedo is the fraction of solar energy (shortwave radiation) reflected from the Earth back into space."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following gases in the atmosphere is/are responsible for acid rains?<br>1. Oxides of sulphur<br>2. Oxides of nitrogen<br>3. Oxides of carbon<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "1 and 3",
+        "Only 2",
+        "1, 2 and 3"
+      ],
+      "answer": "1 and 2",
+      "explanation": "Acid rain is a result of air pollution. Some gases especially nitrogen oxides and sulphur dioxide react with the tiny droplets of water in clouds to form sulphuric and nitric acids. The rain from these clouds then falls as very weak acid which is known as \"acid rain\"."
+    },
+    {
+      "subject": "World Geography",
+      "question": "'Global Dimming' means",
+      "image": "",
+      "options": [
+        "gradual increase of the temperature of ionosphere",
+        "gradual loss of biodiversity hot spots",
+        "gradual reduction in the amount of global direct irradiance at the Earth surface",
+        "gradual increase in the melting of ice in polar regions"
+      ],
+      "answer": "gradual reduction in the amount of global direct irradiance at the Earth surface",
+      "explanation": "Global dimming is defined as the decrease in the amounts of solar radiation reaching the surface of the Earth. The Global dimming has devastating effects on the earth's environment and living beings. The pollutants causing global dimming also leads to acid rain, smog and respiratory diseases in humans."
+    }
+  ],
+  "Indian Geography": [
+    {
+      "subject": "Indian Geography",
+      "question": "Veliconda hills, which is a part of Eastern Ghats, is situated in",
+      "image": "",
+      "options": [
+        "Odisha",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "answer": "Andhra Pradesh",
+      "explanation": "Veliconda Hills are situated in southeastern Andhra Pradesh state. They form the eastern flank of the Eastern Ghats."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "On which one among the following island, does the Negrito tribe called 'the Onge' live?",
+      "image": "",
+      "options": [
+        "North Andaman",
+        "Little Andaman",
+        "Little Nicobar",
+        "Great Nicobar"
+      ],
+      "answer": "Little Andaman",
+      "explanation": "The onges, a negrito tribe is inhabiting the Little Andaman Island in Andaman District. The Onges are pure hunter-gatherers. They are not aware of agriculture."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following lists<br>List I (Place) List II (Location in Map)<br>A. Kollam 1.<br>B. Tuticorin 2.<br>C. Ongole 3.<br>D. Nellore 4.<br>Codes<br>A B C D A B C D",
+      "image": "",
+      "options": [
+        "2 3 4 1",
+        "2 4 3 1",
+        "1 4 3 2",
+        "1 3 4 2"
+      ],
+      "answer": "2 4 3 1",
+      "explanation": "Kollam is an old seaport and city on the Laccadive Sea coast in Kerala.Tuticorin is a port city in Thoothukudi in Tamil Nadu.Ongole is a city in Prakasam district of Andhra Pradesh. Nellore is the 4th most populous city in Andhra Pradesh."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "The Karewas of Kashmir refers to which among the following types of deposits?",
+      "image": "",
+      "options": [
+        "Aeolian and glacial",
+        "Fluvial",
+        "Lacustrine",
+        "Volcanic"
+      ],
+      "answer": "Lacustrine",
+      "explanation": "The word Karewa in Kashmiri dialect means, \"elevated table-land.\"It was used for an unconsolidated to semi-consolidated sand-clay-conglomerate sequence. The Karewas in Kashmir valley are some 367 meters thick lacustrine deposits. They cover the area between the Jhelum alluvium in the north and Pir Panjal mountains in the south."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List I (Dam) List II (River)<br>A. Ukai dam 1. Beas<br>B. Bhakra dam 2. Krishna<br>C. Nagarjuna Sagar dam 3. Sutlj<br>D. Pandoh dam 4. Tapi (Tapti)<br>Codes<br>A B C D A B C D",
+      "image": "",
+      "options": [
+        "1 3 2 4",
+        "1 2 3 4",
+        "4 3 2 1",
+        "4 2 3 1"
+      ],
+      "answer": "4 3 2 1",
+      "explanation": "The Ukai Dam constructed across the Tapti River is the largest reservoir in Gujarat.<br>Bhakra Dam is a concrete gravity dam across the Sutlej River in Bilaspur, Himachal Pradesh.<br>Nagarjuna Sagar Dam is the world's largest masonry dam built on the Krishna River at Nagarjuna Sagar.<br>The Pandoh Dam is an embankment dam on the Beas River in Mandi in Himachal Pradesh."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one among the following Indian rivers originates in Maharashtra and flows through Karnataka and Andhra Pradesh to meet the Bay of Bengal in Andhra coast?",
+      "image": "",
+      "options": [
+        "Mahanadi",
+        "Kaveri",
+        "Krishna",
+        "Godavari"
+      ],
+      "answer": "Krishna",
+      "explanation": "Krishna river originates in the western ghats near Mahabaleshwar in Maharashtra. The Krishna river is around 1,290 km in length. It flows through the states of Maharashtra, Karnataka and Andhra Pradesh before merging in the Bay of Bengal at Hamasaladeevi in Andhra Pradesh."
+    }
+  ]
+}

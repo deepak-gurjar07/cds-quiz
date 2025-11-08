@@ -1,0 +1,227 @@
+{
+  "World Geography": [
+    {
+      "subject": "World Geography",
+      "question": "Which one among the following stars is nearest to the earth?",
+      "image": "",
+      "options": [
+        "Sirius",
+        "Arcturus",
+        "Spica",
+        "Proxima Centauri"
+      ],
+      "answer": "Proxima Centauri",
+      "explanation": "Proxima Centauri (meaning ‹nearest star of Centaurus'), or Alpha Centauri C, is a red dwarf, a small low-mass star, about 4.244 light-years (1.301 pc) from the Sun in the constellation of Centaurus. It was discovered in 1915 by Robert Innes and is the nearest- known star to the Sun."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following planets of our solar system has least mass?",
+      "image": "",
+      "options": [
+        "Neptune",
+        "Jupiter",
+        "Mars",
+        "Mercury"
+      ],
+      "answer": "Mercury",
+      "explanation": "Mercury has the least mass in our solar system and Jupiter the most."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which among the following countries of South America does the Tropic of Capricorn not pass through?",
+      "image": "",
+      "options": [
+        "Chile",
+        "Bolivia",
+        "Paraguay",
+        "Brazil"
+      ],
+      "answer": "Bolivia",
+      "explanation": "The Tropic of Capricorn runs through 10 countries: Namibia, Botswana, South Africa, Mozambique, Madagascar, Australia, Chile, Argentina, Paraguay, and Brazil."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following is not correct about Sargasso Sea?",
+      "image": "",
+      "options": [
+        "It is characterized with anticyclonic circulation of ocean currents.",
+        "It records the highest salinity in Atlantic Ocean.",
+        "It is located west of Gulf Stream and cast of Canary Current.",
+        "It confined in gyre of calm and motionless water."
+      ],
+      "answer": "It is located west of Gulf Stream and cast of Canary Current.",
+      "explanation": "The Sargasso Sea is in the North Atlantic is bounded by the Gulf Stream on the west, the North Atlantic Current on the north, the Canary Current on the east, and the North Equatorial Current on the south."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists:<br>List-I (City)<br>(a) Detroit<br>(b) Antwerp<br>(c) Tokyo<br>(d) Harbin<br>List-II (Product)<br>1. Motorcar<br>2. Diamond cutting<br>3. Steel<br>4. Shipbuilding",
+      "image": "",
+      "options": [
+        "A-3, B-4, C-2, D-1",
+        "A-3, B-2, C-4, D-1",
+        "A-1, B-4, C-2, D-3",
+        "A-1, B-2, C-4, D-3"
+      ],
+      "answer": "A-1, B-2, C-4, D-3",
+      "explanation": ""
+    },
+    {
+      "subject": "World Geography",
+      "question": "What is a constellation?",
+      "image": "",
+      "options": [
+        "A particular pattern of equidistant stars from the earth in the sky",
+        "A particular pattern of stars that may not be equidistant from the earth in the sky",
+        "A particular pattern of planets of our solar system in the sky",
+        "A particular pattern of stars, planets and satellites in the sky due to their position in the space"
+      ],
+      "answer": "A particular pattern of stars that may not be equidistant from the earth in the sky",
+      "explanation": "Constellation is a group of stars forming a recognizable pattern that is traditionally named after its apparent form or identified with a mythology."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following may be the true characteristic of cyclones?",
+      "image": "",
+      "options": [
+        "Temperate cyclones move from west to east with westerlies whereas tropical cyclones follow trade winds.",
+        "The front side of cyclone is known as the ‘eye of cyclone’.",
+        "Cyclones possess a centre of high pressure surrounded by closed isobars.",
+        "Hurricanes are well-known tropical cyclones which develop over mid-latitudes."
+      ],
+      "answer": "Hurricanes are well-known tropical cyclones which develop over mid-latitudes.",
+      "explanation": "Hurricane is a storm with a violent wind, in particular a tropical cyclone over the mid-latitude."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Atmospheric conditions are well-governed by humidity. Which one among the following may best define humidity?",
+      "image": "",
+      "options": [
+        "Form of suspended water droplets caused by condensation",
+        "Deposition of atmospheric moisture",
+        "Almost microscopically small drops of water condensed from and suspended in air",
+        "The moisture content of the atmosphere at a particular time and place"
+      ],
+      "answer": "The moisture content of the atmosphere at a particular time and place",
+      "explanation": "Humidity is the amount of water vapour present in air at a particular place and time."
+    }
+  ],
+  "Indian Geography": [
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following is not situated on Varanasi- Kanyakumari National Highway?",
+      "image": "",
+      "options": [
+        "Satna",
+        "Rewa",
+        "Katni",
+        "Jabalpur"
+      ],
+      "answer": "Satna",
+      "explanation": "Satna is not situated on the Varanasi-Kanyakumari highway (NH-7)."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following methods is not suitable for urban rainwater harvesting?",
+      "image": "",
+      "options": [
+        "Rooftop recharge pit",
+        "Recharge wells",
+        "Gully plug",
+        "Rechargte trench"
+      ],
+      "answer": "Gully plug",
+      "explanation": "Gully plugs are built using local stones, clay and bushes across small gullies and streams running down the hill slopes carrying drainage to tiny catchments during rainy season. It is not suitable for urban rain water harvesting."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "If one plots the tank irrigation in India and superimposes it with map of well irrigation, one may find that the two are negatively related. Which one of the following statements explain the phenomenon?<br>1. Tank irrigation predates well irrigation.<br>2. Tank irrigation is in the areas with impervious surface layers.<br>3. Well irrigation requires sufficient groundwater reserves.<br>4. Other forms of irrigation are not available.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "2 and 3 only",
+        "3 and 4",
+        "1 and 4"
+      ],
+      "answer": "2 and 3 only",
+      "explanation": "Tank system does not predate well irrigation in India."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following river valleys of India is under the influence of intensive gully erosion?",
+      "image": "",
+      "options": [
+        "Kos i",
+        "Chambal",
+        "Damodar",
+        "Brahmaputra"
+      ],
+      "answer": "Chambal",
+      "explanation": "The Chambal's lower course is lined by a 10-mile belt of bad land gullies resulting from accelerated soil erosion and is the site of a major project in soil conservation."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "The Shompens are the vulnerable tribal group of",
+      "image": "",
+      "options": [
+        "Jharkhand",
+        "Odisha",
+        "West Bengal",
+        "Andaman and Nicobar Islands"
+      ],
+      "answer": "Andaman and Nicobar Islands",
+      "explanation": "The Shompen or Shom Pen is the indigenous people of the interior of Great Nicobar Island, part of the Indian Union Territory of Andaman and Nicobar Islands. The Shompen are designated vulnerable tribal group."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following cities was not included in the list of smart cities in India?",
+      "image": "",
+      "options": [
+        "Silvassa",
+        "Jorhat",
+        "Itanagar",
+        "Kavaratti"
+      ],
+      "answer": "Itanagar",
+      "explanation": "Itanagar"
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists:<br>List-I (Type of Lake)<br>A. Tectonic<br>B. Crater<br>C. Glacial<br>D. Fluvial<br>List-II (Example)<br>1. Lonar Lake<br>2. Gangabal Lake<br>3. Purbasthali Lake<br>4. Bhimtal Lake",
+      "image": "",
+      "options": [
+        "A-4, B-1, C-2, D-3",
+        "A-4, B-2, C-1, D-3",
+        "A-3, B-1, C-2, D-4",
+        "A-3, B-2, C-1, D-4"
+      ],
+      "answer": "A-3, B-1, C-2, D-4",
+      "explanation": "Lonar Lake, also known as Lonar crater, is a notified National Geo-heritage Monument saline soda lake located at Lonar in Buldhana district, Maharashtra. The Gangbal Lake also called Gangbal Lake, is a lake situated at the foothills of Mount Haramukh in Ganderbal district, north of Srinagar city in the state of Jammu and Kashmir. It is fed by precipitation, glaciers and springs. Purbasthali is a tectonic lake in Bardhaman district, Kolkata. Bhimtal Lake is a fluvial lake in the town of Bhimtal in the Indian state of Uttarakhand."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "The Andaman group of islands and the Nicobar group of islands are separated by which one of the following latitudes?",
+      "image": "",
+      "options": [
+        "8° N latitude",
+        "10° N latitude",
+        "12° N latitude",
+        "13° N latitude"
+      ],
+      "answer": "10° N latitude",
+      "explanation": "The two island groups, the Andaman Islands and the Nicobar Islands are separated by the 10 ° N parallel, with the Andamans to the north of this latitude, and the Nicobars to the south."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Damanganga Reservoir Project with about 115 km of minor canals and distributaries is located in",
+      "image": "",
+      "options": [
+        "NCT",
+        "Dadra and Nagar Haveli",
+        "Puducherry",
+        "Goa"
+      ],
+      "answer": "Dadra and Nagar Haveli",
+      "explanation": "There is an existing major irrigation project on the river called the Damanganga Reservoir Project, which is located near Madhuban village in Dharampur taluka of Valsad district of Gujarat."
+    }
+  ]
+}

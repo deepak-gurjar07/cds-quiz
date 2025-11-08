@@ -1,0 +1,318 @@
+{
+  "World Geography": [
+    {
+      "subject": "World Geography",
+      "question": "At high altitudes, pressure cooker is preferable for cooking, because the boiling point of water",
+      "image": "",
+      "options": [
+        "reduces due to higher atmospheric pressure",
+        "reduces due to lower atmospheric pressure",
+        "increases due to reduced gravitational force",
+        "reduces due to increased ozone content in the atmosphere"
+      ],
+      "answer": "reduces due to lower atmospheric pressure",
+      "explanation": "At high altitudes, pressure cooker is preferable for cooking because the boiling point of water reduces due to lower atmosphere pressure."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following trains/railways passes through Germany, France, Austria, Hungary and Romania?",
+      "image": "",
+      "options": [
+        "Trans-Siberia",
+        "Cape-Cairo",
+        "Orient Express",
+        "Union and Central Pacific"
+      ],
+      "answer": "Orient Express",
+      "explanation": "The Venice Simplon-Orient-Express passed through the UK, France, Switzerland, Austria , Italy , Czech Republic, Germany, Hungary, Romania, Bulgaria and Turkey."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Tsunamis are not caused by",
+      "image": "",
+      "options": [
+        "hurricanes",
+        "Earthquakes",
+        "undersea landslides",
+        "volcanic eruptions"
+      ],
+      "answer": "hurricanes",
+      "explanation": "Tsunami is not caused by hurricanes."
+    },
+    {
+      "subject": "World Geography",
+      "question": "If the movement of the Earth's crust or a major climatic change makes an old stream young, it is called",
+      "image": "",
+      "options": [
+        "consequent stream",
+        "rejuvenation",
+        "subsequent stream",
+        "aggradation"
+      ],
+      "answer": "subsequent stream",
+      "explanation": "If the movement of the Earth's crust or a major climatic change makes an old stream young, it is called subsequent stream."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The jet streams are",
+      "image": "",
+      "options": [
+        "wind systems with a pronounced seasonal reverse at a direction",
+        "winds blowing from the subtropical high-pressure belts towards the subpolar low-pressure belts",
+        "narrow meandering bands of swift winds which blow in the midlatitudes near the tropopause and encircle the globe",
+        "winds blowing from the subpolar low-pressure belts towards the subtropical high-pressure belts"
+      ],
+      "answer": "narrow meandering bands of swift winds which blow in the midlatitudes near the tropopause and encircle the globe",
+      "explanation": "The jet streams are strong, generally westerly winds concentrated in a relatively narrowand shallow stream in the upper troposphere of the earth."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The concept of sustainable development relates to",
+      "image": "",
+      "options": [
+        "consumption levels",
+        "exhaustible resources",
+        "social equity",
+        "intergenerational equity"
+      ],
+      "answer": "intergenerational equity",
+      "explanation": "Intergenerational equity is a concept that says that humans 'hold the natural and cultural environment of the Earth in common both with other members of the present generation and with other generations, past and future. It means that we inherit the Earth from previous generations and have an obligation to pass it on in reasonable condition to future generations. The goal of sustainable development is Intergenerational equity."
+    },
+    {
+      "subject": "World Geography",
+      "question": "An Earthquake epicentre is the",
+      "image": "",
+      "options": [
+        "point where the seismograph is located",
+        "point within the Earth where the movement along the fault occurs",
+        "approximate centre of a group of related Earthquakes",
+        "point on the surface directly above where the rupture along the fault zone occur"
+      ],
+      "answer": "point on the surface directly above where the rupture along the fault zone occur",
+      "explanation": "The epicenter is the point on the Earth's surface where an earthquake explosion originates."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following seas are enclosed?<br>1. Andaman Sea<br>2. Arab Sea<br>3. Sea of Azov<br>4. Bering Sea<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "3 and 4",
+        "2 and3",
+        "1 and 4"
+      ],
+      "answer": "2 and3",
+      "explanation": "Sea of Azov is a sea in south-eastern Europe. Arabian Sea is the northwestern part of the Indian Ocean."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Match the following<br>List-I (Sphere of the Earth) List-II (Main Constituent of the Sphere)<br>A. Lithosphere 1 Living objects<br>B. Hydrosphere 2 Mixture of gases<br>C. Atmosphere 3 Water<br>D. Biosphere 4 Soil",
+      "image": "",
+      "options": [
+        "A-1 B-2 C-3 D-4",
+        "A-4 B-2 C-3 D-1",
+        "A-1 B-3 C-2 D-4",
+        "A-4 B-3 C-2 D-1"
+      ],
+      "answer": "A-4 B-3 C-2 D-1",
+      "explanation": "The lithosphere is the solid, outer part of the Earth. The hydrosphere is the liquid water component of the Earth.An atmosphere is the mixture of gases surrounding the Earth or other celestial body.The Biosphere is the part of the earth's surface and atmosphere inhabited by livingthings."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Bolivar is the monetary unit of",
+      "image": "",
+      "options": [
+        "Venezuela",
+        "Brazil",
+        "Bolivia",
+        "Belarus"
+      ],
+      "answer": "Venezuela",
+      "explanation": "The bolívar fuerte is the currency of Venezuela."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The time at Cairo is 2 hours ahead of Greenwich. Hence, it is located at",
+      "image": "",
+      "options": [
+        "30°W longitude",
+        "30°E longitude",
+        "28°E longitude",
+        "28°W longitude"
+      ],
+      "answer": "30°E longitude",
+      "explanation": "Cairo is located at 30 degree east longitude."
+    },
+    {
+      "subject": "World Geography",
+      "question": "If the earth did not have an atmosphere, temperature extremes between day and night would",
+      "image": "",
+      "options": [
+        "increase",
+        "decrease",
+        "stay the same",
+        "fluctuate rapidly"
+      ],
+      "answer": "increase",
+      "explanation": "If a planet has no atmosphere, all of the sunlight which strikes it reaches the surface, and usually 90% or more of that is absorbed and 10% or less is reflected back into space. Thus the temperature will increase."
+    }
+  ],
+  "Indian Geography": [
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following does not have a heavy water plant?",
+      "image": "",
+      "options": [
+        "Narora",
+        "Sriharikota",
+        "Kakrapar",
+        "Kota"
+      ],
+      "answer": "Sriharikota",
+      "explanation": "Sriharikota does not have a heavy water plant. Satish Dhawan Space Centre is a rocket launch centre located in Sriharikota in Andhra Pradesh."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of following projects of the NHPC (National Hydroelectric Power Corporation) has the largest power generation capacity (installed)?",
+      "image": "",
+      "options": [
+        "Baira-Siul",
+        "Chamera-1",
+        "Loktak",
+        "Salal"
+      ],
+      "answer": "Salal",
+      "explanation": "The Chamera -1 Hydroelectric project is located at the Chamba district in the state of Himachal Pradesh. The Chamera-I generates 540 MW (3x180 MW) of electricity. Salal power station is run-of-the-river scheme with an installed capacity of 690 MW (Stage-I of 3 x115 MW & Stage-II 3 X115 MW) to harnesses the Hydropower potential of river Chenab. It is located in Reasi district of Jammu & Kashmir."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Deltas are common in India for the East-flowing river systems, whereas they are nearly absent on the West coast, because West-flowing rivers",
+      "image": "",
+      "options": [
+        "are few",
+        "have lesser water volume and carry less run-off silt",
+        "originate in dry areas",
+        "originate largely in the Western Ghats and have short distance to cover to the sea"
+      ],
+      "answer": "have lesser water volume and carry less run-off silt",
+      "explanation": "Most of the Western flowing rivers travel lesser distance than eastern flowing rivers before getting into the sea. On way to Western coast through hard rocks and over higher gradient, they couldn't collect large amount of Slit and flow with very high speed compared to East flowing rivers. Eastern rivers flow through broken hills and mountain ranges. So, they are widened and flow with lesser velocity before entering into sea. So, they deposit sediments and silt before entering into sea and can form a Delta."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which of the following statements with regard to rainfall in India is/are correct?<br>1. Most of the rainfall in India is due to the South-West monsoon.<br>2. In South India, rainfall decreases away from the Eastern Chats.<br>Select the correct answer using the code given below",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Only 1",
+      "explanation": "The summer or south-west monsoon comes in from the direction of Africa, and brings heavy rain to the west coast and large areas of northern India between June and August. The Western Ghats intercepts the Southwestern Monsoon winds. The Western slopes of the mountains experience heavy annual rainfall (with 80 percent of it falling during the southwest monsoon from June to September), while the Eastern slopes are drier; rainfall also decreases from South to North."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which is the correct arrangement of the following rivers from North to South?",
+      "image": "",
+      "options": [
+        "Godavari, Penner, Cauveri, Periyar",
+        "Penner, Godavari, Periyar, Cauveri",
+        "Godavari, Cauveri, Penner, Periyar",
+        "Cauveri, Godavari, Periyar, Penner"
+      ],
+      "answer": "Godavari, Penner, Cauveri, Periyar",
+      "explanation": "Correct sequence is Godavari- Penner- Cauveri- Periyar<br>The Godavari is the second longest river in India after the river Ganga. It originates from Western Ghats of central India near Nasik in Maharashtra.The Penner originates from Nandi Hills in Chikballapur District of Karnataka. This river flows from north as well as east corners across Andhra Pradesh.The Cauvery originates from Western Ghats in Karnataka and flows generally south and east through Karnataka and Tamil Nadu.The Periyar originates from Western Ghats range near the border with Tamil Nadu and flows in Kerala."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Consider the following features of a border district of India and identify the district using the code given below Situated at the height of 10000 feet, which is enchanted with scenic beauty, the district is surrounded by two nations in the North and South-West. River Nyamjangchu runs through it. Potato, maize and millet are the main crops of the district. Besides monasteries, tourist attractions of the district and its surrounding places include Sella Pass, PTSO, War memorial, Jaswant Garh etc. Losar is one of the prominent festivals of the district.",
+      "image": "",
+      "options": [
+        "Lohit",
+        "Tawang",
+        "Kangra",
+        "West Sikkim"
+      ],
+      "answer": "Tawang",
+      "explanation": "Tawang is situated in the northwestern part of Arunachal Pradesh at an elevation of approximately 10,000 ft. The area is claimed by both the People's Republic of China and the Republic of India as a part of South Tibet."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which among the following Rajdhani trains covers the longest distance?",
+      "image": "",
+      "options": [
+        "2433 Chennai Central",
+        "2431 Trivandrum Central",
+        "2435 Dibrugarh Town",
+        "2429 Bangluru City Junction"
+      ],
+      "answer": "2431 Trivandrum Central",
+      "explanation": "The Thiruvananthapuram Rajdhani (12431/32) is the longest running Rajdhani Express train, which covers about 3,149 km . It runs from Thiruvanathapuram Central (Kerala)to Hazrat Nizamuddin(Delhi). Thiruvananthapuram is the capital of Kerala."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following places is not located on the bank of river Ganga?",
+      "image": "",
+      "options": [
+        "Uttarkashi",
+        "Kanpur",
+        "Fatehpur",
+        "Bhagalpur"
+      ],
+      "answer": "Uttarkashi",
+      "explanation": "Uttarkashi is not located on the bank of river Ganga."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "On the map of India, the shaded districts are those in which a particular tribal group constitutes more than 50% of the tribal population. What is that particular tribal group?",
+      "image": "",
+      "options": [
+        "Gonds",
+        "Bhils",
+        "Nagas",
+        "Santhals"
+      ],
+      "answer": "Santhals",
+      "explanation": "Santhals are the largest tribal group in India who lives mainly in Assam, odisha, Bihar, West Bengal and Jharkhand."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following is not associated with monsoon climate in India?",
+      "image": "",
+      "options": [
+        "El Nino temporary warm currents",
+        "South-equatorial warm currents of Indian Ocean",
+        "Western disturbances",
+        "Cyclones of Bay of Bengal"
+      ],
+      "answer": "South-equatorial warm currents of Indian Ocean",
+      "explanation": "The South Equatorial Current is a significant Pacific, Atlantic, and Indian Ocean current that flows east-to-west between the equator and about 20 degrees south."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of die following statements is not correct regarding the Himalayas?",
+      "image": "",
+      "options": [
+        "Hmalayas have nappe and recumbent folds",
+        "Himalayas rose up from the Tethys Sea",
+        "Himalayas contain three mountain ranges-Siwaliks, Great Himalayas and kunlun Ranges",
+        "The orogeny took place in the Tertiary Era"
+      ],
+      "answer": "Himalayas contain three mountain ranges-Siwaliks, Great Himalayas and kunlun Ranges",
+      "explanation": "Himalayas contain three mountain ranges the Himadri (greater Himalaya), Himachal (lesser Himalaya) and the Shiwaliks (outer Himalaya)."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following statements on biosphere reserves is not correct?",
+      "image": "",
+      "options": [
+        "In 1971, UNESCO launched a worldwide programme on man and biosphere",
+        "Biosphere reserves promote research on ecological conservation",
+        "Nanda Devi Biosphere Reserve is located in Madhya pradesh",
+        "Biosphere reserves are multipurpose protected areas to preserve the genetic diversity in ecosystems"
+      ],
+      "answer": "Nanda Devi Biosphere Reserve is located in Madhya pradesh",
+      "explanation": "Nanda Devi Biosphere Reserve is located in Uttarakhand. It was inscribed a World Heritage Site by UNESCO in 1988."
+    }
+  ]
+}

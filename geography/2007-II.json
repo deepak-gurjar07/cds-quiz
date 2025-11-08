@@ -1,0 +1,253 @@
+{
+  "World Geography": [
+    {
+      "subject": "World Geography",
+      "question": "Match the following<br>List-I (Centre of Economic Activity) List-II (Country)<br>A. Edmonton 1. Australia<br>B. Kimberley 2. South Africa<br>C. Cardiff 3. United Kingdom<br>D. Cairns 4. Canada",
+      "image": "",
+      "options": [
+        "A-1 B-2 C-3 D-4",
+        "A-4 B-3 C-2 D-1",
+        "A-1 B-3 C-2 D-4",
+        "A-4 B-2 C-3 D-1"
+      ],
+      "answer": "A-4 B-2 C-3 D-1",
+      "explanation": "1. Edmanton- Canada<br>2. Kimbertley- South Africa<br>3. Cardiff- United Kingdom<br>4. Cairns- Australia."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following straits is not in Asia?",
+      "image": "",
+      "options": [
+        "Malacca Strait",
+        "Bass Strait",
+        "Formosa Strait",
+        "Molucca Strait"
+      ],
+      "answer": "Bass Strait",
+      "explanation": "Bass Strait is a sea strait which separates Tasmania from the Australian mainland."
+    },
+    {
+      "subject": "World Geography",
+      "question": "What is the other name for the equatorial rain farests?",
+      "image": "",
+      "options": [
+        "Lianos",
+        "Campos",
+        "Gran Chaco",
+        "Selvas"
+      ],
+      "answer": "Selvas",
+      "explanation": "Selvas is a tropical rain forest found in the Amazon basin of South America."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which of the following seas/gulfs are connected by the Suez Canal?",
+      "image": "",
+      "options": [
+        "The Mediterranean Sea and the Red Sea",
+        "Gulf of Oman and the Red Sea",
+        "The Mediterranean Sea and the Gulf of Oman",
+        "Persian Gulf and the Arabian Sea"
+      ],
+      "answer": "The Mediterranean Sea and the Red Sea",
+      "explanation": "The Suez Canal is an artificial sea-level waterway in Egypt, It connects the Mediterranean Sea and the Red Sea. On November 17, 1869, the Suez Canal was opened to navigation."
+    },
+    {
+      "subject": "World Geography",
+      "question": "The Great Barrier Reef is located in which country?",
+      "image": "",
+      "options": [
+        "Chile",
+        "Australia",
+        "USA",
+        "Indonesia"
+      ],
+      "answer": "Australia",
+      "explanation": "The Great Barrier Reef is the world's largest coral reef system located in the Coral Sea, off the coast of Queensland, Australia."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which country among the following has the largest cultivated area of cotton in the world?",
+      "image": "",
+      "options": [
+        "Egypt",
+        "India",
+        "Pakistan",
+        "USA"
+      ],
+      "answer": "USA",
+      "explanation": "USA has the largest cultivated area of cotton in the world."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following is the capital of Cambodia?",
+      "image": "",
+      "options": [
+        "Ho Chi Minh city",
+        "Hanoi",
+        "Semarang",
+        "Phnom Penh"
+      ],
+      "answer": "Phnom Penh",
+      "explanation": "The capital of Combodia is Phnom Penh."
+    },
+    {
+      "subject": "World Geography",
+      "question": "Which one of the following countries is not situated in the region between the Caspian Sea and the Black Sea?",
+      "image": "",
+      "options": [
+        "Armenia",
+        "Azerbaijan",
+        "Georgia",
+        "Ukraine"
+      ],
+      "answer": "Ukraine",
+      "explanation": "Ukraine is not located between Caspian Sea and the Black Sea. It is located on the North of Black Sea."
+    }
+  ],
+  "Indian Geography": [
+    {
+      "subject": "Indian Geography",
+      "question": "River Luni originates near Pushkar and drains into which one of the following?",
+      "image": "",
+      "options": [
+        "Rann of Kachchh",
+        "Arbian Sea",
+        "Gulf of Cambay",
+        "Lake Sambhar"
+      ],
+      "answer": "Rann of Kachchh",
+      "explanation": "The Luni is a river of western Rajasthan state. It originates in the Pushkar valley of the Aravalli Range near Ajmer and ends in Rann of Kutch in Gujarat."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following pairs is not correctly matched?<br>Headquarters of Railways Zone City<br>A. South-Western Hubli<br>B. North-Western Jaipur<br>C. Western Mumbai<br>D. Central Jabalpur",
+      "image": "",
+      "options": [
+        "South-Western Hubli",
+        "North-Western Jaipur",
+        "Western Mumbai",
+        "Central Jabalpur"
+      ],
+      "answer": "Central Jabalpur",
+      "explanation": "Central Zone of Indian railways is situated at Mumbai CST. Jabalpur is headquarter of West Central Railway Zone."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "The Palghat Gap serves inland communications from",
+      "image": "",
+      "options": [
+        "Madurai to Thiruvananthapuram",
+        "Chennai to Kochi",
+        "Pune to Mumbai",
+        "Bangaluru to Mangalore"
+      ],
+      "answer": "Madurai to Thiruvananthapuram",
+      "explanation": "Palghat Gap is a low mountain pass in the Western Ghats between Coimbatore in Tamil Nadu and Palakkad in Kerala. It allows inland communication from Madurai to Thiruvananthapuram."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following states has built the famous Gandhi Sagar across the Chambal River?",
+      "image": "",
+      "options": [
+        "Rajasthan",
+        "Maharashtra",
+        "Uttar Pradesh",
+        "Madhya Pradesh"
+      ],
+      "answer": "Madhya Pradesh",
+      "explanation": "The Gandhi Sagar Dam is one of the four major dams built on India's Chambal River. The dam is located in the Mandsaur district of Madhya Pradesh."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "What is 'Operation Kolleru' that was recently in the news?",
+      "image": "",
+      "options": [
+        "A massive river linkage project",
+        "A project to improve a wetland",
+        "A project to supply drinking water to a mega city",
+        "A rural drinking water supply scheme of a southern state"
+      ],
+      "answer": "A project to improve a wetland",
+      "explanation": "With a view to restoring the past glory for Kolleru lake, government had taken up 'Operation Kolleru' on the Krishna and West Godavari district borders. Kolleru Lake is one of the largest freshwater lakes in India located in state of Andhra Pradesh"
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Consider the following statements<br>1. Dakshin Gangotri is India's second scientific manned station in Antarctica after Maitri.<br>2. The National Centre for Antarctic and Ocean Research is situated at Goa.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Only 2",
+      "explanation": "Dakshin Gangotri was the first scientific base station of India situated in Antarctica. The National Centre for Antarctic and Ocean Research (NCAOR) is situated in Vasco, Goa. It is an autonomous Institution of the Department of Ocean Development (DOD) which is responsible for administering the Indian Antarctic Program and maintains the Indian government's Antarctic research station, Maitri."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "In the Cauvery River water dispute, which one of the following groups of states are concerned?",
+      "image": "",
+      "options": [
+        "Kerala and Karnataka only",
+        "Karnataka, Andhra Pradesh and Maharashtra",
+        "Kerala, Karnataka, Tamil Nadu and Union Terrtory of Puducherry",
+        "Kerala, Goa, Karnataka and Tamil Nadu"
+      ],
+      "answer": "Kerala, Karnataka, Tamil Nadu and Union Terrtory of Puducherry",
+      "explanation": "Cauvery river dispute is among Kerala, Karnataka, Tamil Nadu and Puducherry."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Which one of the following districts does not have a gold field?",
+      "image": "",
+      "options": [
+        "Anantpur",
+        "Kolar",
+        "Raichur",
+        "Vishakhapatnam"
+      ],
+      "answer": "Vishakhapatnam",
+      "explanation": "Vishakhapatnam does not have a gold field."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "What is the approximate life expectancy for males in India on the basis of data for the year 2006?",
+      "image": "",
+      "options": [
+        "56 years",
+        "58 years",
+        "64 years",
+        "68 years"
+      ],
+      "answer": "64 years",
+      "explanation": "According to the Data for year 2006, the life expectancy for males in India is 64 years."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List-I (Ethnic Community) List-II (State)<br>A. Apatani 1. Arunachal Pradesh<br>B. Bhutia 2. Madhya Pradesh<br>C. Gond 3. Manipu<br>D. Meiti 4 Sikkim",
+      "image": "",
+      "options": [
+        "A-1 B-2 C-4 D-3",
+        "A-1 B-4 C-2 D-3",
+        "A-3 B-2 C-4 D-1",
+        "A-3 B-4 C-2 D-1"
+      ],
+      "answer": "A-1 B-4 C-2 D-3",
+      "explanation": "1. The Apatani - are a tribal group of people living in the Ziro valley in the Lower Subansiri district of Arunachal Pradesh.<br>2. Bhutia people live particularly in Sikkim.<br>3. Gond people are a Dravidian people of central India spread over the states of Madhya Pradesh, eastern Maharashtra (Vidarbha), Chhattisgarh, Uttar Pradesh, Telangana and Western Odisha.<br>4. The Meetei people are an ethnic group of Kangleipak (Manipur)."
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match the following<br>List-I (Wild life) List-II (State)<br>A. Wild Ass 1. Kerala<br>B. Lion Tailed Macaque 2. Asom Macaque<br>C. Hoolock Gibbon 3. Gujarat",
+      "image": "",
+      "options": [
+        "A-1 B-3 C-2",
+        "A-2 B-1 C-3",
+        "A-3 B-1 C-2",
+        "A-3 B-2 C-1"
+      ],
+      "answer": "A-3 B-1 C-2",
+      "explanation": "Indian Wild Ass Sanctuary also known as the Wild Ass Wildlife Sanctuary is located in the Little Rann of Kutch in the Gujarat.<br>The lion-tailed macaque is an Old World monkey endemic to the Western Ghats of South India. In the forests of Kerala they were observed preying on nestling and eggs of pigeons.<br>Hoolock Gibbon is a primate found in Assam, Bangladesh and in Myanmar."
+    }
+  ]
+}
