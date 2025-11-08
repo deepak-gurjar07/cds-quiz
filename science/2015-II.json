@@ -96,9 +96,108 @@
       "explanation": "In convex mirrors, the image is smaller than the object. This mirror provides a wider scope of view so it becomes easy for vehicles use."
     }
   ],
-  "Genetics": [
+  "Chemistry (Inorganic Chemistry)": [
     {
-      "subject": "Genetics",
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Red phosphorus is used in the manufacture of safety matches. This is due to the fact that",
+      "image": "",
+      "options": [
+        "it shows phosphorescence",
+        "at ordinary temperature, it is less reactive than other varieties of phosphorus",
+        "it cannot be converted to white phosphorus on heating",
+        "it does not react with halogen on heating"
+      ],
+      "answer": "at ordinary temperature, it is less reactive than other varieties of phosphorus",
+      "explanation": "Phosphorus is of the two types - White and red. White phosphorus is highly reactive and catches fire at normal room temperature but red phosphorus does not show such nature."
+    },
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Which one of the following is not true for diamond?",
+      "image": "",
+      "options": [
+        "Each carbon atom is linked to four other carbon atoms",
+        "Three-dimensional network structure of carbon atoms is formed",
+        "It is used as an abrasive for sharpening hard tools",
+        "It can be used as a lubricant."
+      ],
+      "answer": "It can be used as a lubricant.",
+      "explanation": "The structure of diamond. In diamond each carbon (C) atom shares electrons (e-) with four other carbon atoms forming four single bond. shape of structure appears three dimensional network structure. It is very hard structure being used in cutting and sharpening tools. It cannot be used as lubricant."
+    }
+  ],
+  "Chemistry (History & Discoveries)": [
+    {
+      "subject": "Chemistry (History & Discoveries)",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (Exponent) List-II (Law)<br>A. John Dalton 1. Law of definite proportion by volume<br>B. Joseph Proust 2. Law of multiple proportion<br>C. Antoine Lavoisier 3. Law of definite proportion by weight<br>D. Joseph Louis Gay- Lussac 4. Law of conservation of mass<br>Code:<br>A B C D A B C D",
+      "image": "",
+      "options": [
+        "2 3 4 1",
+        "2 4 3 1",
+        "1 4 3 2",
+        "1 3 4 2"
+      ],
+      "answer": "2 3 4 1",
+      "explanation": "Exponent - Law<br>John Dalton - Law of multiple proportion<br>Joseph Proust - Law of definite Proportion by weight<br>Antoine Lavoisier - Law of Conservation of mass<br>Joseph Louis Gay - Law of definite proportion Lussac by volume."
+    },
+    {
+      "subject": "Chemistry (History & Discoveries)",
+      "question": "The atomic theory of matter was first proposed by",
+      "image": "",
+      "options": [
+        "John Dalton",
+        "Rutherford",
+        "J. J. Thomson",
+        "Niels Bohr"
+      ],
+      "answer": "John Dalton",
+      "explanation": "John Dalton (1766-1844), an English chemist is known for the work in the development of modern atomic theory. He was awarded the Royal medal for this."
+    }
+  ],
+  "Chemistry (Environmental Chemistry)": [
+    {
+      "subject": "Chemistry (Environmental Chemistry)",
+      "question": "Which of the following is not gaseous air pollutant?",
+      "image": "",
+      "options": [
+        "Oxides of Sulphur",
+        "Oxides of nitrogen",
+        "Hydrocarbon",
+        "Smoke"
+      ],
+      "answer": "Hydrocarbon",
+      "explanation": "Hydrocarbon is related with petro chemicals such as crude oil and petrolium. Environmental pollution by crude oil is generally caused during disposal operations and spilling in water bodies like- oceans, seas and rivers."
+    }
+  ],
+  "Chemistry (Physical Chemistry)": [
+    {
+      "subject": "Chemistry (Physical Chemistry)",
+      "question": "Which one of the following statement is not correct?",
+      "image": "",
+      "options": [
+        "Water starts boiling when its vapour pressure becomes equal to atmospheric pressure.",
+        "Water is known as universal solvent.",
+        "Permanent hardness of water is due to presence of MgCl2, CaCl2, MgSO4 and CaSO4.",
+        "Density of ice is greater than that of water."
+      ],
+      "answer": "Density of ice is greater than that of water.",
+      "explanation": "Ice is less dense in comparison to liquid water. Actually when water freezes, water (H2O) molecules form a crystalline structure by Hydrogen bonds. These bonds cause molecules to push apart lowering the density of water (H2O)"
+    },
+    {
+      "subject": "Chemistry (Physical Chemistry)",
+      "question": "Which one of the following physical quantities is the same for molecules of all gases at a given temperature?",
+      "image": "",
+      "options": [
+        "Speed",
+        "Mass",
+        "Kinetic energy",
+        "Momentum"
+      ],
+      "answer": "Kinetic energy",
+      "explanation": "Kinetic energy is the same for molecules of all gases at a given temperature."
+    }
+  ],
+  "Biology (Genetics)": [
+    {
+      "subject": "Biology (Genetics)",
       "question": "Genetic screening is",
       "image": "",
       "options": [
@@ -111,7 +210,7 @@
       "explanation": "Genetic screening is a process through which analysis of gene is performed to find out defective gene causing a specific disorder in a person."
     },
     {
-      "subject": "Genetics",
+      "subject": "Biology (Genetics)",
       "question": "Who among the following is considered as the father of genetic engineering?",
       "image": "",
       "options": [
@@ -124,7 +223,7 @@
       "explanation": "Paul Berg (1926), an American biochemist is considered as the father of genetic engineering. He evolved a technique to join DNAs from two different organisms."
     },
     {
-      "subject": "Genetics",
+      "subject": "Biology (Genetics)",
       "question": "Which of the following cause(s) variation in the genetic material of progeny?<br>1. Sexual reproduction<br>2. Asexual reproduction<br>3. Mutations<br>4. Epigenetic changes<br>Select the correct answer using the code given below.",
       "image": "",
       "options": [
@@ -137,9 +236,9 @@
       "explanation": "Epigenetic Changes, mutations (due to change in DNA structure) and sexual reproduction (due to change during meiosis process) cause variation in the genetic material of off spring."
     }
   ],
-  "Biochemistry": [
+  "Biology (Biochemistry)": [
     {
-      "subject": "Biochemistry",
+      "subject": "Biology (Biochemistry)",
       "question": "Cobalt is associated with",
       "image": "",
       "options": [
@@ -152,9 +251,9 @@
       "explanation": "Cobalt is an element taking part in the composition of Vitamin B12. It plays an important role in production of blood cells."
     }
   ],
-  "Human Physiology": [
+  "Biology (Human Physiology)": [
     {
-      "subject": "Human Physiology",
+      "subject": "Biology (Human Physiology)",
       "question": "Absorption of water in the human body can be found in<br>1. renal tubule in kidney<br>2. hepatic cells in liver<br>3. large intestine<br>4. pancreatic duct<br>Select the correct answer using the code given below.",
       "image": "",
       "options": [
@@ -164,10 +263,10 @@
         "3 only"
       ],
       "answer": "1 and 3 only",
-      "explanation": "Large intestine is the last part of alimentary canal where extra water is absorbed to prepare the waste as a solid stool.<br>Renal tubule in kidney is responsible for absorption of water to produce proper concentration of urine."
+      "explanation": "Large intestine is the last part of alimentary canal where extra water is absorbed to prepare the waste as a solid stool.<br>The Renal tubule in kidney is responsible for absorption of water to produce proper concentration of urine."
     },
     {
-      "subject": "Human Physiology",
+      "subject": "Biology (Human Physiology)",
       "question": "Neutrophils and lymphocytes originate from",
       "image": "",
       "options": [
@@ -180,9 +279,9 @@
       "explanation": "Bone marrow is located within the bone cavities. It is composed of stromal cells and parenchymal cells. Neutrophils and lymphocytes are blood cells which are produced within bone marrow."
     }
   ],
-  "Health and Disease": [
+  "Biology (Diseases)": [
     {
-      "subject": "Health and Disease",
+      "subject": "Biology (Diseases)",
       "question": "Measles is a disease caused by",
       "image": "",
       "options": [
@@ -195,7 +294,7 @@
       "explanation": "Measles is a viral disease which is also called rubeola. It is a contagious disease spreading through contact sneezing and coughing etc."
     },
     {
-      "subject": "Health and Disease",
+      "subject": "Biology (Diseases)",
       "question": "The mandate of the scheme entitled 'Directly Observed Treatment, Short-Course (DOTS)' launched by WHO is to ensure that",
       "image": "",
       "options": [
@@ -208,7 +307,7 @@
       "explanation": "DOTS (Directly Observed Treatment, Short course) launched by WHO is a therapy for treatment of TB patient."
     },
     {
-      "subject": "Health and Disease",
+      "subject": "Biology (Diseases)",
       "question": "Penicillin inhibits synthesis of bacterial",
       "image": "",
       "options": [
@@ -221,7 +320,7 @@
       "explanation": "Penicillin is very effective medicine against bacterial infection. During bacterium division, it prevents the cell wall formation. Thus it helps in prevention of bacterial growth."
     },
     {
-      "subject": "Health and Disease",
+      "subject": "Biology (Diseases)",
       "question": "Most antibiotics target bacterial parasites interfering with various factors of growth of metabolism such as<br>1. synthesis of cell wall<br>2. bacterial protein Synthesis<br>3. synthesis of nuclear membrane<br>4. mitochondrial function<br>Select the correct answer using the code given below",
       "image": "",
       "options": [

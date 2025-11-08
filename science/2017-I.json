@@ -1,7 +1,7 @@
 {
-  "Physics (Modern Physics)": [
+  "Physics (Electronics)": [
     {
-      "subject": "Physics (Modern Physics)",
+      "subject": "Physics (Electronics)",
       "question": "When a piece of pure silicon is doped with aluminium, then",
       "image": "",
       "options": [
@@ -14,7 +14,7 @@
       "explanation": "Aluminium is a p-type dopant, which means that when a semiconductor (silicon in this case) is doped with aluminium, it creates a hole (positively charged carrier) by accepting an electron from the silicon atom. Electrical conductivity of semiconductors increase and resistivity remains same."
     },
     {
-      "subject": "Physics (Modern Physics)",
+      "subject": "Physics (Electronics)",
       "question": "Which one of the following is not a semiconductor?",
       "image": "",
       "options": [
@@ -25,37 +25,11 @@
       ],
       "answer": "Quartz",
       "explanation": "Semiconductors are solid substances that show electrical conductivity either with the addition of an impurity or because of temperature effects. Silicon, Germanium, and Galium Arsenide are semiconductors as they show electrical conductivity depending on the addition of impurity and temperature. Quartz is an insulator."
-    },
-    {
-      "subject": "Physics (Modern Physics)",
-      "question": "A photon of X-ray has energy of 1 keV. A photon of visible radiation has energy of 3 eV. In this context, which one of the following statements is not correct?",
-      "image": "",
-      "options": [
-        "The wavelength of X-ray photon is less than the wavelength of visible radiation photon.",
-        "Both the photons have different energies.",
-        "The speeds of both the photons in vacuum are different.",
-        "The frequency of X-ray photon is higher than the frequency of visible radiation photon."
-      ],
-      "answer": "The speeds of both the photons in vacuum are different.",
-      "explanation": "Electromagnetic radiation consists of photons which move at speed of light within a vacuum."
-    },
-    {
-      "subject": "Physics (Modern Physics)",
-      "question": "Which one of the following statements is not correct?",
-      "image": "",
-      "options": [
-        "The cathode rays originate from cathode and proceed towards the anode in a cathode-ray discharge tube.",
-        "The television picture tubes are nothing but cathode-ray tubes.",
-        "The cathode rays themselves are not visible.",
-        "The characteristics of cathode rays depend upon the nature of the gas present in the cathode-ray tube."
-      ],
-      "answer": "The characteristics of cathode rays depend upon the nature of the gas present in the cathode-ray tube.",
-      "explanation": "Cathode ray is a beam of electrons emitted from the cathode of a vacuum tube. It is invisible. Cathode ray tubes are also found in televisions and computer monitors. Since cathode ray is a beam of electrons and all electrons are identical, charge to mass ratio is same for all the gases and does not depend on the nature of gas."
     }
   ],
-  "Physics (Electricity & Magnetism)": [
+  "Physics (Electricity)": [
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Electricity)",
       "question": "Suppose voltage V is applied across a resistance R, The power dissipated in the resistance is P. Now the same voltage V is applied across a parallel combination of three equal resistors each of resistance R. Then the power dissipated in the second case will be",
       "image": "",
       "options": [
@@ -65,10 +39,10 @@
         "2P/3"
       ],
       "answer": "3P",
-      "explanation": "Power (P) across a resistor = V2/R; In the first case, P1 = V2/R. In the second case, equivalent resistant of parallel combination = R/3. Power in second case (P2) = (V2)/(R/3) = 3V2/R, So, P1/P2 = 1/3 or P2 = 3P1"
+      "explanation": "Power (P) across a resistor = V²/R; In the first case, P₁ = V²/R. In the second case, equivalent resistant of parallel combination = R/3. Power in second case (P₂) = (V²)/(R/3) = 3V²/R, So, P₁/P₂ = 1/3 or P₂ = 3P₁"
     },
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Electricity)",
       "question": "A parallel-plate capacitor, with air in between the plates, has capacitance C. Now the space between the two plates of the capacitor is filled with a dielectric of dielectric constant 7. Then the value of the capacitance will become",
       "image": "",
       "options": [
@@ -78,32 +52,32 @@
         "14C"
       ],
       "answer": "7C",
-      "explanation": "Capacitance = K * Îo * A / d. [A = Area of each plate. Îo = Permittivity of free space. d = distance between plate. k1 = dielectric constant.] Since, K1 = 7, hence new capacitance will be 7C."
+      "explanation": "7C. Capacitance = (K ε₀ A)/d. [A = Area of each plate. ε₀ = Permittivity of free space. d = distance between plate. k₁ = dielectric constant.] Since, K₁ = 7 hence new capacitance will be 7C."
     },
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Electricity)",
       "question": "A copper wire of radius r and length l has a resistance of R. A second copper wire with radius 2r and length l is taken and the two wires are joined in a parallel combination. The resultant resistance of the parallel combination of the two wires will be",
       "image": "",
       "options": [
         "5R",
-        "5/4 R",
-        "4/5 R",
+        "5R/4",
+        "4R/5",
         "R/5"
       ],
       "answer": "R/5",
-      "explanation": "R = P * l/A. The new resistance will be R/4 and resultant resistance will be R/5"
+      "explanation": "R = ρ(l/A). The new resistance will be R/4 and resultant resistance will be R/5."
     },
     {
-      "subject": "Physics (Electricity & Magnetism)",
-      "question": "A parallel-plate capacitor of capacitance C1 is made using two gold plates. Another parallel-plate capacitor of capacitance C2 is made using two aluminium plates with same plate separation, and all the four plates are of same area. If rg and ra are respectively the electrical resistivities of gold and aluminium, then which one of the following relations is correct?",
+      "subject": "Physics (Electricity)",
+      "question": "A parallel-plate capacitor of capacitance C 1 is made using two gold plates. Another parallel-plate capacitor of capacitance C 2 is made using two aluminium plates with same plate separation, and all the four plates are of same area. If r g and r a are respectively the electrical resistivities of gold and aluminium, then which one of the following relations is correct?",
       "image": "",
       "options": [
-        "C1 > C2",
-        "C2 > C1",
-        "C1 * ra = C2 * rg",
-        "C1 = C2"
+        "C 1 > C 2",
+        "C 2 > C 1",
+        "C 1 Cr a = C 2 Cr g",
+        "C 1 = C 2"
       ],
-      "answer": "C1 = C2",
+      "answer": "C 1 = C 2",
       "explanation": "Capacitance is defined as the ability of a system to store electric charge and can be calculated by the formula, C = Q/V, where ‘Q’ is the charge stored on each plate and ‘V’ is the applied electric potential across the plates capacitors. Capacitance does not depend on the electrical resistivities of the material of capacitors."
     }
   ],
@@ -150,9 +124,166 @@
       "explanation": "Rainbow can be seen on a rainy day due to the phenomena of dispersion, which is an optical process involving splitting of white light into its constituent colors while passing through a lighter to heavier medium. On a rainy day, white light gets dispersed into its seven colors while passing through rain drops."
     }
   ],
-  "Genetics": [
+  "Physics (Modern Physics)": [
     {
-      "subject": "Genetics",
+      "subject": "Physics (Modern Physics)",
+      "question": "A photon of X-ray has energy of 1 keV. A photon of visible radiation has energy of 3 eV. In this context, which one of the following statements is not correct?",
+      "image": "",
+      "options": [
+        "The wavelength of X-ray photon is less than the wavelength of visible radiation photon.",
+        "Both the photons have different energies.",
+        "The speeds of both the photons in vacuum are different.",
+        "The frequency of X-ray photon is higher than the frequency of visible radiation photon."
+      ],
+      "answer": "The speeds of both the photons in vacuum are different.",
+      "explanation": "Electromagnetic radiation consists of photons which move at speed of light within a vacuum."
+    },
+    {
+      "subject": "Physics (Modern Physics)",
+      "question": "Which one of the following statements is not correct?",
+      "image": "",
+      "options": [
+        "The cathode rays originate from cathode and proceed towards the anode in a cathode-ray discharge tube.",
+        "The television picture tubes are nothing but cathode-ray tubes.",
+        "The cathode rays themselves are not visible.",
+        "The characteristics of cathode rays depend upon the nature of the gas present in the cathode-ray tube."
+      ],
+      "answer": "The characteristics of cathode rays depend upon the nature of the gas present in the cathode-ray tube.",
+      "explanation": "Cathode ray is a beam of electrons emitted from the cathode of a vacuum tube. It is invisible. Cathode ray tubes are also found in televisions and computer monitors. Since cathode ray is a beam of electrons and all electrons are identical, charge to mass ratio is same for all the gases and does not depend on the nature of gas."
+    }
+  ],
+  "Chemistry (Chemical Reactions)": [
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "Which one of the following is a physical change?",
+      "image": "",
+      "options": [
+        "Burning of coal",
+        "Burning of wood",
+        "Heating of a platinum crucible",
+        "Heating of potassium chlorate"
+      ],
+      "answer": "Heating of a platinum crucible",
+      "explanation": "Physical changes lead to change in the form of a substance, without any change in chemical composition. Coal is composed of carbon, oxygen, and hydrogen. Wood is composed of cellulose, hemicellulose and lignin. Burning of wood, coal and potassium chlorate leads to chemical reaction as their components are chemically active. Platinum being an inert element does not show chemical reaction and show only physical change such as rise in temperature."
+    }
+  ],
+  "Chemistry (Acids, Bases & Salts)": [
+    {
+      "subject": "Chemistry (Acids, Bases & Salts)",
+      "question": "The pH value of a sample of multiple-distilled water is",
+      "image": "",
+      "options": [
+        "zero",
+        "14",
+        "very near to zero",
+        "very near to seven"
+      ],
+      "answer": "very near to seven",
+      "explanation": "Multiple-distilled water is considered to be pure. pH of pure water is 7 as the number of hydroxyl ions and hydrogen ions in pure water is balanced. A strong acid completely ionizes when dissolved in water and provides hydrogen ions. Strong acid has pH of 0. Similarly, a strong base/alkali also ionizes completely in water and provides hydroxyl ions. Strong base has pH of 14."
+    }
+  ],
+  "Chemistry (General Concepts)": [
+    {
+      "subject": "Chemistry (General Concepts)",
+      "question": "Which one of the following is the most characteristic property of an element?",
+      "image": "",
+      "options": [
+        "Density",
+        "Boiling point",
+        "Mass number",
+        "Atomic number"
+      ],
+      "answer": "Atomic number",
+      "explanation": "Atomic number, which equals to the number of protons in the nucleus of an atom, is the characteristic property of an element and determines its chemical properties and position in the periodic table. Mass number is the total number of protons and neutrons in the nucleus of an element. Density is the mass per unit volume of a substance. Boiling point is the temperature at which a substance boils."
+    },
+    {
+      "subject": "Chemistry (General Concepts)",
+      "question": "There are two elements-calcium (atomic number 20) and argon (atomic number 18). The mass number of both the elements is 40. They are therefore known as",
+      "image": "",
+      "options": [
+        "isotones",
+        "isochores",
+        "isobars",
+        "isotopes"
+      ],
+      "answer": "isobars",
+      "explanation": "Calcium and argon are isobars because they have same atomic mass. Two elements with same neutron number, but different proton number are called isotones. Each of two or more forms of the same element with equal numbers of protons but different numbers of neutrons is called isotope. Isochore is the graphic representation showing lines or surface of constant volume of a physical system."
+    },
+    {
+      "subject": "Chemistry (General Concepts)",
+      "question": "The chemical properties of an element depend upon",
+      "image": "",
+      "options": [
+        "the number of isotopes of the element",
+        "the mass number of the element",
+        "the total number of neutrons in the element",
+        "the number of electrons in the outermost shell of the element"
+      ],
+      "answer": "the number of electrons in the outermost shell of the element",
+      "explanation": "The period of an element in the periodic table depends on the total number of electron shells in the atom of that element. Chemical property of an element depends on the valence electrons which participate in bond formation. Isotopes are two or more forms of the same element with equal numbers of protons but different numbers of neutrons. Total number of protons and neutrons is mass number. Chemical property is independent of neutrons and protons."
+    }
+  ],
+  "Chemistry (History & Discoveries)": [
+    {
+      "subject": "Chemistry (History & Discoveries)",
+      "question": "'Plum Pudding Model' for an atom was proposed by",
+      "image": "",
+      "options": [
+        "Antoine Lavoisier",
+        "Robert Boyle",
+        "Ernest Rutherford",
+        "J. J. Thomson"
+      ],
+      "answer": "J. J. Thomson",
+      "explanation": "‘Plum Pudding Model,’ the scientific model of atom was proposed by J. J. Thomson in which he said that an atom is made up of electrons surrounded by positive charge to balance the negative charges of electrons. Negatively charged electrons are called ‘plums’ surrounded by positively charged particles ‘pudding.’"
+    }
+  ],
+  "Chemistry (Stoichiometry)": [
+    {
+      "subject": "Chemistry (Stoichiometry)",
+      "question": "What is the number of atoms in 46 g of sodium-23 [N = Avogadro constant)?",
+      "image": "",
+      "options": [
+        "N/2",
+        "N",
+        "2N",
+        "23N"
+      ],
+      "answer": "2N",
+      "explanation": "Atomic mass of Sodium = 23 gram = 1 mole of Sodium<br>No. of moles in 46 grams of Sodium = 2;<br>1 Avogadro’s Number (N) = 1 mole of substance<br>Therefore, 2 moles of Sodium = 2N"
+    },
+    {
+      "subject": "Chemistry (Stoichiometry)",
+      "question": "The molecular mass of sulphuric acid is 98. If 49 g of the acid is dissolved in water to make one litre of solution, what will be the strength of the acid?",
+      "image": "",
+      "options": [
+        "Two normal",
+        "One normal",
+        "0.5 normal",
+        "Four normal"
+      ],
+      "answer": "One normal",
+      "explanation": "Normality is a way of expressing concentration of a solution and can be calculated by the formula<br>Normality (N) = No. of gram equivalent of solute/volume of solution (in liter)<br>Gram equivalent weight of H2SO4 = Molecular weight/ No. of Hydrogen atom = 98/2 = 49 gm<br>No. of gram equivalent in 49 gm of H2SO4 = 1 So, Normality in 1 liter of solution = 1/1 = 1 N"
+    }
+  ],
+  "Chemistry (States of Matter)": [
+    {
+      "subject": "Chemistry (States of Matter)",
+      "question": "What is the maximum number of states of matter?",
+      "image": "",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Variable"
+      ],
+      "answer": "Five",
+      "explanation": "States of matter can be defined as the forms a substance can occur, and are of five types: solid, liquid, gas, plasma and Bose-Einstein condensates (BEC). Each form differs from the other mainly in structures and densities. Plasma are highly charged particles with high kinetic energy. BEC is a state of matter of a dilute gas of bosons cooled close to absolute zero."
+    }
+  ],
+  "Biology (Genetics)": [
+    {
+      "subject": "Biology (Genetics)",
       "question": "Polynucleotide chain of DNA contains",
       "image": "",
       "options": [
@@ -165,7 +296,7 @@
       "explanation": "DNA is made up of many nucleotides joining together, called polynucleotide chain of DNA. Each polynucleotide is made up of three components: (i) nitrogenous base [such as adenine (A), guanine (G), cytocine (C) and thymine (T)], (ii) deoxyribose sugar, and (iii) phosphate group."
     },
     {
-      "subject": "Genetics",
+      "subject": "Biology (Genetics)",
       "question": "The process of copying genetic information from one strand of DNA into RNA is termed as",
       "image": "",
       "options": [
@@ -178,37 +309,7 @@
       "explanation": "The process by which the genetic information in a strand of DNA is copied into a new molecule of messenger RNA (mRNA) is termed as transcription. It is carried out by an enzyme called RNA polymerase and a number of accessory proteins called transcription factors."
     },
     {
-      "subject": "Genetics",
-      "question": "Syngamy results in formation of",
-      "image": "",
-      "options": [
-        "haploid zygote",
-        "diploid zygote",
-        "motile male gametes",
-        "non-motile male gametes"
-      ],
-      "answer": "diploid zygote",
-      "explanation": "Syngamy is the process of fusion of two cells or their nucleus during reproduction. More particularly, it can be said that syngamy is fusion of one male gamete with egg cell and leads to formation of diploid zygote."
-    }
-  ],
-  "Health and Disease": [
-    {
-      "subject": "Health and Disease",
-      "question": "In human body, the cell growth and differentiation are highly controlled and regulated, but in cancer cells",
-      "image": "",
-      "options": [
-        "there is breakdown of these regulatory mechanisms leading to formation of benign and malignant tumors",
-        "controlled cell division and over- production of genetic material occur",
-        "RNA is mutated and produced in less amount",
-        "DNA is mutated and produced in less amount"
-      ],
-      "answer": "there is breakdown of these regulatory mechanisms leading to formation of benign and malignant tumors",
-      "explanation": "In cancer, there is unwanted cell proliferation leading to uncontrolled cell division. Some cancers may spread into other tissues. Mutation is the main cause of cancer at genetic level. Mutation causing agents are called carcinogens, such as UV radiation, tobacco and tobacco smoke, pesticides, etc."
-    }
-  ],
-  "Microbiology": [
-    {
-      "subject": "Microbiology",
+      "subject": "Biology (Genetics)",
       "question": "Most viruses that infect plants possess",
       "image": "",
       "options": [
@@ -221,9 +322,22 @@
       "explanation": "In general, plant viruses have single-stranded RNA. Animal viruses have either single or double-stranded RNA or double-stranded DNA. Bacterial viruses usually have double stranded DNA."
     }
   ],
-  "Nutrition": [
+  "Biology (Diseases)": [
     {
-      "subject": "Nutrition",
+      "subject": "Biology (Diseases)",
+      "question": "In human body, the cell growth and differentiation are highly controlled and regulated, but in cancer cells",
+      "image": "",
+      "options": [
+        "there is breakdown of these regulatory mechanisms leading to formation of benign and malignant tumors",
+        "controlled cell division and over- production of genetic material occur",
+        "RNA is mutated and produced in less amount",
+        "DNA is mutated and produced in less amount"
+      ],
+      "answer": "there is breakdown of these regulatory mechanisms leading to formation of benign and malignant tumors",
+      "explanation": "In cancer, there is unwanted cell proliferation leading to uncontrolled cell division. Some cancers may spread into other tissues. Mutation is the main cause of cancer at genetic level. Mutation causing agents are called carcinogens, such as UV radiation, tobacco and tobacco smoke, pesticides, etc."
+    },
+    {
+      "subject": "Biology (Diseases)",
       "question": "Bleeding of gums, falling of teeth, fragile bones and delayed wound healing occur due to the deficiency of which one of the following vitamins?",
       "image": "",
       "options": [
@@ -236,24 +350,22 @@
       "explanation": "Vitamin C is needed to produce skin, tendons, ligaments, and blood vessel. It is also needed in repair of bones and teeth. Deficiency of vitamin C results in bleeding of gums, falling of teeth, weak bones and delay in wound healing."
     }
   ],
-  "Human Physiology": [
+  "Biology (Botany)": [
     {
-      "subject": "Human Physiology",
-      "question": "The mammalian heart is myogenic and it is regulated by nerves. The heartbeat originates from",
+      "subject": "Biology (Botany)",
+      "question": "Syngamy results in formation of",
       "image": "",
       "options": [
-        "sinoatrial node",
-        "QRS wave",
-        "T wave",
-        "hepatic portal system"
+        "haploid zygote",
+        "diploid zygote",
+        "motile male gametes",
+        "non-motile male gametes"
       ],
-      "answer": "sinoatrial node",
-      "explanation": "Heart beat originates from sinoatrial node, a group of cells situated in the upper part of the right atrium wall. The electrical impulses causing the heart beat are generated in sinoatrial node. Hepatic portal system comprises hepatic portal vein and veinlets. T wave depicts repolarization of heart ventricles. QRS wave are three waves seen on a electrocardiogram."
-    }
-  ],
-  "Botany": [
+      "answer": "diploid zygote",
+      "explanation": "Syngamy is the process of fusion of two cells or their nucleus during reproduction. More particularly, it can be said that syngamy is fusion of one male gamete with egg cell and leads to formation of diploid zygote."
+    },
     {
-      "subject": "Botany",
+      "subject": "Biology (Botany)",
       "question": "The plant growth regulators are small, simple molecules of diverse chemical composition. They are",
       "image": "",
       "options": [
@@ -264,6 +376,21 @@
       ],
       "answer": "indole compounds, adenine derivatives, carotenoids and terpenes",
       "explanation": "Plant growth regulators or plant hormones (phytohormones) are chemicals that control plant growth, e.g. auxins, gibberellins, cytokinins, abscisic acid and ethylene. Auxin is composed of indole-3-acetic acid. Cytokinins are derivatives of the nitrogenous purine base adenine. Some plant hormones are also composed of derivatives of carotenoids and terpenes."
+    }
+  ],
+  "Biology (Human Physiology)": [
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "The mammalian heart is myogenic and it is regulated by nerves. The heartbeat originates from",
+      "image": "",
+      "options": [
+        "sinoatrial node",
+        "QRS wave",
+        "T wave",
+        "hepatic portal system"
+      ],
+      "answer": "sinoatrial node",
+      "explanation": "Heart beat originates from sinoatrial node, a group of cells situated in the upper part of the right atrium wall. The electrical impulses causing the heart beat are generated in sinoatrial node. Hepatic portal system comprises hepatic portal vein and veinlets. T wave depicts repolarization of heart ventricles. QRS wave are three waves seen on a electrocardiogram."
     }
   ]
 }

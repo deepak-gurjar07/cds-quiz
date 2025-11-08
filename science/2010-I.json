@@ -27,11 +27,24 @@
       ],
       "answer": "Only 3",
       "explanation": "The appearance of blue colour of sky is due to scattering of light which is not possible in absence of atmosphere."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "Consider the following statements<br>1. A person with myopia can see distant objects distinctly but cannot see nearby objects clearly.<br>2. A person with hypermetropia cannot see distant objects clearly.<br>3. A person with presbyopia can see nearby objects without corrective glasses.<br>Which of the statements given above is/are not correct?",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "1 and 2",
+        "1 and 3",
+        "Only 3"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "All the three statements are not correct. Myopia refers long-sightedness, hypermetropia to short-sightedness and presbyopia is a disorder in which the eye shows a progressively diminished ability to focus on near object with the passage of age."
     }
   ],
-  "Physics (Electricity & Magnetism)": [
+  "Physics (Electromagnetism)": [
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Electromagnetism)",
       "question": "The most familiar form of radiant energy in sunlight that causes tanning and sunburning of human skin, is called",
       "image": "",
       "options": [
@@ -56,7 +69,332 @@
         "60°"
       ],
       "answer": "45°",
-      "explanation": "Horizontal range R = u2 sin2q / g. For maximum horizontal range q should be 45°. R max = u2 / g [ Q sin2q =sin90°=1]"
+      "explanation": "Horizontal range R = (u² sin2θ)/g. For maximum horizontal range θ should be 45°. R_max = u²/g [ Q sin2θ =sin90°=1]"
+    }
+  ],
+  "Chemistry (Materials & Alloys)": [
+    {
+      "subject": "Chemistry (Materials & Alloys)",
+      "question": "The coil in a heater is made of",
+      "image": "",
+      "options": [
+        "nichrome",
+        "tungsten",
+        "copper",
+        "iron"
+      ],
+      "answer": "nichrome",
+      "explanation": "The coil in a heater is made up of nichrome because its melting point and resistivity are high."
+    },
+    {
+      "subject": "Chemistry (Materials & Alloys)",
+      "question": "Match List I with List II and select the correct answer using the codes given below the Lists.<br>List-I (Alloy) List-II (Constituent)<br>A. Solder 1 Iron and carbon<br>B. Brass 2 Copper and zinc<br>C. Bronze 3 Copper and tin<br>D. Steel 4 Lead and tin<br>Code:<br>A B C D A B C D",
+      "image": "",
+      "options": [
+        "1 2 3 4",
+        "4 2 3 1",
+        "1 3 2 4",
+        "4 3 2 1"
+      ],
+      "answer": "4 2 3 1",
+      "explanation": "(Alloy) (Constituent)<br>Solder Lead and tin<br>Brass Copper and zinc<br>Bronze Copper and tin<br>Steel Iron and carbon"
+    }
+  ],
+  "Chemistry (Nuclear Chemistry)": [
+    {
+      "subject": "Chemistry (Nuclear Chemistry)",
+      "question": "Which among the following elements is abundant on the lunar surface and holds the potential to put an end to the energy crisis of the earth?",
+      "image": "",
+      "options": [
+        "Helium-I",
+        "Helium-ll",
+        "Helium-Ill",
+        "Helium-IV"
+      ],
+      "answer": "Helium-Ill",
+      "explanation": "Helium-III is abundant on the lunar surface and holds the potential to put an end to the energy crisis of the Earth."
+    }
+  ],
+  "Chemistry (Chemical Reactions)": [
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "If a limestone piece is dipped in water, a bubble evolves. The bubbling is due to",
+      "image": "",
+      "options": [
+        "hydrogen",
+        "oxygen",
+        "water vapour",
+        "carbon dioxide"
+      ],
+      "answer": "carbon dioxide",
+      "explanation": "When limestone piece is dipped in water, the bubbles evolve due to evolution of carbon dioxide.<br>CaCO3 + H2O ® Ca (OH)2 + CO2"
+    }
+  ],
+  "Chemistry (Applied Chemistry)": [
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "Which one of the following chemicals is commonly used by farmers to destroy weeds?",
+      "image": "",
+      "options": [
+        "DDT",
+        "Malathion",
+        "Methyl bromide",
+        "2, 4-D"
+      ],
+      "answer": "2, 4-D",
+      "explanation": "2, 4-D (2, 4-dichlorophenoxy acetic acid) is used to destroy weeds."
+    },
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "Some statements about the benefits of organic farming are given below. Indicate whether they are true or false using the codes given below the statements :<br>1. It reduces CO 2 emission.<br>2. It does not lead to toxic effect.<br>3. It improves the water-retention capacity of the soil.<br>Code:<br>1 2 3 1 2 3",
+      "image": "",
+      "options": [
+        "False True False",
+        "True False False",
+        "False True True",
+        "False True True"
+      ],
+      "answer": "False True True",
+      "explanation": "Organic farming is the form of agriculture that relies on crop rotation, green manure, compost, biological pest control and mechanical cultivation to maintain soil productivity and control pests. It does not reduce CO2 emission. It does not lead to toxic effect. It improves the water-retention capacity of the soil."
+    },
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "The cleaning of dirty clothes by soaps and detergents is due to a type of molecules called surfactants, which are present in soaps and detergents. The surfactant molecules remove the dirt by",
+      "image": "",
+      "options": [
+        "making the cloth slippery",
+        "producing some gases between the dirt and the cloth",
+        "dissolving the dirt",
+        "forming some aggregates of themselves and take away the dirt in the core of the aggregates"
+      ],
+      "answer": "forming some aggregates of themselves and take away the dirt in the core of the aggregates",
+      "explanation": "The cleaning of dirty clothes by soaps and detergents is due to a type of molecules called surfactants. The surfactant molecules remove the dirt by forming some aggregates of themselves and take away the dirt in the core of aggregates. The spherical aggregate of surfactant molecules in water is called a micelle."
+    },
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "Which one of the following is not a mixture?",
+      "image": "",
+      "options": [
+        "Tootpaste",
+        "Toilet soap",
+        "Baking soda",
+        "Vinegar"
+      ],
+      "answer": "Baking soda",
+      "explanation": "Sodium bicarbonate also known as baking soda, is the chemical compound with the formula NaHCO3."
+    }
+  ],
+  "Chemistry (Environmental Chemistry)": [
+    {
+      "subject": "Chemistry (Environmental Chemistry)",
+      "question": "Match List I with List II and select the correct answer using the codes given below the Lists.<br>List-I (Item) List-II (Toxic substance)<br>A. CFL lamp 1 Nitrogen oxides<br>B. Automobile battery 2 Phthalates<br>C. Polymer 3 Lead<br>D. Diesel engine 4 Mercury<br>Code:<br>A B C D A B C D",
+      "image": "",
+      "options": [
+        "4 2 3 1",
+        "4 3 2 1",
+        "1 2 3 4",
+        "1 3 2 4"
+      ],
+      "answer": "4 3 2 1",
+      "explanation": "CFL is a type of fluorescent lamp which contains mercury.<br>Automobile battery contains toxic substance lead (Pb).<br>Polymers contain toxic substance phthalates.<br>Diesel engine emits the harmful nitrogen oxides by the internal combustion of fuel."
+    }
+  ],
+  "Chemistry (Polymers)": [
+    {
+      "subject": "Chemistry (Polymers)",
+      "question": "The polymeric fibre used as a substitute for wool in making synthetic blankets, sweaters, etc., is",
+      "image": "",
+      "options": [
+        "nylon",
+        "teflon",
+        "orlon",
+        "bakelite"
+      ],
+      "answer": "orlon",
+      "explanation": "Polyacrylonitrile or orlon is used as a substitute for wool in making synthetic blankets, sweaters etc. It is a polymer of acrylonitrile or vinyl cyanide."
+    }
+  ],
+  "Biology (Ecology & Environment)": [
+    {
+      "subject": "Biology (Ecology & Environment)",
+      "question": "Which one of the following plants is popularly grown along the road for absorbing vehicular pollutants?",
+      "image": "",
+      "options": [
+        "Nerium",
+        "Neem",
+        "Bougainvillea",
+        "Calotropis"
+      ],
+      "answer": "Bougainvillea",
+      "explanation": "Bougainvillea is popularly planted along the road for absorption of vehicular pollutants."
+    },
+    {
+      "subject": "Biology (Ecology & Environment)",
+      "question": "Which one of the following is not biodegradable?",
+      "image": "",
+      "options": [
+        "Woollen mat",
+        "Silver foil",
+        "Leather bag",
+        "Jute basket"
+      ],
+      "answer": "Silver foil",
+      "explanation": "Silver foil is manufactured from metal that is non biodegrable. Woollen mat, leather bag and jute basket are biodegradable because they are manufactured from natural materials."
+    }
+  ],
+  "Biology (General Biology)": [
+    {
+      "subject": "Biology (General Biology)",
+      "question": "Match the following<br>List-I<br>A. Wine<br>B. Beer<br>C Whisky<br>D. Rum<br>List-II<br>1. Barley<br>2. Sugarcane juice<br>3. Grapes<br>4. Molasses<br>Codes:",
+      "image": "",
+      "options": [
+        "2 1 4 3",
+        "3 4 1 2",
+        "3 1 4 2",
+        "2 4 1 3"
+      ],
+      "answer": "3 1 4 2",
+      "explanation": "Wine is an alcoholic beverage, produced from fermented juice, generally of grapes, Beer is the oldest alcoholic beverage manufactured by brewing and fermentaion of cereal grains (e.g., barley). Whisky is a type of distilled alcoholic beverage produced from molasses. Rum is also a distilled alcoholic beverage made from sugarcane’s juice."
+    }
+  ],
+  "Biology (Biochemistry)": [
+    {
+      "subject": "Biology (Biochemistry)",
+      "question": "A milkman puts banana leaf in milk jar, because banana leaf",
+      "image": "",
+      "options": [
+        "gives a fresh flavour to milk",
+        "makes the milk acidic and resistant to yeast",
+        "makes the milk basic and resistant to yeast",
+        "increases the whiteness of milk"
+      ],
+      "answer": "makes the milk basic and resistant to yeast",
+      "explanation": "A milkman puts banana leaf in milkpot because leaf can make the milk basic and avoid yeast formation (fermentation). Banana leaf has tryptophan which creates basicity."
+    }
+  ],
+  "Biology (Botany)": [
+    {
+      "subject": "Biology (Botany)",
+      "question": "Tips of leaves in grasses and common garden plants show water drops in early morning hours. This water accumulation is obtained from",
+      "image": "",
+      "options": [
+        "atmosphere",
+        "stomata",
+        "vascular bundles",
+        "hydathodes"
+      ],
+      "answer": "stomata",
+      "explanation": "Tips of leaves in grasses and common garden plants exhibit water droplets in early morning hours because of atmospheric phenomenon of dew formation. Dew is produced due to condensation of atmospheric moisture."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "If excess fertilizer is applied to a plant without water, the plant will",
+      "image": "",
+      "options": [
+        "be stunted in growth",
+        "develop modifications",
+        "die due to plasmolysis",
+        "remain unaffected"
+      ],
+      "answer": "die due to plasmolysis",
+      "explanation": "The excess fertilizer creates exosmosis in the plant tissue causing plasmolysis. Beacuse fertilizer produces hypotonic solution. It may cause cellular damage to plant leading to plant death."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "Which one among the following plants cannot be multiplied by cuttings?",
+      "image": "",
+      "options": [
+        "Rose",
+        "Bryophyllum",
+        "Banana",
+        "Marigold"
+      ],
+      "answer": "Banana",
+      "explanation": "The banana develops from stem. The aerial parts of banana exhibit only leaves. Therefore, banana can’t be multiplied by cuttings."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "Which among the following are the major reasons behind preferring eucalyptus tree in the planned forestation process?<br>1. Plantation grows very fast.<br>2. Plantation makes the soil more fertile.<br>3. Wood from eucalyptus tree is easily converted into the pulp for paper industry.<br>Select the correct answer using the codes given below.",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "1 and 3",
+        "2 and 3",
+        "All of these"
+      ],
+      "answer": "1 and 3",
+      "explanation": "Eucalyptus growth is very fast and the stem is raw material used for pulp and paper industry."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "Which one of the following plants is used for green manuring in India?",
+      "image": "",
+      "options": [
+        "Wheat",
+        "Sunnhemp",
+        "Cotton",
+        "Rice"
+      ],
+      "answer": "Sunnhemp",
+      "explanation": "Sunnhemp (crotoloria juncea) is a plant which is utilized for green manuring in India. It is largely cultivated for green manure and its leaves are fed as high protion supplement to other poorer feeds."
+    }
+  ],
+  "Chemistry (Organic Chemistry)": [
+    {
+      "subject": "Chemistry (Organic Chemistry)",
+      "question": "Itching due to insect bite is caused by",
+      "image": "",
+      "options": [
+        "formic acid",
+        "acetic acid",
+        "lactic acid",
+        "maleic acid"
+      ],
+      "answer": "formic acid",
+      "explanation": "Insect bite creates formic acid that causes itching."
+    }
+  ],
+  "Biology (Nutrition)": [
+    {
+      "subject": "Biology (Nutrition)",
+      "question": "Which one among the following is a major source of sugar?",
+      "image": "",
+      "options": [
+        "Watermelon",
+        "Beetroot",
+        "Sugarcane",
+        "Date"
+      ],
+      "answer": "Sugarcane",
+      "explanation": "Sugarcane is a main raw material for the production of sugar. Sugar producing countries are Cuba, Brazil, India and China."
+    },
+    {
+      "subject": "Biology (Nutrition)",
+      "question": "The vitamin(s), which is/are generally excreted in urine, is/are",
+      "image": "",
+      "options": [
+        "viamin-A",
+        "vitamin-B",
+        "viamin-E",
+        "vitamin-D and K"
+      ],
+      "answer": "vitamin-B",
+      "explanation": "Vitamin-B is water soluble. Its over-dose is excreted out in urine, vitamin A, D, E and K are fat soluble therefore, they are not excreted in urine."
+    }
+  ],
+  "Biology (Human Physiology)": [
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Consider the following statements<br>1. Iodine is necessary for the thyroid gland to make adrenaline.<br>2. Iodine deficiency leads to goitre in human beings.<br>3. Iodine is secreted by pancreas and helps in regulating cholesterol level.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "1 and 2",
+        "1 and 3",
+        "Only 2"
+      ],
+      "answer": "Only 2",
+      "explanation": "lodine deficiency causes goitre in human beings. Iodine is the main component for the production of thyroxine from thyroid gland and the main reason of goitre is hypo or hyperthyroidism."
     }
   ]
 }

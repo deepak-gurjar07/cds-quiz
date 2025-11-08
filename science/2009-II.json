@@ -57,6 +57,19 @@
       ],
       "answer": "centrifugal force",
       "explanation": "Centrifugal force separates fat from milk."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "Assertion (A): The safety air bags fitted in some cars inflate during head-on impact of the car.<br>Reason (R): The inflation is due to pumping of air into the balloon during the impact.",
+      "image": "",
+      "options": [
+        "Both A and R are true and R is the correct explanation of A",
+        "Both A and R are true, but R is not the correct explanation of A",
+        "A ts true, but R is false",
+        "A is false, but R is true"
+      ],
+      "answer": "Both A and R are true, but R is not the correct explanation of A",
+      "explanation": ""
     }
   ],
   "Physics (Properties of Matter)": [
@@ -72,6 +85,301 @@
       ],
       "answer": "Vapour formation above the liquid surface",
       "explanation": ""
+    }
+  ],
+  "Chemistry (Electrochemistry)": [
+    {
+      "subject": "Chemistry (Electrochemistry)",
+      "question": "Which of the following statements about the commonly used automobile battery are true?<br>I. It is usually a lead-acid battery.<br>II. It has six cells with a potential of 2 V each.<br>III. Its cells work as galvanic cells while discharging power.<br>IV. Its cells work as electrolytic cells while recharging.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "I, II, III and IV",
+        "I, II and III",
+        "II and IV",
+        "III and IV"
+      ],
+      "answer": "I, II, III and IV",
+      "explanation": "Automobile batteries are usually lead-acid type, and are made of six galvanic cells in series to provide a 12-volt system. Each cell provides 2.1 volts for a total of 12.6 volts at full charge.<br>Lead-acid batteries are made up of plates of lead and separate plates of lead dioxide, which are submerged into anelectrolyte solution of about 38% sulfuric acid and 62% water. This causes a chemical reaction that releases electrons, allowing them to flow through conductors to produce electricity. As the battery discharges, the acid of the electrolyte reacts with the materials of the plates, changing their surface to lead sulfate. When the battery is recharged, the chemical reaction is reversed: the lead sulfate reforms into lead dioxide and lead. With the plates restored to their original condition, the process may now be repeated."
+    }
+  ],
+  "Chemistry (Chemical Reactions)": [
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "The light emitted by firefly is due to",
+      "image": "",
+      "options": [
+        "a radioactive substance",
+        "chemiluminiscence process",
+        "a photoelectric process",
+        "burning of phosphorus"
+      ],
+      "answer": "chemiluminiscence process",
+      "explanation": "Light production in fireflies is due to a type of chemical reaction called bioluminescence. This process occurs in specialised light-emitting organs, usually on a firefly's lower abdomen. The enzyme luciferase acts on the luciferin, in the presence of magnesium ions, ATP, and oxygen to produce light."
+    }
+  ],
+  "Chemistry (Polymers)": [
+    {
+      "subject": "Chemistry (Polymers)",
+      "question": "Which one of the following polymeric materials is used for making bullet proof jacket?",
+      "image": "",
+      "options": [
+        "Nylon-6, 6",
+        "Rayon",
+        "Kevlar",
+        "Dacron"
+      ],
+      "answer": "Kevlar",
+      "explanation": "Kevlar, a polymeric material is used for making bullet proof jacket."
+    }
+  ],
+  "Biology (Botany)": [
+    {
+      "subject": "Biology (Botany)",
+      "question": "Which one of the following is present in chlorophyll which gives a green colour to plant leaves?",
+      "image": "",
+      "options": [
+        "Calcium",
+        "Magnesium",
+        "Iron",
+        "Manganese"
+      ],
+      "answer": "Magnesium",
+      "explanation": "Chlorophyll is a tetrapyrrole ring system that contains the magnesium ion. The tetrapyrole ring system chelates magnesium illustrating a conjugated double bond. This bond gives the light absorption feature to chlorophyll and provides it green colour."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "The branches of this tree root themselves like new trees over a large area. The roots then give rise to more trunks and branches. Because of this characteristic and its longevity, this tree is considered immortal and is an integral part of the myths and legends of India. Which tree is this?",
+      "image": "",
+      "options": [
+        "Banyan",
+        "Neem",
+        "Tamarind(Imli)",
+        "Peepal"
+      ],
+      "answer": "Banyan",
+      "explanation": "Banyan (Ficus benghalensis) tree has aerial roots. From the tip of these roots new plant can evolve. In a Hinduism, the leaf of the Banyan tree is said to be the place for Lord Krishna."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "Quinine is a drug used in the treatment of malaria. From which part of the plant it is obtained?",
+      "image": "",
+      "options": [
+        "Roots",
+        "Stem",
+        "Bark",
+        "Leaves"
+      ],
+      "answer": "Bark",
+      "explanation": "Quinine is a natural white crystalline alkaloid. It has antipyretic (fever-reducing), antimalarial, analgesic, and anti-inflammatory qualities. It is present in the bark of cinchona tree."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "Which one of the following statement regarding potato is correct?",
+      "image": "",
+      "options": [
+        "It is a root",
+        "It is a normal stem",
+        "It is a modified stem",
+        "It is a modified root"
+      ],
+      "answer": "It is a modified stem",
+      "explanation": "It is a modified stem to store food synthesised by plants."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "Golden fibre refers to",
+      "image": "",
+      "options": [
+        "hemp",
+        "cotton",
+        "jute",
+        "nylon"
+      ],
+      "answer": "jute",
+      "explanation": "Golden fibre denotes to jute because of its colour. Jute is grown as cash crop. Jute is used for green manure and has much higher CO2 assimilation rate."
+    }
+  ],
+  "Biology (Biochemistry)": [
+    {
+      "subject": "Biology (Biochemistry)",
+      "question": "Which one of the following is responsible for the stimulating effect of tea?",
+      "image": "",
+      "options": [
+        "Tannin",
+        "Steroid",
+        "Alkaloid",
+        "Flavonoid"
+      ],
+      "answer": "Alkaloid",
+      "explanation": "The stimulating nature of tea is due to alkaloid caffeine found in tea. Caffeine is bitter due to white crystalline xanthine alkaloid."
+    }
+  ],
+  "Biology (Ecology & Environment)": [
+    {
+      "subject": "Biology (Ecology & Environment)",
+      "question": "Consider the follwing statement about bioremediation.<br>1. It may be defined as any process that uses microorganisms or their enzymes to return the environment altered by contaminants to its original condition.<br>2. Bioremediation may be employed in order to attack specific contaminants, such as chlorinated pesticides that are degraded by bacteria.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "1 and 2",
+      "explanation": "Both statements are true"
+    },
+    {
+      "subject": "Biology (Ecology & Environment)",
+      "question": "Which one of the following is not a feature of eutrophic lakes?",
+      "image": "",
+      "options": [
+        "Blooms are frequent in eutrophic lakes",
+        "Plant nutrient flux is high",
+        "Primary productivity is low",
+        "Dominated by blue green algae"
+      ],
+      "answer": "Primary productivity is low",
+      "explanation": "Eutrophication is the movement of trophic status of aquatic body (lake, pond) towards the direction of increasing biomass by adding natural or artificial substances. So, its primary productivity is clearly high."
+    }
+  ],
+  "Biology (Human Diseases)": [
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "Match the following<br>List-I Agent of Transmission<br>A. Anopheles mosquito<br>B. Culex mosquito<br>C. Aedes<br>D. Sandfly<br>List-II Disease Transmitted<br>1. Kala-azar<br>2. Dengue<br>3. Malaria<br>4. Filaria<br>Codes:",
+      "image": "",
+      "options": [
+        "3 2 4 1",
+        "1 4 2 3",
+        "1 2 4 3",
+        "3 4 2 1"
+      ],
+      "answer": "3 4 2 1",
+      "explanation": ""
+    },
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "Anaemia is a common health problem especially in women. Which one of the following deficiencies is most frequently responsible for anaemia in India?",
+      "image": "",
+      "options": [
+        "Calcium",
+        "Iron",
+        "Iodine",
+        "Zinc"
+      ],
+      "answer": "Iron",
+      "explanation": "Iron is the main element in haemoglobin. So its deficiency creates anaemia. Women show careless- ness about their nutrient requirements, so they face the problem generally."
+    },
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "Anthrax is a disease of human and cattle with a potential for biological warfare. It is caused by",
+      "image": "",
+      "options": [
+        "bacterium",
+        "virus",
+        "protozoan",
+        "fungus"
+      ],
+      "answer": "bacterium",
+      "explanation": "Anthrax is an infectious disease occurring by bacteria called Bacillus anthracis. Anthrax spores can be evolved in vitro and used as a biological weapon. Anthrax can’t directly spread from one individual to another but can cause infection through spores."
+    },
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "For which one among the following diseases vaccine is not yet available?",
+      "image": "",
+      "options": [
+        "Tetanus",
+        "Malaria",
+        "Measles",
+        "Mumps"
+      ],
+      "answer": "Malaria",
+      "explanation": "Malaria is a protozoan infection caused by the genus plasmodium in humans. No vaccine is yet available for this illness."
+    }
+  ],
+  "Biology (Nutrition)": [
+    {
+      "subject": "Biology (Nutrition)",
+      "question": "Primary source of vitamin-D for human beings is",
+      "image": "",
+      "options": [
+        "citrus fruits",
+        "green vegetables",
+        "yeast",
+        "sun"
+      ],
+      "answer": "sun",
+      "explanation": "Sun is the primary source of vitamin-D. The body can synthesise vitamin-D itself in presence of sunlight. Vitamin-D is soluble in fat and assists the body to absorb calcium. Its deficiency can cause osteoporosis."
+    },
+    {
+      "subject": "Biology (Nutrition)",
+      "question": "Which among the following oils has the maximum protein content?",
+      "image": "",
+      "options": [
+        "Castor oil",
+        "Sunflower oil",
+        "Soybean oil",
+        "Safflower oil"
+      ],
+      "answer": "Soybean oil",
+      "explanation": "Soyabean oil & seed is a rich source of protein."
+    },
+    {
+      "subject": "Biology (Nutrition)",
+      "question": "Match the following<br>List-I (Mineral)<br>A. Iron<br>B. Potassium<br>C. Iodine<br>D. Calcium<br>List-II (Major Source)<br>1. Banana, date<br>2. Palak<br>3. Iodized common salt<br>4. Milk, egg<br>Codes:",
+      "image": "",
+      "options": [
+        "2 1 3 4",
+        "2 3 1 4",
+        "4 3 1 2",
+        "4 1 3 2"
+      ],
+      "answer": "2 1 3 4",
+      "explanation": "Palak (Spinach) has 5% non-haeme iron. One banana possesses 422 mg potassium. One cup of dates possesses 464 mg potassium. One cup milk has 276 mg calcium. One egg possesses 30 mg calcium. One kg packet of iodized common salt has 15 mg iodine."
+    }
+  ],
+  "Biology (Human Physiology)": [
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Which one of the following is considered normal blood pressure in man?",
+      "image": "",
+      "options": [
+        "120/80 mm water",
+        "120/80 mm blood",
+        "120/80 mm mercury",
+        "120/80 mm air"
+      ],
+      "answer": "120/80 mm mercury",
+      "explanation": "Systolic pressure in an adult man is 120 mm Hg whereas diastolic pressure is 80 mm Hg normally. High or low blood pressure can create serious conditions in humans."
+    }
+  ],
+  "Biology (Zoology)": [
+    {
+      "subject": "Biology (Zoology)",
+      "question": "Which one of the following animals breathe through the skin?",
+      "image": "",
+      "options": [
+        "Fish",
+        "Pigeon",
+        "Frog",
+        "Cockroach"
+      ],
+      "answer": "Frog",
+      "explanation": "Frog takes respiration in water through the moist skin. Whereas on the Earth respiration occurs through lungs Fish has gills, Cockroach has spiracles and pigeon possesses lungs to respire."
+    }
+  ],
+  "Chemistry (Applied Chemistry)": [
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "Which one of the following is commonly used as a flavouring agent during the preparation of noodles?",
+      "image": "",
+      "options": [
+        "Saffron",
+        "Cinnamon",
+        "Olive oil",
+        "Ajinomoto"
+      ],
+      "answer": "Ajinomoto",
+      "explanation": "Ajinomoto is Chinese salt used for preparing noodles. It is used as a flavouring agent."
     }
   ]
 }

@@ -11,7 +11,7 @@
         "110 m and 220 m"
       ],
       "answer": "zero and 220 m",
-      "explanation": "Displacement = Shortest distance between initial and final point = 0. Distance travelled by you = 2pr (Circumference of the circular track) = 2 * (22/7) * 35 = 220m"
+      "explanation": "Displacement = Shortest distance between initial and final point = 0<br>Distance travelled by you = 2πr (Circumference of the circular track) = 2 × (22/7) × 35 = 70 × (22/7) = 220m"
     },
     {
       "subject": "Physics (Mechanics)",
@@ -24,12 +24,12 @@
         "Law of conservation of energy"
       ],
       "answer": "Newton's second law of motion",
-      "explanation": "We know from Newton’s second law of motion F_ext = dP/dt. When dt is more F_ext will be less. The greater the rate of change of momentum, the greater is the force and vice-versa."
+      "explanation": "We know from Newton’s second law of motion F_ext = dP/dt when dt is more F_ext will be less. The greater the rate of change of momentum, the greater is the force and vice-versa."
     }
   ],
-  "Physics (Electricity & Magnetism)": [
+  "Physics (Electricity)": [
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Electricity)",
       "question": "When an incandescent electric bulb glows",
       "image": "",
       "options": [
@@ -40,19 +40,6 @@
       ],
       "answer": "the electric energy is partly converted into light energy and partly into heat energy",
       "explanation": "When current flows through the filament of incandescent electric bulb, it gets heated up. Soon it becomes white hot and starts emitting light."
-    },
-    {
-      "subject": "Physics (Electricity & Magnetism)",
-      "question": "A mobile phone charger is",
-      "image": "",
-      "options": [
-        "an inverter",
-        "a UPS",
-        "a step-down transformer",
-        "a step-up transformer"
-      ],
-      "answer": "a step-down transformer",
-      "explanation": "A mobile phone charger is basically a step-down transformer which converts high voltage to low voltage."
     }
   ],
   "Physics (Thermodynamics)": [
@@ -68,6 +55,21 @@
       ],
       "answer": "Because of the air encapsulated between two layers",
       "explanation": "Two layers of a cloth are warmer because air trapped between the layers acts as thermal insulator restricting the heat transfer."
+    }
+  ],
+  "Physics (Electromagnetism)": [
+    {
+      "subject": "Physics (Electromagnetism)",
+      "question": "A mobile phone charger is",
+      "image": "",
+      "options": [
+        "an inverter",
+        "a UPS",
+        "a step-down transformer",
+        "a step-up transformer"
+      ],
+      "answer": "a step-down transformer",
+      "explanation": "A mobile phone charger is basically a step-down transformer which converts high voltage to low voltage."
     }
   ],
   "Physics (Optics)": [
@@ -98,9 +100,9 @@
       "explanation": "From the ray diagram, it is very clear that the image of the object placed at infinity from a concave lens is virtual diminished and at the focus of the lens."
     }
   ],
-  "Botany": [
+  "Biology (Botany)": [
     {
-      "subject": "Botany",
+      "subject": "Biology (Botany)",
       "question": "Which one of the following elements is present in green pigment of leaf?",
       "image": "",
       "options": [
@@ -113,7 +115,7 @@
       "explanation": "Magnesium is found in green pigment of leaf. The green pigment is called chlorophyll molecule. Chlorophyll is chemically a tetrapyrrole structure in which Mg++ exists in the centre."
     },
     {
-      "subject": "Botany",
+      "subject": "Biology (Botany)",
       "question": "Which of the following structures of a plant is responsible for transpiration?",
       "image": "",
       "options": [
@@ -126,7 +128,7 @@
       "explanation": "Stomata are minute pores that are used for gas exchange. Air containing carbon dioxide and oxygen enter the plant through these pores where it is used i n photosynthesis and respiration. Also water vapour evaporates into the atmosphere through these poresb y a process called transpiration."
     },
     {
-      "subject": "Botany",
+      "subject": "Biology (Botany)",
       "question": "Which of the following does not possess a specialised conducting tissue for transport of water and other substances in plants?",
       "image": "",
       "options": [
@@ -139,10 +141,10 @@
       "explanation": "Marchantia belongs to group bryophytes. In bryophytes plants absorb water through general body surface and other substances also. Bryophytes lack xylem and phloem Marsilea and fern belong to group pteridophytes having xylem tissue for transport of water. Cycas belongs to gymnosperm also having xylem."
     }
   ],
-  "Human Physiology": [
+  "Biology (Human Physiology)": [
     {
-      "subject": "Human Physiology",
-      "question": "Match the following<br>List-I (Gland)<br>A. Pancreas<br>B. Pituitary<br>C. Adrenal<br>D. Kidneys<br>List-II (Hormone)<br>1. Cortisol<br>2. Vitamin D<br>3. Thyroid stimulating hormone<br>4. Glucagon<br>Codes:<br>A B C D<br>(a) 4 3 1 2<br>(b) 4 1 3 2<br>(c) 2 1 3 4<br>(d) 2 3 1 4",
+      "subject": "Biology (Human Physiology)",
+      "question": "Match the following<br>List-I (Gland)<br>A. Pancreas<br>B. Pituitary<br>C. Adrenal<br>D. Kidneys<br>List-II (Hormone)<br>1. Cortisol<br>2. Vitamin D<br>3. Thyroid stimulating hormone<br>4. Glucagon<br>Codes:<br>A B C D",
       "image": "",
       "options": [
         "4 3 1 2",
@@ -154,7 +156,7 @@
       "explanation": "Pancreas secretes glucagon hormone, pituitary secretes thyroid stimulating hormone. Adrenal glands secrete cortisol and kidney synthesises or converts biological inactive 25-hydroxychole calciferol (vitamin D-3) into biological active 1,25 dihydroxychole calciferol (vitamin D-3)."
     },
     {
-      "subject": "Human Physiology",
+      "subject": "Biology (Human Physiology)",
       "question": "Deficiency of which of the following elements is responsible for weakening of bones?<br>1. Calcium<br>2. Phosphorus<br>3. Nitrogen<br>4. Carbon<br>Select the correct answer using the codes given below",
       "image": "",
       "options": [
@@ -167,7 +169,7 @@
       "explanation": "Deficiency of calcium causes weakening of bones because bone consists of calcium and phosphate both."
     },
     {
-      "subject": "Human Physiology",
+      "subject": "Biology (Human Physiology)",
       "question": "Which of the following statements is/are correct?<br>1. Amnion contains fluid.<br>2. Ultrasound scan can detect the sex of an embryo.<br>Select the correct answer using the codes given below",
       "image": "",
       "options": [
@@ -180,9 +182,9 @@
       "explanation": "Amnion is a membrane filled with fluid which covers the embryo.<br>The sex of growing embryo (foetus) may be determined by ultrasound as early as 11 weeks pregnancy."
     }
   ],
-  "Ecology": [
+  "Biology (Ecology & Environment)": [
     {
-      "subject": "Ecology",
+      "subject": "Biology (Ecology & Environment)",
       "question": "In a forest, animals like voles and woodlice feed on plant roots and barks respectively. Among the other carnivores, foxes, shrews and owls are present in that forest. Following predictions are made by a group of observers who have visited the forest.<br>1. If the roots of the tree develop a disease, then voles and foxes will starve and not the owls.<br>2. Population of voles is dependent on wood lice population through food web.<br>3. If owl population declines, it will indirectly affect wood lice population.<br>4. If barks of tree are affected due to a disease, then reduction of wood lice will affect the shrew population forcing owls to eat more voles.<br>Which of the above predictions is/are correct?",
       "image": "",
       "options": [
@@ -195,9 +197,9 @@
       "explanation": "If owl population decreases, it will indirectly affect wood lice population. If owl population will decrease, the population of wood lice increases. Reason is that owl is not present to eat the wood lice population."
     }
   ],
-  "Zoology": [
+  "Biology (Zoology)": [
     {
-      "subject": "Zoology",
+      "subject": "Biology (Zoology)",
       "question": "Among the following animals, choose the one having three pairs of legs.",
       "image": "",
       "options": [
@@ -210,9 +212,9 @@
       "explanation": "Among the given options , bug possesses only three pairs of legs. All the insects in phylum Arthropoda have three pairs of legs in given option only bug belongs to class-insecta."
     }
   ],
-  "Biochemistry": [
+  "Biology (Biochemistry)": [
     {
-      "subject": "Biochemistry",
+      "subject": "Biology (Biochemistry)",
       "question": "Which of the following statements is/are correct regarding fats?<br>1. Fats are needed for the formation of cell membrane.<br>2. Fats help the body to absorb calcium from food.<br>3. Fats are required to repair damaged tissue.<br>4. Body cannot release energy in fats as quickly as the energy in carbohydrates.<br>Select the correct answer using the codes given below",
       "image": "",
       "options": [
@@ -225,9 +227,9 @@
       "explanation": "Fats are essential for the formation of all membranes Fats are present in the form of phospholipid. Phospholipid are the same as triglycerides except that one of the three fatty acid units is replaced by a molecule having phosphorus. Body can not release energy in fats as quickly as the energy in carbohydrates because fat first will oxidise into carbohydrate to evolve energy."
     }
   ],
-  "Health and Disease": [
+  "Biology (Diseases)": [
     {
-      "subject": "Health and Disease",
+      "subject": "Biology (Diseases)",
       "question": "People suffering from 'anorexia nervosa'",
       "image": "",
       "options": [

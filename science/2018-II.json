@@ -11,24 +11,11 @@
         "44%"
       ],
       "answer": "22%",
-      "explanation": "We know that S_nth = u + 1/2 a(2n - 1). u = 0. S6 = 0 + 1/2 a(2 × 6 – 1) = 11/2 a. S5 = 0 + 1/2 a(2 × 5 – 1) = 9/2 a. So, the percent increase = (S6 - S5) / S5 × 100 = (11/2 a – 9/2 a) / (9/2 a) × 100 = 2/9 × 100 = 22%"
+      "explanation": "We know that S_nth = u + 1/2 a(2n – 1). u = 0. S₆ = 0 + 1/2 a(2 × 6 – 1) = 11/2 a. S₅ = 0 + 1/2 a(2 × 5 – 1) = 9/2 a. So, the percent increase = (S₆ - S₅) / S₅ × 100 = (11/2 a – 9/2 a) / (9/2 a) × 100 Þ 2/9 × 100 Þ 22%"
     },
     {
       "subject": "Physics (Mechanics)",
-      "question": "If two miscible liquids of same volume but different densities PI and P2 are mixed, then the density of the mixture is given by",
-      "image": "",
-      "options": [
-        "(P1 + P2)/2",
-        "2P1P2 / (P1 + P2)",
-        "2P1P2 / (P1 - P2)",
-        "P1P2 / (P1 + P2)"
-      ],
-      "answer": "(P1 + P2)/2",
-      "explanation": ""
-    },
-    {
-      "subject": "Physics (Mechanics)",
-      "question": "The position vector of a particle is r = 2t2xˆ +3tyˆ +4zˆ . Then the instantaneous velocity v and acceleration a respectively lie",
+      "question": "The position vector of a particle is r = 2t2xˆ +3tyˆ +4zˆ . Then the instantaneous velocity v and a cceleration a respectively lie",
       "image": "",
       "options": [
         "on xy-plane and along z-direction",
@@ -53,9 +40,9 @@
       "explanation": "Let T be the tension in the rope: 2Tcosθ = mg. Where θ = 90°, T = mg/2cos90, cos90 = 0. So = mg/0 = ∞, T = ∞ Hence tension will be infinite."
     }
   ],
-  "Physics (Electricity & Magnetism)": [
+  "Physics (General)": [
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (General)",
       "question": "Which one of the following does not convert electrical energy into light energy?",
       "image": "",
       "options": [
@@ -66,9 +53,11 @@
       ],
       "answer": "A candle",
       "explanation": "The heat from the wick melts the wax which gets absorbed in the wick and then gets burnt (which is really oxidation) to produce heat energy as well as light energy."
-    },
+    }
+  ],
+  "Physics (Electromagnetism)": [
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Electromagnetism)",
       "question": "The visible portion of the electromagnetic spectrum is",
       "image": "",
       "options": [
@@ -81,7 +70,7 @@
       "explanation": "The visible spectrum is the portion of the electromagnetic spectrum that is visible to the human eye. Electromagnetic radiation in this range of wavelengths is called visible light or simply light. A typical human eye will respond to wavelengths from about 380 to 740 nanometers."
     },
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Electromagnetism)",
       "question": "The direction of magnetic field at any location on the earth’s surface is commonly specified in terms of",
       "image": "",
       "options": [
@@ -106,7 +95,7 @@
         "one half of the focal length of the convex lens"
       ],
       "answer": "four times the focal length of the convex lens",
-      "explanation": "Let the distance between the object and its real image formed by a convex lens be d. Let the distance of the object from the lens be x, So the image distance from the lens is (d – x). Then x = (d±√(d^2–4fd))/2. For real value of x, d^2 ≥ 4fd, so d ≥ 4f. Therefore the minimum distance the objects and its real image formed by convex lens is 4f."
+      "explanation": "Let the distance between the object and its real image formed by a convex lens be d. Let the distance of the object from the lens be x, So the image distance from the lens is (d – x), Then x = d±√(d²–4fd). For real value of x, d² ≥ 4fd, d ≥ 4f. Therefore the minimum distance the objects and its real image formed by convex lens is 4f."
     }
   ],
   "Physics (Thermodynamics)": [
@@ -124,9 +113,162 @@
       "explanation": "Convection is transfer of heat through more and in bulb transfer due to radiation."
     }
   ],
-  "Botany": [
+  "Chemistry (Chemical Reactions)": [
     {
-      "subject": "Botany",
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "Two reactants in a flask at room temperature are producing bubbles of a gas that turn limewater milky. The reactants could be",
+      "image": "",
+      "options": [
+        "zinc and hydrochloric acid",
+        "magnesium carbonate and hydrochloric acid",
+        "methane and oxygen",
+        "copper and dilute hydrochloric acid"
+      ],
+      "answer": "magnesium carbonate and hydrochloric acid",
+      "explanation": "When Magnesium carbonate (MgCO3) reacts with Hydrochloric acid (HCl), the products will be Magnesium Chloride (Mgcl2) and Carbonic acid. (H2CO3). Since H2CO3 is unstable in the troposphere ( the lowest part of atmosphere where we are living right now) and lower stratosphere in gas-phase, it will decompose into H2O and CO2. When this reaction occurred, you can see some gas bubble (CO2) formed in it."
+    },
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "Reaction between which of the following two reactants will produce hydrogen gas?",
+      "image": "",
+      "options": [
+        "Magnesium and hydrochloric acid",
+        "Copper and dilute nitric acid",
+        "Calcium carbonate and hydrochloric acid",
+        "Zinc and nitric acid"
+      ],
+      "answer": "Magnesium and hydrochloric acid",
+      "explanation": "Magnesium reacts with hydrochloric acid according to the equation:<br>Mg(s) + 2 HCl(aq) ® MgCl2(aq) + H2(g)<br>This demonstration can be used to illustrate the characteristic reaction of metals with acid, a single replacement reaction, or to demonstrate the generation of hydrogen gas."
+    },
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "Which one of the following can extinguish fire more quickly?",
+      "image": "",
+      "options": [
+        "Cold water",
+        "Boiling water",
+        "Hot water",
+        "Ice"
+      ],
+      "answer": "Boiling water",
+      "explanation": "Boiling water absorbs heat in the form of latent heat for the purpose of changing its liquid state to vapors and latent heat of vaporization is quite high far water."
+    }
+  ],
+  "Chemistry (Stoichiometry)": [
+    {
+      "subject": "Chemistry (Stoichiometry)",
+      "question": "How many moles of CO can be obtained by reacting 2.0 mole of CH4 with 2.0 mole of O2 according to the equation given below?<br>CH4(g) + 1/2 O2(g) → CO(g) + 2H2(g)",
+      "image": "",
+      "options": [
+        "2.0",
+        "0.5",
+        "2.5",
+        "4.0"
+      ],
+      "answer": "2.0",
+      "explanation": "2 moles of CO will be produced."
+    },
+    {
+      "subject": "Chemistry (Stoichiometry)",
+      "question": "The equivalent weight of Ba (OH)2 is (given, atomic weight of Ba is 137.3)",
+      "image": "",
+      "options": [
+        "85.7",
+        "137.3",
+        "154.3",
+        "171.3"
+      ],
+      "answer": "85.7",
+      "explanation": "The molar mass of Ba(OH)2 = Ba + 2 × (O + H)<br>= 137.3 + 2 × (16 + 1) = 171.3<br>Equivalent weight of Ba(OH)2 = molar mass mole factor<br>= 171.3 2 = 85.7"
+    },
+    {
+      "subject": "Chemistry (Stoichiometry)",
+      "question": "In which one of the following reactions, the maximum quantity of H2 gas is produced by the decomposition of 1 g of compound by H2O/O2 ?",
+      "image": "",
+      "options": [
+        "CH4 + H2O ® CO + 3H2",
+        "CO + H2O ® CO2 + H2",
+        "CH4 + 1/2 O2 ® CO + 2H2",
+        "C12H24 + 6O2 ® 12CO + 12H2"
+      ],
+      "answer": "CH4 + H2O ® CO + 3H2",
+      "explanation": "CH4 +H2O ® CO + 3H2"
+    }
+  ],
+  "Chemistry (States of Matter)": [
+    {
+      "subject": "Chemistry (States of Matter)",
+      "question": "Which of the following characteristics is common to hydrogen, nitrogen, oxygen and carbon dioxide?",
+      "image": "",
+      "options": [
+        "They are all diatomic.",
+        "They are all gases at room temperature.",
+        "They are all coloured.",
+        "They all have same reactivity."
+      ],
+      "answer": "They are all gases at room temperature.",
+      "explanation": "They are all gases at room temperature. Elemental hydrogen (H, element 1), nitrogen (N, element 7), oxygen (O, element 8), fluorine (F, element 9), chlorine (Cl, element 17) and CO2 are all gases at room temperature, and are found as diatomic molecules (H2, N2, O2, F2, Cl2, CO2)."
+    }
+  ],
+  "Chemistry (Organic Chemistry)": [
+    {
+      "subject": "Chemistry (Organic Chemistry)",
+      "question": "The compound C7H7NO2 has",
+      "image": "",
+      "options": [
+        "17 atoms in a molecule of the compound",
+        "equal molecules of C and H by mass",
+        "twice the mass of oxygen atoms compared to nitrogen atoms",
+        "twice the mass of nitrogen atoms compared to hydrogen atoms"
+      ],
+      "answer": "twice the mass of nitrogen atoms compared to hydrogen atoms",
+      "explanation": "A white crystalline organic compound (C7H7NO2) composed of a benzene ring with an amino group and a carboxyl group attached to the carbon atoms 1 and 4 respectively and having twice the mass of nitrogen atoms compared to hydrogen atoms."
+    },
+    {
+      "subject": "Chemistry (Organic Chemistry)",
+      "question": "Which of the following is the general formula for saturated hydrocarbons?",
+      "image": "",
+      "options": [
+        "Cn H2n + 2",
+        "Cn H2n – 2",
+        "Cn H2n + 1",
+        "Cn H2n – 1"
+      ],
+      "answer": "Cn H2n + 2",
+      "explanation": "Saturated hydrocarbons are hydrocarbons that contain only single bonds between carbon atoms. They are the simplest class of hydrocarbons. They are called saturated because each carbon atom is bonded to as many hydrogen atoms as possible. In other words, the carbon atoms are saturated with hydrogen. General chemical formula for Saturated Hydrocarbons CnH2n+2."
+    }
+  ],
+  "Chemistry (Inorganic Chemistry)": [
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Which one of the following nitrogen oxides has the highest oxidation state of nitrogen?",
+      "image": "",
+      "options": [
+        "NO",
+        "NO2",
+        "N2O",
+        "N2O5"
+      ],
+      "answer": "N2O5",
+      "explanation": "Unless oxygen is combined with fluorine or isolated from other atoms, the oxidation number of oxygen atoms is always taken as -2. This gives a total oxidation number charge of -10 for the five oxygen atoms in N2O5. To maintain electrical neutrality as required for all compounds, the two nitrogen atoms must have a total oxidation charge of +10, so that each of the two nitrogen atoms has an oxidation number of +5."
+    },
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Which one of the following is not true for the from of carbon known as diamond?",
+      "image": "",
+      "options": [
+        "It is harder than graphite.",
+        "It contains the same percentage of carbon as graphite.",
+        "It is a better electric conductor than graphite.",
+        "It has different carbon to carbon distance in all directions."
+      ],
+      "answer": "It is a better electric conductor than graphite.",
+      "explanation": "Diamond is a poor conductor of electricity, but is a good conductor of heat while graphite is a good conductor of heat and electricity."
+    }
+  ],
+  "Biology (Botany)": [
+    {
+      "subject": "Biology (Botany)",
       "question": "Which of the following is/are the main absorbing organ/ organs of plants?",
       "image": "",
       "options": [
@@ -139,7 +281,7 @@
       "explanation": "Major Organs of most plants include roots, stems, and leaves. A root is a complex organ consisting of several types of tissue absorbing water and minerals: Thin-walled epidermal cells and root hairs are well suited to absorb water"
     },
     {
-      "subject": "Botany",
+      "subject": "Biology (Botany)",
       "question": "Which of the following is not a primary function of a green leaf?",
       "image": "",
       "options": [
@@ -152,7 +294,7 @@
       "explanation": "The main function of a leaf is to produce food for the plant by photosynthesis. Chlorophyll, the substance that gives plants their characteristic green colour, absorbs light energy. Conduction of food and water is not the primary function of leaf. It is done by vascular bundles xylem and phloem which is present throughout the plant body."
     },
     {
-      "subject": "Botany",
+      "subject": "Biology (Botany)",
       "question": "Which one of the following denotes a ‘true’ fruit?",
       "image": "",
       "options": [
@@ -165,7 +307,7 @@
       "explanation": "A true fruit or eucarp is a mature or ripened ovary, developed after fertilization, e.g., Mango, Maize, Grape etc."
     },
     {
-      "subject": "Botany",
+      "subject": "Biology (Botany)",
       "question": "In which one of the following physiological processes, excess water escapes in the form of droplets from a plant?",
       "image": "",
       "options": [
@@ -178,7 +320,7 @@
       "explanation": "Guttation is the process of secreting water droplets from the pores of some vascular plants like grass. Guttation is often confused with dew droplets that condense from the atmosphere on to the plants surface."
     },
     {
-      "subject": "Botany",
+      "subject": "Biology (Botany)",
       "question": "If the xylem of a plant is mechanically blocked, which of the following functions of the plant will be affected?",
       "image": "",
       "options": [
@@ -191,7 +333,7 @@
       "explanation": "Xylem is water conducting tissue in plants. If the Xylem of the plants is removed, upward movement of the water and transportation of solutes will stop leading to wilting of leaves and ultimately cause the death of plants."
     },
     {
-      "subject": "Botany",
+      "subject": "Biology (Botany)",
       "question": "Which one of the following agents does not contribute to propagation of plants through seed dispersal?",
       "image": "",
       "options": [
@@ -204,7 +346,7 @@
       "explanation": "Seed dispersal is the movement or transport of seeds away from the parent plant. Plants have very limited mobility and consequently rely upon a variety of dispersal vectors to transport their propagules, including both abiotic vectors such as the wind and water and living (biotic) vectors like birds and animals."
     },
     {
-      "subject": "Botany",
+      "subject": "Biology (Botany)",
       "question": "Which one of the following features is an indication for modification of stem of a plant?",
       "image": "",
       "options": [
@@ -217,9 +359,9 @@
       "explanation": "Potatoes are called as modified stems because it possess many qualification which is of stem . Potatoes are underground stem .and usually called as tubers . They are called as modified stem because as it has scaly leaves, it has nodes, internodes, buds and adventitious roots."
     }
   ],
-  "Ecology": [
+  "Biology (Ecology & Environment)": [
     {
-      "subject": "Ecology",
+      "subject": "Biology (Ecology & Environment)",
       "question": "Which one of the following statements with regard to growth of coral reefs is not correct?",
       "image": "",
       "options": [
@@ -232,9 +374,9 @@
       "explanation": "Corals need saltwater to survive and require a certain balance in the ratio of salt to water. This is why corals don’t live in areas where rivers drain fresh water into the ocean."
     }
   ],
-  "Human Physiology": [
+  "Biology (Human Physiology)": [
     {
-      "subject": "Human Physiology",
+      "subject": "Biology (Human Physiology)",
       "question": "Which of the following roles is/ are played by epididymis, vas deferens, seminal vesicles and prostate in male reproductive system of human?",
       "image": "",
       "options": [
@@ -247,7 +389,7 @@
       "explanation": "In humans, the most important male androgen is testosterone. Several accessory organs and ducts aid the process of sperm maturation and transport the sperm and other seminal components to the penis, which delivers sperm to the female reproductive tract."
     },
     {
-      "subject": "Human Physiology",
+      "subject": "Biology (Human Physiology)",
       "question": "Which one of the following is the special type of milk produced by a lactating mother, essential for the development of immune response of newborn baby in human?",
       "image": "",
       "options": [
@@ -260,9 +402,9 @@
       "explanation": "Colostrum is the first form of milk produced by the mammary glands immediately following delivery of the newborn. Colostrum is known to contain immune cells (as lymphocytes) and many antibodies such as IgA, IgG, and IgM. These are some of the components of adaptive immune system."
     }
   ],
-  "Genetics": [
+  "Biology (Genetics)": [
     {
-      "subject": "Genetics",
+      "subject": "Biology (Genetics)",
       "question": "Which one of the following statements explains higher mutation rate and faster evolution found in RNA virus?",
       "image": "",
       "options": [

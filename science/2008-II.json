@@ -38,6 +38,19 @@
       ],
       "answer": "Both A and R are true and R is the correct explanation of A",
       "explanation": "In a pressure cooker while cooking pressure increases due to which boiling point of water also increases as PµT ."
+    },
+    {
+      "subject": "Physics (Thermodynamics)",
+      "question": "Which colour of heat radiation represents the highest temperature?",
+      "image": "",
+      "options": [
+        "Blood red",
+        "Dark cherry",
+        "Salmon",
+        "White"
+      ],
+      "answer": "White",
+      "explanation": "Colour temperature is a measurement relating the colour of the light radiated by an object to its temperature. No matter whatever the temperature is the hottest would only radiate to blue-white light radiation."
     }
   ],
   "Physics (Optics)": [
@@ -96,9 +109,9 @@
       "explanation": "Density of water is maximum at 4°C."
     }
   ],
-  "Physics (Cosmology)": [
+  "Physics (Astrophysics & Cosmology)": [
     {
-      "subject": "Physics (Cosmology)",
+      "subject": "Physics (Astrophysics & Cosmology)",
       "question": "Who gave the first evidence of the big-bang theory?",
       "image": "",
       "options": [
@@ -111,9 +124,9 @@
       "explanation": "Edwin Hubble gave the first evidence of the big-bang theory."
     }
   ],
-  "Physics (Units & Dimensions)": [
+  "Physics (Units & Measurements)": [
     {
-      "subject": "Physics (Units & Dimensions)",
+      "subject": "Physics (Units & Measurements)",
       "question": "Bar is a unit of which one of the following?",
       "image": "",
       "options": [
@@ -141,9 +154,9 @@
       "explanation": "Rocket works on the principle of conservation of linear momentum."
     }
   ],
-  "Physics (Electricity & Magnetism)": [
+  "Physics (Electromagnetism)": [
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Electromagnetism)",
       "question": "Which one of the following common devices works on the basis of the principle of mutual induction?",
       "image": "",
       "options": [
@@ -154,6 +167,443 @@
       ],
       "answer": "Transformer",
       "explanation": "Transformer is based on the principle of mutual induction."
+    }
+  ],
+  "Chemistry (Inorganic Chemistry)": [
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Which one of the following substances is used in the manufacture of safety matches?",
+      "image": "",
+      "options": [
+        "Red phosphorus",
+        "White phosphorus",
+        "Phosphorus trioxide (P203)",
+        "Black phosphorus"
+      ],
+      "answer": "Red phosphorus",
+      "explanation": "Red phosphorus is mostly used in the manufacture of safety matches."
+    },
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Which one of the following is the softest?",
+      "image": "",
+      "options": [
+        "Sodium",
+        "Aluminium",
+        "Iron",
+        "Copper"
+      ],
+      "answer": "Sodium",
+      "explanation": "Alkali metals such as lithium, sodium and potassium are soft metals. These can be easily cut with a knife."
+    }
+  ],
+  "Chemistry (States of Matter)": [
+    {
+      "subject": "Chemistry (States of Matter)",
+      "question": "Which one of the following is correct? Butter is",
+      "image": "",
+      "options": [
+        "a supercooled oil",
+        "an emulsion",
+        "a molecular solid",
+        "None of these"
+      ],
+      "answer": "None of these",
+      "explanation": "Butter is an example of a colloidal dispersion of a liquid in a solid i.e., gel."
+    }
+  ],
+  "Chemistry (General Concepts)": [
+    {
+      "subject": "Chemistry (General Concepts)",
+      "question": "Which one of the following properties changes with valency?",
+      "image": "",
+      "options": [
+        "Atomic weight",
+        "Equivalent weight",
+        "Molecular weight",
+        "Density"
+      ],
+      "answer": "Equivalent weight",
+      "explanation": "Only equivalent weight changes with valency. Atomic weight, molecular weight and density does not change with valency.<br>Equivalent weight of the element = Atomicweight / Valency"
+    }
+  ],
+  "Chemistry (Physical Chemistry)": [
+    {
+      "subject": "Chemistry (Physical Chemistry)",
+      "question": "Which of the following has maximum density?",
+      "image": "",
+      "options": [
+        "Chloroform",
+        "Water",
+        "Benzene",
+        "Ice"
+      ],
+      "answer": "Water",
+      "explanation": "Water has the maximum density among these because chloroform, benzene and ice float on water."
+    }
+  ],
+  "Chemistry (Applied Chemistry)": [
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "Which one of the following is used in the preparation of antiseptic solution?",
+      "image": "",
+      "options": [
+        "Potassium nitrate",
+        "Iodine",
+        "Iodine chloride",
+        "Potassium chloride"
+      ],
+      "answer": "Iodine",
+      "explanation": "Iodine is a powerful antiseptic. It is used as a tincture of iodine which is 2-3% iodine solution in alcohol-water."
+    },
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "Which one of the following is the secondary source of light in a fluorescent lamp?",
+      "image": "",
+      "options": [
+        "Neon gas",
+        "Argon gas",
+        "Mercury vapour",
+        "Fluorescent coating"
+      ],
+      "answer": "Fluorescent coating",
+      "explanation": "Fluorescent coating on the glass is the secondary source of light in a fluorescent lamp."
+    },
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "What does airbag, used in safety of car driver, contain?",
+      "image": "",
+      "options": [
+        "Sodium bicarbonate",
+        "Sodium azide",
+        "Sodium nitrite",
+        "Sodium peroxide"
+      ],
+      "answer": "Sodium azide",
+      "explanation": "Airbag used for safety and protection of car driver possesses sodium azide."
+    }
+  ],
+  "Chemistry (Chemical Reactions)": [
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "Which one of the following is not a chemical change?",
+      "image": "",
+      "options": [
+        "Burning of coal in air",
+        "Fermentation of sugar cane juice",
+        "Crystallisation of table salt from sea water",
+        "Cracking of petroleum"
+      ],
+      "answer": "Crystallisation of table salt from sea water",
+      "explanation": "A chemical change a new substance is formed. During crystallisation of table salt from sea water no new substance is formed hence, it is not a chemical change."
+    },
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "Which one of the following is correct? Setting of plaster of Paris is",
+      "image": "",
+      "options": [
+        "dehydration",
+        "oxidation with atmospheric oxygen",
+        "hydration leading to another hydrate",
+        "combination with atmospheric C02"
+      ],
+      "answer": "hydration leading to another hydrate",
+      "explanation": "Setting of plaster of Paris is the hydration leading to another hydrate i.e., gypsum.<br>CaSO4.1/2H2O + 1 1/2H2O —Setting—> CaSO4×2H2O<br>PlasterofParis Gypsum"
+    }
+  ],
+  "Chemistry (Acids, Bases & Salts)": [
+    {
+      "subject": "Chemistry (Acids, Bases & Salts)",
+      "question": "Statement I : Addition of water to an aqueous solution of HC1 decreases the pH.<br>Statement II : Addition of water suppresses the ionisation of HC1.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+        "Statement I is true, but Statement II is false",
+        "Statement I is false, but Statement II is true"
+      ],
+      "answer": "Statement I is true, but Statement II is false",
+      "explanation": "Addition of water to an aqueous solution of HCl decreases the pH because on dilution the number of H+ ions (from water) increases. Now since<br>[H+] = 10–pH \\ As [H+] increases pH decreases."
+    }
+  ],
+  "Biology (Human Diseases)": [
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "The persons working in textile factories such as carpet weavers are exposed to which of the following occupational diseases?",
+      "image": "",
+      "options": [
+        "Asbestosis",
+        "Asthma and tuberculosis",
+        "Silicosis",
+        "Siderosis"
+      ],
+      "answer": "Asthma and tuberculosis",
+      "explanation": "Asthma is a chronic lung disease. It inflames and narrows the air ways. Tuberculosis is a lung disease created by Mycobacterium tuberculosis. Workers in textile factories and carpet manufacturing units are the common sufferess of asthma and tuberculosis."
+    },
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "Malaria in the human body is caused by which one of the following organisms?",
+      "image": "",
+      "options": [
+        "Bacteria",
+        "Virus",
+        "Mosquito",
+        "Protozoan"
+      ],
+      "answer": "Protozoan",
+      "explanation": "Malaria is a mosquito borne disease of humans and other animals caused by Plasmodium protozoan. Severe disease is largely caused by Plasmodium falciparum whereas mild forms are due to P vivax, P oval and P malariae."
+    },
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "Which one of the following diseases is caused by virus?",
+      "image": "",
+      "options": [
+        "Tuberculosis",
+        "Typhoid",
+        "Influenza",
+        "Diphtheria"
+      ],
+      "answer": "Influenza",
+      "explanation": "Influenza is caused by virus and all other three diseases are bacterial. Influenza, generally called flu, is an infectious disease caused by RNA viruses of family Orthomyxoviridae."
+    }
+  ],
+  "Biology (Human Physiology)": [
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Dim-vision in the evening and night results from the deficiency of which one of the following?",
+      "image": "",
+      "options": [
+        "Vitamin-A",
+        "Vitamin-E",
+        "Vitamin-B",
+        "Vitamin-C"
+      ],
+      "answer": "Vitamin-A",
+      "explanation": "Deficiency of vitamin-A (retinol) creates night blindness. It also creates keratomalacia, xerosis cornea and Bitot’s spot. High content of vitamin-A is obtained from liver and butter."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "In normal adult human, what is the rate of heart beat per minute?",
+      "image": "",
+      "options": [
+        "72-80",
+        "70-75",
+        "80-97",
+        "82-87"
+      ],
+      "answer": "72-80",
+      "explanation": "In the normal human adult, heart beats at the rate of about 72-80 per minute in the resting state."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "The terms lubb and dubb relates to which one of the following?",
+      "image": "",
+      "options": [
+        "Heart",
+        "Eyes",
+        "Teeth",
+        "Lungs"
+      ],
+      "answer": "Heart",
+      "explanation": "The term lub and dub is concernes with heart. Lubb is the first sound in the heart produced by the closure of atrioventricular values (tricuspid and bicuspid) at the beginning of ventricular systole. Dub is the second sound produced by the closure of semilunar value towards the last point of ventricular systole."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "In human body, what is the number of cervical vertebrae?",
+      "image": "",
+      "options": [
+        "5",
+        "7",
+        "8",
+        "12"
+      ],
+      "answer": "7",
+      "explanation": "In vertebrates, cervical vertebrae are immediately inferior to the skull. They are smallest of true vertebrae and their number in human body is 7."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Which chamber of human heart pumps fully oxygenated blood to aorta and thence to the body?",
+      "image": "",
+      "options": [
+        "Right auricle",
+        "Left auricle",
+        "Right ventricle",
+        "Left ventricle"
+      ],
+      "answer": "Left ventricle",
+      "explanation": "The human heart possesses four chambers, two superior atria and two inferior ventricles. The atria are getting chambers and ventricles are providing chambers. Left ventricle pumps fully oxygenated blood to aorta then to the body. Right atrium gets deoxygenated blood from superior vena cava."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Sweating during exercise indicates operation of which one of the following processes in the human body?",
+      "image": "",
+      "options": [
+        "Enthalpy",
+        "Phagocytosis",
+        "Homeostasis",
+        "Osmoregulation"
+      ],
+      "answer": "Homeostasis",
+      "explanation": "Homeostatic regulation includes sweating. It is the main process through which the body gets coolness."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Between which one of the following sets of blood groups, is the blood transfusion possible?",
+      "image": "",
+      "options": [
+        "A and O",
+        "B and A",
+        "A and AB",
+        "AB and O"
+      ],
+      "answer": "A and AB",
+      "explanation": "O is the universal donor, but can obtain blood only from O so option (a) and (d) are not possible. Regarding (b), B can’t provide blood to A because of presence of antibodies against A antigen. So, (c) is the only condition of possible blood transfusion as AB is the universal recipient."
+    }
+  ],
+  "Biology (Botany)": [
+    {
+      "subject": "Biology (Botany)",
+      "question": "Which of the following nutrients is not a structural component of the plant?",
+      "image": "",
+      "options": [
+        "Nitrogen",
+        "Calcium",
+        "Phosphorus",
+        "Potassium"
+      ],
+      "answer": "Potassium",
+      "explanation": "Potassium ions(K+) are responsible for protein synthesis, opening and closing of stomata in plants."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "Which of the following plants is not capable of manufacturing its own food?",
+      "image": "",
+      "options": [
+        "Algae",
+        "Mushroom",
+        "Carrot",
+        "Cabbage"
+      ],
+      "answer": "Mushroom",
+      "explanation": "Mushrooms are not able to manufacture their own food. A mushroom is the fleshy, spores having fruiting body of fungi. It is heterotrophic."
+    }
+  ],
+  "Biology (Cell Biology)": [
+    {
+      "subject": "Biology (Cell Biology)",
+      "question": "Assertion (A): Red blood cells burst when placed in water.<br>Reason (R): Due to osmosis, water enters into red blood cells.",
+      "image": "",
+      "options": [
+        "Both A and R are true and R is the correct explanation of A",
+        "Both A and R are true, but R is not the correct explanation of A",
+        "A is true, but R is false",
+        "A is false, but R is true"
+      ],
+      "answer": "Both A and R are true and R is the correct explanation of A",
+      "explanation": ""
+    }
+  ],
+  "Physics (Waves & Sound)": [
+    {
+      "subject": "Physics (Waves & Sound)",
+      "question": "Which one of the following is correct? A concrete wall generally?",
+      "image": "",
+      "options": [
+        "only reflects sound",
+        "only absorbs sound",
+        "only transmits sound",
+        "absorbs and transmits sound"
+      ],
+      "answer": "absorbs and transmits sound",
+      "explanation": ""
+    }
+  ],
+  "Biology (Biochemistry)": [
+    {
+      "subject": "Biology (Biochemistry)",
+      "question": "The characterisitic odour of garlic is due to which one of the following?",
+      "image": "",
+      "options": [
+        "Chlorine-containing compounds",
+        "Fluorine-containing compounds",
+        "Nitrogen-containing compounds",
+        "Sulphur-containing compounds"
+      ],
+      "answer": "Sulphur-containing compounds",
+      "explanation": "The odour of garlic is due to allyl methyl sulphide."
+    }
+  ],
+  "Biology (Nutrition)": [
+    {
+      "subject": "Biology (Nutrition)",
+      "question": "Which one of the following is considered as the easily digestible source of protein?",
+      "image": "",
+      "options": [
+        "Egg albumin",
+        "Soyabean",
+        "Fish flesh",
+        "Red meat"
+      ],
+      "answer": "Egg albumin",
+      "explanation": "Egg white are good easy way to add protein to any food. Egg albumin is a class of simple, water soluble proteins that are present in egg white."
+    },
+    {
+      "subject": "Biology (Nutrition)",
+      "question": "Which of the following is a rich source of energy?",
+      "image": "",
+      "options": [
+        "Protein",
+        "Lipid",
+        "Carbohydrate",
+        "Vitamin"
+      ],
+      "answer": "Carbohydrate",
+      "explanation": "Carbohydrates is an important nutrient in human. It is a good and rich source of energy."
+    }
+  ],
+  "Biology (Biotechnology)": [
+    {
+      "subject": "Biology (Biotechnology)",
+      "question": "By using which one of the following techniques, is DNA fingerprinting done?",
+      "image": "",
+      "options": [
+        "ELISA",
+        "RIA",
+        "Northern Blotting",
+        "Southern Blotting"
+      ],
+      "answer": "Southern Blotting",
+      "explanation": "DNA fingerprinting includes the extraction and identification of the base pair pattern of an individual’s DNA. The identification process of specific DNA sequences is carried out by Southern blotting."
+    }
+  ],
+  "Chemistry (Gases)": [
+    {
+      "subject": "Chemistry (Gases)",
+      "question": "Which one of the following is a major constituent of biogas?",
+      "image": "",
+      "options": [
+        "Carbon dioxide",
+        "Methane",
+        "Hydrogen",
+        "Nitrogen dioxide"
+      ],
+      "answer": "Methane",
+      "explanation": "Biogas is typically a gas evolved by the biological breakdown of organic wastes in absence of O2. It is used as biofuel and made up basically of CH4 (50-75%), CO2 (25-50%) N2 (0 -10%), H2 (0-1%), H2s (0-3%) and O2 (0-1%)."
+    }
+  ],
+  "Biology (Microbiology)": [
+    {
+      "subject": "Biology (Microbiology)",
+      "question": "Which one of the following is responsible for converting milk into curd?",
+      "image": "",
+      "options": [
+        "Fungi",
+        "Bacteria",
+        "Virus",
+        "None of these"
+      ],
+      "answer": "Bacteria",
+      "explanation": "Curd is made due to the chemical reaction between lactic acid bacteria and casein."
     }
   ]
 }

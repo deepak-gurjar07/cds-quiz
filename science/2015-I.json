@@ -28,19 +28,6 @@
     },
     {
       "subject": "Physics (Mechanics)",
-      "question": "Creation of something from nothing is against the law of",
-      "image": "",
-      "options": [
-        "constant proportions",
-        "conservation of mass-energy",
-        "multiple proportions",
-        "conservation of momentum"
-      ],
-      "answer": "conservation of mass-energy",
-      "explanation": "Creation of something from nothing is against the law of conservation of mass energy."
-    },
-    {
-      "subject": "Physics (Mechanics)",
       "question": "An electron and a proton are circulating with same speed in circular paths of equal radius. Which one among the following will happen, if the mass of a proton is about 2,000 times that of an electron ?",
       "image": "",
       "options": [
@@ -50,7 +37,7 @@
         "Equal centripetal force acts on both the particles as they rotate in the same circular path"
       ],
       "answer": "The centripetal force required by the proton is about 2,000 times more than that required by the electron",
-      "explanation": "Centripetal force = mv2/r. Given that, Mass of proton = 2000 × mass of electron. Radius and speed is same for both proton and electron. \\ Centripetal force a mass. Since mass of proton is 2000 times that of mass of electron, hence the centripetal force required by proton is about 2000 times more than that required by the electron."
+      "explanation": "Centripetal force = mv²/r. Given that, Mass of proton = 2000 × mass of electron. Radius and speed is same for both proton and electron. \\ Centripetal force a mass. Since mass of proton is 2000 times that of mass of electron, hence the centripetal force required by proton is about 2000 times more than that required by the electron."
     },
     {
       "subject": "Physics (Mechanics)",
@@ -78,7 +65,20 @@
         "b, a, g"
       ],
       "answer": "a, b, g",
-      "explanation": "g - rays are the most penetrating rays. b - particles are moderately penetrating and a - particles are least penetrating."
+      "explanation": "g - rays are the most penetrating rays<br>b - particles are moderately penetrating and<br>a - particles are least penetrating."
+    },
+    {
+      "subject": "Physics (Modern Physics)",
+      "question": "Creation of something from nothing is against the law of",
+      "image": "",
+      "options": [
+        "constant proportions",
+        "conservation of mass-energy",
+        "multiple proportions",
+        "conservation of momentum"
+      ],
+      "answer": "conservation of mass-energy",
+      "explanation": "Creation of something from nothing is against the law of conservation of mass energy."
     }
   ],
   "Physics (Optics)": [
@@ -96,9 +96,9 @@
       "explanation": "The distance between person and his image is 60 cm × 2 = 1.2 m"
     }
   ],
-  "Physics (Electricity & Magnetism)": [
+  "Physics (Electricity)": [
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Electricity)",
       "question": "Two pieces of conductor of same material and of equal length are connected in series with a cell. One of the two pieces has cross-sectional area double that of the other. Which one of the following statements is correct in this regard ?",
       "image": "",
       "options": [
@@ -111,7 +111,7 @@
       "explanation": ""
     },
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Electricity)",
       "question": "A wire-bound standard resistor used manganin or constantan. It is because",
       "image": "",
       "options": [
@@ -139,9 +139,9 @@
       "explanation": "Graphite is used in making lead pencils due to its ability to leave marks on paper and other objects. Pencil lead is most commonly a mix of powdered graphite and clay."
     }
   ],
-  "Chemistry (Properties of Matter)": [
+  "Physics (General)": [
     {
-      "subject": "Chemistry (Properties of Matter)",
+      "subject": "Physics (General)",
       "question": "Sodium metal should be stored in",
       "image": "",
       "options": [
@@ -154,9 +154,144 @@
       "explanation": "Sodium metal should be stored in kerosene oil. Sodium is a very reactive metal. It is kept in kerosene to prevent it from coming in contact with oxygen and moisture. If this happens, it will react with the moisture present in air and form sodium hydroxide. This is a strongly exothermic reaction, and lot of heat is generated. Thus sodium is kept under kerosene."
     }
   ],
-  "Cell Biology": [
+  "Chemistry (Applied Chemistry)": [
     {
-      "subject": "Cell Biology",
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "When hard water is evaporated completely, the white solid remains in the container. It may be due to the presence of<br>1. Carbonates of Ca and Mg<br>2. Sulphates of Ca and Mg<br>3. Chlorides of Ca and Mg<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3",
+        "3 only",
+        "1 and 3 only"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "The white solid remains in the container when hard water is evaporated completely is mainly due to the presence of chlorides and carbonates of Ca and Mg and also due to presence of traces of sulphates of Ca and Mg."
+    }
+  ],
+  "Chemistry (General Concepts)": [
+    {
+      "subject": "Chemistry (General Concepts)",
+      "question": "Which one among the following compounds has same equivalent weight and molecular weight ?",
+      "image": "",
+      "options": [
+        "H2SO4",
+        "CaCl2",
+        "Na2SO4",
+        "NaCl"
+      ],
+      "answer": "NaCl",
+      "explanation": "NaCl has same molecular weight and equivalent weight<br>Equivalent weight of salt = Molecular weight of salt / Total charge on cation<br>Molecular weight of NaCl = 23 + 35.5 = 58.5<br>\\ Equivalent weight of NaCl = 58.5 / 1 = 58.5"
+    }
+  ],
+  "Physics (Thermal Properties of Matter)": [
+    {
+      "subject": "Physics (Thermal Properties of Matter)",
+      "question": "A metallic plate sticks firmly on the mouth of a water vessel made from another metal. By way of heating, one can detach the plate from the vessel. This is because heat expands",
+      "image": "",
+      "options": [
+        "the vessel only",
+        "both the vessel and the plate equally",
+        "the vessel more than the plate",
+        "the vessel and contracts the plate"
+      ],
+      "answer": "the vessel more than the plate",
+      "explanation": "Due to more expansion of vassel, plate comes out easily."
+    }
+  ],
+  "Chemistry (Electrochemistry)": [
+    {
+      "subject": "Chemistry (Electrochemistry)",
+      "question": "Electricity is produced through dry cell from",
+      "image": "",
+      "options": [
+        "chemical energy",
+        "thermal energy",
+        "mechanical energy",
+        "nuclear energy"
+      ],
+      "answer": "chemical energy",
+      "explanation": "Electricity is produced through dry cell from chemical energy. The cells from which electric energy is derived by irreversible chemical action are called primary cells. The primary cell is capable of providing an EMF when its constituent's two electrodes and a suitable electrolyte are assembled together. The three main primary cells are the Daniel cell, the Leclanche cell, and the dry cell. None of these cells can be recharged electrically."
+    }
+  ],
+  "Chemistry (Organic Chemistry)": [
+    {
+      "subject": "Chemistry (Organic Chemistry)",
+      "question": "Which one among the following fuels is used in gas welding?",
+      "image": "",
+      "options": [
+        "L P G",
+        "Ethylene",
+        "Methane",
+        "Acetylene"
+      ],
+      "answer": "Acetylene",
+      "explanation": "Acetylene is the only commercial fuel gas that can be used for both cutting and welding applications."
+    }
+  ],
+  "Chemistry (Industrial Chemistry)": [
+    {
+      "subject": "Chemistry (Industrial Chemistry)",
+      "question": "Which one among the following is a micronutrient present in soil for various crops ?",
+      "image": "",
+      "options": [
+        "Calcium",
+        "Manganese",
+        "Magnesium",
+        "Potassium"
+      ],
+      "answer": "Manganese",
+      "explanation": "There are about seven nutrients essential to plant growth and health that are only needed in very small quantities. These are Boron ,Chlorine, Copper, Iron, Manganese, Molybdenum and Zinc."
+    }
+  ],
+  "Chemistry (Environmental Chemistry)": [
+    {
+      "subject": "Chemistry (Environmental Chemistry)",
+      "question": "Match List I with List II and select the correct answer using the code given below the Lists :<br>List I (Air Pollutant) List II (Effect)<br>A. Chlorofluorocarbon 1. Acid rain<br>B. Sulphur dioxide 2. Depletion in ozone layer in the atmosphere<br>C. Lead compound 3. Harmful for human nervous system<br>D. Carbon dioxide 4. Topmost contribution to greenhouse effect<br>Code:<br>A B C D A B C D",
+      "image": "",
+      "options": [
+        "4 3 1 2",
+        "4 1 3 2",
+        "2 3 1 4",
+        "2 1 3 4"
+      ],
+      "answer": "2 1 3 4",
+      "explanation": "The correct match is as follows:<br>Chloroflurocarbon- Depletion in ozone layer in the atmosphere<br>Sulphur dioxide- Acid rain<br>Lead compound- Harmful for human nervous system<br>Carbon dioxide- Topmost contribution to greenhouse effect"
+    }
+  ],
+  "Chemistry (Inorganic Chemistry)": [
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Which one among the following metals is prominently used in mobile phone batteries?",
+      "image": "",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Nickel",
+        "Lithium"
+      ],
+      "answer": "Lithium",
+      "explanation": "Lithium is also a highly reactive element, meaning that a lot of energy can be stored in its atomic bonds. This translates into a very high energy density for lithium-ion batteries. It is used in mobile phone, laptops etc."
+    }
+  ],
+  "Chemistry (Chemical Reactions)": [
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "Which one among the following processes is not part of a chemical weathering ?",
+      "image": "",
+      "options": [
+        "Hydration",
+        "Exfoliation",
+        "Oxidation",
+        "Solution"
+      ],
+      "answer": "Exfoliation",
+      "explanation": "Exfoliation involves the removal of the oldest dead skin cells on the skin's outermost surface and has been used for many years to help maintain healthy skin. It can be achieved through mechanical or chemical means."
+    }
+  ],
+  "Biology (Cell Biology)": [
+    {
+      "subject": "Biology (Cell Biology)",
       "question": "Which one among the following statements is correct ?",
       "image": "",
       "options": [
@@ -167,39 +302,9 @@
       ],
       "answer": "Cell membrane is present both in plant and animal cells.",
       "explanation": "A prokaryote is a single-celled organism that lacks a membrane-bound nucleus (karyon). Plant and animal cells are both eukaryotic cells, so they have several features in common, such as the presence of a cell membrane, mitochondria and endoplasmic reticulum. Chloroplasts are found in plant cells which is eukaryotic. Ribosomes are found in both prokaryotes and eukaryotes."
-    }
-  ],
-  "Zoology": [
-    {
-      "subject": "Zoology",
-      "question": "Which one among the following statements is not true for Mammals ?",
-      "image": "",
-      "options": [
-        "They possess hair on the body.",
-        "Some of them lay eggs.",
-        "Their heart is three chambered",
-        "Some are aquatic."
-      ],
-      "answer": "Their heart is three chambered",
-      "explanation": "Characteristics of mammals:<br>• Vertebrates (which means they have a backbone or spine).<br>• Regulate their own body temperate which allows them to live in almost every climate on Earth.<br>• Have hair on their bodies.<br>• Produce milk to feed their babies.<br>• Four chambered heart: two atria and two ventricles (bird and mammal)"
-    }
-  ],
-  "Human Physiology": [
-    {
-      "subject": "Human Physiology",
-      "question": "In human digestive system, the process of digestion starts in",
-      "image": "",
-      "options": [
-        "Oesophagus",
-        "Buccal cavity",
-        "Duodenum",
-        "Stomach"
-      ],
-      "answer": "Buccal cavity",
-      "explanation": "In human digestive system the process of digestion starts in buccal cavity. The buccal cavity is more commonly known as the mouth, and it is the beginning of the digestive system for humans and animals alike. It starts with the lips and ends with the throat, covering the oral cavity, the tongue, and the jaw in between."
     },
     {
-      "subject": "Human Physiology",
+      "subject": "Biology (Cell Biology)",
       "question": "Which one among the following structures or cells is not present in connective tissues ?",
       "image": "",
       "options": [
@@ -212,9 +317,39 @@
       "explanation": "An axon is also known as a nerve fibre. It is a long, slender projection of a nerve cell, or neuron that typically conducts electrical impulses away from the neuron's cell body. Each nerve is a cordlike structure that contains many axons and also called nerve fibres. Within a nerve, each axon is surrounded by a layer of connective tissue called the endoneurium."
     }
   ],
-  "Health and Disease": [
+  "Biology (Zoology)": [
     {
-      "subject": "Health and Disease",
+      "subject": "Biology (Zoology)",
+      "question": "Which one among the following statements is not true for Mammals ?",
+      "image": "",
+      "options": [
+        "They possess hair on the body.",
+        "Some of them lay eggs.",
+        "Their heart is three chambered",
+        "Some are aquatic."
+      ],
+      "answer": "Their heart is three chambered",
+      "explanation": "Characteristics of mammals:<br>• Vertebrates (which means they have a backbone or spine).<br>• Regulate their own body temperate which allows them to live in almost every climate on Earth.<br>• Have hair on their bodies.<br>• Produce milk to feed their babies.<br>• Four chambered heart: two atria and two ventricles (bird and mammal)"
+    }
+  ],
+  "Biology (Human Physiology)": [
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "In human digestive system, the process of digestion starts in",
+      "image": "",
+      "options": [
+        "Oesophagus",
+        "Buccal cavity",
+        "Duodenum",
+        "Stomach"
+      ],
+      "answer": "Buccal cavity",
+      "explanation": "In human digestive system the process of digestion starts in buccal cavity. The buccal cavity is more commonly known as the mouth, and it is the beginning of the digestive system for humans and animals alike. It starts with the lips and ends with the throat, covering the oral cavity, the tongue, and the jaw in between."
+    }
+  ],
+  "Biology (Diseases)": [
+    {
+      "subject": "Biology (Diseases)",
       "question": "Which one of the following diseases in humans can spread through air ?",
       "image": "",
       "options": [

@@ -1,7 +1,78 @@
 {
-  "Human Physiology (Circulatory System)": [
+  "Chemistry (Inorganic Chemistry)": [
     {
-      "subject": "Human Physiology (Circulatory System)",
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "As which one of the following, does carbon occur in its purest form in nature?",
+      "image": "",
+      "options": [
+        "Carbon black",
+        "Graphite",
+        "Diamond",
+        "Coal"
+      ],
+      "answer": "Carbon black",
+      "explanation": "Carbon occurs in its purest form of carbon black in nature."
+    },
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "What is the Jeweller's rouge?",
+      "image": "",
+      "options": [
+        "Ferric oxide",
+        "Ferrous oxide",
+        "Ferrous carbonate",
+        "Ferric carbonate"
+      ],
+      "answer": "Ferric oxide",
+      "explanation": "A very fine powder of ferric oxide is known as \"jeweler's rouge\", \"red rouge\", or simply rouge. It is used to put the final polish on metallic jewellery and lenses, and historically as a cosmetic."
+    },
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Which one of the following is an element?",
+      "image": "",
+      "options": [
+        "Topaz",
+        "Diamond",
+        "Ruby",
+        "Sapphire"
+      ],
+      "answer": "Diamond",
+      "explanation": "Diamond is an element. It is an allotrope of carbon. While ruby, topaz and sapphire are minerals (i.e., compounds). These are the valuable gemstones."
+    }
+  ],
+  "Chemistry (Materials & Alloys)": [
+    {
+      "subject": "Chemistry (Materials & Alloys)",
+      "question": "'Misch metal' is widely used in the manufacture of which of the following?",
+      "image": "",
+      "options": [
+        "Material of car brake",
+        "Smoke detectors",
+        "Cigarette lighters",
+        "Emergency lights"
+      ],
+      "answer": "Cigarette lighters",
+      "explanation": "'Misch metal' alloyed with iron is used in the cigarettes lighters. Misch metal is an alloy of cerium (50%), lanthanum (25%), neodymium (18%), praseodymium (5%) and other rare metals."
+    }
+  ],
+  "Chemistry (Acids, Bases & Salts)": [
+    {
+      "subject": "Chemistry (Acids, Bases & Salts)",
+      "question": "What is the pH value of pure water?",
+      "image": "",
+      "options": [
+        "1",
+        "6",
+        "7",
+        "10"
+      ],
+      "answer": "7",
+      "explanation": "Pure water is neutral in nature hence, the pH value of pure water is 7."
+    }
+  ],
+  "Biology (Human Physiology)": [
+    {
+      "subject": "Biology (Human Physiology)",
       "question": "Which of the following part of blood carry out the function of body defence?",
       "image": "",
       "options": [
@@ -12,67 +83,9 @@
       ],
       "answer": "White blood cells",
       "explanation": "White blood cells (WBC) bring out the function of body defence."
-    }
-  ],
-  "Diseases": [
-    {
-      "subject": "Diseases",
-      "question": "Match the following<br>List-I (Disease)<br>A. Conjunctivitis<br>B. Dermatitis<br>C. Gout<br>D. Meningitis<br>List-II (Part of Human Body Affected)<br>1. Eyes<br>2. Joints<br>3. Skin<br>4. Spinal cord<br>Codes: A B C D",
-      "image": "",
-      "options": [
-        "2 4 1 3",
-        "1 3 2 4",
-        "2 3 1 4",
-        "1 4 2 3"
-      ],
-      "answer": "1 3 2 4",
-      "explanation": "The correct match is: A-1 (Conjunctivitis - Eyes), B-3 (Dermatitis - Skin), C-2 (Gout - Joints), D-4 (Meningitis - Spinal cord)."
     },
     {
-      "subject": "Diseases",
-      "question": "Which one of the following is not an insect borne disease?",
-      "image": "",
-      "options": [
-        "Beri-beri",
-        "Kala-azar",
-        "Malaria",
-        "Plague"
-      ],
-      "answer": "Beri-beri",
-      "explanation": "Beri-beri is not insect borne disease. It is caused by the deficiency of vitamin-B1 or thiamine."
-    },
-    {
-      "subject": "Diseases",
-      "question": "Consider the following statements.<br>1. Cigarette smoking exposes a person to benzene.<br>2. Benzene is a known carcinogen.<br>Which of the statements given above is/are correct?",
-      "image": "",
-      "options": [
-        "Only 1",
-        "Only 2",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
-      ],
-      "answer": "Both 1 and 2",
-      "explanation": "Benzene (C6H6) is cause of bone marrow failure."
-    }
-  ],
-  "Environmental Science": [
-    {
-      "subject": "Environmental Science",
-      "question": "Which of the following gases is released from rice fields in the most prominent quantities?",
-      "image": "",
-      "options": [
-        "Carbon dioxide",
-        "Methane",
-        "Carbon monoxide",
-        "Sulphur dioxide"
-      ],
-      "answer": "Methane",
-      "explanation": "Methane (CH4) is produced in rice fields in the most prominent quantities. Because when organic matter decomposes without O2 in the water logged rice paddies, bacteria in the water produce methane."
-    }
-  ],
-  "Human Physiology (Endocrine System)": [
-    {
-      "subject": "Human Physiology (Endocrine System)",
+      "subject": "Biology (Human Physiology)",
       "question": "Which one of the following glands produces the growth hormone (somatotrophin)?",
       "image": "",
       "options": [
@@ -83,11 +96,9 @@
       ],
       "answer": "Pituitary",
       "explanation": "Somatotrophin is produced by the anterior pituitary."
-    }
-  ],
-  "Human Physiology (Reproductive System)": [
+    },
     {
-      "subject": "Human Physiology (Reproductive System)",
+      "subject": "Biology (Human Physiology)",
       "question": "In the human body, Cowper's glands form a part of which one of the following system?",
       "image": "",
       "options": [
@@ -100,9 +111,67 @@
       "explanation": "Cowper’s gland is related with reproductive system. Cowper’s gland is the bulbourethal gland found in human males. They are found in pair and secrete viscous secretion called pre ejaculate that helps in coitus."
     }
   ],
-  "Botany": [
+  "Biology (Human Diseases)": [
     {
-      "subject": "Botany",
+      "subject": "Biology (Human Diseases)",
+      "question": "Match the following<br>List-I (Disease)<br>A. Conjunctivitis<br>B. Dermatitis<br>C. Gout<br>D. Meningitis<br>List-II (Part of Human Body Affected)<br>1. Eyes<br>2. Joints<br>3. Skin<br>4. Spinal cord<br>Codes:",
+      "image": "",
+      "options": [
+        "2 4 1 3",
+        "1 3 2 4",
+        "2 3 1 4",
+        "1 4 2 3"
+      ],
+      "answer": "1 3 2 4",
+      "explanation": ""
+    },
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "Which one of the following is not an insect borne disease?",
+      "image": "",
+      "options": [
+        "Beri-beri",
+        "Kala-azar",
+        "Malaria",
+        "Plague"
+      ],
+      "answer": "Beri-beri",
+      "explanation": "Beri-beri is not insect borne disease. It is caused by the deficiency of vitamin-B1 or thiamine."
+    }
+  ],
+  "Biology (Ecology & Environment)": [
+    {
+      "subject": "Biology (Ecology & Environment)",
+      "question": "Which of the following gases is released from rice fields in the most prominent quantities?",
+      "image": "",
+      "options": [
+        "Carbon dioxide",
+        "Methane",
+        "Carbon monoxide",
+        "Sulphur dioxide"
+      ],
+      "answer": "Methane",
+      "explanation": "Methane (CH4) is produced in rice fields in the most prominent quantities. Because when organic matter decomposes without O2 in the water logged rice paddies, bacteria in the water produce methane."
+    }
+  ],
+  "Biology (Human Health)": [
+    {
+      "subject": "Biology (Human Health)",
+      "question": "Consider the following statements.<br>1. Cigarette smoking exposes a person to benzene.<br>2. Benzene is a known carcinogen.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Benzene (C6H6) is cause of bone marrow failure."
+    }
+  ],
+  "Biology (Botany)": [
+    {
+      "subject": "Biology (Botany)",
       "question": "Cloves, used as a spice, are derived from which of the following plant parts?",
       "image": "",
       "options": [
@@ -113,11 +182,9 @@
       ],
       "answer": "Flower buds",
       "explanation": "Cloves are the flower buds of a tree in the family Myrtaceae. The tree is evergreen growing, contains large leaves and flowers grouped in terminal clusters."
-    }
-  ],
-  "Botany (Microbiology)": [
+    },
     {
-      "subject": "Botany (Microbiology)",
+      "subject": "Biology (Botany)",
       "question": "Which one among the following kinds of organisms resides in the roots of pulse plants to do nitrogen fixation?",
       "image": "",
       "options": [

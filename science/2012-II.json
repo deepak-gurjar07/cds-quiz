@@ -1,0 +1,105 @@
+{
+  "Chemistry (Applied Chemistry)": [
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "Soaps cannot be used in acidic condition because they lose their cleansing effect due to formation of insoluble",
+      "image": "",
+      "options": [
+        "esters",
+        "alcohols",
+        "hydrocarbons",
+        "long chain fatty acids"
+      ],
+      "answer": "long chain fatty acids",
+      "explanation": "Soaps cannot be used in acidic condition as they are converted into free fatty acid which form a scum."
+    }
+  ],
+  "Chemistry (Nuclear Chemistry)": [
+    {
+      "subject": "Chemistry (Nuclear Chemistry)",
+      "question": "In an atomic explosion, release of large amount of energy is due to conversion of",
+      "image": "",
+      "options": [
+        "chemical energy into nuclear energy",
+        "nuclear energy into heat",
+        "mass into energy",
+        "chemical energy into heat"
+      ],
+      "answer": "chemical energy into nuclear energy",
+      "explanation": ""
+    }
+  ],
+  "Chemistry (General Concepts)": [
+    {
+      "subject": "Chemistry (General Concepts)",
+      "question": "Statement I: All compounds contain more than one element.<br>Statement II : All compounds are heterogeneous mixtures.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+        "Statement I is true, but Statement II is false",
+        "Statement I is false, but Statement II is true"
+      ],
+      "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+      "explanation": "A heterogeneous mixture is a mixture of more than two elements."
+    }
+  ],
+  "Chemistry (Chemical Reactions)": [
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "The gas which turns lime water milky is",
+      "image": "",
+      "options": [
+        "carbon dioxide",
+        "carbon monoxide",
+        "ammonia",
+        "nitrogen dioxide"
+      ],
+      "answer": "carbon dioxide",
+      "explanation": "The carbon dioxide reacts with the lime water to form calcium carbonate that is insoluble.<br>CaO+ CO2 —> CaCO3 ¯ This substance precipitate out of solution making the lime water cloudy."
+    }
+  ],
+  "Chemistry (Acids, Bases & Salts)": [
+    {
+      "subject": "Chemistry (Acids, Bases & Salts)",
+      "question": "On the labels of the bottles, some soft drinks are claimed to be acidity regulators. They regulate acidity using",
+      "image": "",
+      "options": [
+        "carbon dioxide",
+        "bicarbonate salts",
+        "Both (a) and (b)",
+        "carbon dioxide and lime"
+      ],
+      "answer": "bicarbonate salts",
+      "explanation": "In soft drinks bicarbonate salts acts as acidity regulators. Bicarbonate of soda is effective at regulating the pH levels of other substances; it ensures that the substance is neither too alkaline nor too acidic."
+    },
+    {
+      "subject": "Chemistry (Acids, Bases & Salts)",
+      "question": "Antacids are commonly used to get rid of acidity in the stomach. A commonly used antacid is",
+      "image": "",
+      "options": [
+        "sodium hydrogen phthalate",
+        "magnesium hydroxide",
+        "calcium hydroxide",
+        "manganese acetate"
+      ],
+      "answer": "magnesium hydroxide",
+      "explanation": "Generally are weak bases. Antacid which naturalises stomach acidity, a commonly used antacid is magnesium hydroxide. Magnesium hydroxide is common component of antacids and laxatives."
+    }
+  ],
+  "Chemistry (Inorganic Chemistry)": [
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Iodised salt is a",
+      "image": "",
+      "options": [
+        "mixture of potassium iodide and common salt",
+        "mixture of molecular iodide and common salt",
+        "compound formed by combination of potassium iodide and common salt",
+        "compound formed by molecular iodine and common salt"
+      ],
+      "answer": "compound formed by combination of potassium iodide and common salt",
+      "explanation": "Iodised salt is a compound formed by combination of potassium iodide and common salt."
+    }
+  ]
+}

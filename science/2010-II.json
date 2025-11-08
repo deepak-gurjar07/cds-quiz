@@ -52,7 +52,7 @@
         "ultraviolet and yellow component of sunlight combine"
       ],
       "answer": "blue light is scattered most",
-      "explanation": "As, scattering µ 1/λ4. Since, wavelength of blue colour is least among three primary colours red, green and blue, so violet colour scattered most. The scattered light in the sky contains blue colour in plenty and therefore sky appears blue."
+      "explanation": "As, scattering µ 1/λ⁴. Since, wavelength of blue colour is least among three primary colours red, green and blue, so violet colour scattered most. The scattered light in the sky contains blue colour in plenty and therefore sky appears blue."
     }
   ],
   "Physics (Properties of Matter)": [
@@ -71,6 +71,19 @@
     },
     {
       "subject": "Physics (Properties of Matter)",
+      "question": "The apparent weight of a steel sphere immersed in various liquids is measured using a spring balance. The greatest reading is obtained for the liquid",
+      "image": "",
+      "options": [
+        "having the smallest density",
+        "having the largest density",
+        "in which the sphere was submerged deepest",
+        "having the greatest volume"
+      ],
+      "answer": "having the smallest density",
+      "explanation": "When a body immersed in a liquid, then the apparent weight of the body depends upon the densities of the liquids and volume of the portion of the solid immersed in liquid. So, the apparent weight of a steel sphere will be greatest for the liquid with the smallest density."
+    },
+    {
+      "subject": "Physics (Properties of Matter)",
       "question": "Which one of the following statements is correct?",
       "image": "",
       "options": [
@@ -84,19 +97,6 @@
     }
   ],
   "Physics (Mechanics)": [
-    {
-      "subject": "Physics (Mechanics)",
-      "question": "The apparent weight of a steel sphere immersed in various liquids is measured using a spring balance. The greatest reading is obtained for the liquid",
-      "image": "",
-      "options": [
-        "having the smallest density",
-        "having the largest density",
-        "in which the sphere was submerged deepest",
-        "having the greatest volume"
-      ],
-      "answer": "having the smallest density",
-      "explanation": "When a body immersed in a liquid, then the apparent weight of the body depends upon the densities of the liquids and volume of the portion of the solid immersed in liquid. So, the apparent weight of a steel sphere will be greatest for the liquid with the smallest density."
-    },
     {
       "subject": "Physics (Mechanics)",
       "question": "If an object having mass of 1 kg is subjected to a force of 1 N it moves with",
@@ -121,7 +121,7 @@
         "The athlete's angular momentum"
       ],
       "answer": "The athlete's angular momentum",
-      "explanation": "When a athlete jumps from the spring board, he curls his body by rolling his arms and legs in. By doing so, he decreases moment of inertia of his body and hence angular speed increases to conserve the angular momentum, as I1 w1 = I2 w2 = constant."
+      "explanation": "When a athlete jumps from the spring board, he curls his body by rolling his arms and legs in. By doing so, he decreases moment of inertia of his body and hence angular speed increases to conserve the angular momentum, as I₁w₁ = I₂w₂ = constant."
     },
     {
       "subject": "Physics (Mechanics)",
@@ -148,9 +148,11 @@
       ],
       "answer": "acceleration",
       "explanation": "As the passenger tosses the coin, it goes up and is in motion with the initial speed of the train but if the train is accelerated, so its speed increases. But the coin is in the air with initial speed of train, so the train slightly moves forward from the coin with the person and coin falls behind him. It happens when train is moving with accelerated motion."
-    },
+    }
+  ],
+  "Physics (Oscillations & Waves)": [
     {
-      "subject": "Physics (Mechanics)",
+      "subject": "Physics (Oscillations & Waves)",
       "question": "The force acting on a particle executing simple harmonic motion is",
       "image": "",
       "options": [
@@ -161,6 +163,346 @@
       ],
       "answer": "directly proportional to the displacement and is directed towards the mean position",
       "explanation": "The restoring force acting on the particle is always proportional to the displacement of the particle from the equilibrium position and is always directed towards the equilibrium position."
+    }
+  ],
+  "Chemistry (Chemical Reactions)": [
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "Which one of the following reducing agents can also act as an oxidising agent?",
+      "image": "",
+      "options": [
+        "H2",
+        "H2S",
+        "SO2",
+        "HI"
+      ],
+      "answer": "SO2",
+      "explanation": "SO2 can act as an oxidising agent as well as a reducing agent.<br>It oxidises H2S to S<br>2H2S + SO2 —> 2H2O + S<br>It reduces ferric sulphate to ferrous sulphate<br>Fe2(SO4)3 + SO2 + 2H2O —> 2FeSO4 + 2H2SO4"
+    },
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "Which one among the following has been producing/can produce light by a chemical change?",
+      "image": "",
+      "options": [
+        "Sun",
+        "Moon",
+        "Electric bulb",
+        "Lightning and thunder"
+      ],
+      "answer": "Sun",
+      "explanation": "In a chemical change a new substance is formed. Sun has been producing light by nuclear fusion and it is a chemical change.<br>4 11H —> 24He + 2 +10e + g + Energy"
+    },
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "The law enforcement agencies use a chemical test to approximate a person's blood alcohol level. The person undergoing the test blows into the mouthpiece of a bag containing sodium dichromate solution in acidic medium. A chemical reaction with ethanol changes the colour of the solution from",
+      "image": "",
+      "options": [
+        "orange to green",
+        "orange to colourless",
+        "yellow to orange",
+        "colourless to orange"
+      ],
+      "answer": "orange to green",
+      "explanation": "On reaction with ethanol the colour of the solution changes from, orange to green."
+    }
+  ],
+  "Chemistry (Materials & Alloys)": [
+    {
+      "subject": "Chemistry (Materials & Alloys)",
+      "question": "Consider the following statements regarding the properties and uses of glass wool.<br>I. Glass wool has tensile strength greater than steel.<br>II. Glass wool is fire proof.<br>III. Glass wool has high electrical conductivity and absorbs moisture.<br>IV. Glass wool is used to prepare fibre glass.<br>Which of the statements given above are correct?",
+      "image": "",
+      "options": [
+        "I and II",
+        "I, II and IV",
+        "II and IV",
+        "I, III and IV"
+      ],
+      "answer": "I, II and IV",
+      "explanation": "Glass wool is an insulating material, obtained from fibre glass arranged into a texture similar to wool."
+    },
+    {
+      "subject": "Chemistry (Materials & Alloys)",
+      "question": "Statement I : During the setting of cement, the structure has to be cooled by spraying water.<br>Statement II : The constituents of cement undergo hydration during setting of cement and it is an exothermic reaction.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I.",
+        "Statement I is true, but Statement II is false.",
+        "Statement I is false, but Statement II is true."
+      ],
+      "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+      "explanation": "During the setting of cement, the structure has to be cooled by spraying water because setting of cement is an exothermic process and involves hydration of calcium aluminates and calcium silicates."
+    }
+  ],
+  "Chemistry (Inorganic Chemistry)": [
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "A woman desires to clean the surface of her gold ornaments by a chemical approach. For this she requires to use",
+      "image": "",
+      "options": [
+        "aqua-regia",
+        "concentrated H2SO4",
+        "concentrated NaOH",
+        "sodium thiosulphate solution"
+      ],
+      "answer": "aqua-regia",
+      "explanation": "Aqua-regia is a mixture of concentrated nitric acid and concentrated hydrochloric acid in the ratio of 1 : 3. It is a very powerful oxidising mixture and hence, used to clean the surface of gold ornaments."
+    }
+  ],
+  "Chemistry (Industrial Chemistry)": [
+    {
+      "subject": "Chemistry (Industrial Chemistry)",
+      "question": "Statement I: Superphosphate of lime can be assimilated by plants.<br>Statement II: Superphosphate of lime is soluble in water.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I.",
+        "Statement I is true, but Statement II is false.",
+        "Statement I is false, but Statement II is true."
+      ],
+      "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+      "explanation": "Superphosphate of lime can be easily assimilated by plants because it is soluble in water."
+    }
+  ],
+  "Chemistry (General Concepts)": [
+    {
+      "subject": "Chemistry (General Concepts)",
+      "question": "Which one of the following is not a periodic property i.e., does not show any trend on moving from one side to the other in the periodic table?",
+      "image": "",
+      "options": [
+        "Atomic size",
+        "Valency",
+        "Radioactivity",
+        "Electronegativity"
+      ],
+      "answer": "Radioactivity",
+      "explanation": "Radioactivity is not a periodic property. It is a nuclear property. Atomic size, valency and electronegativity are periodic properties because they show a trend on moving from one side to the other in the periodic table."
+    }
+  ],
+  "Chemistry (Applied Chemistry)": [
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "Scuba divers are at risk due to high concentration of dissolved gases while breathing air at high pressure under water. The tanks used by Scuba divers are filled with",
+      "image": "",
+      "options": [
+        "air diluted with helium",
+        "O2",
+        "N2",
+        "a mixture of N2 and helium"
+      ],
+      "answer": "air diluted with helium",
+      "explanation": "The tanks used by Scuba divers are filled with air diluted with helium (i.e., He-O2 mixture) because unlike nitrogen, helium is not soluble in blood even under high pressure."
+    },
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "Which among the following are the most important raw materials for the manufacturing of soap?",
+      "image": "",
+      "options": [
+        "Fats and caustic alkali",
+        "Fats and potash",
+        "Fats and acid",
+        "Vegetable oil and potash"
+      ],
+      "answer": "Fats and caustic alkali",
+      "explanation": "The major raw materials for soap production are fat and alkali. Other materials like water, softner, perfume, etc, may also be mixed if required."
+    }
+  ],
+  "Chemistry (Nuclear Chemistry)": [
+    {
+      "subject": "Chemistry (Nuclear Chemistry)",
+      "question": "Which one of the following is not needed in a nuclear fission reactor?",
+      "image": "",
+      "options": [
+        "Moderator",
+        "Coolant",
+        "Accelerator",
+        "Control device"
+      ],
+      "answer": "Accelerator",
+      "explanation": "Substances like graphite and heavy water are used as moderator to slow down the speed of neutrons. Cd or B are used as control rods to control rate of fission by absorbing neutrons.<br>Coolant like heavy water or molten sodium is used to carry away the heat."
+    }
+  ],
+  "Biology (Biochemistry)": [
+    {
+      "subject": "Biology (Biochemistry)",
+      "question": "Chemically silk fibres are predominantly",
+      "image": "",
+      "options": [
+        "Protein",
+        "Carbohydrate",
+        "Complex lipid",
+        "Mixture of polysaccharide and fat"
+      ],
+      "answer": "Protein",
+      "explanation": "Silk fibres consist of protein like wool. It is produced by pupa of silk insect."
+    },
+    {
+      "subject": "Biology (Biochemistry)",
+      "question": "Which among the following is the correct increasing order of pH found in human body?",
+      "image": "",
+      "options": [
+        "Gastric juice, saliva, blood",
+        "Blood, saliva, gastric juice",
+        "Saliva, blood, gastric juice",
+        "Gastric juice, blood, saliva"
+      ],
+      "answer": "Gastric juice, saliva, blood",
+      "explanation": "The pH of gastric juice is not more than 4.5 pH of saliva is 6-7.4, whereas the pH of blood is equal to 7.4"
+    },
+    {
+      "subject": "Biology (Biochemistry)",
+      "question": "Match the following<br>List-I (Sugar)<br>A. Cellulose<br>B. Fructose<br>C. Maltose<br>D. Sucrose<br>List-II (Source)<br>1 Honey<br>2 Sugarcane<br>3 Cotton wool<br>4 Starch<br>Codes:",
+      "image": "",
+      "options": [
+        "3 1 4 2",
+        "3 4 1 2",
+        "2 1 4 3",
+        "2 4 1 3"
+      ],
+      "answer": "3 1 4 2",
+      "explanation": "Cotton wool is acquired from cotton plant. It consists of cellulose. Fructose is fruit sugar present in honey and other fruits. Starch is a polysaccharide. It breaks down into maltose during digestion whereas sucrose is common sugar. It is a disaccharide having glucose ans fructose and is acquired from sugarcane."
+    }
+  ],
+  "Biology (Human Diseases)": [
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "Mosquito can be a vector for the following disease except",
+      "image": "",
+      "options": [
+        "yellow fever",
+        "dengue fever",
+        "filariasis",
+        "kala-azar"
+      ],
+      "answer": "kala-azar",
+      "explanation": "Kala-azar is spread by sandfly of genus phlebotomus argentipse of yellow fever and dengue fever is spread by Ades mosquito whereas filariasis is spread by Anopheles mosquito."
+    },
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "What is the most conspicuous salient feature of people with 'Progeria'?",
+      "image": "",
+      "options": [
+        "More hair on body",
+        "Less immunity to opportunistic infections",
+        "Faster rate of ageing",
+        "Surfer from infertility"
+      ],
+      "answer": "Faster rate of ageing",
+      "explanation": "Progeria (pro means prior; geria means ageing) causes early ageing and the death of child occurs at the age of 12-13 years. It is a progressive genetic disease and created due to the mutation in the LMNA gene."
+    }
+  ],
+  "Biology (Zoology)": [
+    {
+      "subject": "Biology (Zoology)",
+      "question": "Consider the following statements<br>1. Warm-blooded animals can remain active in cold environment in which cold-blooded animals can hardly move.<br>2. Cold-blooded animals require much less energy to survive than warm-blooded animals.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "The warm blooded animals produce heat by converting their food to energy and maintain a constant body temperature thus may be active even in cold environment whereas cold blooded animals hibernate and need much less energy to survive."
+    },
+    {
+      "subject": "Biology (Zoology)",
+      "question": "Cattle are capable of digesting cellulose present in the grass and/or fodder that they eat. This ability is attributed to the",
+      "image": "",
+      "options": [
+        "presence of cellulose degrading bacteria in the rumen",
+        "production of cellulose by the cattle rumen",
+        "acids present in the rumen",
+        "prolonged retention of cellulose in the rumen"
+      ],
+      "answer": "presence of cellulose degrading bacteria in the rumen",
+      "explanation": "Mammalian digestive system do not secrete enzymes to digest cellulose, but the cellulose digesting bacteria present in the rumen of cattles can digest the cellulose existing in fodder."
+    }
+  ],
+  "Biology (Human Health)": [
+    {
+      "subject": "Biology (Human Health)",
+      "question": "A deficiency of which one of the following minerals is most likely to lead to an immunodeficiency?",
+      "image": "",
+      "options": [
+        "Calcium",
+        "Zinc",
+        "Lead",
+        "Copper"
+      ],
+      "answer": "Calcium",
+      "explanation": "The deficiency of calcium can cause irritability, anger tendency and impaired immune function."
+    }
+  ],
+  "Biology (Human Physiology)": [
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Human body's main organ of balance is located in",
+      "image": "",
+      "options": [
+        "inner part of ear",
+        "middle part of ear",
+        "front part of brain",
+        "top part of vertebral column"
+      ],
+      "answer": "inner part of ear",
+      "explanation": "The internal ear of human beings consists of three parts viz. cochlea, utricle and sacculus The cochlea helps in hearing whereas utricle and sacculus help to maintain the body balance."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Which of the following statements correctly describe the properties of hormones?<br>1. They are steroids, proteins, peptides or amino acids derivatives.<br>2. They are not produced by body organs and are mostly taken as supplements.<br>3. They do not influence the working of those organs which have secreted them.<br>4. They act as co-enzymes and help enzymes to perform their function.<br>Select the correct answer using the code given below",
+      "image": "",
+      "options": [
+        "1 and 4",
+        "2, 3 and 4",
+        "1 and 3",
+        "1. 2, 3 and 4"
+      ],
+      "answer": "1 and 4",
+      "explanation": "The hormones are secreted by endocrine glands of body. They can behave as coenzymes, e.g., thiamine pyrophosphate can help in the transfer of aldehye group. Enzymes can be protein or steroid in composition."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Which one among the following animal tissues transport hormones and heat and maintains water balance?",
+      "image": "",
+      "options": [
+        "Connective tissue",
+        "Muscular tissue",
+        "Blood",
+        "Nervous tissue"
+      ],
+      "answer": "Blood",
+      "explanation": "Blood is a fluid connective tissue. It carries harmones from endocrine glands to target organs. It carries heat and set homeostasis. It also aids in osmoregulation by carrying fluid to the kidney and skin, etc."
+    }
+  ],
+  "Biology (Botany)": [
+    {
+      "subject": "Biology (Botany)",
+      "question": "Which among the following statement about biofertilizers are correct?<br>1. Azotobacter is one of the nitrogen fixing bacteria used as a biofertilizer.<br>2. They have to be applied to the leaves of the plant only.<br>3. They alter the chemical composition of the soil.<br>4. They can be used along with organic fertilizers.<br>Select the correct answer using the code given below",
+      "image": "",
+      "options": [
+        "1 and 4",
+        "1, 2 and 4",
+        "2 and 3",
+        "1, 2, 3 and 4"
+      ],
+      "answer": "1 and 4",
+      "explanation": "Azotobactor and Rhizobium are known as nitrogen flxing bacteria that are utilized as biofertilizers. The biofertilizers can be applied with organic fertilizers."
+    }
+  ],
+  "Biology (Nutrition)": [
+    {
+      "subject": "Biology (Nutrition)",
+      "question": "Why are pregnant women recommended substantial intake of green leafy vegetables in their diet, especially in the 1st trimester?",
+      "image": "",
+      "options": [
+        "They are a rich source of chlorophyll",
+        "They are a rich source of lecithin",
+        "They are a rich source of folic acid which is required for DNA synthesis",
+        "They are a rich source of essential fatty acids required for cell anabolism"
+      ],
+      "answer": "They are a rich source of folic acid which is required for DNA synthesis",
+      "explanation": "A pregnant woman requires an additional 400mg of folic acid daily during the first trimester of pregnancy. Green vegetables are rich in folic acid because they have folate."
     }
   ]
 }

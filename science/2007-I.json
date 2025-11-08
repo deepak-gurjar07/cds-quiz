@@ -1,8 +1,8 @@
 {
-  "Biochemistry": [
+  "Biology (Biochemistry)": [
     {
-      "subject": "Biochemistry",
-      "question": "Consider the following<br>Enzymes and protein can be correlated with each other in the following ways<br>1. All proteins are enzyme.<br>2. All enzymes are protein.<br>3. All enzymes are not protein.<br>4. All proteins are not enzyme.<br>Which of the above are correct?",
+      "subject": "Biology (Biochemistry)",
+      "question": "Enzymes and protein can be correlated with each other in the following ways<br>1. All proteins are enzyme.<br>2. All enzymes are protein.<br>3. All enzymes are not protein.<br>4. All proteins are not enzyme.<br>Which of the above are correct?",
       "image": "",
       "options": [
         "1 and 3",
@@ -14,9 +14,9 @@
       "explanation": "All enzymes are protein by composition but all proteins are not enzymes."
     }
   ],
-  "Human Physiology (Endocrine System)": [
+  "Biology (Human Physiology)": [
     {
-      "subject": "Human Physiology (Endocrine System)",
+      "subject": "Biology (Human Physiology)",
       "question": "Consider the following statements in respect of thyroid gland.<br>1. It is situated in the neck.<br>2. It is vital to maintain of normal body temperature.<br>Which of the statements given above is/are correct?",
       "image": "",
       "options": [

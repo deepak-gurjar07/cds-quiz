@@ -40,9 +40,9 @@
       "explanation": "When a ball drops on to the floor then floor exerts a force for small time which is equal to change in momentum of the ball."
     }
   ],
-  "Physics (Optics)": [
+  "Physics (General)": [
     {
-      "subject": "Physics (Optics)",
+      "subject": "Physics (General)",
       "question": "Fire fly gives us cold light by virtue of the phenomenon of",
       "image": "",
       "options": [
@@ -53,25 +53,12 @@
       ],
       "answer": "chemiluminescence",
       "explanation": "Fire fly gives us cold light due to chemiluminescence i.e. light produced by chemical reaction."
-    },
-    {
-      "subject": "Physics (Optics)",
-      "question": "The focal length of convex lens is",
-      "image": "",
-      "options": [
-        "the same for all colours",
-        "shorter for blue light than for red",
-        "shorter for red light than for blue",
-        "maximum for yellow light"
-      ],
-      "answer": "shorter for blue light than for red",
-      "explanation": "The focal length of a convex lens is shorter for blue light than for red."
     }
   ],
-  "Physics (Electricity & Magnetism)": [
+  "Physics (Electromagnetism)": [
     {
-      "subject": "Physics (Electricity & Magnetism)",
-      "question": "Transformer is a kind of appliance that can<br>1. increase power<br>2. increase voltage<br>3. decrease voltage<br>4. measure current and voltage<br>Select the correct answer using the codes given below",
+      "subject": "Physics (Electromagnetism)",
+      "question": "Transformer is a kind of appliance that can<br>1. increase power 2. increase voltage<br>3. decrease voltage<br>4. measure current and voltage<br>Select the correct answer using the codes given below",
       "image": "",
       "options": [
         "Only 4",
@@ -83,7 +70,7 @@
       "explanation": "Transformer is an appliance that can increase or decrease voltage."
     },
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Electromagnetism)",
       "question": "When you pull out the plug connected to an electrical appliance, you often observe a spark. To which property of the appliance is this related?",
       "image": "",
       "options": [
@@ -109,6 +96,290 @@
       ],
       "answer": "It will heat the room",
       "explanation": "It will heat the room because the heat removed from the inside is released into the room, counter acting any cooling, plus the energy that is used to operate the compressor eventually winds up being heat, therefore increasing the room temperature."
+    }
+  ],
+  "Physics (Optics)": [
+    {
+      "subject": "Physics (Optics)",
+      "question": "The focal length of convex lens is",
+      "image": "",
+      "options": [
+        "the same for all colours",
+        "shorter for blue light than for red",
+        "shorter for red light than for blue",
+        "maximum for yellow light"
+      ],
+      "answer": "shorter for blue light than for red",
+      "explanation": "The focal length of a convex lens is shorter for blue light than for red."
+    }
+  ],
+  "Chemistry (Applied Chemistry)": [
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "One of the occupational health hazards commonly faced by the workers of ceramics, pottery and glass industry is",
+      "image": "",
+      "options": [
+        "stone formation in gall bladder",
+        "melanoma",
+        "silicosis",
+        "stone formation in kidney"
+      ],
+      "answer": "silicosis",
+      "explanation": "Silicosis is a chronic lung disease caused by breathing in silica dust. Silicosis (silico tuberculosis) occurs in workers whose occupation is related to pottery, ceramic, and glass industry."
+    },
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "Sodium thiosulphate (Na2S2O3) solution is used in photography to",
+      "image": "",
+      "options": [
+        "remove reduced silver",
+        "reduce silver bromide (AgBr) grain to silver",
+        "remove undecomposed AgBr as a soluble silver thiosulphate complex",
+        "convert the metallic silver to silver salt"
+      ],
+      "answer": "remove undecomposed AgBr as a soluble silver thiosulphate complex",
+      "explanation": "Sodium thiosulphate (Na2S2O3) solution is used as fixer in photography, it removes undercomposed AgBr as a soluble silver thiosulphate complex.<br>AgBr +2Na2S2O3 ® Na3[Ag(S2O3)2]+ NaBr<br>Sodiumargento thiosulphate"
+    }
+  ],
+  "Chemistry (Electrochemistry)": [
+    {
+      "subject": "Chemistry (Electrochemistry)",
+      "question": "Sacrificial anode protects iron or ships, underground pipelines etc from rusting, a process known as cathodic protection. Which one of the following metals cannot be used as a sacrificial anode?",
+      "image": "",
+      "options": [
+        "Tin",
+        "Zinc",
+        "Magnesium",
+        "Aluminium"
+      ],
+      "answer": "Tin",
+      "explanation": "The method of protection of iron from corrosion by using a more reactive metal is known as sacrificial protection or cathodic protection. Zinc, magnesium and aluminium metals are more reactive than iron hence, they are used as a sacrificial anode while tin is less reactive than iron hence, it cannot be used as a sacrificial anode."
+    },
+    {
+      "subject": "Chemistry (Electrochemistry)",
+      "question": "Statement I : All liquids are conductors of electricity.<br>Statement II : Under the condition of low pressure and high voltage, liquids can be made conducting.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and statement II is the correct explanation of Statement I.",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I.",
+        "Statement I is true, but Statement II is false.",
+        "Statement I is false, but Statement II is true"
+      ],
+      "answer": "Statement I is false, but Statement II is true",
+      "explanation": "All liquids are not conductors of electricity. Only the liquids which contain free ions or electrons, can conduct electricity."
+    },
+    {
+      "subject": "Chemistry (Electrochemistry)",
+      "question": "Which one among the following will you put into pure water in order to pass electric current through it?",
+      "image": "",
+      "options": [
+        "Kerosene",
+        "Mustard oil",
+        "Lemon juice",
+        "Sugar"
+      ],
+      "answer": "Lemon juice",
+      "explanation": "In lemon juice citric acid is present. Hence, acids are conductors of electricity. The aqueous solution of lime juice conducts electricity due to the presence of ions in it."
+    }
+  ],
+  "Chemistry (Environmental Chemistry)": [
+    {
+      "subject": "Chemistry (Environmental Chemistry)",
+      "question": "Statement I : Oxides of sulphur and nitrogen present in high concentration in air are dissolved in rain drops.<br>Statement II : Oxyacids of sulphur and nitrogen make rain water acidic.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and statement II is the correct explanation of Statement I.",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I.",
+        "Statement I is true, but Statement II is false.",
+        "Statement I is false, but Statement II is true"
+      ],
+      "answer": "Both the statements are individually true and statement II is the correct explanation of Statement I.",
+      "explanation": "Oxides of sulphur and nitrogen present in high concentration in air dissolve in rain drops and form oxyacids of sulphur and nitrogen. These oxyacids are highly acidic in nature and therefore, they make rain water acidic.<br>4NO2 + 2H2O + O2 —> 4HNO3<br>2SO2 + 2H2O + O2 —> 2H2SO4<br>The pH of acid rain is 4 - 5"
+    },
+    {
+      "subject": "Chemistry (Environmental Chemistry)",
+      "question": "From which one among the following water sources, the water is likely to be contaminated with fluoride?",
+      "image": "",
+      "options": [
+        "Ground water",
+        "River water",
+        "Pond water",
+        "Rain water"
+      ],
+      "answer": "Ground water",
+      "explanation": "Ground water is polluted by fluoride rich rocks which contain fluoride in large quantity."
+    },
+    {
+      "subject": "Chemistry (Environmental Chemistry)",
+      "question": "Endosulfan, which has been in news these days, is",
+      "image": "",
+      "options": [
+        "a pesticide",
+        "a fertiliser",
+        "a sulpha drug",
+        "an antibiotic"
+      ],
+      "answer": "a pesticide",
+      "explanation": "Endosulfan is an organochlorine pesticide and acaricide which is used. Endosulfan became a highly controversial agrichemical due to large number of victims in kerala."
+    }
+  ],
+  "Chemistry (Chemical Reactions)": [
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "Statement I : On mixing with water, plaster of Paris hardens.<br>Statement II : By combining with water, plaster of Paris is converted into gypsum. CaS04 -2Hp Gypsum",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and statement II is the correct explanation of Statement I.",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I.",
+        "Statement I is true, but Statement II is false.",
+        "Statement I is false, but Statement II is true"
+      ],
+      "answer": "Both the statements are individually true and statement II is the correct explanation of Statement I.",
+      "explanation": "On mixing with water, plaster of Paris hardens because it takes up the water of crystallisation again and thus, converts back into the dihydrate i.e., gypsum.<br>CaSO4.1/2H2O+1 1/2H2O ® CaSO4.2H2O<br>Plasterof Paris Gypsum"
+    }
+  ],
+  "Chemistry (Materials & Alloys)": [
+    {
+      "subject": "Chemistry (Materials & Alloys)",
+      "question": "Gypsum (CaSO4. 2H2O) is added to clinker during cement manufacturing to",
+      "image": "",
+      "options": [
+        "decrease the rate of setting of cement",
+        "bind the particles of calcium silicate",
+        "facilitate the formation of colloidal gel",
+        "impart strength to cement"
+      ],
+      "answer": "decrease the rate of setting of cement",
+      "explanation": "Gypsum (CaSO4 × 2H2O) is added to clinker during cement manufacturing to decrease the rate of setting of cement so, that it gets sufficiently hardens."
+    }
+  ],
+  "Chemistry (Inorganic Chemistry)": [
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "What is the main constituent of a pearl?",
+      "image": "",
+      "options": [
+        "Calcium carbonate and magnesium carbonate",
+        "Calcium sulphate only",
+        "Calcium oxide and calcium sulphate",
+        "Calcium carbonate only"
+      ],
+      "answer": "Calcium carbonate only",
+      "explanation": "Pearl consists of approximately 85% calcium carbonate."
+    }
+  ],
+  "Biology (Zoology)": [
+    {
+      "subject": "Biology (Zoology)",
+      "question": "Polar bears are carnivores and prey on many arctic birds and fishes. However, under natural conditions, no one found polar bears predating any penguin. This is because",
+      "image": "",
+      "options": [
+        "penguins have chemical substance in their muscles which is toxic to polar bears",
+        "penguins are gregarious and always move in groups. Therefore, a polar bear cannot approach them",
+        "polar bears and penguins never coexist under natural conditions. The former lives in the North Pole while the latter lives in the South Pole",
+        "polar bears and penguins display symbiotic relationships and they help each other for their existence in the ice-cold ecosystem"
+      ],
+      "answer": "polar bears and penguins never coexist under natural conditions. The former lives in the North Pole while the latter lives in the South Pole",
+      "explanation": "Polar bears and penguins live in different polar regions i.e. polar bears live in the North Pole while the penguins live in Antarctica (the Southern Hemisphere)."
+    },
+    {
+      "subject": "Biology (Zoology)",
+      "question": "If we sprinkle common salt on an Earthworm, it dies due to",
+      "image": "",
+      "options": [
+        "osmotic shock",
+        "respiratory failure",
+        "toxic effect of salt",
+        "closure of pores of skin"
+      ],
+      "answer": "osmotic shock",
+      "explanation": "The sprinkled salt dissolves in the water present on the moist skin of Earthworm and makes concentrated solution. The body fluid, being hypotonic, diffuses out and the worm dies due to osmotic shock (water loss- dehydration)."
+    }
+  ],
+  "Biology (Human Diseases)": [
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "To suspect HIV/AIDS in a young individual, which one among the following symptoms is mostly associated with?",
+      "image": "",
+      "options": [
+        "Long standing jaundice and chronic liver disease",
+        "Severe anaemia",
+        "Chronic diarrhoea",
+        "Severe persistent headache"
+      ],
+      "answer": "Severe persistent headache",
+      "explanation": "After 4-8 weeks of infection by HIV virus to a healthy individual, the acute phase of HIV infection begins. About 30-60% people develop symptoms like severe persistant headache with sore throat and mild fever etc."
+    },
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "Development of goitre (enlarged thyroid gland) is mainly due to deficiency of",
+      "image": "",
+      "options": [
+        "sodium",
+        "iodine",
+        "calcium",
+        "iron"
+      ],
+      "answer": "iodine",
+      "explanation": "The cause of goitre is normally due to lack of iodine. Iodine plays an important role in the synthesis of thyroxine hormone from thyroid gland."
+    }
+  ],
+  "Biology (Botany)": [
+    {
+      "subject": "Biology (Botany)",
+      "question": "The anti-malarial drug quinine is made from a plant. The plant is",
+      "image": "",
+      "options": [
+        "neem",
+        "eucalyptus",
+        "cinnamon",
+        "cinchona"
+      ],
+      "answer": "cinchona",
+      "explanation": "The cinchona plant has antimalarial alkaloids cinchonidine and quinine. Quinine is obtained from the bark of this plant."
+    }
+  ],
+  "Biology (Biochemistry)": [
+    {
+      "subject": "Biology (Biochemistry)",
+      "question": "Cutting and peeling of onions brings tears to the eyes because of the presence of",
+      "image": "",
+      "options": [
+        "sulphur in the cell",
+        "carbon in the cell",
+        "fat in the cell",
+        "amino acid in the cell"
+      ],
+      "answer": "sulphur in the cell",
+      "explanation": "Cutting and peeling of onions bring tears to the eyes because of the presence of sulphur in the cell."
+    }
+  ],
+  "Biology (Human Physiology)": [
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "It has been observed that astronauts lose substantial quantity of calcium through urine during space flight. This is due to",
+      "image": "",
+      "options": [
+        "hyper gravity",
+        "microgravtty",
+        "intake of dehydrated food tablet",
+        "low temperature ip cosmos"
+      ],
+      "answer": "microgravtty",
+      "explanation": "Exposure to microgravity in the environment of space induces astronauts to lose calcium from bones. This loss takes place due to absence of ‘Earth gravity’ which disrupts the process of bone maintenance. The calcium is excreted out with urine."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Which one among the following will be absorbed fastest through the wall of digestive system?",
+      "image": "",
+      "options": [
+        "Black coffee as a hot beverage",
+        "DDT taken as a poison",
+        "Raw alcohol taken as a drink",
+        "Ice-cream as a dessert"
+      ],
+      "answer": "Raw alcohol taken as a drink",
+      "explanation": "Raw alcohol after being drunk will be absorbed fastest through the wall of digestive tract. Alcohol is easily diffusible across the plasma membrance. It does not need any digestion before absorption in the alimentary canal. Therefore, its absorption begins from mouth, whereas the other substances are absorbed in the later parts of the alimentary canal."
     }
   ]
 }

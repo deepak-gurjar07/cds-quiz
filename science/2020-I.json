@@ -39,7 +39,7 @@
         "intensity"
       ],
       "answer": "frequency",
-      "explanation": "The frequency of a sound wave is what your ear understands as pitch. A higher frequency sound has a higher pitch, and a lower frequency sound has a lower pitch."
+      "explanation": "The frequency of a sound wave is what your ear understands as pitch. A higher frequency sound has a higher pitch, and a lower frequency sound has a lower pitch. They have a shorter wavelength of the electromagnetic spectrum. Requires high voltage to produce X-Rays. They are used to capture the human skeleton defects. They travel in a straight line and do not carry an electric charge with them. They are capable of travelling in a vacuum. They are powerful waves of electromagnetic energy."
     }
   ],
   "Physics (Optics)": [
@@ -80,12 +80,12 @@
         "3 ´ 108 m/s"
       ],
       "answer": "2 ´ 108 m/s",
-      "explanation": "Refractive index of a medium = Speed of light in air / Speed of light in medium. 3/2 = (3´108) / Speed of light in medium. Speed of light in medium = (3´108) * 2/3 = 2 × 108 m/s"
+      "explanation": "Refractive index of a medium = Speed of light in air / Speed of light in medium. 3/2 = (3×10⁸) / Speed of light in medium. Speed of light in medium= (3×10⁸) × (2/3) = 2 × 10⁸ m/s"
     }
   ],
-  "Physics (Electricity & Magnetism)": [
+  "Physics (Electromagnetism)": [
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Electromagnetism)",
       "question": "Which one of the following types of radiation has the shortest wavelength?",
       "image": "",
       "options": [
@@ -96,37 +96,11 @@
       ],
       "answer": "Ultraviolet (UV)",
       "explanation": "The higher energy, shorter wavelength far UV region spans wavelengths between 91 and 200 nm. Extreme UV radiation has the shortest wavelength range and highest energies of the regions of the ultraviolet spectrum and lies on the border between UV and X-ray radiation."
-    },
-    {
-      "subject": "Physics (Electricity & Magnetism)",
-      "question": "The resistivity r of a material may be expressed in units of",
-      "image": "",
-      "options": [
-        "ohm",
-        "ohm/cm",
-        "ohm-cm",
-        "ohm-cm2"
-      ],
-      "answer": "ohm-cm",
-      "explanation": "The electrical resistivity is the electrical resistance per unit length and per unit of cross-sectional area at a specified temperature. The SI unit of electrical resistivity is the ohm.metre. It is commonly represented by the Greek letter r rho."
-    },
-    {
-      "subject": "Physics (Electricity & Magnetism)",
-      "question": "The electromagnetic waves, which are used for satellite communication, are",
-      "image": "",
-      "options": [
-        "infrared radiations",
-        "ultraviolet radiations",
-        "radio waves",
-        "visible lights"
-      ],
-      "answer": "radio waves",
-      "explanation": "Radio waves are used to carry satellite signals. These waves travel at 300,000 km/s (the speed of light). Communications satellites are used to send and receive radio signals for television, phone or internet communications. Large concave reflectors called satellite dishes are normally used to send and receive these signals."
     }
   ],
-  "Physics (Mechanics)": [
+  "Physics (Units & Measurements)": [
     {
-      "subject": "Physics (Mechanics)",
+      "subject": "Physics (Units & Measurements)",
       "question": "The unit of the force constant k of a spring is",
       "image": "",
       "options": [
@@ -137,6 +111,19 @@
       ],
       "answer": "N/m",
       "explanation": "In SI units, displacements are measured in meters (m), and forces in newtons (N or kg·m/s2). Therefore, the spring constant k, and each element of the tensor , is measured in newtons per meter (N/m), or kilograms per second squared (kg/s2)."
+    },
+    {
+      "subject": "Physics (Units & Measurements)",
+      "question": "The resistivity r of a material may be expressed in units of",
+      "image": "",
+      "options": [
+        "ohm",
+        "ohm/cm",
+        "ohm-cm",
+        "ohm-cm2"
+      ],
+      "answer": "ohm-cm",
+      "explanation": "The electrical resistivity is the electrical resistance per unit length and per unit of cross-sectional area at a specified temperature. The SI unit of electrical resistivity is the ohm.metre. It is commonly represented by the Greek letter r rho."
     }
   ],
   "Physics (Thermodynamics)": [
@@ -151,12 +138,113 @@
         "x = 173 –y"
       ],
       "answer": "x = 273 + y",
-      "explanation": "Temperature in Kelvin = 273+ temperature in °C. Temperature in Kelvin = x (given). Temperature in °C = y (given). \\ x = 273+ y"
+      "explanation": "Temperature in Kelvin = 273+ temperature in °C<br>Temperature in Kelvin = x (given)<br>Temperature in °C = y (given)<br>\\ x = 273+ y"
     }
   ],
-  "Health and Disease": [
+  "Physics (Waves & Communication)": [
     {
-      "subject": "Health and Disease",
+      "subject": "Physics (Waves & Communication)",
+      "question": "The electromagnetic waves, which are used for satellite communication, are",
+      "image": "",
+      "options": [
+        "infrared radiations",
+        "ultraviolet radiations",
+        "radio waves",
+        "visible lights"
+      ],
+      "answer": "radio waves",
+      "explanation": "Radio waves are used to carry satellite signals. These waves travel at 300,000 km/s (the speed of light). Communications satellites are used to send and receive radio signals for television, phone or internet communications. Large concave reflectors called satellite dishes are normally used to send and receive these signals."
+    }
+  ],
+  "Chemistry (General Concepts)": [
+    {
+      "subject": "Chemistry (General Concepts)",
+      "question": "The elements of which of the following pairs are isobars?",
+      "image": "",
+      "options": [
+        "1H1 and 3H1",
+        "1H1 and 2H1",
+        "12C6 and 14C6",
+        "40Ar18 and 40Ca20"
+      ],
+      "answer": "40Ar18 and 40Ca20",
+      "explanation": "Isobars are the atoms of the elements which have the same atomic mass but different atomic number i.e.they posses same number of nucleons.Among the given options,option (d) is the pair of isobar. 40Ar18 and 40Ca20,both have same atomic mass."
+    }
+  ],
+  "Chemistry (Chemical Reactions)": [
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "Which one of the following chemical reactions is not feasible?",
+      "image": "",
+      "options": [
+        "Fe + CuSO4 ® FeSO4 + Cu",
+        "Zn + CuSO4 ® ZnSO4 + Cu",
+        "Cu + PbCl2 ® CuCl2 + Pb",
+        "Mg + CuSO4 ® MgSO4 + Cu"
+      ],
+      "answer": "Cu + PbCl2 ® CuCl2 + Pb",
+      "explanation": "All the given chemical reactions are the example of displacement reaction.In option (c), Copper is less reactive than lead therfore copper is not able to displace lead from its salt solution.Hence option(c) is not feasible."
+    },
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "When air is blown from mouth into a test tube containing limewater, the limewater turns milky. This is due to the presence of",
+      "image": "",
+      "options": [
+        "water vapour",
+        "oxygen",
+        "carbon dioxide",
+        "carbon monoxide"
+      ],
+      "answer": "carbon dioxide",
+      "explanation": "Limewater turns milky when we blow CO2 into it. As we all know that we inhale oxygen and exhale carbon dioxide. So when we blow CO2 into Limewater it reacts with lime water and form calcium carbonate which turns it into milky."
+    },
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "Silver articles become black after some time when exposed to air because",
+      "image": "",
+      "options": [
+        "silver gets oxidized to silver oxide",
+        "silver reacts with moist carbon dioxide in the air to form silver carbonate",
+        "silver reacts with sulphur in the air to form a coating of silver sulphide",
+        "silver reacts with nitrogen oxides in the air to form silver nitrate"
+      ],
+      "answer": "silver reacts with sulphur in the air to form a coating of silver sulphide",
+      "explanation": "The silver article becomes black after sometimes when exposed to air because silver reacts with sulphur which is present in the atmosphere and then forms silver sulphide. Thus the layer of this silver sulphide is formed on the surface of the silver article so they appear as dull or black."
+    }
+  ],
+  "Chemistry (Acids, Bases & Salts)": [
+    {
+      "subject": "Chemistry (Acids, Bases & Salts)",
+      "question": "A solution having pH equal to zero is known as",
+      "image": "",
+      "options": [
+        "highly alkaline solution",
+        "highly acidic solution",
+        "weakly acidic solution",
+        "neutral solution"
+      ],
+      "answer": "highly acidic solution",
+      "explanation": "There’s no solution having pH 0.But still it will be highly acidic solution.pH is the measure of acidity or alkalinity of a solution. The mathematical representation for pH is – pH = – log (H+)."
+    }
+  ],
+  "Chemistry (Applied Chemistry)": [
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (Compound) List-II (Use)<br>A. Boric acid 1. Antiseptic<br>B. Citric acid 2. Food preservative<br>C. Magnesium hydroxide 3. Antacid<br>D. Acetic acid 4. Pickle<br>Code:<br>A B C D A B C D",
+      "image": "",
+      "options": [
+        "1 2 3 4",
+        "1 3 2 4",
+        "4 3 2 1",
+        "4 2 3 1"
+      ],
+      "answer": "1 2 3 4",
+      "explanation": "Boric acid is often used as an antiseptic, insecticide, flame retardant, neutron absorber, or precursor to other chemical compounds. It has the chemical formula H3BO3 (sometimes written B (OH)3), and exists in the form of colourless crystals or a white powder that dissolves in water. Citric acid is used in insecticides and disinfectants to help destroy bacteria and viruses. It is used to preserve and marinate meats, and flavour foods and beverages. Acetic acid is used in many industrial processes for the production of substrates and it is often used as a chemical reagent for the production of a number of chemical compounds like acetic anhydride, ester, vinyl acetate monomer, vinegar, and many other polymeric materials. Acetic acid also used in pickles."
+    }
+  ],
+  "Biology (Diseases)": [
+    {
+      "subject": "Biology (Diseases)",
       "question": "Which one of the following is not an epidemic disease?",
       "image": "",
       "options": [
@@ -167,11 +255,24 @@
       ],
       "answer": "Elephantiasis",
       "explanation": "Elephantiasis is also known as lymphatic filariasis. It’s caused by parasitic worms, and can spread from person to person through mosquitoes. Elephantiasis causes swelling of the scrotum, legs, or breasts. Elephantiasis is considered a neglected tropical disease (NTD)"
+    },
+    {
+      "subject": "Biology (Diseases)",
+      "question": "Who among the following scientists introduced the concept of immunization to the medical world?",
+      "image": "",
+      "options": [
+        "Edward Jenner",
+        "Robert Koch",
+        "Robert Hooke",
+        "Carl Linnaeus"
+      ],
+      "answer": "Edward Jenner",
+      "explanation": "In 1798 Edward Jenner introduced inoculation with cowpox (smallpox vaccine), a much safer procedure. This procedure, referred to as vaccination, gradually replaced smallpox inoculation, now called variolation to distinguish it from vaccination. Until the 1880s vaccine/vaccination referred only to smallpox, but Louis Pasteur developed immunization methods for chicken cholera and anthrax in animals and for human rabies, and suggested that the terms vaccine/vaccination should be extended to cover the new procedures. This can cause confusion if care is not taken to specify which vaccine is used e.g. measles vaccine or influenza vaccine."
     }
   ],
-  "Zoology": [
+  "Biology (Zoology)": [
     {
-      "subject": "Zoology",
+      "subject": "Biology (Zoology)",
       "question": "Which one of the following animals has a three-chambered heart?",
       "image": "",
       "options": [
@@ -184,9 +285,9 @@
       "explanation": "Salamander belongs to group Amphibia, which shows 3 chambered heart (two auricles and one ventricle). In the 3 chambered heart, partial mixing of blood takes place. All amphibians have three chambered heart."
     }
   ],
-  "Botany": [
+  "Biology (Botany)": [
     {
-      "subject": "Botany",
+      "subject": "Biology (Botany)",
       "question": "Which one of the following is the correct sequence of events during sexual reproduction in plants?",
       "image": "",
       "options": [
@@ -199,9 +300,9 @@
       "explanation": "Sequence of events of sexual reproduction in flowers are:<br>(1) Pollination- transfer of pollen to stigma.<br>(2) Fertilization- fusion of male gamete and egg cell produce zygote and fusion of polar nuclei with male gamete produce triploid endosperm.<br>(3) Embryo formation- zygote divides many time by mitosis and produces embryo.<br>(4) Seedling- embryo differentiate and becomes plumule, radicle and one or two cotyledons. Endosperm divides by mitosis to produce endosperm tissue which is food store. Integuments surrounding embryo sac forms testa (seed coat)."
     }
   ],
-  "Biochemistry": [
+  "Biology (Biochemistry)": [
     {
-      "subject": "Biochemistry",
+      "subject": "Biology (Biochemistry)",
       "question": "Which one of the following is the ‘energy currency’ for cellular processes?",
       "image": "",
       "options": [
@@ -214,9 +315,9 @@
       "explanation": "Energy is usually liberated from the ATP molecule to do work in the cell by a reaction that removes one of the phosphate-oxygen groups, leaving adenosine diphosphate (ADP). so the energy currency of the cell is ATP."
     }
   ],
-  "Human Physiology": [
+  "Biology (Human Physiology)": [
     {
-      "subject": "Human Physiology",
+      "subject": "Biology (Human Physiology)",
       "question": "Which one of the following is the first enzyme to mix with food in the digestive tract?",
       "image": "",
       "options": [
@@ -229,7 +330,7 @@
       "explanation": "Salivary amylase, present in saliva, is the first digestive enzyme that gets mixed with food in oral cavity during the process of mastication and bolus formation."
     },
     {
-      "subject": "Human Physiology",
+      "subject": "Biology (Human Physiology)",
       "question": "Which one of the following is the correct sequence of organs that occur in the path of urine flow in human body?",
       "image": "",
       "options": [
@@ -242,7 +343,7 @@
       "explanation": "Urine transport follows a path through the kidneys, ureters, urinary, bladder and urethra."
     },
     {
-      "subject": "Human Physiology",
+      "subject": "Biology (Human Physiology)",
       "question": "Which of the following endocrine glands is not found in pair in humans?",
       "image": "",
       "options": [
@@ -255,10 +356,10 @@
       "explanation": "Endocrineglands are a pair of testis in males and a pair of ovaries in females. Pituitary gland is the master gland that regulates the activity of other endocrine glands. Hence, pituitary gland does not exist in pairs."
     }
   ],
-  "Chemistry": [
+  "Chemistry (Inorganic Chemistry)": [
     {
-      "subject": "Chemistry",
-      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (Name)<br>A. Bleaching powder<br>B. Baking soda<br>C. Washing soda<br>D. Slaked lime<br>List-II (Formula)<br>1. NaHCO3<br>2. Na2CO3 × 10H2O<br>3. Ca(OH)2<br>4. CaOC12<br>Codes:<br>A B C D<br>(a) 4 1 2 3<br>(b) 4 2 1 3<br>(c) 3 2 1 4<br>(d) 3 1 2 4",
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (Name)<br>A. Bleaching powder<br>B. Baking soda<br>C. Washing soda<br>D. Slaked lime<br>List-II (Formula)<br>1. NaHCO3<br>2. Na2CO3 × 10H2O<br>3. Ca(OH)2<br>4. CaOC12<br>Codes:<br>A B C D",
       "image": "",
       "options": [
         "4 1 2 3",
@@ -270,7 +371,7 @@
       "explanation": "Bleaching Powder CaOCl2<br>Baking Soda NaHCO3<br>Washing Soda Na2CO3.10H2O<br>Slaked lime Ca(OH)2"
     },
     {
-      "subject": "Chemistry",
+      "subject": "Chemistry (Inorganic Chemistry)",
       "question": "The number of water molecules associated with copper sulphate molecule to form crystals is",
       "image": "",
       "options": [
@@ -283,9 +384,9 @@
       "explanation": "The copper sulphate crystals contains 5 molecules of water of crystallization. CuSO4. 5H2O which are blue in colour."
     }
   ],
-  "Cell Biology": [
+  "Biology (Cell Biology)": [
     {
-      "subject": "Cell Biology",
+      "subject": "Biology (Cell Biology)",
       "question": "Which one of the following cell organelles contains DNA?",
       "image": "",
       "options": [
@@ -296,21 +397,6 @@
       ],
       "answer": "Mitochondrion",
       "explanation": "The three organelles that contain DNA are the nucleus, mitochondria and chloroplasts. Organelles are membrane-bound subunits within a cell analogous to organs in the body - that perform specific functions. The nucleus is the control center of the cell, and houses genetic information."
-    }
-  ],
-  "History of Science": [
-    {
-      "subject": "History of Science",
-      "question": "Who among the following scientists introduced the concept of immunization to the medical world?",
-      "image": "",
-      "options": [
-        "Edward Jenner",
-        "Robert Koch",
-        "Robert Hooke",
-        "Carl Linnaeus"
-      ],
-      "answer": "Edward Jenner",
-      "explanation": "In 1798 Edward Jenner introduced inoculation with cowpox (smallpox vaccine), a much safer procedure. This procedure, referred to as vaccination, gradually replaced smallpox inoculation, now called variolation to distinguish it from vaccination. Until the 1880s vaccine/vaccination referred only to smallpox, but Louis Pasteur developed immunization methods for chicken cholera and anthrax in animals and for human rabies, and suggested that the terms vaccine/vaccination should be extended to cover the new procedures. This can cause confusion if care is not taken to specify which vaccine is used e.g. measles vaccine or influenza vaccine."
     }
   ]
 }

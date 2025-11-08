@@ -27,9 +27,9 @@
       "explanation": "The hollow bricks provide thermal insulations; the air in hollow bricks, does not allow outside heat or cold in the house to go out or come in the house. So, it keeps house cool in summer and warm in winter."
     }
   ],
-  "Physics (Mechanics)": [
+  "Physics (Properties of Matter)": [
     {
-      "subject": "Physics (Mechanics)",
+      "subject": "Physics (Properties of Matter)",
       "question": "In scuba-diving, while ascending towards the water surface, there is a danger of bursting the lungs. It is because of",
       "image": "",
       "options": [
@@ -42,7 +42,7 @@
       "explanation": "As scuba driver ascends towards the water surface, water pressure decreases, so according to Boyle's law air in his lungs expands to occupy a greater volume. Which increase the chances of bursting the lungs."
     },
     {
-      "subject": "Physics (Mechanics)",
+      "subject": "Physics (Properties of Matter)",
       "question": "If a ship moves from freshwater into seawater, it will",
       "image": "",
       "options": [
@@ -81,6 +81,389 @@
       ],
       "answer": "convex mirror",
       "explanation": "In automobiles, convex mirror is used as a rear view mirror because the image of the vehicle formed is small in size due to this the field of view is increased and the driver of automobile can see the traffic over large area."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "Due to contraction of eyeball, a long-sighted eye can see only",
+      "image": "",
+      "options": [
+        "farther objects which is corrected by using convex lens",
+        "farther objects which is corrected by using concave lens",
+        "nearer objects which is corrected by using convex lens",
+        "nearer objects which is corrected by using concave lens"
+      ],
+      "answer": "farther objects which is corrected by using convex lens",
+      "explanation": "The contraction of eyeball brings about in a long- sighted eye. To see the nearby objects, a convex lense is used."
+    }
+  ],
+  "Chemistry (Electrochemistry)": [
+    {
+      "subject": "Chemistry (Electrochemistry)",
+      "question": "When items or jewellery made of metals such as copper or nickel are placed in a solution having a salt of gold, a thin film of gold is deposited by",
+      "image": "",
+      "options": [
+        "cooling to below 0°C",
+        "heating above 100°C",
+        "passing an electric current",
+        "just keeping it for 10 min"
+      ],
+      "answer": "passing an electric current",
+      "explanation": "The process of depositing a thin layer of one metal over the surface of other metal by the process of electrolysis is known as electroplating. Hence, when items or jewellery made of metals such as copper or nickel are placed in a solution having a salt of gold, a thin film of gold is deposited by passing an electric current."
+    }
+  ],
+  "Chemistry (Inorganic Chemistry)": [
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Heavy water implies",
+      "image": "",
+      "options": [
+        "water which is used in heavy industries such as thermal power plants",
+        "water which contains SO42- and CI– of calcium and magnesium",
+        "deuterated water",
+        "water which has maximum density"
+      ],
+      "answer": "deuterated water",
+      "explanation": "Heavy water or deuterium oxide (D2O) is an oxide of deuterium which is an isotope of hydrogen."
+    },
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Which one among the following metals is used for making boats because it does not corrode by sea water?",
+      "image": "",
+      "options": [
+        "Tungsten",
+        "Nickel",
+        "Antimony",
+        "Titanium"
+      ],
+      "answer": "Titanium",
+      "explanation": "Titanium (Ti) metal is used for making boats because it does not corrode by the sea water."
+    }
+  ],
+  "Chemistry (Organic Chemistry)": [
+    {
+      "subject": "Chemistry (Organic Chemistry)",
+      "question": "Which one among the following is a sin smelling agent added to LPG cylinder to help the detection of gas leakage?",
+      "image": "",
+      "options": [
+        "Ethanol",
+        "Thioethanol",
+        "Methane",
+        "Chloroform"
+      ],
+      "answer": "Thioethanol",
+      "explanation": "Ethyl mercaptan or thioethanol (C2H5SH) is added during filling of LPG cylinders. It is a strong smelling compound and help in the detection of gas leakage."
+    },
+    {
+      "subject": "Chemistry (Organic Chemistry)",
+      "question": "Match List I with List II and select the correct answer using the codes given below the lists.<br>List I (Acid) List II (Source)<br>A. Lactic acid 1 Tamarind<br>B. Tartaric acid 2 Orange<br>C. Oxalic acid 3 Tomato<br>D. Citric acid 4 Sour curd<br>Code:<br>A B C D A B C D",
+      "image": "",
+      "options": [
+        "2 3 1 4",
+        "2 1 3 4",
+        "4 3 1 2",
+        "4 1 3 2"
+      ],
+      "answer": "4 1 3 2",
+      "explanation": "Lactic acid occurs in sour curd.<br>Tartaric acid occurs in tamarind.<br>Oxalic acid occurs in tomato.<br>Citric acid occurs in all citrus fruits like orange, lemon etc."
+    }
+  ],
+  "Chemistry (General Concepts)": [
+    {
+      "subject": "Chemistry (General Concepts)",
+      "question": "A body is charged negatively. It implies that",
+      "image": "",
+      "options": [
+        "it has lost some of its protons",
+        "it has acquired some electrons from outside",
+        "it has lost some of its electrons",
+        "None of the above"
+      ],
+      "answer": "it has acquired some electrons from outside",
+      "explanation": "Atoms are neutral. When an atom loses electron, it becomes positively charged and when an atom gains electron, it becomes negatively charged. Hence, a body is charged negatively when it has acquired some electrons from outside."
+    }
+  ],
+  "Chemistry (Polymers)": [
+    {
+      "subject": "Chemistry (Polymers)",
+      "question": "Contact lenses are made from",
+      "image": "",
+      "options": [
+        "polyvinyl chloride",
+        "polystyrene",
+        "lucite",
+        "teflon"
+      ],
+      "answer": "lucite",
+      "explanation": "Contact lenses are made from lucite. It is a polymer of methyl methacrylate. The other names of lucite are plexiglass, acrylite and perspex."
+    }
+  ],
+  "Chemistry (Physical Chemistry)": [
+    {
+      "subject": "Chemistry (Physical Chemistry)",
+      "question": "Water is a good coolant and is used to cool the engines of cars, buses, trucks etc. It is because water has a",
+      "image": "",
+      "options": [
+        "high specific heat",
+        "low surface tension",
+        "high boiling point",
+        "teflon"
+      ],
+      "answer": "high specific heat",
+      "explanation": "Water has a high specific heat."
+    },
+    {
+      "subject": "Chemistry (Physical Chemistry)",
+      "question": "Which one among the following would expand the most on being heated.",
+      "image": "",
+      "options": [
+        "water",
+        "Alcohol",
+        "Glass",
+        "Air"
+      ],
+      "answer": "Air",
+      "explanation": "Air would expand the most on being heated."
+    }
+  ],
+  "Chemistry (States of Matter)": [
+    {
+      "subject": "Chemistry (States of Matter)",
+      "question": "A close bottle containing water at room temperature was taken to the Moon and then the lid is opened. The water will",
+      "image": "",
+      "options": [
+        "freeze",
+        "boil",
+        "decompose into oxygen and hydrogen",
+        "not change at all"
+      ],
+      "answer": "freeze",
+      "explanation": "The water will freeze because on Moon the temperature is below the freezing point i.e., very low."
+    }
+  ],
+  "Chemistry (Chemical Reactions)": [
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "Which one among the following substances evolves heat when dissolved in water?",
+      "image": "",
+      "options": [
+        "Potassium nitrate",
+        "Sodium chloride",
+        "Glucose",
+        "Calcium oxide"
+      ],
+      "answer": "Calcium oxide",
+      "explanation": "When calcium oxide or quicklime (CaO) is dissolved in water, calcium hydroxide or limewater is obtained and there is a release of heat.<br>CaO + H2O ® Ca(OH)2 +Heat<br>Quicklime Lime water"
+    }
+  ],
+  "Chemistry (Applied Chemistry)": [
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "Dead organs are generally stored in formalin. Formalin is beacuse it acts as a disinfectant which is due to the presence of formaldehyde",
+      "image": "",
+      "options": [
+        "aqueous ferrous sulphate",
+        "aqueous formaldehyde",
+        "aqueous formic acid",
+        "aqueous feme alum"
+      ],
+      "answer": "aqueous formaldehyde",
+      "explanation": "Formalin contains 40% aqueous solution of formaldehyde. Dead organs are preserved in 10% formalin solution."
+    }
+  ],
+  "Biology (Human Diseases)": [
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "Insects that can transmit diseases to human are referred to as",
+      "image": "",
+      "options": [
+        "carriers",
+        "reservoirs",
+        "vectors",
+        "incubators"
+      ],
+      "answer": "vectors",
+      "explanation": "Insects that transmit diseases to humans are known as vectors. Insects may carry infection mechanically on feet or mouth parts, by passage through the digestive tract but without the insect being infected or by becoming an intermediate host with some part of the parasite’s life cycle occuring in the insect tissue."
+    },
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "Which of the following diseases are transmitted from one person to another?<br>1. AIDS<br>2. Cirrhosis<br>3. Hepatitis B<br>4. Syphilis<br>Select the correct answer using the code given below",
+      "image": "",
+      "options": [
+        "2, 3 and 4",
+        "1, 3 and 4",
+        "1 and 2",
+        "All of these"
+      ],
+      "answer": "1, 3 and 4",
+      "explanation": "Cirrhosis is a only disorder which is caused due to excessive drink of alcohol or hepatitis. All the other three disorders are infectious diseases and transmitted from one peron to another."
+    },
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "Which one among the following is not correct about Down's syndrome?",
+      "image": "",
+      "options": [
+        "It is a genetic disorder",
+        "Effected individual has early ageing",
+        "Effected person has mental retardation",
+        "Effected person has furrowed tongue with open mouth"
+      ],
+      "answer": "Effected individual has early ageing",
+      "explanation": "Down’s syndrome is characterised by an extra chromosome 21. It is also known as trisomy 21. All the given characters are observed in Down’s syndrome, except option (b) only early ageing which is the symptom of progeria disease."
+    },
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "Dog bite can cause rabies. Which among the following other animals can also cause rabies?",
+      "image": "",
+      "options": [
+        "Donkey",
+        "Bat",
+        "Horse",
+        "Crocodile"
+      ],
+      "answer": "Bat",
+      "explanation": "Some bats are sanguivorous feeding on animal blood. When it sucks the blood of an animal which is suffering from rabies, it can cause rabies if it bites another animal or man."
+    }
+  ],
+  "Biology (Ecology & Environment)": [
+    {
+      "subject": "Biology (Ecology & Environment)",
+      "question": "Photochemical smog occurs in",
+      "image": "",
+      "options": [
+        "cool and humid climate",
+        "warm, dry and sunny climate",
+        "cool, dry and sunny climater",
+        "warm and humid climate"
+      ],
+      "answer": "warm, dry and sunny climate",
+      "explanation": "Photochemical smog takes place in warm, dry and sunny climate.The word smog means ‘smoke’ and ‘fog’ means ‘smoky fog’. Its main components are created from the action of sunlight on unsaturated hydrocarbons and nitrogen oxide produced by automobiles and factories."
+    },
+    {
+      "subject": "Biology (Ecology & Environment)",
+      "question": "Which one among the following industries produces the most non-biodegradable wastes?",
+      "image": "",
+      "options": [
+        "Thermal power plants",
+        "Food processing units",
+        "Textile mills",
+        "Paper mills"
+      ],
+      "answer": "Thermal power plants",
+      "explanation": "The most non biodegradable wastes are produced by thermal power plants. They utilize radioactive elements as raw material and thus evolves radioactive wastes which takes a very long period (hundreds of years) for losing its radioactivity completely."
+    },
+    {
+      "subject": "Biology (Ecology & Environment)",
+      "question": "Which one among the following group of items contain only biodegradable items?",
+      "image": "",
+      "options": [
+        "Wood, Grass, Plastic",
+        "Wood, Grass, Leather",
+        "Fruit peels, Lime juice, China clay cup",
+        "Lime juice, Grass, Polystyrene cup"
+      ],
+      "answer": "Wood, Grass, Leather",
+      "explanation": "All the three items are organic matter and produced by living organisms thus are biodegradable wood is obtained from trees and leather is obtained from the hides of animals. Glass is acquired naturally or by melting silicates."
+    }
+  ],
+  "Biology (Botany)": [
+    {
+      "subject": "Biology (Botany)",
+      "question": "In dry regions, the leaf size of a tree becomes smaller. It is so to",
+      "image": "",
+      "options": [
+        "reduce metabolism",
+        "reduce transpiration",
+        "maintain natural growth",
+        "protect plant from animals"
+      ],
+      "answer": "reduce transpiration",
+      "explanation": "The small leaves possess no or very few stomata thus the loss of water by transpiration is decreased and protects the plant from dehydration."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "Why do you feel cool under a tree but not so under a tin shed on a sunny day?",
+      "image": "",
+      "options": [
+        "The greenness of the tree gives the cool feeling",
+        "Photosynthesis absorbs heat",
+        "The leaves convert water vapours into water which is a heat-absorbing process",
+        "The leaves give out water which vapourises absorbing some heat as latent heat"
+      ],
+      "answer": "The leaves give out water which vapourises absorbing some heat as latent heat",
+      "explanation": "The transpiration takes place from the leaves surface all the time. The water taken out from leaves absorbs heat from the surrounding atmosphere to vapourise so the area under a tree becomes cool."
+    }
+  ],
+  "Biology (Zoology)": [
+    {
+      "subject": "Biology (Zoology)",
+      "question": "Bats can fly in dark because they",
+      "image": "",
+      "options": [
+        "have strong wings",
+        "have sharp eyes",
+        "produce ultrasonic waves",
+        "are nocturnal"
+      ],
+      "answer": "produce ultrasonic waves",
+      "explanation": "Bats can fly in dark because they transmit ultrasonic waves. The bats have very poor vision. It cannot see in dark. It produces ultrasonic waves striking with the obstacles present on its path. The bat receives its echo and changes its path to protect itself from collision."
+    }
+  ],
+  "Biology (Human Physiology)": [
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "White blood cells act",
+      "image": "",
+      "options": [
+        "as a defence against infection",
+        "as source of energy",
+        "as a clotting agent",
+        "as a medium for oxygen transport from lungs to tissues"
+      ],
+      "answer": "as a defence against infection",
+      "explanation": "White blood cells destroy foreign proteins (bodies) e.g pathogens by the process of phagocytosis and in this way protects the body from infection."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "When we eat something we like, our mouth waters. This is actually not water but fluid secreted from",
+      "image": "",
+      "options": [
+        "nasal glands",
+        "oval epithelium",
+        "salivary glands",
+        "tongue"
+      ],
+      "answer": "salivary glands",
+      "explanation": "Salivary glands secrete amylase enzyme (ptyalin) and water to moist the food and to digest starch. When we see, smell or eat something we like, the salivary glands are stimulated and secrete saliva in buccal cavity thus watering the mouth."
+    }
+  ],
+  "Chemistry (Environmental Chemistry)": [
+    {
+      "subject": "Chemistry (Environmental Chemistry)",
+      "question": "Rain water collected after 30 to 40 minutes of raining is not suitable for drinking because it",
+      "image": "",
+      "options": [
+        "contains bacteria and dirt",
+        "contains dissolved toxic chemicals",
+        "is deficient in minerals",
+        "is acidic"
+      ],
+      "answer": "is acidic",
+      "explanation": "After raining for 30-40 minutes, the pollutants present in atmosphere come down with raining water that raise its pH upto 5.6 making it acidic in nature."
+    }
+  ],
+  "Biology (Human Health)": [
+    {
+      "subject": "Biology (Human Health)",
+      "question": "Which one among the following elements/ions is essential in small quantities for the development of healthy teeth but causes mottling of the teeth if consumed in higher quantities?",
+      "image": "",
+      "options": [
+        "Iron",
+        "Chloride",
+        "Fluoride",
+        "Potassium"
+      ],
+      "answer": "Fluoride",
+      "explanation": "Fluoride is essential in small quantity for the protection of the teeth but in high quantity it causes fluorosis deforming the teeth."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "Physics (Electricity & Magnetism)": [
+  "Physics (Electricity)": [
     {
-      "subject": "Physics (Electricity & Magnetism)",
-      "question": "The wires are made having same length l and area of cross-section A. Wire 1 is made of copper and wire 2 is made of aluminium. It is given that the electrical conductivity of copper is more than that of aluminium. In this context, which one of the following statements is correct?",
+      "subject": "Physics (Electricity)",
+      "question": "The wires are made having same length l and area of cross- section A. Wire 1 is made of copper and wire 2 is made of aluminium. It is given that the electrical conductivity of copper is more than that of aluminium. In this context, which one of the following statements is correct?",
       "image": "",
       "options": [
         "The resistance of wire 1 will be higher than that of wire 2.",
@@ -12,32 +12,6 @@
       ],
       "answer": "The resistance of wire 2 will be higher than that of wire 1.",
       "explanation": "The resistance of wire 2 will be higher than that of wire 1."
-    },
-    {
-      "subject": "Physics (Electricity & Magnetism)",
-      "question": "Infrared, visible and ultraviolet radiations/light have different properties. Which one of the following statements related to these radiations/light is not correct?",
-      "image": "",
-      "options": [
-        "The wavelength of infrared is more than that of ultraviolet radiation.",
-        "The wavelength of ultraviolet is smaller than that of visible light.",
-        "The photon energy of visible light is more than that of infrared light.",
-        "The photon energy of ultraviolet is lesser than that of visible light."
-      ],
-      "answer": "The photon energy of ultraviolet is lesser than that of visible light.",
-      "explanation": "The photon energy of ultraviolet is lesser than that of visible light."
-    },
-    {
-      "subject": "Physics (Electricity & Magnetism)",
-      "question": "After using for some time, big transformers get heated up. This is due to the fact that<br>1. current produces heat in the transformers<br>2. hysteresis loss occurs in the transformers<br>3. liquid used for cooling gets heated<br>Select the correct answer using the code given below.",
-      "image": "",
-      "options": [
-        "1 only",
-        "2 and 3 only",
-        "1 and 2 only",
-        "1, 2 and 3"
-      ],
-      "answer": "1, 2 and 3",
-      "explanation": "After using for some time, big transformers get heated up. This is due to the fact that current produces heat in the transformers, hysteresis loss occurs in the transformers, liquid used for cooling gets heated."
     }
   ],
   "Physics (Optics)": [
@@ -53,6 +27,47 @@
       ],
       "answer": "80°",
       "explanation": "the ray of light will undergo a deviation of 80 degrees."
+    },
+    {
+      "subject": "Physics (Optics)",
+      "question": "Which one of the following types of glasses is used for making optical instruments?",
+      "image": "",
+      "options": [
+        "Pyrex glass",
+        "Soft glass",
+        "Hard glass",
+        "Flint glass"
+      ],
+      "answer": "Hard glass",
+      "explanation": "Hard glass is used for making hard glass laboratory apparatus."
+    }
+  ],
+  "Physics (Electromagnetism)": [
+    {
+      "subject": "Physics (Electromagnetism)",
+      "question": "Infrared, visible and ultraviolet radiations/light have different properties. Which one of the following statements related to these radiations/light is not correct?",
+      "image": "",
+      "options": [
+        "The wavelength of infrared is more than that of ultraviolet radiation.",
+        "The wavelength of ultraviolet is smaller than that of visible light.",
+        "The photon energy of visible light is more than that of infrared light.",
+        "The photon energy of ultraviolet is lesser than that of visible light."
+      ],
+      "answer": "The photon energy of ultraviolet is lesser than that of visible light.",
+      "explanation": "The photon energy of ultraviolet is lesser than that of visible light."
+    },
+    {
+      "subject": "Physics (Electromagnetism)",
+      "question": "After using for some time, big transformers get heated up. This is due to the fact that<br>1. current produces heat in the transformers<br>2. hysteresis loss occurs in the transformers<br>3. liquid used for cooling gets heated<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "After using for some time, big transformers get heated up. This is due to the fact that current produces heat in the transformers, hysteresis loss occurs in the transformers, liquid used for cooling gets heated."
     }
   ],
   "Physics (Mechanics)": [
@@ -81,34 +96,6 @@
       ],
       "answer": "The object will move with constant velocity.",
       "explanation": "The object will move with constant velocity."
-    }
-  ],
-  "Physics (Properties of Matter)": [
-    {
-      "subject": "Physics (Properties of Matter)",
-      "question": "Which one of the following types of glasses is used for making optical instruments?",
-      "image": "",
-      "options": [
-        "Pyrex glass",
-        "Soft glass",
-        "Hard glass",
-        "Flint glass"
-      ],
-      "answer": "Hard glass",
-      "explanation": "Hard glass is used for making hard glass laboratory apparatus."
-    },
-    {
-      "subject": "Physics (Properties of Matter)",
-      "question": "Desalination of seawater is done by using reverse osmosis. The pressure applied to the solution is",
-      "image": "",
-      "options": [
-        "larger than osmotic pressure",
-        "smaller than osmotic pressure",
-        "equal to osmotic pressure",
-        "equal to atmospheric pressure"
-      ],
-      "answer": "larger than osmotic pressure",
-      "explanation": "Desalination by RO requires the use of an osmotic membrane. The higher the applied pressure above the osmotic pressure, the higher the rate of fresh water transports across the membranes."
     }
   ],
   "Physics (Thermodynamics)": [
@@ -141,9 +128,155 @@
       "explanation": "Ultrasonic waves are generated by a transducer that includes a piezoelectric crystal that converts electrical energy (electric current) to mechanical energy (sound waves)."
     }
   ],
-  "Biochemistry": [
+  "Physics (Properties of Matter)": [
     {
-      "subject": "Biochemistry",
+      "subject": "Physics (Properties of Matter)",
+      "question": "Desalination of seawater is done by using reverse osmosis. The pressure applied to the solution is",
+      "image": "",
+      "options": [
+        "larger than osmotic pressure",
+        "smaller than osmotic pressure",
+        "equal to osmotic pressure",
+        "equal to atmospheric pressure"
+      ],
+      "answer": "larger than osmotic pressure",
+      "explanation": "Desalination by RO requires the use of an osmotic membrane. The higher the applied pressure above the osmotic pressure, the higher the rate of fresh water transports across the membranes."
+    }
+  ],
+  "Chemistry (Inorganic Chemistry)": [
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Pearl is a hard object produced within the soft tissues of a mollusk. Which one of the following is the main constituent of pearl?",
+      "image": "",
+      "options": [
+        "Calcium carbonate",
+        "Calcium oxide",
+        "Calcium nitrate",
+        "Calcium sulphate"
+      ],
+      "answer": "Calcium carbonate",
+      "explanation": "A pearl is a hard object produced within the soft tissue of a living shelled mollusk. Just like the shell of a mollusk, a pearl is composed of calcium carbonate (mainly aragonite or a mixture of aragonite and calcite) in minute crystalline form, which has been deposited in concentric layers. The ideal pearl is perfectly round and smooth, but many other shapes, known as baroque pearls, can occur."
+    }
+  ],
+  "Physics (Electricity & Magnetism)": [
+    {
+      "subject": "Physics (Electricity & Magnetism)",
+      "question": "An electron and a proton starting from rest are accelerated through a potential difference of 1000 V. Which one of the following statements in this regard is correct?",
+      "image": "",
+      "options": [
+        "The kinetic energy of both the particles will be different.",
+        "The speed of the electron will be higher than that of the proton.",
+        "The speed of the proton will be higher than that of the electron.",
+        "The speed of the electron and the proton will be equal."
+      ],
+      "answer": "The speed of the electron will be higher than that of the proton.",
+      "explanation": "When accelerated from rest the energy is fully kinetic so<br>KE= charge*potential difference<br>i.e 1/2 Mv2=Q.V<br>From the above equation it is obvious that velocity of particle is inversely proportional to the mass of particle so, electron will gain more speed as it has lower mass than that of proton. Also, as the energy is fully kinetic so electron will have greater energy as a result of greater velocity."
+    }
+  ],
+  "Chemistry (Acids, Bases & Salts)": [
+    {
+      "subject": "Chemistry (Acids, Bases & Salts)",
+      "question": "In the reaction between hydrogen sulphate ion and water<br>HSO-4 + H2O ® H3O+ +SO2-4<br>the water acts as",
+      "image": "",
+      "options": [
+        "an acid",
+        "a base",
+        "a salt",
+        "an inert medium"
+      ],
+      "answer": "a base",
+      "explanation": "A substance that accepts a proton is a base. In the above reaction, water is acting as a base."
+    }
+  ],
+  "Chemistry (Stoichiometry)": [
+    {
+      "subject": "Chemistry (Stoichiometry)",
+      "question": "How many hydrogen atoms are contained in 1.50 g of glucose (C6H12O6)?",
+      "image": "",
+      "options": [
+        "3.01 × 1022",
+        "1.20 × 1023",
+        "2.40 × 1023",
+        "6.02 × 1022"
+      ],
+      "answer": "6.02 × 1022",
+      "explanation": "There are 12 atoms of hydrogen per molecule of glucose, which has a molar mass of 180g/mol. Hence the number of moles of hydrogen = 12 × 1.50 ÷ 180 = 0.10mol. Hence the number of hydrogen atoms is found by multiplying this by the Avogadro Constant, 6.02 × 10²³. This gives you 6.02 × 10²² atoms."
+    }
+  ],
+  "Chemistry (Applied Chemistry)": [
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "The paste of a white material in water is used to maintain a fractured bone fixed in place. The white material used is called",
+      "image": "",
+      "options": [
+        "bleaching powder",
+        "plaster of Paris",
+        "powder of zinc oxide",
+        "lime powder"
+      ],
+      "answer": "plaster of Paris",
+      "explanation": "Plaster of paris, quick-setting gypsum plaster consisting of a fine white powder (calcium sulfate hemihydrate), which hardens when moistened and allowed to dry. Known since ancient times, plaster of paris is so called because of its preparation from the abundant gypsum found near Paris."
+    },
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "Tincture of iodine is an antiseptic for fresh wounds. It is a dilute solution of elemental iodine, which does not contain",
+      "image": "",
+      "options": [
+        "water",
+        "acetone",
+        "alcohol",
+        "potassium iodide"
+      ],
+      "answer": "acetone",
+      "explanation": "Tincture of iodine, iodine tincture, or weak iodine solution is an antiseptic. It is usually 2–7% elemental iodine, along with potassium iodide or sodium iodide, dissolved in a mixture of ethanol and water. Tincture solutions are characterized by the presence of alcohol."
+    }
+  ],
+  "Chemistry (States of Matter)": [
+    {
+      "subject": "Chemistry (States of Matter)",
+      "question": "An emulsion consists of",
+      "image": "",
+      "options": [
+        "one liquid and one solid",
+        "one liquid and one gas",
+        "two liquids",
+        "two solids"
+      ],
+      "answer": "two liquids",
+      "explanation": "An emulsion is a mixture of two or more liquids that are normally immiscible."
+    }
+  ],
+  "Chemistry (Nuclear Chemistry)": [
+    {
+      "subject": "Chemistry (Nuclear Chemistry)",
+      "question": "Which of the following radioactive substances enters/enter the human body through food chain and causes/cause many physiological disorders?",
+      "image": "",
+      "options": [
+        "Strontium-90",
+        "Iodine-131",
+        "Cesium-137",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "explanation": "Strontium-90, Iodine-131, Cesium-137 enters/enter the human body through food chain and causes/cause many physiological disorders"
+    },
+    {
+      "subject": "Chemistry (Nuclear Chemistry)",
+      "question": "Consider the following statements :<br>1. The chain reaction process is used in nuclear bombs to release a vast amount of energy, but in nuclear reactors, there is no chain reaction.<br>2. In a nuclear reactor, the reaction is controlled while in nuclear bombs, the reaction is uncontrolled.<br>3. In a nuclear reactor, all operating reactors are ‘critical’, while there is no question of ‘criticality’ in case of a nuclear bomb.<br>4. Nuclear reactors do not use moderators, while nuclear bombs use them.<br>Which of the above statements about operational principles of a nuclear reactor and a nuclear bomb is/are correct?",
+      "image": "",
+      "options": [
+        "1 and 3",
+        "2 and 3",
+        "4 only",
+        "1 and 4"
+      ],
+      "answer": "2 and 3",
+      "explanation": "In a nuclear reactor, the reaction is controlled, while in nuclear bombs, the reaction is uncontrolled. In a nuclear reactor, all operating reactors are ‘critical’, while there is no question of ‘critically’ in case of a nuclear bomb."
+    }
+  ],
+  "Biology (Biochemistry)": [
+    {
+      "subject": "Biology (Biochemistry)",
       "question": "Which one of the following proteins gives lustrous shiny appearance to silk fibre?",
       "image": "",
       "options": [
@@ -156,33 +289,7 @@
       "explanation": "Silk is a fibre produced by the silkworm in production of its cocoon. It consists mainly of two proteins, fibroin and sericin. Silk consists of 70–80% fibroin and 20–30% sericin; fibroin being the structural center of the silk, and sericin being the gum coating the fibres and allowing them to stick to each other."
     },
     {
-      "subject": "Biochemistry",
-      "question": "Human insulin molecule is composed of one a-chain having 21 amino acids and one b-chain having 30 amino acids. How many functional insulin genes occur in adult humans?",
-      "image": "",
-      "options": [
-        "One",
-        "Two",
-        "Three",
-        "Four"
-      ],
-      "answer": "One",
-      "explanation": "Human Insulin protein consists of 51 amino acids. Insulin is formed as a precursor protein preproinsulin. This is coded by the INS gene. In some animals there are two insulin genes or two genes that code for insulin. In most animals, including humans, a single gene is present."
-    },
-    {
-      "subject": "Biochemistry",
-      "question": "The foul smell of urine of a healthy man having healthy food, when spilled on floor, is mainly due to the bacterial decomposition of",
-      "image": "",
-      "options": [
-        "urea into sulphur dioxide",
-        "sugar into carbon dioxide",
-        "lipids into methane",
-        "urea into ammonia"
-      ],
-      "answer": "urea into ammonia",
-      "explanation": "Fresh urine has little to no odor. But if urine sits for a time — as can happen when a person is wearing protective underwear or an incontinence pad — the urine will begin to smell like ammonia. The smell is caused by bacteria that break down urea, a substance that is excreted in urine."
-    },
-    {
-      "subject": "Biochemistry",
+      "subject": "Biology (Biochemistry)",
       "question": "Which one of the following polymers does not contain glucose units?",
       "image": "",
       "options": [
@@ -195,9 +302,9 @@
       "explanation": "Starch is a polymer of a-glucose and consists of two components-amylose and amylopectin. Glycogen is a polymer of 1000 glucose units. Cellulose is a linear polymer of b-D-glucose. Natural rubber is an addition polymer that is obtained as a milky white fluid known as latex from a tropical rubber tree. Natural rubber is from the monomer isoprene (2-methyl-1,3-butadiene), which is a conjugated diene hydrocarbon"
     }
   ],
-  "Health and Disease": [
+  "Biology (Diseases)": [
     {
-      "subject": "Health and Disease",
+      "subject": "Biology (Diseases)",
       "question": "Blue Baby Syndrome is caused by the contamination of",
       "image": "",
       "options": [
@@ -208,12 +315,25 @@
       ],
       "answer": "nitrate ( NO3- )",
       "explanation": "Blue baby syndrome is a condition some babies are born with or develop early in life. It’s characterized by an overall skin color with a blue or purple tinge, called cyanosis. This condition stems from nitrate poisoning. It is can happen in babies who are fed infant formula mixed with well water or homemade baby food made with nitrate-rich foods, like spinach or beets."
+    },
+    {
+      "subject": "Biology (Diseases)",
+      "question": "Statement I :<br>Skin cancer is generally caused by the ultraviolet radiation.<br>Statement II :<br>Stratosphere allows ultraviolet radiation to enter the earth from the sun.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+        "Statement I is true but Statement II is false",
+        "Statement I is false but Statement II is true"
+      ],
+      "answer": "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+      "explanation": "(b) is the correct answer."
     }
   ],
-  "Cell Biology": [
+  "Biology (Cell Biology)": [
     {
-      "subject": "Cell Biology",
-      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (Cell Organelle)<br>A. Mitochondria<br>B. Chloroplast<br>C. Ribosomes<br>D. Lysosomes<br>List-II (Function)<br>1. Photosynthesis<br>2. Protein synthesis<br>3. Intracellular digestion<br>4. ATP formation<br>Codes:<br>A B C D<br>(a) 3 1 2 4<br>(b) 3 2 1 4<br>(c) 4 1 2 3<br>(d) 4 2 1 3",
+      "subject": "Biology (Cell Biology)",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (Cell Organelle)<br>A. Mitochondria<br>B. Chloroplast<br>C. Ribosomes<br>D. Lysosomes<br>List-II (Function)<br>1. Photosynthesis<br>2. Protein synthesis<br>3. Intracellular digestion<br>4. ATP formation<br>Codes:<br>A B C D",
       "image": "",
       "options": [
         "3 1 2 4",
@@ -225,9 +345,24 @@
       "explanation": "A-4, B-1, C-2, D-3 is the correct answer. ATP supplies energy to the cell. It is formed by the oxidation of glucose in the mitochondria. Since, mitochondria synthesize energy rich compounds (ATP) so, known as power house of the cell. Ribosomes are dense, spherical and granular particles which occur freely in the matrix (cytosol) or remain attached to the ER. It plays an important part in the synthesis of the proteins. Lysosomes are simply tiny spherical sac-like structures evenly distributed in the cytoplasm. Its cells digest foreign proteins, bacteria and viruses. So, it is a kind of garbage disposable system of the cell."
     }
   ],
-  "Ecology": [
+  "Biology (Genetics)": [
     {
-      "subject": "Ecology",
+      "subject": "Biology (Genetics)",
+      "question": "Human insulin molecule is composed of one a-chain having 21 amino acids and one b-chain having 30 amino acids. How many functional insulin genes occur in adult humans?",
+      "image": "",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": "One",
+      "explanation": "Human Insulin protein consists of 51 amino acids. Insulin is formed as a precursor protein preproinsulin. This is coded by the INS gene. In some animals there are two insulin genes or two genes that code for insulin. In most animals, including humans, a single gene is present."
+    }
+  ],
+  "Biology (Ecology & Environment)": [
+    {
+      "subject": "Biology (Ecology & Environment)",
       "question": "A biological community in its environment such as a pond, an ocean, a forest, even an aquarium is known as",
       "image": "",
       "options": [
@@ -240,19 +375,19 @@
       "explanation": "A biome is a community of plants and animals that have common characteristics for the environment they exist in. They can be found over a range of continents. Biomes are distinct biological communities that have formed in response to a shared physical climate."
     }
   ],
-  "Environmental Science": [
+  "Biology (Human Physiology)": [
     {
-      "subject": "Environmental Science",
-      "question": "Statement I :<br>Skin cancer is generally caused by the ultraviolet radiation.<br>Statement II :<br>Stratosphere allows ultraviolet radiation to enter the earth from the sun.",
+      "subject": "Biology (Human Physiology)",
+      "question": "The foul smell of urine of a healthy man having healthy food, when spilled on floor, is mainly due to the bacterial decomposition of",
       "image": "",
       "options": [
-        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
-        "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
-        "Statement I is true but Statement II is false",
-        "Statement I is false but Statement II is true"
+        "urea into sulphur dioxide",
+        "sugar into carbon dioxide",
+        "lipids into methane",
+        "urea into ammonia"
       ],
-      "answer": "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
-      "explanation": "(b) is the correct answer."
+      "answer": "urea into ammonia",
+      "explanation": "Fresh urine has little to no odor. But if urine sits for a time — as can happen when a person is wearing protective underwear or an incontinence pad — the urine will begin to smell like ammonia. The smell is caused by bacteria that break down urea, a substance that is excreted in urine."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "Physics (Electricity & Magnetism)": [
+  "Physics (Waves & Communication)": [
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Waves & Communication)",
       "question": "Television signal cannot be received generally beyond a particular distance due to",
       "image": "",
       "options": [
@@ -12,19 +12,6 @@
       ],
       "answer": "curvature of the Earth",
       "explanation": "Curvature of the earth does not allow the television signals to be received beyond a particular distance."
-    },
-    {
-      "subject": "Physics (Electricity & Magnetism)",
-      "question": "By which one of the following, an old written material which cannot be read easily, can be read",
-      "image": "",
-      "options": [
-        "g-rays",
-        "X-rays",
-        "IR-rays",
-        "Radiofrequency waves"
-      ],
-      "answer": "IR-rays",
-      "explanation": "Infrared rays helps in reading an old written material."
     }
   ],
   "Physics (Mechanics)": [
@@ -70,6 +57,341 @@
       ],
       "answer": "50 dB",
       "explanation": "The permissible level is 50 dB."
+    }
+  ],
+  "Physics (Electromagnetism)": [
+    {
+      "subject": "Physics (Electromagnetism)",
+      "question": "By which one of the following, an old written material which cannot be read easily, can be read",
+      "image": "",
+      "options": [
+        "g-rays",
+        "X-rays",
+        "IR-rays",
+        "Radiofrequency waves"
+      ],
+      "answer": "IR-rays",
+      "explanation": "Infrared rays helps in reading an old written material."
+    }
+  ],
+  "Chemistry (Nuclear Chemistry)": [
+    {
+      "subject": "Chemistry (Nuclear Chemistry)",
+      "question": "Which one of the following is heavy water used in nuclear reactor?",
+      "image": "",
+      "options": [
+        "Water having molecular weight 18 u",
+        "Water having molecular weight 20 u",
+        "Water at 4°C but having molecular weight 19 u",
+        "Water below the ice in a frozen sea"
+      ],
+      "answer": "Water having molecular weight 20 u",
+      "explanation": "Heavy water (D2O) is used in nuclear reactor as a moderator. The deuterium is an isotope of hydrogen. Its atomic mass is 2. Hence its molecular weight is 20u (2 + 18)."
+    }
+  ],
+  "Chemistry (Chemical Reactions)": [
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "The rusting of iron nail",
+      "image": "",
+      "options": [
+        "decreases its weight",
+        "increases its weight",
+        "does not affect weight but iron is oxidised",
+        "does not affect weight but iron is reduced"
+      ],
+      "answer": "increases its weight",
+      "explanation": "The rusting of iron nail takes place in the presence of air (oxygen) and water (moisture). It increases the weight of iron nail due to the formation of rust.<br>4Fe + 3O2 + xH2O ® 2Fe2O3.xH2O<br>Rust"
+    },
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "Which one of the following when dissolved in H2O gives hissing sound?",
+      "image": "",
+      "options": [
+        "Limestone",
+        "Slaked lime",
+        "Sodalime",
+        "Quicklime"
+      ],
+      "answer": "Quicklime",
+      "explanation": "On adding water, quicklime (CaO) gives a hissing sound and forms calcium hydroxide commonly known as slaked lime.<br>CaO + H2O ® C Ca (OH)2 + 15000 calories"
+    }
+  ],
+  "Chemistry (Polymers)": [
+    {
+      "subject": "Chemistry (Polymers)",
+      "question": "Commercial vulcanisation of rubber involves",
+      "image": "",
+      "options": [
+        "sulphur",
+        "carbon",
+        "phosphorus",
+        "selenium"
+      ],
+      "answer": "sulphur",
+      "explanation": "Vulcanisation is a process in which natural rubber is treated with 3-5% sulphur. It introduces sulphur bridges between polymer chains thereby increasing its tensile strength, elasticity and resistance to abrasion."
+    }
+  ],
+  "Chemistry (Inorganic Chemistry)": [
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Aqua-regia used by alchemists to separate silver and gold is a mixture of",
+      "image": "",
+      "options": [
+        "hydrochloric acid (concentrated) and nitric acid (concentrated)",
+        "hydrochloric acid (concentrated) and sulphuric acid (concentrated)",
+        "nitric acid (concentrated) and sulphuric acid (concentrated)",
+        "hydrochloric acid (dilute) and sulphuric acid (dilute)"
+      ],
+      "answer": "hydrochloric acid (concentrated) and nitric acid (concentrated)",
+      "explanation": "Aqua-regia is a mixture of concentrated nitric acid and concentrated hydrochloric acid in the ratio 1 : 3 respectively. It is a very powerful oxidising mixture."
+    }
+  ],
+  "Chemistry (Organic Chemistry)": [
+    {
+      "subject": "Chemistry (Organic Chemistry)",
+      "question": "Nail polish remover contains",
+      "image": "",
+      "options": [
+        "acetone",
+        "benzene",
+        "formaldehyde",
+        "acetic acid"
+      ],
+      "answer": "acetone",
+      "explanation": "Acetone is used as a solvent. It is an ingredient of nail polish remover."
+    },
+    {
+      "subject": "Chemistry (Organic Chemistry)",
+      "question": "Which one of the following petroleum refinery products has the lowest boiling point?",
+      "image": "",
+      "options": [
+        "Kerosene",
+        "Diesel",
+        "Gasoline",
+        "Lubricating oil"
+      ],
+      "answer": "Gasoline",
+      "explanation": "Product Boiling Point (°C)<br>(a) Kerosene 200-300°<br>(b) Diesel above 300°<br>(c) Gasoline 25-75°C<br>(d) Lubricating oil >350°C"
+    }
+  ],
+  "Chemistry (Applied Chemistry)": [
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "Statement I : Soaps do not form lather with water containing salts of calcium and magnesium.<br>Statement II : Calcium and magnesium salts of long chain fatty acids are insoluble in water.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I.",
+        "Statement I is true, but Statement II is false.",
+        "Statement I is false, but Statement II is true."
+      ],
+      "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+      "explanation": "Soaps do not form lather with hard water which contains salts of calcium and magnesium because calcium and magnesium salts of long chain fatty acids are insoluble in water."
+    }
+  ],
+  "Chemistry (Environmental Chemistry)": [
+    {
+      "subject": "Chemistry (Environmental Chemistry)",
+      "question": "Which one of the following is associated with the formation of brown air in traffic congested cities?",
+      "image": "",
+      "options": [
+        "Sulphur dioxide",
+        "Nitrogen oxide",
+        "Carbon dioxide",
+        "Carbon monoxide"
+      ],
+      "answer": "Nitrogen oxide",
+      "explanation": "Nitrogen dioxide (NO2) is a reddish brown gas. It has pungent smell and considered as air pollutant. In the presence of sunlight hydrocarbons and oxides of Nitrogen react to form ozone and PAN (peroxy Acetyl Nitrate). Smog is formed in traffic congested cities. Hytrocarbon + Nitrogen oxides —Sunlight—> O3 + PAN+aldehyde"
+    }
+  ],
+  "Chemistry (Industrial Chemistry)": [
+    {
+      "subject": "Chemistry (Industrial Chemistry)",
+      "question": "Which one of the following is used as a mordant in dyeing and tanning industry?",
+      "image": "",
+      "options": [
+        "Magnesium oxide",
+        "Magnesium carbonate",
+        "Magnesium chloride",
+        "Magnesium sulphate"
+      ],
+      "answer": "Magnesium sulphate",
+      "explanation": "Magnesium sulphate (MgSO4) is used as a mordant in dyeing and tanning industry."
+    }
+  ],
+  "Biology (Human Physiology)": [
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "In human beings, the opening of the stomach into the small intestine is called",
+      "image": "",
+      "options": [
+        "caecum",
+        "ileum",
+        "oesophagus",
+        "pylorus"
+      ],
+      "answer": "pylorus",
+      "explanation": "The stomach shows division into two parts fundic and pyloric region. The pyloric region enters small intestine through pyloric valve of pylorus."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Which one of the following is an example of vestigial organ in man?",
+      "image": "",
+      "options": [
+        "Jaw apparatus",
+        "Ear muscles",
+        "Canine teeth",
+        "Humerus"
+      ],
+      "answer": "Ear muscles",
+      "explanation": "The ear muscles are vestigial organs in man. Vestigial organs are not functional in organisms. These are not active in related animals but were functional in their ancestors. There are more than 90 vestigial organs in human beings."
+    }
+  ],
+  "Biology (Nutrition)": [
+    {
+      "subject": "Biology (Nutrition)",
+      "question": "Match the following<br>List-I (Vitamin)<br>A. Vitamin-A<br>B. Vitamin-B1<br>C. Vitamin-C<br>D. Vitamin-E<br>List-II (Chemical Compound)<br>1. Thiamine<br>2. Retinol<br>3. Ascorbic acid<br>4. Tocopherol<br>Codes:",
+      "image": "",
+      "options": [
+        "4 1 3 2",
+        "2 3 1 4",
+        "4 3 1 2",
+        "2 1 3 4"
+      ],
+      "answer": "2 1 3 4",
+      "explanation": "Vitamin-A-Retinol, Vitamin-B1-Thiamine, Vitamin-C-Ascorbic acid, Vitamin-E-Tocopherol."
+    }
+  ],
+  "Biology (Human Health)": [
+    {
+      "subject": "Biology (Human Health)",
+      "question": "Which one of the following is considered as the drug of last resort for human beings?",
+      "image": "",
+      "options": [
+        "Penicillin",
+        "Tetracycline",
+        "Chloramphenicol",
+        "Streptomycin"
+      ],
+      "answer": "Chloramphenicol",
+      "explanation": "Chloramphenicol affects bacteria which are resistant to all other medicine. Chloramphenicol is a prototypical broad spectrum bacteria killing drug."
+    }
+  ],
+  "Biology (General Biology)": [
+    {
+      "subject": "Biology (General Biology)",
+      "question": "Match the following<br>List-I (Medicinal Product)<br>A. Quinine<br>B. Morphine<br>C. Penicillin<br>D. Tetracycline<br>List-II (Source)<br>1. Poppy plant<br>2. Bacterium<br>3. Cinchona bark<br>4. Fungus<br>Codes:",
+      "image": "",
+      "options": [
+        "3 4 1 2",
+        "2 3 1 4",
+        "3 1 4 2",
+        "2 1 3 4"
+      ],
+      "answer": "3 1 4 2",
+      "explanation": "Cinchona bark creates quinine which is an anti-malarial drug. Poppy plant creates morphine it is an opium alkaloid, which is a strong analgesic and also has sedative and soothing effect. Fungus and bacterium are the sources of antibiotics penicillin and tetracycline respectively."
+    }
+  ],
+  "Biology (Botany)": [
+    {
+      "subject": "Biology (Botany)",
+      "question": "Wavelengths of which of the following colour of the visible spectrum of light are maximally absorbed by green plants?",
+      "image": "",
+      "options": [
+        "Green and Yeilow",
+        "Red and Blue",
+        "Green and Red",
+        "Blue and Yellow"
+      ],
+      "answer": "Red and Blue",
+      "explanation": "Green plants absorb red and blue colour maximally."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "Which one of the following plants is preferred for mixed cropping in order to enhance the bioavailability of nitrogen?",
+      "image": "",
+      "options": [
+        "Wheat",
+        "Gram",
+        "Maize",
+        "Barley"
+      ],
+      "answer": "Gram",
+      "explanation": "The root nodules of gram plant contain symbiotic bacteria which is responsible for fixing nitrogen. So, gram is preferred for mixed farming."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "Bryophytes are photosynthetic but do not have vascular tissue and true roots. This feature enables them to resemble with which of the following?",
+      "image": "",
+      "options": [
+        "Fungi",
+        "Algae",
+        "Pteridophytes",
+        "Angiosperms"
+      ],
+      "answer": "Algae",
+      "explanation": "Bryophytes do not have vascular bundles (xylem & phloem) and roots so they show similarity with algae."
+    }
+  ],
+  "Biology (Biochemistry)": [
+    {
+      "subject": "Biology (Biochemistry)",
+      "question": "The plant dye Henna imparts orange-red colour to skin and hairs due to its reaction with which of the following?",
+      "image": "",
+      "options": [
+        "Proteins and amino acids",
+        "Lipids",
+        "Carbohydrates",
+        "Nucleic acids"
+      ],
+      "answer": "Proteins and amino acids",
+      "explanation": "Henna (Lawsonia inermis) is a flowering plant. It is used to dye skin, hair, fingernails, leather and wood. Colouring feature of henna is due to lawsone, an organic compound that shows affinity for proteins and amino acids in animals."
+    }
+  ],
+  "Biology (Biotechnology)": [
+    {
+      "subject": "Biology (Biotechnology)",
+      "question": "The genetically engineered 'Golden Rice' is rich in which of the following?",
+      "image": "",
+      "options": [
+        "Vitamin-A and nicotinic acid",
+        "b-carotene and folic acid",
+        "b-carotene and iron",
+        "Vitamin-A and niacin"
+      ],
+      "answer": "b-carotene and iron",
+      "explanation": "Golden rice is rich in b-carotene and iron. It is a variety of Oryza sativa evolved through process of bio technology to synthesize b -carotene, a precursor of pro-vitamin -A."
+    }
+  ],
+  "Biology (Microbiology)": [
+    {
+      "subject": "Biology (Microbiology)",
+      "question": "Which one of the following is a freeliving bacterium that helps in nitrogen fixation in soil?",
+      "image": "",
+      "options": [
+        "Azotobacter",
+        "Anabaena",
+        "Azolla",
+        "Nostoc"
+      ],
+      "answer": "Azotobacter",
+      "explanation": "Azotobacter is a genus of usually motile and free living bacteria that builds thick walled cysts. They are able to fix nitrogen in soil."
+    }
+  ],
+  "Biology (Zoology)": [
+    {
+      "subject": "Biology (Zoology)",
+      "question": "Which one of the following characteristics is common among parrot, platypus and kangaroo?",
+      "image": "",
+      "options": [
+        "Oviparity",
+        "Toothless jaws",
+        "Homothermy",
+        "Functional postanal tail"
+      ],
+      "answer": "Homothermy",
+      "explanation": "The parrot, platypus and kangaroo fall in the group of warm blooded animals. They show homothermy."
     }
   ]
 }

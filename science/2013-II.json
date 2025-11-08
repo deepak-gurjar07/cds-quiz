@@ -1,7 +1,7 @@
 {
-  "Physics (Mechanics)": [
+  "Physics (Oscillations & Waves)": [
     {
-      "subject": "Physics (Mechanics)",
+      "subject": "Physics (Oscillations & Waves)",
       "question": "The time period of a simple pendulum having a spherical wooden bob is 2 s. If the bob is replaced by a metallic one twice as heavy, the time period will be",
       "image": "",
       "options": [
@@ -11,10 +11,25 @@
         "less than 1 s"
       ],
       "answer": "2s",
-      "explanation": "Time period of a simple pendulum T = 2p * sqrt(l/g) depends on its length 'l ' and acceleration due to gravity 'g' and independent of mass of the bob."
+      "explanation": "Time period of a simple pendulum T = 2π√(l/g) depends on its length 'l' and acceleration due to gravity 'g' and independent of mass of the bob."
     },
     {
-      "subject": "Physics (Mechanics)",
+      "subject": "Physics (Oscillations & Waves)",
+      "question": "Motion of an oscillating liquid column in a U-tube is",
+      "image": "",
+      "options": [
+        "periodic but not simple harmonic",
+        "non-periodic",
+        "simple harmonic and time period is independent of the density of the liquid",
+        "simple harmonic and time period depends on the density of the liquid"
+      ],
+      "answer": "simple harmonic and time period is independent of the density of the liquid",
+      "explanation": "Motion of an oscillating liquid column in a U-tube is called simple harmonic motion with time period independent of on the density of the liquid."
+    }
+  ],
+  "Physics (Properties of Matter)": [
+    {
+      "subject": "Physics (Properties of Matter)",
       "question": "A liquid is kept in a regular cylindrical vessel upto a certain height. If this vessel is replaced by another cylindrical vessel having half the area of cross-section of the bottom, the pressure on the bottom will",
       "image": "",
       "options": [
@@ -24,10 +39,10 @@
         "be reduced to one-fourth the earlier pressure"
       ],
       "answer": "remain unaffected",
-      "explanation": "Pressure exerted by the fluid column depends on height (h), density r and acceleration due to gravity (g). P = hrg i.e. independent of area of cross-section of the vessel."
+      "explanation": "Pressure exerted by the fluid column depends on height (h), density ρ and acceleration due to gravity (g). P = hρg i.e. independent of area of cross-section of the vessel."
     },
     {
-      "subject": "Physics (Mechanics)",
+      "subject": "Physics (Properties of Matter)",
       "question": "After rising a short distance the smooth column of smoke from a cigarette breaks up into an irregular and random pattern. In a similar fashion, a stream of fluid flowing past an obstacle breaks up into eddies and vortices which give the flow irregular velocity components transverse to the flow direction. Other examples include the wakes left in water by moving ships the sound produced by whistling and by wind instruments. These examples are the results of",
       "image": "",
       "options": [
@@ -40,33 +55,20 @@
       "explanation": "Turbulent flow is accompanied by random, irregular, local circular currents called vortices."
     },
     {
-      "subject": "Physics (Mechanics)",
-      "question": "Statement I: Pulling a lawn roller is easier than pushing it.<br>Statement II: Pushing increases the apparent weight and hence the force of friction.",
+      "subject": "Physics (Properties of Matter)",
+      "question": "When ice melts, its",
       "image": "",
       "options": [
-        "Both the statements are true and statement II is the correct explanation of statement I",
-        "Both the statements are true, but statement II is not the correct explanation of statement I",
-        "Statement I is true, but statement II is false",
-        "Statement I is false, but statement II is true"
+        "volume decreases",
+        "volume increases",
+        "volume and mass both decrease",
+        "volume decreases while mass increases"
       ],
-      "answer": "Both the statements are true and statement II is the correct explanation of statement I",
-      "explanation": "It is easier to move any body by pulling it than by pushing it. A body starts to move when the applied force is more than the frictional force. This frictional force is proportional to the weight of the body under which it acts. When the lawn roller is pushed by the force (F), the vertical component of the pushing force now increases the weight (w = mg) of the roller which in turn results in increase of normal reaction and hence the friction is more."
+      "answer": "volume decreases",
+      "explanation": "When ice melts its density increases i.e. its volume decreases. Mass is an invariant quantity."
     },
     {
-      "subject": "Physics (Mechanics)",
-      "question": "It is difficult to cut things with a blunt knife because",
-      "image": "",
-      "options": [
-        "the pressure exerted by knife for a given force increases with increase in bluntness",
-        "a sharp edge decreases the pressure exerted by knife for a given force",
-        "a blunt knife decreases the pressure for a given force",
-        "a blunt knife decreases the area of intersection"
-      ],
-      "answer": "a blunt knife decreases the pressure for a given force",
-      "explanation": "Pressure = force/area. Bluntness of knife increases area, hence decreases the pressure for a given force."
-    },
-    {
-      "subject": "Physics (Mechanics)",
+      "subject": "Physics (Properties of Matter)",
       "question": "When deep sea fishes are brought to the surface of the sea, their bodies burst. This is because the blood in their bodies flows at very",
       "image": "",
       "options": [
@@ -79,43 +81,43 @@
       "explanation": "When deep sea fishes are brought to the surface of the sea, their bodies burst, this is because the blood in their bodies flows at very high pressure."
     },
     {
-      "subject": "Physics (Mechanics)",
-      "question": "A bus travels at a speed of 50 km/h to go from its origin of its destination at a distance of 300 km and travels at a speed of 60 km/h to return to the origin. What is the average speed of the bus?",
+      "subject": "Physics (Properties of Matter)",
+      "question": "Which type/types of pen uses/use capillary action in addition to gravity for flow of ink?",
       "image": "",
       "options": [
-        "54.55 km/h",
-        "55 km/h",
-        "55.55 km/h",
-        "54 km/h"
+        "Fountain pen",
+        "Ballpoint pen",
+        "Gel pen",
+        "Both ballpoint and gel pens"
       ],
-      "answer": "54.55 km/h",
-      "explanation": "Average speed = total distance / total time = (300+300) / (300/50 + 300/60) = 600 / (6+5) = 600/11 = 54.55 km/h"
+      "answer": "Fountain pen",
+      "explanation": "Fountain pen uses capillary action in addition to gravity for flow of ink."
     },
     {
-      "subject": "Physics (Mechanics)",
-      "question": "Magnetic, electrostatic and gravitational forces come under the category of",
+      "subject": "Physics (Properties of Matter)",
+      "question": "By what mechanism does scent spread all over the room if the lid is opened?",
       "image": "",
       "options": [
-        "non-contact forces",
-        "contact forces",
-        "frictional forces",
-        "non-frictional forces"
+        "Pressure in the bottle",
+        "Compression from the bottle",
+        "Diffusion",
+        "Osmosis"
       ],
-      "answer": "non-contact forces",
-      "explanation": "All of these forces doesn’t need any physical contact to exist hence, non-contact forces."
+      "answer": "Diffusion",
+      "explanation": "Diffusion refers to the process by which molecules intermingle as a result of their kinetic energy of random motion."
     },
     {
-      "subject": "Physics (Mechanics)",
-      "question": "Motion of an oscillating liquid column in a U-tube is",
+      "subject": "Physics (Properties of Matter)",
+      "question": "Dirty cloths containing grease and oil stains are cleaned by adding detergents to water. Stains are removed because detergent",
       "image": "",
       "options": [
-        "periodic but not simple harmonic",
-        "non-periodic",
-        "simple harmonic and time period is independent of the density of the liquid",
-        "simple harmonic and time period depends on the density of the liquid"
+        "reduces drastically the surface tension between water and oil",
+        "increases the surface tension between water and oil",
+        "increases the viscosity of water and oil",
+        "decreases the viscosity in detergent mixed water"
       ],
-      "answer": "simple harmonic and time period is independent of the density of the liquid",
-      "explanation": "Motion of an oscillating liquid column in a U-tube is called simple harmonic motion with time period independent of on the density of the liquid."
+      "answer": "reduces drastically the surface tension between water and oil",
+      "explanation": "One end of hairpin shaped detergents attracted to water and other to molecules of oil or grease that reduces drastically the surface tension between water and oil."
     }
   ],
   "Physics (Waves & Sound)": [
@@ -146,9 +148,9 @@
       "explanation": ""
     }
   ],
-  "Physics (Electricity & Magnetism)": [
+  "Physics (Electromagnetism)": [
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Electromagnetism)",
       "question": "Which one among the following correctly defines a unit magnetic pole in SI units?<br>It is the pole which when placed in air at a distance of",
       "image": "",
       "options": [
@@ -161,7 +163,7 @@
       "explanation": ""
     },
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Electromagnetism)",
       "question": "In step-down transformer, the AC output gives the",
       "image": "",
       "options": [
@@ -171,59 +173,7 @@
         "voltage more than the input voltage"
       ],
       "answer": "current more than the input current",
-      "explanation": "In step-down transformer Np > Ns, Ep > Es, Ip < Is and buoyant force µ density of fluid. Here N, E and I used for no. of turns, emf and current respectively."
-    },
-    {
-      "subject": "Physics (Electricity & Magnetism)",
-      "question": "A rectifier is an electronic device used to convert",
-      "image": "",
-      "options": [
-        "AC voltage into DC voltage",
-        "DC voltage into AC voltage",
-        "sinusoidal pulse into square pulse",
-        "None of the above"
-      ],
-      "answer": "AC voltage into DC voltage",
-      "explanation": "A rectifier is used to convert AC voltage into DC voltage and invertor converts DC voltage into AC voltage."
-    },
-    {
-      "subject": "Physics (Electricity & Magnetism)",
-      "question": "A device, which is used in our TV set, computer, radio set for storing the electric charge, is",
-      "image": "",
-      "options": [
-        "resistor",
-        "inductor",
-        "capacitor",
-        "conductor"
-      ],
-      "answer": "capacitor",
-      "explanation": "Capacitor (condenser) is used to store energy in an electric field. Capacitance of a capacitor C, defined as the ratio of charge ± Q on each conductor to the voltage V between them. C = Q/V"
-    },
-    {
-      "subject": "Physics (Electricity & Magnetism)",
-      "question": "If two conducting spheres are separately charged and then brought in contact",
-      "image": "",
-      "options": [
-        "the total energy of the two spheres is conserved",
-        "the total charge on the two spheres is conserved",
-        "both the total energy and the total charge are conserved",
-        "the final potential is always the mean of the original potential of the two spheres"
-      ],
-      "answer": "the total charge on the two spheres is conserved",
-      "explanation": "If two conducting spheres are separately charged and brought in contact, then the total charge on the two spheres is conserved. This is the law of conservation of charge."
-    },
-    {
-      "subject": "Physics (Electricity & Magnetism)",
-      "question": "Light Emitting Diode (LED) converts",
-      "image": "",
-      "options": [
-        "light energy into electrical energy",
-        "electrical energy into light energy",
-        "thermal energy into light energy",
-        "mechanical energy into electrical energy"
-      ],
-      "answer": "electrical energy into light energy",
-      "explanation": "Light Emitting Diode (LED) is semiconductor device – a forward bias p-n junction diode which converts electrical energy into light energy."
+      "explanation": "In step-down transformer Np > Ns, Ep > Es, Ip < Is where N, E and I used for no. of turns, emf and current respectively."
     }
   ],
   "Physics (Modern Physics)": [
@@ -264,7 +214,7 @@
         "mechanical energy"
       ],
       "answer": "nuclear fusion",
-      "explanation": "The sun is the star at the centre of the solar system. It generates its energy by nuclear fusion of hydrogen nuclei into helium. H2 + H2 + H2 -> He4 + H1 + n1 +21.6Mev"
+      "explanation": "The sun is the star at the centre of the solar system. It generates its energy by nuclear fusion of hydrogen nuclei into helium. H¹₂ + H¹₂ + H¹₂ ® He²₄ + H¹₁ + n⁰₁ +21.6Mev"
     },
     {
       "subject": "Physics (Modern Physics)",
@@ -277,7 +227,7 @@
         "Hydrogen ions do not contain any proton"
       ],
       "answer": "Hydrogen ions do not contain any proton",
-      "explanation": "Hydrogen ion has one proton i.e. , H1. Atomic number = no. of proton =1 for atom like hydrogen."
+      "explanation": "Hydrogen ion has one proton i.e. , H¹₁. Atomic number = no. of proton =1 for atom like hydrogen."
     }
   ],
   "Physics (Thermodynamics)": [
@@ -293,19 +243,6 @@
       ],
       "answer": "white on top and black on inside",
       "explanation": "As white colour reflects all the components of white light and black colour absorbs all the components of white light. So, the best colours for a sun umbrella, white on top and black on inside."
-    },
-    {
-      "subject": "Physics (Thermodynamics)",
-      "question": "When ice melts, its",
-      "image": "",
-      "options": [
-        "volume decreases",
-        "volume increases",
-        "volume and mass both decrease",
-        "volume decreases while mass increases"
-      ],
-      "answer": "volume decreases",
-      "explanation": "When ice melts its density increases i.e. its volume decreases. Mass is an invariant quantity."
     },
     {
       "subject": "Physics (Thermodynamics)",
@@ -334,45 +271,114 @@
       "explanation": "The degree celsius (°C) can refer to absolute temperature."
     }
   ],
-  "Physics (Properties of Matter)": [
+  "Physics (Electronics)": [
     {
-      "subject": "Physics (Properties of Matter)",
-      "question": "Which type/types of pen uses/use capillary action in addition to gravity for flow of ink?",
+      "subject": "Physics (Electronics)",
+      "question": "A rectifier is an electronic device used to convert",
       "image": "",
       "options": [
-        "Fountain pen",
-        "Ballpoint pen",
-        "Gel pen",
-        "Both ballpoint and gel pens"
+        "AC voltage into DC voltage",
+        "DC voltage into AC voltage",
+        "sinusoidal pulse into square pulse",
+        "None of the above"
       ],
-      "answer": "Fountain pen",
-      "explanation": "Fountain pen uses capillary action in addition to gravity for flow of ink."
+      "answer": "AC voltage into DC voltage",
+      "explanation": "A rectifier is used to convert AC voltage into DC voltage and invertor converts DC voltage into AC voltage."
     },
     {
-      "subject": "Physics (Properties of Matter)",
-      "question": "By what mechanism does scent spread all over the room if the lid is opened?",
+      "subject": "Physics (Electronics)",
+      "question": "Light Emitting Diode (LED) converts",
       "image": "",
       "options": [
-        "Pressure in the bottle",
-        "Compression from the bottle",
-        "Diffusion",
-        "Osmosis"
+        "light energy into electrical energy",
+        "electrical energy into light energy",
+        "thermal energy into light energy",
+        "mechanical energy into electrical energy"
       ],
-      "answer": "Diffusion",
-      "explanation": "Diffusion refers to the process by which molecules intermingle as a result of their kinetic energy of random motion."
+      "answer": "electrical energy into light energy",
+      "explanation": "Light Emitting Diode (LED) is semiconductor device – a forward bias p-n junction diode which converts electrical energy into light energy."
+    }
+  ],
+  "Physics (Mechanics)": [
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "Statement I: Pulling a lawn roller is easier than pushing it.<br>Statement II: Pushing increases the apparent weight and hence the force of friction.",
+      "image": "",
+      "options": [
+        "Both the statements are true and statement II is the correct explanation of statement I",
+        "Both the statements are true, but statement II is not the correct explanation of statement I",
+        "Statement I is true, but statement II is false",
+        "Statement I is false, but statement II is true"
+      ],
+      "answer": "Both the statements are true and statement II is the correct explanation of statement I",
+      "explanation": "It is easier to move any body by pulling it than by pushing it. A body starts to move when the applied force is more than the frictional force. This frictional force is proportional to the weight of the body under which it acts. When the lawn roller is pushed by the force (F), the vertical component of the pushing force now increases the weight (w = mg) of the roller which in turn results in increase of normal reaction and hence the friction is more."
     },
     {
-      "subject": "Physics (Properties of Matter)",
-      "question": "Dirty cloths containing grease and oil stains are cleaned by adding detergents to water. Stains are removed because detergent",
+      "subject": "Physics (Mechanics)",
+      "question": "It is difficult to cut things with a blunt knife because",
       "image": "",
       "options": [
-        "reduces drastically the surface tension between water and oil",
-        "increases the surface tension between water and oil",
-        "increases the viscosity of water and oil",
-        "decreases the viscosity in detergent mixed water"
+        "the pressure exerted by knife for a given force increases with increase in bluntness",
+        "a sharp edge decreases the pressure exerted by knife for a given force",
+        "a blunt knife decreases the pressure for a given force",
+        "a blunt knife decreases the area of intersection"
       ],
-      "answer": "reduces drastically the surface tension between water and oil",
-      "explanation": "One end of hairpin shaped detergents attracted to water and other to molecules of oil or grease that reduces drastically the surface tension between water and oil."
+      "answer": "a blunt knife decreases the pressure for a given force",
+      "explanation": "Pressure = force/area. Bluntness of knife increases area, hence decreases the pressure for a given force."
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "A bus travels at a speed of 50 km/h to go from its origin of its destination at a distance of 300 km and travels at a speed of 60 km/h to return to the origin. What is the average speed of the bus?",
+      "image": "",
+      "options": [
+        "54.55 km/h",
+        "55 km/h",
+        "55.55 km/h",
+        "54 km/h"
+      ],
+      "answer": "54.55 km/h",
+      "explanation": "Average speed = total distance / total time = (300+300) / (300/50 + 300/60) = 600 / (6+5) = 600/11 = 54.55 km/h"
+    },
+    {
+      "subject": "Physics (Mechanics)",
+      "question": "Magnetic, electrostatic and gravitational forces come under the category of",
+      "image": "",
+      "options": [
+        "non-contact forces",
+        "contact forces",
+        "frictional forces",
+        "non-frictional forces"
+      ],
+      "answer": "non-contact forces",
+      "explanation": "All of these forces doesn’t need any physical contact to exist hence, non-contact forces."
+    }
+  ],
+  "Physics (Electricity)": [
+    {
+      "subject": "Physics (Electricity)",
+      "question": "A device, which is used in our TV set, computer, radio set for storing the electric charge, is",
+      "image": "",
+      "options": [
+        "resistor",
+        "inductor",
+        "capacitor",
+        "conductor"
+      ],
+      "answer": "capacitor",
+      "explanation": "Capacitor (condenser) is used to store energy in an electric field. Capacitance of a capacitor C, defined as the ratio of charge ± Q on each conductor to the voltage V between them. C = Q/V"
+    },
+    {
+      "subject": "Physics (Electricity)",
+      "question": "If two conducting spheres are separately charged and then brought in contact",
+      "image": "",
+      "options": [
+        "the total energy of the two spheres is conserved",
+        "the total charge on the two spheres is conserved",
+        "both the total energy and the total charge are conserved",
+        "the final potential is always the mean of the original potential of the two spheres"
+      ],
+      "answer": "the total charge on the two spheres is conserved",
+      "explanation": "If two conducting spheres are separately charged and brought in contact, then the total charge on the two spheres is conserved. This is the law of conservation of charge."
     }
   ],
   "Physics (Optics)": [
@@ -416,9 +422,345 @@
       "explanation": "When an object reflects all the colours of a white light, then it would appear white. White light is the combination of all seven colours (VIBGYOR) of light."
     }
   ],
-  "Cell Biology": [
+  "Chemistry (Inorganic Chemistry)": [
     {
-      "subject": "Cell Biology",
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Which element forms the highest number of compounds in the periodic table?",
+      "image": "",
+      "options": [
+        "Carbon",
+        "Oxygen",
+        "Silicon",
+        "Sulphur"
+      ],
+      "answer": "Carbon",
+      "explanation": "Carbon (C) forms a large number of compounds due to its two characteristics properties.<br>(i) Catenation (ability to link with other carbon atoms)<br>(ii) Tetra valency (valency of carbon is 4)"
+    },
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "A compound that is a white solid which absorbs water vapour from the air is",
+      "image": "",
+      "options": [
+        "sodium nitrate",
+        "calcium chloride",
+        "sodium carbonate",
+        "calcium sulphate"
+      ],
+      "answer": "calcium sulphate",
+      "explanation": "A compound calcium sulphate (CaSO4) which is a white solid is highly hygroscopic in nature. It has a very remarkable property of setting into a hard, solid mass on wetting with water."
+    }
+  ],
+  "Chemistry (Chemical Reactions)": [
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "NaOH + HC1 -> NaCl + H2O in the given chemical reaction",
+      "image": "",
+      "options": [
+        "sodium is oxidised and oxygen is reduced",
+        "sodium is oxidised and chlorine is reduced",
+        "sodium and hydrogen are oxidised",
+        "None of them are oxidised or reduced"
+      ],
+      "answer": "None of them are oxidised or reduced",
+      "explanation": "It is a simple displacement reaction in which Hydrogen is displaced by Sodium metal, results in the formation of sodium chloride (NaCl). Also the oxidation state of each atom is same in both sides."
+    }
+  ],
+  "Chemistry (Physical Chemistry)": [
+    {
+      "subject": "Chemistry (Physical Chemistry)",
+      "question": "A liquid initially contracts when cooled down to 4°C but on further cooling down to 0°C, it expands. The liquid is",
+      "image": "",
+      "options": [
+        "alcohol",
+        "water",
+        "molten iron",
+        "mercury"
+      ],
+      "answer": "water",
+      "explanation": "Water shows maximum density at 4°C. At freezing point it expands and density decreases."
+    }
+  ],
+  "Chemistry (States of Matter)": [
+    {
+      "subject": "Chemistry (States of Matter)",
+      "question": "What are the elements which are liquids at room temperature and standard pressure?<br>1. Helium 2. Mercury<br>3. Chlorine 4. Bromine<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "2 and 3",
+        "2, 3 and 4",
+        "2 and 4",
+        "1 and 3"
+      ],
+      "answer": "2 and 4",
+      "explanation": "Mercury (Hg), a metal is a liquid at room temperature and standard pressure.<br>Bromine (Br2) a non metal is a liquid at room temperature and standard pressure."
+    },
+    {
+      "subject": "Chemistry (States of Matter)",
+      "question": "What type of mixture is smoke?",
+      "image": "",
+      "options": [
+        "Solid mixed with a gas",
+        "Gas mixed with a gas",
+        "Liquid mixed with a gas",
+        "Gas mixed with a liquid and a solid"
+      ],
+      "answer": "Gas mixed with a liquid and a solid",
+      "explanation": "Smoke is a collection of airborne solid and liquid particulates and gases emitted when a material undergoes combustion or pyrolysis, together with entrapment of liquid droplets or solid particulates in a flowing gas."
+    }
+  ],
+  "Biology (Botany)": [
+    {
+      "subject": "Biology (Botany)",
+      "question": "The ultimate cause of water movement in a plant stem against gravity is",
+      "image": "",
+      "options": [
+        "osmosis",
+        "transpiration",
+        "photosynthesis",
+        "diffusion"
+      ],
+      "answer": "transpiration",
+      "explanation": "Transpiration is a process like evaporation part of the water cycle and it is the loss of water vapour from different parts of plants, particularly in leaves but also in stems, flowers and roots."
+    },
+    {
+      "subject": "Biology (Botany)",
+      "question": "Vaseline was applied to both surfaces of the leaves of a plant. Which of the following process/ processes would be affected?<br>1. Photosynthesis<br>2. Respiration<br>3. Transpiration<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1 and 3",
+        "Only 2",
+        "2 and 3",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "explanation": "All the above process will get stopped if vaseline is applied on both the surfaces of the leaf. Reason is that stomata will be blocked, all these processes requires the direct contact between the leaf and atmosphere."
+    }
+  ],
+  "Biology (Biochemistry)": [
+    {
+      "subject": "Biology (Biochemistry)",
+      "question": "Which one among the following statements is correct?",
+      "image": "",
+      "options": [
+        "All proteins are enzymes",
+        "All enzymes are proteins",
+        "None of the enzymes is protein",
+        "None of the proteins is enzyme"
+      ],
+      "answer": "All enzymes are proteins",
+      "explanation": "All enzymes are proteins which catalyse various reactions occuring in cells. Therefore all enzymes are proteins, but not all proteins are enzymes."
+    },
+    {
+      "subject": "Biology (Biochemistry)",
+      "question": "The pH of human blood is normally around",
+      "image": "",
+      "options": [
+        "4.5-5.5",
+        "5.5-6.5",
+        "7.5-8.0",
+        "8.5-9.0"
+      ],
+      "answer": "7.5-8.0",
+      "explanation": "In chemistry, pH measures the acidity or basicity of an aqueous solution. pH is normally measured in a range of 0-14.<br>pH value of some common material<br>Material pH value<br>1. Sea water 8.4<br>2. Human blood 7.4<br>3. Milk 6.4<br>4. Human urine 6.0<br>5. Alcohol 2.8"
+    }
+  ],
+  "Biology (Zoology)": [
+    {
+      "subject": "Biology (Zoology)",
+      "question": "The fossil of Archaeopteryx represents the evidence of origin of",
+      "image": "",
+      "options": [
+        "birds from reptiles",
+        "mammals from reptiles",
+        "reptiles from amphibians",
+        "mammals from birds"
+      ],
+      "answer": "birds from reptiles",
+      "explanation": "Archeopteryx is a genus of theropad dinosaur that is closely related to bird. It demonstrates the evidence of origin of birds from reptiles."
+    },
+    {
+      "subject": "Biology (Zoology)",
+      "question": "Which one among the following groups of animals maintains constant body temperature in changing environmental conditions?",
+      "image": "",
+      "options": [
+        "Birds",
+        "Fishes",
+        "Amphibians",
+        "Reptiles"
+      ],
+      "answer": "Birds",
+      "explanation": "Birds are warm blooded animals maintaining a constant body temperature through the process of homeostasis. Fishes, amphibians and reptiles are cold blooded animals."
+    }
+  ],
+  "Biology (Human Physiology)": [
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Which one among the following vitamins is necessary for blood clotting?",
+      "image": "",
+      "options": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin K",
+        "Vitamin C"
+      ],
+      "answer": "Vitamin K",
+      "explanation": "Vitamin K is a group of structurally similar to fat- soluble vitamins that are essential for the synthesis of certain proteins needed for blood coagulation or clotting."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "The gastrointestinal hormones namely secretin and cholecystokinin secreted by duodenal epithelium activate respectively which organs to discharge their secretions?",
+      "image": "",
+      "options": [
+        "Pancreas and gall bladder",
+        "Gall bladder and stomach",
+        "Pancreas and stomach",
+        "Stomach and small intestine"
+      ],
+      "answer": "Pancreas and gall bladder",
+      "explanation": "Secretin and cholecystokinnin activate pancreas and gall bladder to discharge their secretions."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Which one among the following statements about blood transfusion is correct? Blood group B can give blood to",
+      "image": "",
+      "options": [
+        "blood Group B and receive from Group AB",
+        "blood Groups B and AB and receive from Group B",
+        "blood Groups B and AB and receive from Group A",
+        "blood Group O and receive from Group B"
+      ],
+      "answer": "blood Groups B and AB and receive from Group B",
+      "explanation": "Blood group B can provide blood to blood Groups B and AB and gets from Group B and Group’O."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "What would happen if human blood becomes acidic (low pH)?",
+      "image": "",
+      "options": [
+        "Oxygen carrying capacity of haemoglobin is increased",
+        "Oxygen carrying capacity of haemoglobin is decreased",
+        "RBC count increases",
+        "RBC count decreases"
+      ],
+      "answer": "Oxygen carrying capacity of haemoglobin is decreased",
+      "explanation": "If human blood becomes acidic (low pH), The amount of CO2 is increased and O2 carrying capacity of haemoglobin is reduced."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Human blood is a viscous fluid. This viscosity is due to",
+      "image": "",
+      "options": [
+        "proteins in blood",
+        "platelets in plasma",
+        "sodium in serum",
+        "RBC and WBC in blood"
+      ],
+      "answer": "proteins in blood",
+      "explanation": "Blood is a viscous fluid in human being. This viscosity is due to presence of different proteins in blood."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "In humans, which one among the following with reference to breathing is correct?",
+      "image": "",
+      "options": [
+        "During inhalation, diaphragm relaxes",
+        "During exhalation, thorax cavity expands",
+        "During inhalation, intra-pleural pressure becomes more negative",
+        "Unlike inhalation, normal exhalation is an active process"
+      ],
+      "answer": "During inhalation, diaphragm relaxes",
+      "explanation": "During inhalation, the diaphragm contracts and flattens enlarging the volume of the thoracic cavity. Thus, reduction in intra-thoracic pressure takes place."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Blood does not coagulate inside the body due to the presence of",
+      "image": "",
+      "options": [
+        "haemoglobin",
+        "heparin",
+        "fibrin",
+        "plasma"
+      ],
+      "answer": "heparin",
+      "explanation": "Heparin is an anticoagulant (blood thinner) that prevents the blood clotting. It is applied to cure and prevent blood clots in the veins, arteries, or lungs."
+    }
+  ],
+  "Biology (Human Diseases)": [
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "The crew and passengers of a flying aircraft suffer generally from chronic obstructive pulmonary disease due to the effect of",
+      "image": "",
+      "options": [
+        "solar radiation",
+        "ozone concentration",
+        "nitrogen oxide",
+        "particulate pollutant"
+      ],
+      "answer": "nitrogen oxide",
+      "explanation": "Due to lower atmospheric presure, N2 gets mixed with O2 to form such oxide which is inhaled by the passengers or crew."
+    },
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "Cancer is more common in older people because",
+      "image": "",
+      "options": [
+        "their immune systems have degenerated",
+        "the supply of certain hormones declines with age",
+        "their bodies are unable to adjust to the changing environment",
+        "they have accumulated more mutations"
+      ],
+      "answer": "they have accumulated more mutations",
+      "explanation": "Cancer is more common in older people because they have accumulation of more mutations."
+    }
+  ],
+  "Biology (Human Health)": [
+    {
+      "subject": "Biology (Human Health)",
+      "question": "Consider the following statements regarding antibiotics<br>1. They are used to destroy disease-causing bacteria.<br>2. They can be applied to the skin, swallowed or injected to fight micro-organisms inside the body.<br>3. They are effective against disease-causing viruses.<br>4. The first antibiotic to be discovered was Tetracycline.<br>Which of the statement(s) given above is/are correct?",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "1, 2 and 4",
+        "2, 3 and 4",
+        "Only 1"
+      ],
+      "answer": "1 and 2",
+      "explanation": "Antibiotics are very effective medicines that treat bacterial infections. They are ineffective against viral infection as viruses have different genetic makeup as compared to bacteria."
+    }
+  ],
+  "Chemistry (Gases)": [
+    {
+      "subject": "Chemistry (Gases)",
+      "question": "Which one among the following gases readily combines with the haemoglobin of the blood?",
+      "image": "",
+      "options": [
+        "Methane",
+        "Nitrogen dioxide",
+        "Carbon monoxide",
+        "Sulphur dioxide"
+      ],
+      "answer": "Carbon monoxide",
+      "explanation": "Carbon monoxide (CO) readily gets combined with the haemoglobin of the blood causing harmful effect."
+    }
+  ],
+  "Biology (Nutrition)": [
+    {
+      "subject": "Biology (Nutrition)",
+      "question": "A person feeds on rice and vegetable made up of potato only. He is likely to suffer from deficiency of",
+      "image": "",
+      "options": [
+        "carbohydrate and vitamins",
+        "proteins",
+        "carbohydrate and proteins",
+        "proteins and fats"
+      ],
+      "answer": "proteins",
+      "explanation": "The person will suffer from deficiency of protein because potato has very little amonut of protein."
+    }
+  ],
+  "Biology (Cell Biology)": [
+    {
+      "subject": "Biology (Cell Biology)",
       "question": "Which organelle in the cell, other than nucleus, contains DNA?",
       "image": "",
       "options": [
@@ -431,9 +773,9 @@
       "explanation": "Mitochondrial DNA is the DNA located in organelles called mitochondria. In eukaryotic cells it converts chemical energy from food into a Adenosine Triphosphate (ATP) that cells can use."
     }
   ],
-  "Ecology": [
+  "Biology (Ecology & Environment)": [
     {
-      "subject": "Ecology",
+      "subject": "Biology (Ecology & Environment)",
       "question": "Which one among the following groups of items contains only biodegradable items?",
       "image": "",
       "options": [
@@ -446,9 +788,9 @@
       "explanation": "A biodegradable product gets decomposition safely and quickly, through biological process into the raw materials and disappear into the environment. Cow-dung, padddy-husk and vegetable wastes, are biodegradable products."
     }
   ],
-  "Genetics": [
+  "Biology (Genetics)": [
     {
-      "subject": "Genetics",
+      "subject": "Biology (Genetics)",
       "question": "Two strands of DNA are held together by",
       "image": "",
       "options": [

@@ -1,7 +1,7 @@
 {
-  "Physics (Properties of Matter)": [
+  "Physics (Mechanics)": [
     {
-      "subject": "Physics (Properties of Matter)",
+      "subject": "Physics (Mechanics)",
       "question": "The spring constant of a spring depends on its",
       "image": "",
       "options": [
@@ -14,9 +14,9 @@
       "explanation": "F = – kx; k = spring constant and it measures stiffness or softness of spring. Hence. K depends on length, radius and material of the spring."
     }
   ],
-  "Physics (Modern Physics)": [
+  "Physics (Electronics)": [
     {
-      "subject": "Physics (Modern Physics)",
+      "subject": "Physics (Electronics)",
       "question": "In a bipolar junction transistor",
       "image": "",
       "options": [
@@ -27,24 +27,11 @@
       ],
       "answer": "all the three regions (the emitter, , the base and the collector) have equal concentrations of impurity",
       "explanation": "A Bipolar Junction Transistor, or BJT, is a solid-state device in which the current flow between two terminals (the collector and the emitter) is controlled by the amount of current that flows through a third terminal (the base)."
-    },
-    {
-      "subject": "Physics (Modern Physics)",
-      "question": "The energy of a photon, whose momentum is 10 MeV/ c, where c is the speed of light, is given by",
-      "image": "",
-      "options": [
-        "10 MeV",
-        "100 MeV",
-        "1 MeV",
-        "0.1 MeV"
-      ],
-      "answer": "10 MeV",
-      "explanation": "As per the formula Energy of Photon is always equal to the multiple of the Momentum and Speed of light. Therefore; P=E/C Where P is Momentum, E is Energy and C is Speed of Light. 10 MeV/C=E/C ;{P (Momentum) = 10MeV/C; as given in Question}. E= 10 MeV"
     }
   ],
-  "Physics (Mechanics)": [
+  "Physics (Units & Measurements)": [
     {
-      "subject": "Physics (Mechanics)",
+      "subject": "Physics (Units & Measurements)",
       "question": "The pressure exerted by a 760 mm column of mercury at 0°C is known as",
       "image": "",
       "options": [
@@ -55,11 +42,9 @@
       ],
       "answer": "1 atmosphere",
       "explanation": "76cm Hg = 760 mmHg = 1 atm = 101325 Pa (mmHg = milimeters of mercury) (atm = atmosphere) (Pa = Pascal = N/m2, SI unit for pressure)"
-    }
-  ],
-  "Physics (Units & Dimensions)": [
+    },
     {
-      "subject": "Physics (Units & Dimensions)",
+      "subject": "Physics (Units & Measurements)",
       "question": "Which one of the following physical quantities has the same dimensions as that of Planck's constant h?",
       "image": "",
       "options": [
@@ -69,7 +54,7 @@
         "Potential energy"
       ],
       "answer": "Angular momentum",
-      "explanation": "The dimension of Plank's contant can be obtained from any of the equations in which it appears, e.g. h = E/n, l = h/p, etc. Planck's Constant h = 6.626176 × 10–34 joule-second = 6.626176 × 10–34 m2 kg/s. [h] = [M L2 T–1]. Angular momentum l = r × p. [l] = [r] [p] = [L] [M L T–1] = [M L2 T–1]. Compare Eqs. (1) and (2). See that both the Planck's constant and angular momentum have the same dimensions."
+      "explanation": "The dimension of Plank's contant can be obtained from any of the equations in which it appears, e.g. h = E/ν, λ = h/p, etc. Planck's Constant h = 6.626176 × 10–34 joule-second = 6.626176 × 10–34 m2 kg/s. [h] = [M L2 T–1]. Angular momentum l = r × p. [l] = [r] [p] = [L] [M L T–1] = [M L2 T–1]. Compare the equations. See that both the Planck's constant and angular momentum have the same dimensions."
     }
   ],
   "Physics (Optics)": [
@@ -100,9 +85,24 @@
       "explanation": ""
     }
   ],
-  "Physics (Electricity & Magnetism)": [
+  "Physics (Modern Physics)": [
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Modern Physics)",
+      "question": "The energy of a photon, whose momentum is 10 MeV/ c, where c is the speed of light, is given by",
+      "image": "",
+      "options": [
+        "10 MeV",
+        "100 MeV",
+        "1 MeV",
+        "0.1 MeV"
+      ],
+      "answer": "10 MeV",
+      "explanation": "As per the formula Energy of Photon is always equal to the multiple of the Momentum and Speed of light. Therefore; P=E/C Where P is Momentum, E is Energy and C is Speed of Light. 10 MeV/C=E/C ;{P (Momentum) = 10MeV/C; as given in Question}. E= 10 MeV"
+    }
+  ],
+  "Physics (Electromagnetism)": [
+    {
+      "subject": "Physics (Electromagnetism)",
       "question": "Liquids and gases never show",
       "image": "",
       "options": [
@@ -115,9 +115,138 @@
       "explanation": "Liquids and gases show diamagnetic, paramagnetic and electromagnetic property, but it never show ferromagnetic property."
     }
   ],
-  "Ecology": [
+  "Chemistry (Inorganic Chemistry)": [
     {
-      "subject": "Ecology",
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Which one of the following is not an allotrope of carbon?",
+      "image": "",
+      "options": [
+        "Coal",
+        "Diamond",
+        "Graphite",
+        "Graphene"
+      ],
+      "answer": "Graphene",
+      "explanation": "Eight allotropes of carbon: a) Diamond, b) Graphite, c) Lonsdaleite, d) C60 (Buckminsterfullerene or buckyball), e) C540, f) C70, g) Amorphous carbon, and h) single-walled carbon nanotube or buckytube.<br>Hence, (d) is the correct answer."
+    },
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Which one of the following elements does not form solid hydrogen carbonate?",
+      "image": "",
+      "options": [
+        "Sodium",
+        "Potassium",
+        "Caesium",
+        "Lithium"
+      ],
+      "answer": "Lithium",
+      "explanation": "Due to the small size of lithium, it will polarize the large anion oxygen, the C–OC–O bond will weaken and Li–OLi–O bond will strengthen, they will split, and they will not be in the solid state."
+    },
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (Element) List-II (Property/ Use)<br>A. Mg 1. Gives red colour to flame<br>B. Ca 2. Sulphate compound used in medicine to examine the alimentary canal of a patient<br>C. Sr 3. Traps the energy of sunlight in photosynthesis<br>D. Ba 4. Control of muscle contraction<br>Code:<br>A B C D A B C D",
+      "image": "",
+      "options": [
+        "2 4 1 3",
+        "2 1 4 3",
+        "3 4 1 2",
+        "3 1 4 2"
+      ],
+      "answer": "3 4 1 2",
+      "explanation": "Magnesium (Mg) is main elements of Chlorophyll, found in plants which trap energy of sunlight in photosynthesis.<br>Calcium (Ca) and Magnesium (Mg) work together to control muscle contraction. Osteoporosis is caused due to the deficiency in our body.<br>Strontium (Sr) is a soft, silver-yellow, alkaline-earth metal. It has three allotropic crystalline forms and in its physical and chemical properties it is similar to calcium and barium. It gives red colour to flame.<br>Barium (Ba) Sulphate compound is used in medicine to examine the elementary canal of patient."
+    }
+  ],
+  "Chemistry (Industrial Chemistry)": [
+    {
+      "subject": "Chemistry (Industrial Chemistry)",
+      "question": "In paper manufacturing, degumming of the raw material is done using",
+      "image": "",
+      "options": [
+        "sulphuric acid",
+        "bleaching powder",
+        "caustic soda",
+        "nitric acid"
+      ],
+      "answer": "bleaching powder",
+      "explanation": "Bleaching of wood pulp is the chemical processing of wood pulp to lighten its color and whiten the pulp. The primary product of wood pulp is paper, for which whiteness (similar to, but distinct from brightness) is an important characteristic.[1] These processes and chemistry are also applicable to the bleaching of non-wood pulps, such as those made from bamboo or kenaf."
+    },
+    {
+      "subject": "Chemistry (Industrial Chemistry)",
+      "question": "Dolomite powder is applied in some agricultural lands. The purpose of applying it is to",
+      "image": "",
+      "options": [
+        "increase the pH of the soil",
+        "lower the pH of the soil",
+        "increase the phosphorus content of the soil",
+        "increase the nitrogen content of the soil"
+      ],
+      "answer": "increase the pH of the soil",
+      "explanation": "Dolomite is used in agriculture to raise the pH of overly acidic soil and provide nutrients for plants. It contains calcium carbonate and magnesium carbonate, two basic pH-raising ingredients that counteract the acids in soil and peat."
+    }
+  ],
+  "Chemistry (Environmental Chemistry)": [
+    {
+      "subject": "Chemistry (Environmental Chemistry)",
+      "question": "Excessive use of which of the following fertilizers may be responsible for the presence of a toxic substance in groundwater?",
+      "image": "",
+      "options": [
+        "Nitrogen",
+        "Phosphate only",
+        "Potassium only",
+        "Phosphate and potassium"
+      ],
+      "answer": "Nitrogen",
+      "explanation": "Nitrate can also enter the groundwater via excessive use of fertilizers, including manure spreading. The excessive use of nitrogen-containing fertilizers (be they synthetic or natural) is particularly damaging, as much of the nitrogen that is not taken up by plants is transformed into nitrate which is easily leached.<br>The nutrients, especially nitrates, in fertilizers can cause problems for natural habitats and for human health if they are washed off soil into watercourses or leached through soil into groundwater. The heavy use of nitrogenous fertilizers in cropping systems is the largest contributor to anthropogenic nitrogen in groundwater worldwide."
+    }
+  ],
+  "Chemistry (Nuclear Chemistry)": [
+    {
+      "subject": "Chemistry (Nuclear Chemistry)",
+      "question": "In the gamma decay of a nucleus",
+      "image": "",
+      "options": [
+        "the mass number of the nucleus changes whereas its atomic number does not change",
+        "the mass number of the nucleus does not change whereas its atomic number changes",
+        "both the mass number and the atomic number of the nucleus change",
+        "neither the mass number nor the atomic number of the nucleus changes"
+      ],
+      "answer": "neither the mass number nor the atomic number of the nucleus changes",
+      "explanation": "Gamma decay, type of radioactivity in which some unstable atomic nuclei dissipate excess energy by a spontaneous electromagnetic process.<br>In the radioactive substances, gamma decay occurs after the alpha and the beta decay. As the radioactive substance has already released some of its particles in the alpha and the beta decay it simply wants to release energy burst of electromagnetic radiations. The nuclei has comes to the stable state and releases energy in the form of gamma rays. In the gamma decay as no particles either protons or nucleons are released so the element before the radioactive gamma decay and after the gamma decay remains same."
+    }
+  ],
+  "Chemistry (Chemical Reactions)": [
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "Which one of the following statements is correct?",
+      "image": "",
+      "options": [
+        "The oxidation number for hydrogen is always zero.",
+        "The oxidation number for hydrogen is always +1.",
+        "The oxidation number for hydrogen is always -1.",
+        "Hydrogen can have more than one oxidation number."
+      ],
+      "answer": "Hydrogen can have more than one oxidation number.",
+      "explanation": "The oxidation state of hydrogen is +1 in its compounds, except for metal hydrides, such as NaH, LiH, etc., in which the oxidation state for H is –1."
+    }
+  ],
+  "Chemistry (Electrochemistry)": [
+    {
+      "subject": "Chemistry (Electrochemistry)",
+      "question": "In case of a standard hydrogen electrode",
+      "image": "",
+      "options": [
+        "absolute electrode potential is not zero",
+        "absolute electrode potential is zero",
+        "both absolute and standard electrode potential values are zero",
+        "electrode potential is zero only at 25°C"
+      ],
+      "answer": "electrode potential is zero only at 25°C",
+      "explanation": "A Standard Hydrogen Electrode (SHE) is an electrode that scientists use for reference on all half-cell potential reactions. The value of the standard electrode potential is zero at 25°C, which forms the basis one needs to calculate cell potentials using different electrodes or different concentrations."
+    }
+  ],
+  "Biology (Zoology)": [
+    {
+      "subject": "Biology (Zoology)",
       "question": "Which one of the following is most sensitive to environmental change?",
       "image": "",
       "options": [
@@ -130,9 +259,9 @@
       "explanation": "Environmental changes affecting all regions the world and influence all organisms. Amphibians are one of the most sensitive groups to change, whether that is caused by habitat loss, invasive species, disease, trade or climate change. Nearly 33% of the amphibian species of the world are categorized as threatened on the Red List. Furthermore, given their complex life cycles and other traits, amphibians are often recognized as indicators of ecosystem health."
     }
   ],
-  "Health and Disease": [
+  "Biology (Diseases)": [
     {
-      "subject": "Health and Disease",
+      "subject": "Biology (Diseases)",
       "question": "The HIV virus weakens the immunity of a person because it destroys",
       "image": "",
       "options": [
@@ -145,7 +274,7 @@
       "explanation": "The human immunodeficiency virus (HIV) seeks and destroys CD4+ cells, a type of T lymphocyte (T cell). T cells are critical to the immune system. They're responsible for warding off diseases and most infections, including viral infections."
     },
     {
-      "subject": "Health and Disease",
+      "subject": "Biology (Diseases)",
       "question": "Deficiency of fluoride leads to which one of the following health problems?",
       "image": "",
       "options": [
@@ -158,9 +287,9 @@
       "explanation": "Fluorine deficiency is a disorder which may cause increased dental caries (or tooth decay, is the breakdown of dental tissues by the acidic products released by the \"bacterial fermentation of dietary carbohydrates.\") and possibly osteoporosis (a bone disorder which leads to a decrease in bone mass, and an increase in bone fragility), due to a lack of fluoride in the diet."
     }
   ],
-  "Environmental Science": [
+  "Biology (Human Physiology)": [
     {
-      "subject": "Environmental Science",
+      "subject": "Biology (Human Physiology)",
       "question": "Which one of the following air pollutants combines with the haemoglobin of human blood and reduces its oxygen-carrying capacity, leading to suffocation and may cause even death?",
       "image": "",
       "options": [
@@ -171,41 +300,9 @@
       ],
       "answer": "Carbon monoxide",
       "explanation": "Carbon monoxide (CO) has strong affinity to combine/ bind with haemoglobin in blood to form carboxyhaemoglobin, which reduces oxygen carrying capacity of blood to cause headache, nausea, asphyxiation and fainting (low supply of O2 to body though one may inhale normally). Against normal level of 0.5% CO in blood, severe pollution may lead to 8 to 9% CO."
-    }
-  ],
-  "Botany": [
+    },
     {
-      "subject": "Botany",
-      "question": "An irregular mode of reproduction resulting in the development of an embryo without fertilization is called<br>1. Parthenogenesis<br>2. Apogamy<br>3. Sporophytic budding<br>Select the correct answer using the code given below.",
-      "image": "",
-      "options": [
-        "1 only",
-        "2 only",
-        "2 and 3 only",
-        "1, 2 and 3"
-      ],
-      "answer": "1, 2 and 3",
-      "explanation": "Parthenogenesis, a reproductive strategy that involves development of a female (rarely a male) gamete (sex cell) without fertilization. It occurs commonly among lower plants and invertebrate animals (particularly rotifers, aphids, ants, wasps, and bees) and rarely among higher vertebrates.<br>Apogamy is a type of reproduction, occurring in some ferns, in which the sporophyte develops from the gametophyte without fusion of gametes<br>Adventive embryony, also called sporophytic apomixis, sporophytic budding, or nucellar embryony: Here there may be a megagametophyte in the ovule, but the embryos do not arise from the cells of the gametophyte; they arise from cells of nucellus or the integument."
-    }
-  ],
-  "Physics (Waves)": [
-    {
-      "subject": "Physics (Waves)",
-      "question": "Which one of the following statements is not correct?",
-      "image": "",
-      "options": [
-        "The response of the ear to sound of increasing intensity is approximately logarithmic.",
-        "The sensitivity of the human ear does not vary with the frequency of the sound.",
-        "When two or more waves traverse the same medium, the displacement of any element of the medium is the algebraic sum of the displacements due to each wave.",
-        "Longitudinal waves can travel in all media-solids, liquids and gases."
-      ],
-      "answer": "The sensitivity of the human ear does not vary with the frequency of the sound.",
-      "explanation": "The human ear can respond to minute pressure variations in the air if they are in the audible frequency range, roughly 20 Hz - 20 kHz."
-    }
-  ],
-  "Human Physiology": [
-    {
-      "subject": "Human Physiology",
+      "subject": "Biology (Human Physiology)",
       "question": "Which one of the following hormones is essential for the uptake of glucose by cells in the human body?",
       "image": "",
       "options": [
@@ -218,7 +315,7 @@
       "explanation": "Insulin is a hormone made by the pancreas that allows your body to use sugar (glucose) from carbohydrates in the food that you eat for energy or to store glucose for future use. Insulin helps keeps your blood sugar level from getting too high (hyperglycemia) or too low (hypoglycemia)."
     },
     {
-      "subject": "Human Physiology",
+      "subject": "Biology (Human Physiology)",
       "question": "'Altitude sickness' is caused at high altitude due to",
       "image": "",
       "options": [
@@ -231,9 +328,39 @@
       "explanation": "Altitude sickness is a disorder caused at high altitude due to low partial pressure of oxygen. Symptoms of altitude sickness include weakness, sleepiness, and lack of appetite."
     }
   ],
-  "Cell Biology": [
+  "Biology (Botany)": [
     {
-      "subject": "Cell Biology",
+      "subject": "Biology (Botany)",
+      "question": "An irregular mode of reproduction resulting in the development of an embryo without fertilization is called<br>1. Parthenogenesis<br>2. Apogamy<br>3. Sporophytic budding<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "Parthenogenesis, a reproductive strategy that involves development of a female (rarely a male) gamete (sex cell) without fertilization. It occurs commonly among lower plants and invertebrate animals (particularly rotifers, aphids, ants, wasps, and bees) and rarely among higher vertebrates.<br>Apogamy is a type of reproduction, occurring in some ferns, in which the sporophyte develops from the gametophyte without fusion of gametes<br>Adventive embryony, also called sporophytic apomixis, sporophytic budding, or nucellar embryony: Here there may be a megagametophyte in the ovule, but the embryos do not arise from the cells of the gametophyte; they arise from cells of nucellus or the integument."
+    }
+  ],
+  "Physics (Waves & Sound)": [
+    {
+      "subject": "Physics (Waves & Sound)",
+      "question": "Which one of the following statements is not correct?",
+      "image": "",
+      "options": [
+        "The response of the ear to sound of increasing intensity is approximately logarithmic.",
+        "The sensitivity of the human ear does not vary with the frequency of the sound.",
+        "When two or more waves traverse the same medium, the displacement of any element of the medium is the algebraic sum of the displacements due to each wave.",
+        "Longitudinal waves can travel in all media-solids, liquids and gases."
+      ],
+      "answer": "The sensitivity of the human ear does not vary with the frequency of the sound.",
+      "explanation": "The human ear can respond to minute pressure variations in the air if they are in the audible frequency range, roughly 20 Hz - 20 kHz."
+    }
+  ],
+  "Biology (Cell Biology)": [
+    {
+      "subject": "Biology (Cell Biology)",
       "question": "Which of the following cells do not contain nucleus?<br>1. Root hair cells<br>2. Red blood cells<br>3. Platelets<br>4. Monocytes<br>Select the correct answer using the code given below.",
       "image": "",
       "options": [
@@ -246,9 +373,9 @@
       "explanation": "Prokaryotes (meaning 'before nucleus') are cells without a definite nucleus. The DNA floats in the cytoplasm and they divide through mitosis. RBC and platelets present in eukaryotes also do not have nucleus."
     }
   ],
-  "Biochemistry": [
+  "Biology (Biochemistry)": [
     {
-      "subject": "Biochemistry",
+      "subject": "Biology (Biochemistry)",
       "question": "Biological catalysts are protein molecules which<br>1. speed up a chemical reaction<br>2. remain unchanged after reaction<br>3. function optimally at 37°C<br>4. do not have an enzymatic activity<br>Select the correct answer using the code given below.",
       "image": "",
       "options": [
@@ -261,7 +388,7 @@
       "explanation": "Enzymes are soluble protein molecules that can speed up chemical reactions in cells. These reactions include respiration, photosynthesis and making new proteins. For this reason enzymes are sometimes called biological catalysts. These enzymes functions optimally at 37° C and it remains unchanged after reaction."
     },
     {
-      "subject": "Biochemistry",
+      "subject": "Biology (Biochemistry)",
       "question": "The elemental composition of an adult human body by mass is",
       "image": "",
       "options": [

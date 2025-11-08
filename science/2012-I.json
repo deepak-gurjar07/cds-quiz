@@ -1,0 +1,146 @@
+{
+  "Chemistry (Nuclear Chemistry)": [
+    {
+      "subject": "Chemistry (Nuclear Chemistry)",
+      "question": "Age of fossil may be found out by determining the ratio of two isotopes of carbon. The isotopes are",
+      "image": "",
+      "options": [
+        "C-12 and C-13",
+        "C-13 and C-14",
+        "C-12 and C-14",
+        "C-12 and carbon black"
+      ],
+      "answer": "C-12 and C-14",
+      "explanation": "The method of determining the age of an object containing organic material by using the properties of radioactive isotope of carbon is known as Radiocarbon dating or carbon dating. Radioactive isotopes have unstable nuclei that break down i.e., decay and form other elements. C-12 and C-14 are the two isotopes of carbon which is used to determine the age of fossil."
+    },
+    {
+      "subject": "Chemistry (Nuclear Chemistry)",
+      "question": "Which one of the following reactions is the main cause of the energy radiation from the Sun?",
+      "image": "",
+      "options": [
+        "Fusion reaction",
+        "Fission reaction",
+        "Chemical reaction",
+        "Diffusion reaction"
+      ],
+      "answer": "Fusion reaction",
+      "explanation": ""
+    }
+  ],
+  "Chemistry (Organic Chemistry)": [
+    {
+      "subject": "Chemistry (Organic Chemistry)",
+      "question": "Which one among the following nontoxic gases helps in formation of enzymes which ripen fruit?",
+      "image": "",
+      "options": [
+        "Acetylene",
+        "Ethane",
+        "Methane",
+        "Carbon dioxide"
+      ],
+      "answer": "Acetylene",
+      "explanation": "Acetylene is the nontoxic gases that help in formation of enzymes which riper fruit. Ripening is a process in fruits causes them to become more palatable."
+    }
+  ],
+  "Chemistry (Applied Chemistry)": [
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "Vermicompost is an/a",
+      "image": "",
+      "options": [
+        "inorganic fertilizer",
+        "toxic substance",
+        "organic bio fertilizer",
+        "synthetic fertilizer"
+      ],
+      "answer": "organic bio fertilizer",
+      "explanation": "Vermicompost is the product or process of composting utilising various species of worms, usually red wigglers, white worms and earthworms to create a heterogeneous mixture of decomposing vegetables or food waste, bedding material and vernicast. Containing water soluble nutrients, vermicompost is an excellent, nutrient rich organic fertilizer and soil conditioner."
+    }
+  ],
+  "Chemistry (Industrial Chemistry)": [
+    {
+      "subject": "Chemistry (Industrial Chemistry)",
+      "question": "The macro nutrients provided by inorganic fertilizer are",
+      "image": "",
+      "options": [
+        "carbon, iron and boron",
+        "magnesium, manganese and sulphur",
+        "magnesium, zinc and iron",
+        "nitrogen, phosphorus and potassium"
+      ],
+      "answer": "magnesium, manganese and sulphur",
+      "explanation": "The macro nutrients provided by inorganic fertilizers are magnesium, manganese and sulphur."
+    }
+  ],
+  "Chemistry (General Concepts)": [
+    {
+      "subject": "Chemistry (General Concepts)",
+      "question": "Which one among the following statements about an atom is not correct?",
+      "image": "",
+      "options": [
+        "Atoms always combine to form molecules",
+        "Atoms are the basic units from which molecules and ions are formed",
+        "Atoms are always neutral in nature",
+        "Atoms aggregate in large numbers to form the matter that we can see, feel and touch"
+      ],
+      "answer": "Atoms aggregate in large numbers to form the matter that we can see, feel and touch",
+      "explanation": "Except (d) all statements are correct."
+    },
+    {
+      "subject": "Chemistry (General Concepts)",
+      "question": "The elements of a group in the periodic tabic",
+      "image": "",
+      "options": [
+        "have similar chemical properties",
+        "have consecutive atomic numbers",
+        "are isobars",
+        "are isotopes"
+      ],
+      "answer": "have similar chemical properties",
+      "explanation": "The periodic table is a tabular arrangement of the elements organised on a basis of their properties."
+    }
+  ],
+  "Chemistry (Acids, Bases & Salts)": [
+    {
+      "subject": "Chemistry (Acids, Bases & Salts)",
+      "question": "Which one among the following statements is correct?",
+      "image": "",
+      "options": [
+        "All bases are alkalis",
+        "None of the bases is alkali",
+        "There are no more bases except the alkalis",
+        "All alkalis are bases but all bases are not alkalis"
+      ],
+      "answer": "All alkalis are bases but all bases are not alkalis",
+      "explanation": "All Alkalis are bases but all bases are not alkalis because all bases are not soluble in water but alkalis like soap are water soluble bases."
+    },
+    {
+      "subject": "Chemistry (Acids, Bases & Salts)",
+      "question": "The pH of fresh ground water slightly decreases upon exposure to air because",
+      "image": "",
+      "options": [
+        "carbon dioxide from air is dissolved in the water",
+        "oxygen from air is dissolved in the water",
+        "the dissolved carbon dioxide of the ground water escapes into air",
+        "the dissolved oxygen of the ground water escapes into air"
+      ],
+      "answer": "carbon dioxide from air is dissolved in the water",
+      "explanation": "The pH of fresh ground water slightly decreases upon exposure to air because when it comes to air, it absorbs the carbon dioxide (CO2), and for carbonic acid (H2CO3) which is a weak acid i.e. less pH."
+    }
+  ],
+  "Chemistry (Polymers)": [
+    {
+      "subject": "Chemistry (Polymers)",
+      "question": "Which one among the following polymers is used for making bulletproof material?",
+      "image": "",
+      "options": [
+        "Polyvinyl chloride",
+        "Polystyrene",
+        "Polyethylene",
+        "Polyamide"
+      ],
+      "answer": "Polyethylene",
+      "explanation": "In making of bullet proof material. Polyethylene polymers is used because it is cheap, flexible, durable and chemically resistant."
+    }
+  ]
+}

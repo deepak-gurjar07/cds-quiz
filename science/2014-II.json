@@ -27,9 +27,9 @@
       "explanation": "Short wavelength is slowed down and refracted the most"
     }
   ],
-  "Physics (Electricity & Magnetism)": [
+  "Physics (Electricity)": [
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Electricity)",
       "question": "Tungsten is used for the construction of filament in electric bulb because of its",
       "image": "",
       "options": [
@@ -42,7 +42,7 @@
       "explanation": "Tungsten has the highest melting point and lowest vapour pressure of all metals."
     },
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Electricity)",
       "question": "Inactive Nitrogen and Argon gases are usually used in electric bulbs in order to",
       "image": "",
       "options": [
@@ -101,7 +101,7 @@
   "Physics (Mechanics)": [
     {
       "subject": "Physics (Mechanics)",
-      "question": "The distance-time graph for an object is shown above.<br>Which one of the following statements holds true for this object ?",
+      "question": "The distance-time graph for an object is shown above. Which one of the following statements holds true for this object ?",
       "image": "",
       "options": [
         "The object is moving with uniform speed",
@@ -111,9 +111,11 @@
       ],
       "answer": "The object is at rest",
       "explanation": ""
-    },
+    }
+  ],
+  "Physics (Oscillations & Waves)": [
     {
-      "subject": "Physics (Mechanics)",
+      "subject": "Physics (Oscillations & Waves)",
       "question": "For a harmonic oscillator, the graph between momentum p and displacement q would come out as",
       "image": "",
       "options": [
@@ -126,39 +128,201 @@
       "explanation": ""
     }
   ],
-  "Health and Disease": [
+  "Chemistry (Chemical Reactions)": [
     {
-      "subject": "Health and Disease",
-      "question": "Which one among the following is the generic name of the causal organism of Elephantiasis ?",
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "Which one of the following gases is supporter of combustion?",
       "image": "",
       "options": [
-        "Filaria",
-        "Microfilaria",
-        "Wuchereria bancrofti",
-        "Culex pipiens"
+        "Hydrogen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Oxygen"
       ],
-      "answer": "Wuchereria bancrofti",
-      "explanation": "Elephantiasis is a symptom of a variety of diseases, where parts of a person's body swell to massive proportions. It is caused by a number of parasitic worms, particularly Wuchereria bancrofti."
-    }
-  ],
-  "Nutrition": [
+      "answer": "Oxygen",
+      "explanation": "Oxygen is supporter of combustion. Though it is not combustible. Combustion is an oxidation process and this cannot occur without the presence of oxygen."
+    },
     {
-      "subject": "Nutrition",
-      "question": "Which one among the following statements is not correct?",
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "Iron sheet kept in moist air covered with rust. Rust is",
       "image": "",
       "options": [
-        "Pulses are rich in proteins",
-        "Milk is a rich source of Vitamin A",
-        "Cereals are very poor source of carbohydrates",
-        "Vegetables are rich source of minerals"
+        "an element",
+        "a compound",
+        "a mixture of iron and dust",
+        "a mixture of iron, oxygen and water"
       ],
-      "answer": "Cereals are very poor source of carbohydrates",
-      "explanation": "Cereals are good source of carbohydrate."
+      "answer": "a compound",
+      "explanation": "Rust is an iron oxide formed by the redox reaction of iron and oxygen in the presence of water or air moisture<br>4Fe+2O2 + xH2O —> 2Fe2O3.xH2O<br>Fromair Hydrated iron oxide (rust)<br>Hence rust is a compound."
+    },
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "When carbon dioxide is passed through lime water, the solution turns milky, but, on prolonged passage, the solution turns clear. This is because",
+      "image": "",
+      "options": [
+        "the calcium carbonate formed initially is converted to soluble calcium bicarbonate on passage of more carbon dioxide",
+        "the reaction is reversible and lime water is regenerated",
+        "the calcium bicarbonate formed initially is converted to soluble calcium carbonate on passage of more carbon dioxide",
+        "the initially formed insoluble compound is soluble in carbonic acid ."
+      ],
+      "answer": "the calcium carbonate formed initially is converted to soluble calcium bicarbonate on passage of more carbon dioxide",
+      "explanation": "Lime water is actually Ca(OH)2. When it reacts with CO2, insoluble CaCO3 is formed which turns solution milky. When excess CO2 is added, CaCO3 reacts with water and CO2 to form Calcium bicarbonate which is soluble. That is why the solution clears out."
+    },
+    {
+      "subject": "Chemistry (Chemical Reactions)",
+      "question": "Which one among the following is an example of chemical change ?",
+      "image": "",
+      "options": [
+        "The melting of an ice cube",
+        "The boiling of gasoline",
+        "The frying of an egg",
+        "Attraction of an iron nail to a magnet"
+      ],
+      "answer": "The frying of an egg",
+      "explanation": "Frying an egg involves a chemical change. The heat in the frying process gives energy to the egg's molecules and brings about a permanent change in the substance."
     }
   ],
-  "Human Physiology": [
+  "Physics (Thermal Properties of Matter)": [
     {
-      "subject": "Human Physiology",
+      "subject": "Physics (Thermal Properties of Matter)",
+      "question": "A metal screw top on a glass bottle which appears to be stuck could be opened by using the fact that",
+      "image": "",
+      "options": [
+        "the metal expands more than the glass when both are heated",
+        "the metal and glass expand identically when heated",
+        "the metal shrinks when heated",
+        "Both metal and glass shrink when cooled"
+      ],
+      "answer": "the metal expands more than the glass when both are heated",
+      "explanation": "Both metal and glass expand when heated. Here glass is a non-metal. Metal expands more than non-metal due to temperature change."
+    }
+  ],
+  "Chemistry (Inorganic Chemistry)": [
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Which of the following are the two main constituents of granite?",
+      "image": "",
+      "options": [
+        "Iron and silica",
+        "Iron and silver",
+        "Silica and aluminium",
+        "Iron oxide and potassium"
+      ],
+      "answer": "Silica and aluminium",
+      "explanation": "Silica and aluminium are the two main constituents of granite. Granite contains 70-77% of silica and 11-13% of aluminium in the form of (Al2O3)."
+    },
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Which of the following is a good lubricant ?",
+      "image": "",
+      "options": [
+        "Diamond powder",
+        "Graphite powder",
+        "Molten carbon",
+        "Alloy of carbon and iron"
+      ],
+      "answer": "Graphite powder",
+      "explanation": "Graphite and graphite powder are a naturally occurring form of carbon which serves as an industrial lubricant."
+    },
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "The form of carbon known as graphite",
+      "image": "",
+      "options": [
+        "is harder than diamond",
+        "contains a higher percentage of carbon than diamond",
+        "is a better electrical conductor than diamond",
+        "has equal carbon-to-carbon distances in all directions"
+      ],
+      "answer": "is a better electrical conductor than diamond",
+      "explanation": "Graphite is a very good conductor, while diamond has a very low electrical conductivity."
+    },
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Chromium oxide in paints makes the colour of paint",
+      "image": "",
+      "options": [
+        "Green",
+        "White",
+        "Red",
+        "Blue"
+      ],
+      "answer": "Green",
+      "explanation": "Chromium oxide in paints makes the colour of paint green."
+    }
+  ],
+  "Chemistry (Environmental Chemistry)": [
+    {
+      "subject": "Chemistry (Environmental Chemistry)",
+      "question": "Consider the following statements.<br>Statement I : Clay layers are poor aquifers.<br>Statement II : The inter-particle space of clay minerals is the least.<br>Select the correct answer using the codes given below :",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+        "Statement I is true but Statement II is false",
+        "Statement I is false but Statement II is true"
+      ],
+      "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+      "explanation": "An aquifer is an underground layer of water bearing rock. Water bearing rocks are permeable i.e., they have opening that liquids and gases can pass through. But clay layers are poor aquifers. Clay minerals are dense, impermeable material and act as an 'aquifuge' i.e., a layer of material that is almost impenetrable to water."
+    },
+    {
+      "subject": "Chemistry (Environmental Chemistry)",
+      "question": "Nitric oxide pollution can lead to all of the following, except",
+      "image": "",
+      "options": [
+        "leaf spotting in plants",
+        "bronchitis related respiratory problems in human",
+        "production of corrosive gases through photochemical reaction",
+        "silicosis in human"
+      ],
+      "answer": "silicosis in human",
+      "explanation": "Silicosis in human is lung disease caused by inhalation of crystalline sillica-dust."
+    }
+  ],
+  "Chemistry (Organic Chemistry)": [
+    {
+      "subject": "Chemistry (Organic Chemistry)",
+      "question": "Addition of ethylene dibromide to petrol",
+      "image": "",
+      "options": [
+        "increases the octane number of fuel",
+        "helps elimination of lead oxide",
+        "removes the sulphur compound in petrol",
+        "serves as a substitute of tetraethyl lead"
+      ],
+      "answer": "helps elimination of lead oxide",
+      "explanation": "It helps in elimination of lead oxide."
+    },
+    {
+      "subject": "Chemistry (Organic Chemistry)",
+      "question": "The main constituent of Gobar gas is",
+      "image": "",
+      "options": [
+        "Ethane",
+        "Methane",
+        "Propane",
+        "Acetylene"
+      ],
+      "answer": "Methane",
+      "explanation": "Biogas is primarily methane (CH4) and carbon dioxide (CO2) and may have small amounts of hydrogen sulphide (H2S), moisture and siloxanes."
+    }
+  ],
+  "Biology (Human Physiology)": [
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Which of the following statements is/are correct?<br>1. Amnion contains fluid.<br>2. Ultrasound scan can detect the sex of an embryo.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Amnion is a membrane, filled with fluid, closely covers the embryo.<br>The sex of the embryo may be determined by ultrasound as early as 11 weeks gestation."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
       "question": "Which of the statements given below are correct?<br>1. A person having blood group 'A' can donate blood to persons having blood group 'A' and blood group 'AB'.<br>2. A person having blood group 'AB' can donate blood to persons having blood groups 'A', 'B', 'AB' or 'O'.<br>3. A person with blood group 'O' can donate blood to persons having any blood group.<br>4. A person with blood group 'O' can receive blood from the person of any of the blood groups.<br>Select the correct answer using the code given below :",
       "image": "",
       "options": [
@@ -171,7 +335,7 @@
       "explanation": "A person with AB blood group can receive blood from any group but cannot donate blood to any group other than AB. O individual can receive blood only from a group of O individual but can donate blood to all groups."
     },
     {
-      "subject": "Human Physiology",
+      "subject": "Biology (Human Physiology)",
       "question": "Which one among the following is the correct pathway for the elimination of urine ?",
       "image": "",
       "options": [
@@ -184,7 +348,7 @@
       "explanation": "The kidneys filter metabolic wastes, excess ions, and chemicals from the blood to form urine. The ureters are a pair of tubes that carry urine from the kidneys to the urinary bladder. The urethra is the tube through which urine passes from the bladder to the exterior of the body."
     },
     {
-      "subject": "Human Physiology",
+      "subject": "Biology (Human Physiology)",
       "question": "Which of the following statements is/are correct ?<br>1. Coronary artery supplies blood to heart muscles.<br>2. Pulmonary vein supplies blood to lungs.<br>3. Hepatic artery supplies blood to kidneys.<br>4. Renal vein supplies blood to kidneys.<br>Select the correct answer using the code given below:",
       "image": "",
       "options": [
@@ -197,9 +361,125 @@
       "explanation": "The coronary arteries deliver blood to the heart muscle, providing a continuous supply of oxygen and nutrients needed for it to stay healthy and function normally. The pulmonary veins receive oxygenated blood from the lungs and drain into the left atrium of the heart.The Hepatic artery supplies oxygen-rich blood to the liver, pylorus, pancreas, and duodenum. The renal arteries carry a large portion of total blood flow to the kidneys."
     }
   ],
-  "Cell Biology": [
+  "Chemistry (Acids, Bases & Salts)": [
     {
-      "subject": "Cell Biology",
+      "subject": "Chemistry (Acids, Bases & Salts)",
+      "question": "Which of the following solutions will not change the colour of blue litmus paper to red?<br>1. Acid solution 2. Base solution<br>3. Common salt solution<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1 and 3",
+        "2 and 3",
+        "Only 1",
+        "Only 2"
+      ],
+      "answer": "2 and 3",
+      "explanation": "The blue litmus paper turns red in acidic solution and blue in basic solution. The neutral solution does not affect the litmus paper. Now since common salt solution is neutral hence do not show any colour change on litmus paper."
+    },
+    {
+      "subject": "Chemistry (Acids, Bases & Salts)",
+      "question": "Which of the following is not correct about Baking Soda?",
+      "image": "",
+      "options": [
+        "It is used in soda acid fire extinguisher",
+        "It is added for faster cooking.",
+        "It is a corrosive base",
+        "It neutralizes excess acid in the stomach"
+      ],
+      "answer": "It is a corrosive base",
+      "explanation": "Rest of the statements are true."
+    },
+    {
+      "subject": "Chemistry (Acids, Bases & Salts)",
+      "question": "Statement I : During indigestion, milk of magnesia is taken to get rid of pain in the stomach.<br>Statement II : Milk of magnesia is a base and it neutralizes the excess acid in the stomach.",
+      "image": "",
+      "options": [
+        "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+        "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+        "Statement I is true but Statement II is false",
+        "Statement I is false but Statement II is true"
+      ],
+      "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+      "explanation": "Milk of magnesia (magnesium hydroxide) is most commonly found as a liquid. The magnesium in the liquid can both neutralize excess stomach acid to treat indigestion."
+    }
+  ],
+  "Chemistry (Applied Chemistry)": [
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "Date of manufacture of food items fried in oil should be checked before buying because oils become rancid due to",
+      "image": "",
+      "options": [
+        "oxidation",
+        "reduction",
+        "hydrogenation",
+        "decrease in viscosity"
+      ],
+      "answer": "oxidation",
+      "explanation": "Oil become rancid due to oxidation. Oil contains fatty acid which react in presence of oxygen and become rancid. Rancid oil is a major source of destructive free radicals in our diet."
+    }
+  ],
+  "Chemistry (Industrial Chemistry)": [
+    {
+      "subject": "Chemistry (Industrial Chemistry)",
+      "question": "Bagasse, a by-product of sugar manufacturing industry, is used for the production of",
+      "image": "",
+      "options": [
+        "glass",
+        "paper",
+        "rubber",
+        "cement"
+      ],
+      "answer": "paper",
+      "explanation": "Bagasse is sugarcane fibre waste left after juice extraction.It is used for the production of paper."
+    }
+  ],
+  "Chemistry (Nuclear Chemistry)": [
+    {
+      "subject": "Chemistry (Nuclear Chemistry)",
+      "question": "In Tritium (T), the number of protons (P) and neutrons (N) respectively are",
+      "image": "",
+      "options": [
+        "1 P and 1 N",
+        "l P and 2 N",
+        "l Pand 3 N",
+        "2 P and l N"
+      ],
+      "answer": "l P and 2 N",
+      "explanation": "Tritium is a radioactive isotope of hydrogen. The nucleus of tritium contains one proton and two neutrons."
+    }
+  ],
+  "Biology (Diseases)": [
+    {
+      "subject": "Biology (Diseases)",
+      "question": "Which one among the following is the generic name of the causal organism of Elephantiasis ?",
+      "image": "",
+      "options": [
+        "Filaria",
+        "Microfilaria",
+        "Wuchereria bancrofti",
+        "Culex pipiens"
+      ],
+      "answer": "Wuchereria bancrofti",
+      "explanation": "Elephantiasis is a symptom of a variety of diseases, where parts of a person's body swell to massive proportions. It is caused by a number of parasitic worms, particularly Wuchereria bancrofti."
+    }
+  ],
+  "Biology (Biochemistry)": [
+    {
+      "subject": "Biology (Biochemistry)",
+      "question": "Which one among the following statements is not correct?",
+      "image": "",
+      "options": [
+        "Pulses are rich in proteins",
+        "Milk is a rich source of Vitamin A",
+        "Cereals are very poor source of carbohydrates",
+        "Vegetables are rich source of minerals"
+      ],
+      "answer": "Cereals are very poor source of carbohydrates",
+      "explanation": "Cereals are good source of carbohydrate."
+    }
+  ],
+  "Biology (Cell Biology)": [
+    {
+      "subject": "Biology (Cell Biology)",
       "question": "Which of the following parts are found in both plant and animal cells ?",
       "image": "",
       "options": [
@@ -212,9 +492,9 @@
       "explanation": "Cell Membrane, Cytoplasm and Nucleus are found in both plant and animal cells."
     }
   ],
-  "Agriculture": [
+  "Biology (Ecology & Environment)": [
     {
-      "subject": "Agriculture",
+      "subject": "Biology (Ecology & Environment)",
       "question": "Which one of the following types of pesticides is convenient to control stored grain pests ?",
       "image": "",
       "options": [
@@ -227,10 +507,10 @@
       "explanation": "Fumigants are used to penetrate and remain in the container for long enough to kill all stages of insects present in stores grains."
     }
   ],
-  "Zoology": [
+  "Biology (Zoology)": [
     {
-      "subject": "Zoology",
-      "question": "Match List I with List II and select the correct answer using the code given below the Lists:<br>List-I (Animal)<br>A. Ascaris<br>B. Malarial parasite<br>C. Housefly<br>D. Cow<br>List-II (Phyla)<br>1. Mammalia<br>2. Arthropoda<br>3. Nematoda<br>4. Protozoa<br>Codes:<br>A B C D<br>(a) 3 4 2 1<br>(b) 3 2 4 1<br>(c) 1 2 4 3<br>(d) 1 4 2 3",
+      "subject": "Biology (Zoology)",
+      "question": "Match List I with List II and select the correct answer using the code given below the Lists:<br>List-I (Animal)<br>A. Ascaris<br>B. Malarial parasite<br>C. Housefly<br>D. Cow<br>List-II (Phyla)<br>1. Mammalia<br>2. Arthropoda<br>3. Nematoda<br>4. Protozoa<br>Codes:<br>A B C D",
       "image": "",
       "options": [
         "3 4 2 1",
@@ -242,7 +522,7 @@
       "explanation": "The correct match is as follows:<br>Ascaris - Nematoda<br>Malarial parasite - Protozoa<br>Housefly - Arthropoda<br>Cow - Mammalia"
     },
     {
-      "subject": "Zoology",
+      "subject": "Biology (Zoology)",
       "question": "Which one among the following cattle breed produces highest amount of milk ?",
       "image": "",
       "options": [
@@ -255,9 +535,9 @@
       "explanation": "Holstein Friesians are world's highest-production dairy animals. They are found mostly in Netherlands/Germany."
     }
   ],
-  "Ecology": [
+  "Biology (Botany)": [
     {
-      "subject": "Ecology",
+      "subject": "Biology (Botany)",
       "question": "Which one among the following pairs is not correctly matched ?",
       "image": "",
       "options": [

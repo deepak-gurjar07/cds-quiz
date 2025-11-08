@@ -54,7 +54,7 @@
         "Neither 1 nor 2."
       ],
       "answer": "Both 1 and 2",
-      "explanation": "A matter is anything that has mass and occupies space. Pen, paper, clips, sand, air, ice, etc. are different forms of matter. Every matter is made up of tiny particles. These particles are so tiny that they can’t be seen with naked eyes. Every substance is made up of particles. These particles exhibit some characteristics. They can influence the state and properties (physical and chemical) of a substance. The five characteristics shown by particles of matter are as follows. 1. All matter is made of particles 2. Particles have space between them 3. Particles are always moving 4. Particles move faster and get farther apart when heated 5. Particles are attracted to each other"
+      "explanation": "A matter is anything that has mass and occupies space. Pen, paper, clips, sand, air, ice, etc. are different forms of matter. Every matter is made up of tiny particles. These particles are so tiny that they can’t be seen with naked eyes. Every substance is made up of particles. These particles exhibit some characteristics. They can influence the state and properties (physical and chemical) of a substance. The five characteristics shown by particles of matter are as follows.<br>1. All matter is made of particles<br>2. Particles have space between them<br>3. Particles are always moving<br>4. Particles move faster and get farther apart when heated<br>5. Particles are attracted to each other"
     }
   ],
   "Physics (Mechanics)": [
@@ -85,9 +85,9 @@
       "explanation": "Uniform circular motion is accelerated because the velocity changes due to continuous change in the direction of motion. So even when the body moves to a constant speed its velocity is not constant. Therefore circular motion is an acceleration motion even when the speed remains constant."
     }
   ],
-  "Physics (Electricity & Magnetism)": [
+  "Physics (Electromagnetism)": [
     {
-      "subject": "Physics (Electricity & Magnetism)",
+      "subject": "Physics (Electromagnetism)",
       "question": "If the speed of a moving magnet inside a coil increases, the electric current in the coil",
       "image": "",
       "options": [
@@ -98,19 +98,6 @@
       ],
       "answer": "increases",
       "explanation": "The speed of the electric current would increase. Increasing the speed of the relative motion between the coil and the magnet – If the same coil of wire passed through the same magnetic field but its speed or velocity is increased, the wire will cut the lines of flux at a faster rate so more induced emf would be produced."
-    },
-    {
-      "subject": "Physics (Electricity & Magnetism)",
-      "question": "A 100 W electric bulb is used for 10 hours a day. How many units of energy are consumed in 30 days ?",
-      "image": "",
-      "options": [
-        "1",
-        "10",
-        "30",
-        "300"
-      ],
-      "answer": "30",
-      "explanation": "A kilowatt-hour is 1,000 watts used for one hour. As an example, a 100-watt light bulb operating for ten hours would use one kilowatt-hour. How to calculate electric usage cost: 1. Volts × Amps = Watts 2. Watts ÷ 1,000 = Kilowatts (kW) 3. Kilowatts (kW) × Hours of Use = Kilowatt Hours (kWh). A 100-Watt bulb if kept on for 10 hours will consume: 100 × 10 = 1000 Watt-Hour = 1 Kilowatt-Hour (kWH) = 1 unit"
     }
   ],
   "Physics (Waves & Sound)": [
@@ -141,9 +128,151 @@
       "explanation": "Duration = 2.5seconds. Speed = 340 m/s. Distance = speed × time. 2.5×340 = 850m or 0.85 km is the distance between the source and the mountain"
     }
   ],
-  "Ecology": [
+  "Physics (Electricity)": [
     {
-      "subject": "Ecology",
+      "subject": "Physics (Electricity)",
+      "question": "A 100 W electric bulb is used for 10 hours a day. How many units of energy are consumed in 30 days ?",
+      "image": "",
+      "options": [
+        "1",
+        "10",
+        "30",
+        "300"
+      ],
+      "answer": "30",
+      "explanation": "A kilowatt-hour is 1,000 watts used for one hour. As an example, a 100-watt light bulb operating for ten hours would use one kilowatt-hour. How to calculate electric usage cost: 1. Volts × Amps = Watts 2. Watts ÷ 1,000 = Kilowatts (kW) 3. Kilowatts (kW) × Hours of Use = Kilowatt Hours (kWh). A 100-Watt bulb if kept on for 10 hours will consume: 100 × 10 = 1000 Watt-Hour = 1 Kilowatt-Hour (kWH) = 1 unit"
+    }
+  ],
+  "Chemistry (Inorganic Chemistry)": [
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Which one of the following is monatomic?",
+      "image": "",
+      "options": [
+        "Hydrogen",
+        "Sulphur",
+        "Phosphorus",
+        "Helium"
+      ],
+      "answer": "Helium",
+      "explanation": "The noble gases (helium, neon, argon, krypton, xenon, and radon) are also gases at STP, but they are monatomic. Helium is a member of the noble gases which means it has a filled outer shell of electrons."
+    },
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "In graphite, each carbon atom is bonded to three other carbon atoms",
+      "image": "",
+      "options": [
+        "forming a three-dimensional structure",
+        "in the same plane giving a hexagonal array",
+        "in the same plane giving a square array",
+        "in the same plane giving a pentagonal array"
+      ],
+      "answer": "in the same plane giving a hexagonal array",
+      "explanation": "In graphite, each carbon atom is bonded to three other carbon atoms in the same plane giving a hexagonal array. One of these bonds is a double-bond, and thus the valency of carbon is satisfied."
+    }
+  ],
+  "Chemistry (Applied Chemistry)": [
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "Employing Chromatography, one cannot separate",
+      "image": "",
+      "options": [
+        "radio-isotopes",
+        "colours from a dye",
+        "pigments from a natural colour",
+        "drugs from blood"
+      ],
+      "answer": "radio-isotopes",
+      "explanation": "Because isotopes of the same element have identical chemical properties, they cannot be separated by chemical methods, but only by methods that are based on their mass differences, such as mass spectrometry."
+    }
+  ],
+  "Chemistry (History & Discoveries)": [
+    {
+      "subject": "Chemistry (History & Discoveries)",
+      "question": "Consider the following statement: “Atomic number of an element is a more fundamental property than its atomic mass.” Who among the following scientists has made the above statement ?",
+      "image": "",
+      "options": [
+        "Dmitri Mendeleev",
+        "Henry Moseley",
+        "J.J. Thomson",
+        "Ernest Rutherford"
+      ],
+      "answer": "Henry Moseley",
+      "explanation": "Moseley’s law advanced atomic physics, nuclear physics and quantum physics by providing the first experimental evidence in favour of Niels Bohr’s theory, aside from the hydrogen atom spectrum which the Bohr theory was designed to reproduce. That theory refined Ernest Rutherford’s and Antonius van den Broek’s model, which proposed that the atom contains in its nucleus a number of positive nuclear charges that is equal to its (atomic) number in the periodic table. This remains the accepted model today."
+    },
+    {
+      "subject": "Chemistry (History & Discoveries)",
+      "question": "Rutherford’s alpha particle scattering experiment on thin gold foil was responsible for the discovery of",
+      "image": "",
+      "options": [
+        "electron",
+        "proton",
+        "atomic nucleus",
+        "neutron"
+      ],
+      "answer": "atomic nucleus",
+      "explanation": "Rutherford overturned Thomson’s model in 1911 with his well-known gold foil experiment in which he demonstrated that the atom has a tiny and heavy nucleus. Rutherford designed an experiment to use the alpha particles emitted by a radioactive element as probes to the unseen world of atomic structure. If Thomson was correct, the beam would go straight through the gold foil. Most of the beams went through the foil, but a few were deflected.<br>Rutherford presented his own physical model for subatomic structure, as an interpretation for the unexpected experimental results. In it, the atom is made up of a central charge (this is the modern atomic nucleus, though Rutherford did not use the term “nucleus” in his paper) surrounded by a cloud of (presumably) orbiting electrons. In this May 1911 paper, Rutherford only committed himself to a small central region of very high positive or negative charge in the atom."
+    }
+  ],
+  "Chemistry (States of Matter)": [
+    {
+      "subject": "Chemistry (States of Matter)",
+      "question": "Rate of evaporation increases with",
+      "image": "",
+      "options": [
+        "an increase of surface area",
+        "an increase in humidity",
+        "a decrease in wind speed",
+        "a decrease of temperature"
+      ],
+      "answer": "an increase of surface area",
+      "explanation": "Evaporation is the process by which water changes from a liquid to a gas or vapor. Evaporation is the primary pathway that water moves from the liquid state back into the water cycle as atmospheric water vapor.<br>The rate of evaporation is affected by the following factors: Temperature: The rate of evaporation increases with an increase in temperature. Surface area: The rate of evaporation increases with an increase in surface area. Humidity: The amount of water vapour present in the air is called humidity."
+    },
+    {
+      "subject": "Chemistry (States of Matter)",
+      "question": "Consider the following statements about mixture :<br>1. A substance can be separated into other kinds of matter by any physical process.<br>2. Dissolved sodium chloride can be separated from water by the physical process of evaporation.<br>Which of the statements given above is/are correct ?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "2 only",
+      "explanation": "In chemistry, a mixture is a material made up of two or more different substances which are physically combined. A mixture is the physical combination of two or more substances in which the identities are retained and are mixed in the form of solutions, suspensions and colloids.<br>Mixtures are one product of mechanically blending or mixing chemical substances such as elements and compounds, without chemical bonding or other chemical change, so that each ingredient substance retains its own chemical properties and makeup. Despite the fact that there are no chemical changes to its constituents, the physical properties of a mixture, such as its melting point, may differ from those of the components. Some mixtures can be separated into their components by using physical (mechanical or thermal) means."
+    },
+    {
+      "subject": "Chemistry (States of Matter)",
+      "question": "The rate of evaporation of liquid does not depend upon",
+      "image": "",
+      "options": [
+        "temperature",
+        "its surface area exposed to the atmosphere",
+        "its mass",
+        "humidity"
+      ],
+      "answer": "its mass",
+      "explanation": "The rate of evaporation is affected by the following factors:<br>Temperature: The rate of evaporation increases with an increase in temperature.<br>Surface area: The rate of evaporation increases with an increase in surface area.<br>Humidity: The amount of water vapour present in the air is called humidity. The rate of evaporation decreases with an increase in humidity.<br>Wind speed: Evaporation increases with an increase in wind speed."
+    }
+  ],
+  "Chemistry (General Concepts)": [
+    {
+      "subject": "Chemistry (General Concepts)",
+      "question": "Which one of the following statements is not correct ?",
+      "image": "",
+      "options": [
+        "Elements are defined by the number of protons they possess.",
+        "Isobars are atoms having the same atomic number but different mass number.",
+        "The mass number of an atom is equal to the number of nucleons in its nucleus.",
+        "Valency is the combining capacity of an atom."
+      ],
+      "answer": "Isobars are atoms having the same atomic number but different mass number.",
+      "explanation": "A chemical element is a species of atom having the same number of protons in its atomic nuclei. For example, the atomic number of oxygen is 8, so the element oxygen describes all atoms which have 8 protons. In total, 118 elements have been identified.<br>An atom is the smallest constituent unit of ordinary matter that constitutes a chemical element. Every atom is composed of a nucleus and one or more electrons bound to the nucleus. The nucleus is made of one or more protons and a number of neutrons.<br>Isobars are atoms (nuclides) of different chemical elements that have the same number of nucleons. Correspondingly, isobars differ in atomic number (or number of protons) but have the same mass number. An example of a series of isobars would be 40S, 40Cl, 40Ar, 40K, and 40Ca."
+    }
+  ],
+  "Biology (Ecology & Environment)": [
+    {
+      "subject": "Biology (Ecology & Environment)",
       "question": "Which one of the following is the correct sequential phase in the successional development of vegetation community in a habitat ?",
       "image": "",
       "options": [
@@ -156,7 +285,7 @@
       "explanation": "Nudation Invasion / Migration Competition and reaction Stabilization or climax Succession causes Initiating causes - These include biotic and climatic factors which destroy the existing populations of the area. Climatic factors include wind, fire, natural disasters, erosion etc. The biotic factors include activities of other organisms."
     },
     {
-      "subject": "Ecology",
+      "subject": "Biology (Ecology & Environment)",
       "question": "Food chain is",
       "image": "",
       "options": [
@@ -169,9 +298,9 @@
       "explanation": "A food chain shows how each living thing gets food and how nutrients and energy are passed from creature to creature. Food chains begin with plant-life and end with animal-life. Some animals eat plants, some animals eat other animals. A simple food chain could start with grass, which is eaten by rabbits."
     }
   ],
-  "Nutrition": [
+  "Biology (Biochemistry)": [
     {
-      "subject": "Nutrition",
+      "subject": "Biology (Biochemistry)",
       "question": "Which one of the following acids, is also known as Vitamin C?",
       "image": "",
       "options": [
@@ -184,9 +313,9 @@
       "explanation": "Vitamin C, also known as ascorbic acid and ascorbate, is a vitamin found in various foods and sold as a dietary supplement. It is used to prevent and treat scurvy. Vitamin C is an essential nutrient involved in the repair of tissue and the enzymatic production of certain neurotransmitters."
     }
   ],
-  "Cell Biology": [
+  "Biology (Cell Biology)": [
     {
-      "subject": "Cell Biology",
+      "subject": "Biology (Cell Biology)",
       "question": "Which one of the following is not found in animal cells ?",
       "image": "",
       "options": [
@@ -199,7 +328,7 @@
       "explanation": "Animal cells do not have cell walls because they do not need them. Cell walls, which are found in plant cells, maintain cell shape, almost as if each cell has its own exoskeleton. This rigidity allows plants to stand upright without the need for bones."
     },
     {
-      "subject": "Cell Biology",
+      "subject": "Biology (Cell Biology)",
       "question": "Which one of the following cell organelles is known as ‘suicide bags’ of a cell ?",
       "image": "",
       "options": [
@@ -212,7 +341,7 @@
       "explanation": "Lysosomes are found in animal cell, they are also known as suicidal bags of the cell. A human cell contains around 300 lysosomes. They not only digest large molecules but also responsible for breaking down and getting rid of waste products of the cell. They have enzymes which allow them to carry out these processes."
     },
     {
-      "subject": "Cell Biology",
+      "subject": "Biology (Cell Biology)",
       "question": "Which one of the following is active transport ?",
       "image": "",
       "options": [
@@ -223,11 +352,24 @@
       ],
       "answer": "It is the movement of a substance against a diffusion gradient with the use of energy from photosynthesis,",
       "explanation": "In cellular biology, active transport is the movement of molecules across a membrane from a region of lower concentration to a region of higher concentration— against the concentration gradient. Active transport requires cellular energy to achieve this movement. There are two types of active transport: primary active transport that uses adenosine triphosphate (ATP), and secondary active transport that uses an electrochemical gradient."
+    },
+    {
+      "subject": "Biology (Cell Biology)",
+      "question": "Chlorophyll in photosynthetic prokaryotic bacteria is associated with",
+      "image": "",
+      "options": [
+        "plastids",
+        "membranous vesicles",
+        "nucleoids",
+        "chromosomes"
+      ],
+      "answer": "membranous vesicles",
+      "explanation": "The chlorophyll in photosynthetic prokaryotic bacteria is associated with membranous vesicles. These vesicles are typically spherical, ranging in size from 20 to 100 nm in Gram-positive bacteria and archaea to 100–300 nm in Gram-negative bacteria. They can contain cell-wall material, as well as a variable content enclosed by the membrane."
     }
   ],
-  "Botany": [
+  "Biology (Botany)": [
     {
-      "subject": "Botany",
+      "subject": "Biology (Botany)",
       "question": "Marsilea, Fern and Horse-tail are examples of which one of the following plant groups ?",
       "image": "",
       "options": [
@@ -240,9 +382,9 @@
       "explanation": "A pteridophyte is a vascular plant (with xylem and phloem) that disperses spores. Because pteridophytes produce neither flowers nor seeds, they are sometimes referred to as “cryptogams”, meaning that their means of reproduction is hidden. Examples include ferns, horsetails and club-mosses."
     }
   ],
-  "Health and Disease": [
+  "Biology (Diseases)": [
     {
-      "subject": "Health and Disease",
+      "subject": "Biology (Diseases)",
       "question": "Which one of the following organisms is responsible for sleeping sickness ?",
       "image": "",
       "options": [
@@ -255,9 +397,9 @@
       "explanation": "Trypanosoma is a genus of kinetoplastids (class Trypanosomatidae[1]), a monophyletic[2] group of unicellular parasitic flagellate protozoa. Trypanosoma is part of the phylum Sarcomastigophora. Most trypanosomes are heteroxenous and most are transmitted via a vector. The majority of species are transmitted by blood-feeding invertebrates, but there are different mechanisms among the varying species. Some, such as Trypanosoma equiperdum, are spread by direct contact. In an invertebrate host they are generally found in the intestine, but normally occupy the bloodstream or an intracellular environment in the mammalian host. Trypanosomes infect a variety of hosts and cause various diseases, including the fatal human diseases sleeping sickness, caused by Trypanosoma brucei, and Chagas disease, caused by Trypanosoma cruzi."
     }
   ],
-  "Human Physiology": [
+  "Biology (Human Physiology)": [
     {
-      "subject": "Human Physiology",
+      "subject": "Biology (Human Physiology)",
       "question": "Which one of the following body parts/organs of the human body does not have smooth muscles ?",
       "image": "",
       "options": [
@@ -268,21 +410,6 @@
       ],
       "answer": "Biceps",
       "explanation": "Smooth muscle cells are found in the walls of hollow organs, including the stomach, intestines, urinary bladder and uterus, and in the walls of passageways, such as the arteries and veins of the circulatory system, and the tracts of the respiratory, urinary, and reproductive systems."
-    }
-  ],
-  "Microbiology": [
-    {
-      "subject": "Microbiology",
-      "question": "Chlorophyll in photosynthetic prokaryotic bacteria is associated with",
-      "image": "",
-      "options": [
-        "plastids",
-        "membranous vesicles",
-        "nucleoids",
-        "chromosomes"
-      ],
-      "answer": "membranous vesicles",
-      "explanation": "The chlorophyll in photosynthetic prokaryotic bacteria is associated with membranous vesicles. These vesicles are typically spherical, ranging in size from 20 to 100 nm in Gram-positive bacteria and archaea to 100–300 nm in Gram-negative bacteria. They can contain cell-wall material, as well as a variable content enclosed by the membrane."
     }
   ]
 }

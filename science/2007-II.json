@@ -1,7 +1,7 @@
 {
-  "Physics (Miscellaneous)": [
+  "Physics (General)": [
     {
-      "subject": "Physics (Miscellaneous)",
+      "subject": "Physics (General)",
       "question": "Which one of the following Indian scientists was elected as a fellow of the Royal Society of London for his contribution in the field of Plant Physiology and Physics ?",
       "image": "",
       "options": [
@@ -12,6 +12,389 @@
       ],
       "answer": "Jagdish Chandra Bose",
       "explanation": "Jagdish Chandra Bose was elected as a fellow of the Royal Society of London for his contribution in the field of Plant Physiology and Physics."
+    }
+  ],
+  "Chemistry (Industrial Chemistry)": [
+    {
+      "subject": "Chemistry (Industrial Chemistry)",
+      "question": "Match List I with List II and select the correct answer using the codes given below the Lists.<br>List I (Mineral) List II (Industries in which largely used)<br>A. Limestone 1 Cement<br>B. Copper 2 Electrical goods<br>C. Bauxite 3 Manufacture of aeroplanes<br>D. Manganese 4 Steel<br>Code:<br>A B C D A B C D",
+      "image": "",
+      "options": [
+        "3 4 1 2",
+        "1 2 3 4",
+        "3 2 1 4",
+        "1 4 3 2"
+      ],
+      "answer": "1 2 3 4",
+      "explanation": "Limestone (CaCO3) is the main raw material used in the manufacture of cement. Copper is good conductor of elecricity hence, it is used in electrical goods.<br>Bauxite is an ore of Al. It is used in manufacture of aeroplanes. Manganese is used in steel industry to form manganese steel."
+    },
+    {
+      "subject": "Chemistry (Industrial Chemistry)",
+      "question": "Consider the following statements<br>1. Nitric acid is used in the production of fertilizers.<br>2. Sulphuric acid is used in the production of explosives.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Nitric acid is used in the production of fertilizers. The principal chemical produced form nitric acids ammonium nitrate, sulphuric acid is used in the production of explosives like TNT, nitroglycerine, gun cotton, etc."
+    }
+  ],
+  "Chemistry (Organic Chemistry)": [
+    {
+      "subject": "Chemistry (Organic Chemistry)",
+      "question": "The flavour of apple is mainly due to which one of the following?",
+      "image": "",
+      "options": [
+        "Formalin",
+        "Benzene",
+        "Ethanol",
+        "Benzaldehyde"
+      ],
+      "answer": "Ethanol",
+      "explanation": "The flavour of apples is mainly due to the ethanol (C2H5OH)."
+    },
+    {
+      "subject": "Chemistry (Organic Chemistry)",
+      "question": "Nail varnish remover generally contains which one of the following?",
+      "image": "",
+      "options": [
+        "Vinegar",
+        "Benzene",
+        "Methyl alcohol",
+        "Acetone"
+      ],
+      "answer": "Acetone",
+      "explanation": "Nail varnish remover generally contains acetone (CH3COCH3)."
+    },
+    {
+      "subject": "Chemistry (Organic Chemistry)",
+      "question": "'Freon' used as refrigerants is chemically known as",
+      "image": "",
+      "options": [
+        "chlorinated hydrocarbon",
+        "fluorinated hydrocarbon",
+        "chlorofluoro hydrocarbon",
+        "fluorinated aromatic compound"
+      ],
+      "answer": "chlorofluoro hydrocarbon",
+      "explanation": "Chlorofluoro carbon (CF2Cl2) is also known as freon. It is used as refrigerants in refrigerators and air conditions. It is also used as propellant in aerosols and foams."
+    }
+  ],
+  "Chemistry (History & Discoveries)": [
+    {
+      "subject": "Chemistry (History & Discoveries)",
+      "question": "In which categories did Marie Curie win her two different Nobel prizes?",
+      "image": "",
+      "options": [
+        "Physics and Chemistry",
+        "Chemistry and Medicine",
+        "Physics and Medicine",
+        "Chemistry and Peace"
+      ],
+      "answer": "Physics and Chemistry",
+      "explanation": "Marie Curie win her two different Noble prizes in two different category i.e., Physics and Chemistry for the discovery of radium and polonium."
+    }
+  ],
+  "Chemistry (Materials & Alloys)": [
+    {
+      "subject": "Chemistry (Materials & Alloys)",
+      "question": "German silver is an alloy of",
+      "image": "",
+      "options": [
+        "gold and silver",
+        "copper and silver",
+        "copper, zinc and silver",
+        "copper, zinc and nickel"
+      ],
+      "answer": "copper, zinc and nickel",
+      "explanation": "German silver is an alloy of copper (25-50%), zinc (25-35%) and nickel (10-35%). It is used in utensils and resistance wire."
+    }
+  ],
+  "Chemistry (Applied Chemistry)": [
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "The tracking of people by trained dogs is based on the recognisation of which of the following compounds in the sweat from feet?",
+      "image": "",
+      "options": [
+        "Carboxylic acids",
+        "Uric acid",
+        "Sugar",
+        "Salt"
+      ],
+      "answer": "Carboxylic acids",
+      "explanation": "The tracking of people by trained dogs is based on the recognisation of carboxylic acid in the sweat from feet."
+    },
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "Which one of the following is involved for desalination of sea water?",
+      "image": "",
+      "options": [
+        "Reverse osmosis",
+        "Simple osmosis",
+        "Use of sodium aluminium silicate as zeolite",
+        "Use of ion selective electrodes"
+      ],
+      "answer": "Reverse osmosis",
+      "explanation": "Reverse osmosis method is used to obtain pure water from water containing a salt or for desalination of sea water."
+    },
+    {
+      "subject": "Chemistry (Applied Chemistry)",
+      "question": "What is the purpose of adding baking soda to dough?",
+      "image": "",
+      "options": [
+        "To generate moisture",
+        "To give a good flavour",
+        "To give good colour",
+        "To generate carbon dioxide"
+      ],
+      "answer": "To generate carbon dioxide",
+      "explanation": "Baking soda has sodium bicarbonate as the chief constituent. It decomposes on heating giving carbon dioxide. This causes dough, cakes, biscuits etc. to expand and become light."
+    }
+  ],
+  "Chemistry (Biochemistry)": [
+    {
+      "subject": "Chemistry (Biochemistry)",
+      "question": "Which of the following metals are present in haemoglobin and chlorophyll, respectively?",
+      "image": "",
+      "options": [
+        "Fe and Mg",
+        "Fe and Zn",
+        "Mg and Zn",
+        "Zn and Mg"
+      ],
+      "answer": "Fe and Mg",
+      "explanation": "Fe and Mg metals are present in haemoglobin and chlorophyll respectively."
+    }
+  ],
+  "Chemistry (Nuclear Chemistry)": [
+    {
+      "subject": "Chemistry (Nuclear Chemistry)",
+      "question": "Which of the following isotopes of carbon is/are used in carbon dating?",
+      "image": "",
+      "options": [
+        "C12 only",
+        "C13 only",
+        "C14 only",
+        "C12 and C14"
+      ],
+      "answer": "C14 only",
+      "explanation": "The isotope of carbon C14 is used in radio carbon dating."
+    },
+    {
+      "subject": "Chemistry (Nuclear Chemistry)",
+      "question": "An a-particle consvists of which of the following?",
+      "image": "",
+      "options": [
+        "2 protons and 2 neutrons",
+        "1 proton and 1 electron",
+        "2 protons and 4 neutrons",
+        "1 proton and 1 neutron"
+      ],
+      "answer": "2 protons and 2 neutrons",
+      "explanation": "An a-particle is identical with helium nuclei. It consists of 2 protons and 2 neutrons and represented by 2He4."
+    }
+  ],
+  "Chemistry (Polymers)": [
+    {
+      "subject": "Chemistry (Polymers)",
+      "question": "Which one of the following substances is made from natural raw materials?",
+      "image": "",
+      "options": [
+        "Rayon",
+        "Nylon",
+        "Polyester",
+        "Polystyrene"
+      ],
+      "answer": "Rayon",
+      "explanation": "Rayon is made from naturally occuring cellulose. Rayon is also called artificial silk."
+    }
+  ],
+  "Chemistry (Inorganic Chemistry)": [
+    {
+      "subject": "Chemistry (Inorganic Chemistry)",
+      "question": "Which one of the following metals is less reactive than hydrogen?",
+      "image": "",
+      "options": [
+        "Barium",
+        "Copper",
+        "Lead",
+        "Magnesium"
+      ],
+      "answer": "Copper",
+      "explanation": "In the reactivity series of metals, copper is placed below the hydrogen. Hence, it is less reactive than hydrogen. On the other hand barium, lead and magnesium are placed above the hydrogen hence, these are more reactive than hydrogen."
+    }
+  ],
+  "Chemistry (Gases)": [
+    {
+      "subject": "Chemistry (Gases)",
+      "question": "Which one of the following is not a constituent of biogas?",
+      "image": "",
+      "options": [
+        "Methane",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Nitrogen dioxide"
+      ],
+      "answer": "Nitrogen dioxide",
+      "explanation": "Nitrogen dioxide (NO 2 ) is not a component of biogas."
+    },
+    {
+      "subject": "Chemistry (Gases)",
+      "question": "What does water gas comprise of?",
+      "image": "",
+      "options": [
+        "Carbon monoxide and hydrogen",
+        "Carbon dioxide and hvdrogen",
+        "Carbon monoxide and methane",
+        "Carbon dioxide and methane"
+      ],
+      "answer": "Carbon monoxide and hydrogen",
+      "explanation": "Water gas is a synthetic gas, having CO and H 2. The gas is produced by passing steam over a red hot hydrocarbon fuel as coke."
+    }
+  ],
+  "Biology (Human Physiology)": [
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "A mother of blood group O has a group O child. What could be the blood group of father of the child?",
+      "image": "",
+      "options": [
+        "Only O",
+        "A or B or O",
+        "A or B",
+        "Only AB"
+      ],
+      "answer": "A or B or O",
+      "explanation": "The blood group of father of the child could be A or B or O."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "What does sphygmomanometer measure?",
+      "image": "",
+      "options": [
+        "Blood pressure",
+        "Velocity of fluids",
+        "Temperature",
+        "Curvature of spherical surfaces"
+      ],
+      "answer": "Blood pressure",
+      "explanation": "Sphygmomanometer is an instrument to measure the blood pressure. It is made up of an inflatable cuff to restrict the blood flow and a mercury or manometer to measure pressure."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Which one of the following vitamins helps in clotting of blood?",
+      "image": "",
+      "options": [
+        "Vitamin-A",
+        "Vitamin-B",
+        "Vitamin-D",
+        "Vitamin-K"
+      ],
+      "answer": "Vitamin-K",
+      "explanation": "Vitamin-K adds in blood clotting. Vitamin-K acts as an essential cofactor for factor-II, VII, IX, X and also for proteins Z, C and S."
+    },
+    {
+      "subject": "Biology (Human Physiology)",
+      "question": "Which one of the following glands in the human body stores iodine?",
+      "image": "",
+      "options": [
+        "Parathyroid",
+        "Thyroid",
+        "Pituitary",
+        "Adrenal"
+      ],
+      "answer": "Thyroid",
+      "explanation": "Thyroid gland in human body contains iodine. Deficiency of iodine creates goitre disease. Which is observed by the enlargement of larynx."
+    }
+  ],
+  "Biology (Human Diseases)": [
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "Which one of the following causes the chikungunya disease?",
+      "image": "",
+      "options": [
+        "Bacteria",
+        "Helminthic worm",
+        "Protozoan",
+        "Virus"
+      ],
+      "answer": "Virus",
+      "explanation": "Chikungunya is caused by chikungunya virus which is an insect borne virus of genus Alphavirus. Symptoms show high fever, maculopapular rash, headache, etc."
+    },
+    {
+      "subject": "Biology (Human Diseases)",
+      "question": "Which of the following diseases are preventable by vaccine?<br>1. Tetanus<br>2. Polio<br>3. Leprosy<br>4. Pertusis<br>Select the correct answer using the code given below",
+      "image": "",
+      "options": [
+        "1 and 3",
+        "2 and 4",
+        "1, 2 and 4",
+        "All of these"
+      ],
+      "answer": "2 and 4",
+      "explanation": "Polio and pertusis are caused by virus. So, these can be controlled by vaccines."
+    }
+  ],
+  "Biology (Nutrition)": [
+    {
+      "subject": "Biology (Nutrition)",
+      "question": "Which one of the following vitamins is abundant in guava fruits?",
+      "image": "",
+      "options": [
+        "Vitamin-A",
+        "Vitamin-B",
+        "Vitamin-C",
+        "Vitamin-D"
+      ],
+      "answer": "Vitamin-C",
+      "explanation": "Vitamin-C is enough in guava fruits. Vitamin-C helps in strengthening of immunity, serves as an antioxidant and provides relief in hypertension too."
+    }
+  ],
+  "Biology (Ecology & Environment)": [
+    {
+      "subject": "Biology (Ecology & Environment)",
+      "question": "In the context of ecology and environment, what does the Red Data Book pertain to?",
+      "image": "",
+      "options": [
+        "Details of harmful levels of various pollutants",
+        "A complete list of all endangered plants and animals",
+        "A description of the consequences of nuclear holocaust",
+        "A description of the sociological and psychological consequence of genetically modified plants and animals"
+      ],
+      "answer": "A complete list of all endangered plants and animals",
+      "explanation": "Red Data Book is related with a complete list of all endangered species."
+    }
+  ],
+  "Biology (Zoology)": [
+    {
+      "subject": "Biology (Zoology)",
+      "question": "Which of the following is not a bird?",
+      "image": "",
+      "options": [
+        "Bat",
+        "Emu",
+        "Kiwi",
+        "Ostrich"
+      ],
+      "answer": "Bat",
+      "explanation": "Bat is mammal not a bird."
+    }
+  ],
+  "Biology (General Biology)": [
+    {
+      "subject": "Biology (General Biology)",
+      "question": "Match the following lists.<br>List-I (Scientist)<br>A. F G Banting<br>B. J Lister<br>C. Louis Pasteur<br>D. E Jenner<br>List-II (Work)<br>1. Vaccination for small pox<br>2. Germ theory<br>3. Use of carbolic acid as an antiseptic<br>4. Discovery of insulin<br>Codes:",
+      "image": "",
+      "options": [
+        "4 3 2 1",
+        "4 2 1 3",
+        "3 4 2 1",
+        "1 4 3 2"
+      ],
+      "answer": "4 3 2 1",
+      "explanation": ""
     }
   ]
 }
