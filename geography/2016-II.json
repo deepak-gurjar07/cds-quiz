@@ -222,6 +222,20 @@
       ],
       "answer": "A-4, B-3, C-2, D-1",
       "explanation": "The Sangam landscape is a poetic device that was characterstic of love poetry in classical Tamil Sangam literature. The core of the device was the categorization of poems into different thinais or modes, depending on the nature, location, mood and type of relationship represented by the poem. Each thinai was closely associated with a particular landscape, and imagery associated with that landscape.<br>Kurunchi - Mountainous Region<br>Palai- Arid region<br>Neytal- Seashore<br>Mullai- Pastoral region"
+    },
+    {
+      "subject": "Indian Geography",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (Power Plant)<br>A. Satpura<br>B. Dhuvaran<br>C. Tanakpur<br>D. Dabhol<br>List-II (State)<br>1. Maharashtra<br>2. Uttarakhand<br>3. Gujarat<br>4. Madhya Pradesh",
+      "image": "",
+      "options": [
+        "4 3 2 1",
+        "1 3 2 4",
+        "1 2 3 4",
+        "4 2 3 1"
+      ],
+      "answer": "4 3 2 1",
+      "explanation": "Satpura Thermal Power Plant is located in Betul district of Madhya Pradesh, India. Dhuvaran Thermal Power Station is a 220 MW coal plant in Gujarat state, India, owned by Gujarat State Electricity Corporation. Tanakpur Hydro Power Plant India is located at Tanakpur near Banbassa, District Champawat, Uttarakhand, India. Dabhol Power Station is located at Ratnagiri district in Maharashtra, India, about 160 kilometres south of Mumbai."
     }
   ]
+
 }
