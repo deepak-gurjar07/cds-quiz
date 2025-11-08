@@ -1,0 +1,58 @@
+{
+  "Medieval History": [
+    {
+      "subject": "Medieval History",
+      "question": "Among the following which Mughal Emperor introduced the policy of Sulh-i-kul?",
+      "image": "",
+      "options": [
+        "Babar",
+        "Humayun",
+        "Akbar",
+        "Shahjahan"
+      ],
+      "answer": "Akbar",
+      "explanation": "Akbar ruled with a social and religious toleration that was relative, not absolute, and was based on his concept of sulh-i-kul (for the general good of all people) which built on his liberal views of religion. Akbar took the Sufi mystic notion of sulh-i-kul and transformed it to become a principle denoting amity within a culturally pluralistic India."
+    },
+    {
+      "subject": "Medieval History",
+      "question": "The Sun Temple of Konark was built by Narasimhadeva I. To which dynasty did he belong to?",
+      "image": "",
+      "options": [
+        "Somavamsi dynasty",
+        "Imperial Ganga dynasty",
+        "Suryavansi Gajapti dynasty",
+        "Bhoi dynasty"
+      ],
+      "answer": "Imperial Ganga dynasty",
+      "explanation": "Narasimhadeva I (AD 1238-1264) was the king of Ganga dynasty."
+    }
+  ],
+  "Modern History": [
+    {
+      "subject": "Modern History",
+      "question": "Consider the following statements<br>1. At the time of independence, the Government of India followed the calender based on Saka era.<br>2. The National Calendar commenced on Chaitra 1 Saka, 1879 corresponding to March 22, 1957 AD.<br>Which ofthe statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Only 2",
+      "explanation": "The Indian National Calendar, sometimes called the Saka calendar, is the official civil calendar in use in India. Saka Calendar begins on 22 March every year except in leap years when it starts on 23 March. The Kushana emperor Kanishka is credited with the initiation of the Saka era on his accession to the throne in 78 A D."
+    },
+    {
+      "subject": "Modern History",
+      "question": "Who among the following was the Governor-General of India immediately preceeding Chakravarthi Raja gopalachari?",
+      "image": "",
+      "options": [
+        "The Marquess of Linlithgow",
+        "Lord Mountbatten",
+        "Lord Wavell",
+        "Lord Chelmsford"
+      ],
+      "answer": "Lord Mountbatten",
+      "explanation": "Lord Mountbatten was preceded by C Rajgopalachari. Lord Mountbatten was the last Viceroy of India (1947) and the first Governor-General of the independent Dominion of India (1947-48)."
+    }
+  ]
+}

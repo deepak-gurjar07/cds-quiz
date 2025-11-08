@@ -1,0 +1,268 @@
+{
+  "Ancient History": [
+    {
+      "subject": "Ancient History",
+      "question": "Whose philosophy is called the Advaita?",
+      "image": "",
+      "options": [
+        "Ramanujacharya",
+        "Shankaracharya",
+        "Nagarjuna",
+        "Vasumitra"
+      ],
+      "answer": "Shankaracharya",
+      "explanation": "Shankaracharya philosophy is called Advaita. The Advaita Vedanta focuses on the basic concepts as Brahman, atman, vidya (knowledge), avidya (ignorance), maya, karma and moksha."
+    },
+    {
+      "subject": "Ancient History",
+      "question": "In Buddhism, what does Patimokkha stand for?",
+      "image": "",
+      "options": [
+        "A description of Mahayana Buddhism",
+        "A description of Hinayana Buddhism",
+        "The rules of the Sangha",
+        "The questions of king Menander"
+      ],
+      "answer": "The rules of the Sangha",
+      "explanation": "Patimokkha stands for the rules of the Sangha. Buddha Dhamma and Sangha are the three Jewels of Buddhism."
+    },
+    {
+      "subject": "Ancient History",
+      "question": "The head of a district (Ahara), the principal coordinator of the revenue and the officer incharge of general and military functions in his jurisdiction during Mauryan empire was known as",
+      "image": "",
+      "options": [
+        "Krori",
+        "Rajuka",
+        "Foujdar",
+        "Chirastadar"
+      ],
+      "answer": "Rajuka",
+      "explanation": "In District administration each district was administered by 3 officers viz. Pradeshika, Rajuka, & Yukta. Pradeshika was senior and Rajuka was subordinate. Yukta was subordinate to both of them. The district administration was under the charge of Rajukas, whose position and functions are similar to modern collectors. He was assisted by Yuktas or subordinate officials. The rajjuka was responsible for surveying and assessing the land, fixing its rent and record keeping besides judicial functions."
+    }
+  ],
+  "Modern History": [
+    {
+      "subject": "Modern History",
+      "question": "Who among the following was the founder of the Muslim League?",
+      "image": "",
+      "options": [
+        "Muhammad Ali Jinnah",
+        "Shaukat Ali",
+        "Nawab Salimullah",
+        "Aga Khan"
+      ],
+      "answer": "Nawab Salimullah",
+      "explanation": "The All India Muslim League, a political organization was founded in 1906 by Nawab of Dhaka Salimullah.Its mainpurpose was to safeguard the political rights of Muslims in India."
+    },
+    {
+      "subject": "Modern History",
+      "question": "In which of the following years was the first Railway line between Bombay and Thane laid?",
+      "image": "",
+      "options": [
+        "1853",
+        "1854",
+        "1856",
+        "1858"
+      ],
+      "answer": "1853",
+      "explanation": "The country's first railway, built by the Great Indian Peninsula Railway (GIPR), opened in 1853 between Bombay and Thane."
+    },
+    {
+      "subject": "Modern History",
+      "question": "What is the correct sequence of the following events?<br>1. Bardoli Satyagraha 2. Rajkot Satyagraha<br>3. Champaran Satyagraha4. Nagpur Satyagraha<br>Codes:",
+      "image": "",
+      "options": [
+        "1, 2, 4, 3",
+        "4, 3, 1, 2",
+        "3, 1, 4, 2",
+        "3, 4, 1, 2"
+      ],
+      "answer": "3, 4, 1, 2",
+      "explanation": "• Champaran Satyagrah - 1917<br>• Nagpur Satyagrah - 1923<br>• Bardoli Satyagrah - 1928<br>• Rajkot Satyagrah- 1939"
+    },
+    {
+      "subject": "Modern History",
+      "question": "Who among the following Urdu poets was invited to the Second and Third Round Table Conference?",
+      "image": "",
+      "options": [
+        "Faiz Ahmad",
+        "Josh Malihabadi",
+        "Muhammad Iqbal",
+        "Firaq Gorakhpuri"
+      ],
+      "answer": "Muhammad Iqbal",
+      "explanation": "Muhammad Iqbal was invited to the second and third round table conference."
+    },
+    {
+      "subject": "Modern History",
+      "question": "Match the following<br>List-I (Person)<br>A. GK Gokhaie<br>B. MM Malaviya<br>C. C Rajagopalachari<br>D. VD Savarkar<br>List-II (Associated in Formation of)<br>1. Servants of Indian Society<br>2. Banaras Hindu University<br>3. Free India Society<br>4. Swatantra Party<br>Codes:",
+      "image": "",
+      "options": [
+        "A-1, B-2, C-4, D-3",
+        "A-3, B-4, C-2, D-1",
+        "A-1, B-4, C-2, D-3",
+        "A-3, B-2, C-4, D-1"
+      ],
+      "answer": "A-1, B-2, C-4, D-3",
+      "explanation": "• G.K Gokhale established The Servants of India Society in Pune, Maharashtra, on June 12, 1905.<br>• Pandit Madan Mohan Malaviya founded Banaras Hindu University (BHU) at Varanasi in 1916.<br>• The Swatantra Party was founded by C. Rajagopalachari, was Indian conservative political party that existed from 1959 to 1974.<br>• Vinayak Damodar Savarkar founded Free India Society(student society)."
+    },
+    {
+      "subject": "Modern History",
+      "question": "Who among the following was thrice elected President of the Indian National Congress?",
+      "image": "",
+      "options": [
+        "Dadabhai Naoroji",
+        "Surendranath Banerjee",
+        "Gopal Krishna Gokhl",
+        "Shankaran Nair"
+      ],
+      "answer": "Dadabhai Naoroji",
+      "explanation": "Dadabhai Naoroji<br>2nd Session Calcutta Dec. 27-30, 1886 Dadabhai Naoroji<br>9th Session Lahore Dec. 27-30, 1893 Dadabhai Naoroji<br>22nd Session Calcutta Dec. 26-29, 1906 Dadabhai Naoroji"
+    },
+    {
+      "subject": "Modern History",
+      "question": "Who among the following has started the Public Works Department in India in AD 1848?",
+      "image": "",
+      "options": [
+        "Lord William Bentinck",
+        "Lord Dalhousie",
+        "Lord Wellesley",
+        "Lord Cornwallis"
+      ],
+      "answer": "Lord Dalhousie",
+      "explanation": "A separate Public Works Department was established by Lord Dalhousie. The main works of this department wereto construct roads, bridges and government buildings."
+    },
+    {
+      "subject": "Modern History",
+      "question": "Under which one of the following systems of assessment, the British Government collected revenue directly from the farmers?",
+      "image": "",
+      "options": [
+        "Zamindari",
+        "Ryotwari",
+        "Annawari",
+        "Desaiwari"
+      ],
+      "answer": "Ryotwari",
+      "explanation": "Ryotwari System was introduced by Thomas Munro in 1820. In this System, the ownership rights were handed over to the peasants. British Government collected taxes directly from the peasants."
+    },
+    {
+      "subject": "Modern History",
+      "question": "What is the correct sequence of the following events?<br>1. Rowlatt Act<br>2. Gandhi-lrwin Pact<br>3. Morley-Minto Reforms<br>4. Illbert Bill<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1, 2, 4, 3",
+        "3, 4, 1, 2",
+        "4, 1, 3, 2",
+        "4, 3, 1, 2"
+      ],
+      "answer": "4, 3, 1, 2",
+      "explanation": "• Illbert Bill- 1883<br>• Marley Minto Reforms- 1909<br>• Rowlatt Act- 1919<br>• Gandhi Irwin pact- 1931"
+    },
+    {
+      "subject": "Modern History",
+      "question": "Who among the following was not a member of the Cabinet Mission?",
+      "image": "",
+      "options": [
+        "Sir Stafford Cripps",
+        "AV Alexander",
+        "Radcliffe",
+        "Pathick Lawrence"
+      ],
+      "answer": "Radcliffe",
+      "explanation": "Cabinet Mission was composed of three Cabinet Ministers of England<br>• Sir Pethick Lawrence, Secretary of State for India.<br>• Sir Stafford Cripps, President of the Board of Trade,<br>• A .V Alexander, the First Lord of the Admiralty<br>• Sir Cyril Radcliffe was appointed to chair two Boundary Commissions in June 1947 -one for Bengal and one for Punjab."
+    },
+    {
+      "subject": "Modern History",
+      "question": "In which of the following years was the All India Trade Union Congress formed in Bombay?",
+      "image": "",
+      "options": [
+        "1918",
+        "1919",
+        "1920",
+        "1921"
+      ],
+      "answer": "1920",
+      "explanation": "All India Trade Union Congress (AITUC) was founded on 31 October 1920 with Lala Lajpat Rai as its first president. Upto 1945 Congressmen, Socialists, Communists worked in the AITUC which was the central trade union organisation of workers of India.It is the oldest trade union federation in India ."
+    },
+    {
+      "subject": "Modern History",
+      "question": "Who among the following was elected as the President of All India Khilafat Conference met at Delhi in 1919?",
+      "image": "",
+      "options": [
+        "Motilal Nehru",
+        "Mahatma Gandhi",
+        "M A Jinnah",
+        "Shaukat Ali"
+      ],
+      "answer": "Mahatma Gandhi",
+      "explanation": "Gandhiji was elected President of the All-India Khilafat Conference which met at Delhi on November 23, 1919. They decided to withdraw all cooperation from the government if their demands were not met."
+    },
+    {
+      "subject": "Modern History",
+      "question": "Who among the following was not a member of the Constituent Assembly?",
+      "image": "",
+      "options": [
+        "Sardar Vallabhbhai Patel",
+        "Acharya JB Kriplani",
+        "Lok Nayak Jayprakash",
+        "K M Munshi"
+      ],
+      "answer": "Lok Nayak Jayprakash",
+      "explanation": "The Constitution of India was drafted by the constituent assembly and it was set up under the cabinet Mission plan on 16 May 1946. The members of the constituent assembly were elected by the Provincial assemblies by method of single transferable vote system of proportional representations.Members of the committee:, Sardar Vallabhbhai Patel, K. M. Munshi,Acharya J.B kriplani . Lok Nayak Jai Prakash was not the member of the constituent assembly."
+    },
+    {
+      "subject": "Modern History",
+      "question": "Who among the following had moved the objectives resolution which formed the basis of the Preamble of the Constitution of India in the Constituent Assembly on December 13, 1946?",
+      "image": "",
+      "options": [
+        "Dr B R Ambedkar",
+        "Dr Rajendra Prasad",
+        "Sardar Vallabhbhai Patel",
+        "Pandit Jawaharlal Nehru"
+      ],
+      "answer": "Pandit Jawaharlal Nehru",
+      "explanation": "The historic Objective Resolution was moved by Jawaharlal Nehru on 13 December 1946, and was adopted unanimously on 22 January 1947."
+    }
+  ],
+  "Medieval History": [
+    {
+      "subject": "Medieval History",
+      "question": "Which one of the following was the original name of Tansen, the famous musician in the court of Akbar?",
+      "image": "",
+      "options": [
+        "Mahananda Pande",
+        "Lal Kalwant",
+        "Baz Bahadur",
+        "Ramtanu Pande"
+      ],
+      "answer": "Ramtanu Pande",
+      "explanation": "Tansen, who was one of the nine jewels or navaratnas in the court of Emperor Akbar, was born in a Hindu family at Behat near Gwalior in the Madhya Pradesh state. Father of Tansen was Makarand Pande, who named him Ramtanu Pandey."
+    },
+    {
+      "subject": "Medieval History",
+      "question": "Who among the following has issued the coin rupee for the first time?",
+      "image": "",
+      "options": [
+        "Muhammad bin Tughluq",
+        "Ala-ud-din Khilji",
+        "Sher Shah",
+        "Akbar"
+      ],
+      "answer": "Sher Shah",
+      "explanation": "The first Rupee (Silver coin) was introduced by Sher Shah and was called \"Rupia\" which remained in use throughout the Mughal rule."
+    },
+    {
+      "subject": "Medieval History",
+      "question": "‘A Forgotten Empire’, written by the renowned historian Robert Sewell is about which one of the following empires?",
+      "image": "",
+      "options": [
+        "Kushan empire",
+        "Mauryan empire",
+        "Vijayanagar empire",
+        "Mughal empire"
+      ],
+      "answer": "Vijayanagar empire",
+      "explanation": "Robert Sewell was a civil servant of Madras presidency. He was Keeper of the Record Office of Madras .He authored 'A Forgotten Empire- Vijayanagar', acontribution to the History of India."
+    }
+  ]
+}

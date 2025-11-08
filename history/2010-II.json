@@ -1,0 +1,99 @@
+{
+  "Medieval History": [
+    {
+      "subject": "Medieval History",
+      "question": "Which one among the following was not a reform measure carried out by Mahmud Gawan of Bahmani kingdom?",
+      "image": "",
+      "options": [
+        "The kingdom was divided into eight provnices or Tarafs",
+        "Nobles were paid salaries and were asked to maintain contingents of horses",
+        "A tract of land, Khalisa, was set apart for the expenses of the Tarafdar",
+        "Lands were measured and land taxes were fixed on that basis"
+      ],
+      "answer": "A tract of land, Khalisa, was set apart for the expenses of the Tarafdar",
+      "explanation": "Mahmud Gawan was a prime minister in the Bahamani Sultanate of Deccan about twenty three years from 1458 to 1481 A.D.<br>Gawan introduced the following administrative reforms:<br>(i) The existing four provinces were divided into two each and created eight 'Tarafs'.<br>(ii) He reduced the powers of the governors of these 'Tarafs' (Provinces).<br>(iii) In each of these eight 'Tarafs' some areas were kept reserve for the control of the Central Government and for their administrative control, officials were appointed by the Centre.<br>(iv) Orders were issued by him for placing one fort in each province under the charge of the governor and others under the control of military commanders appointed by the Sultan.<br>(v) He put a check on the powers of the nobles.<br>(vi) He introduced a fair system of justice."
+    },
+    {
+      "subject": "Medieval History",
+      "question": "Match the following<br>List-I (Event)<br>A. Tarmashirin Khan’s invasion of India<br>B. Visit of Farnao Martinz Evangelho, the Portuguese factor<br>C. Visit of the traveller Nuniz<br>D. Network of canals in Kashmir valley<br>List-II (Place/Person)<br>1. Vijayanagara<br>2. Zainul Abidin<br>3. Champaner<br>4. Muhammad Tughlaq<br>Codes:",
+      "image": "",
+      "options": [
+        "A-2, B-1, C-3, D-4",
+        "A-2, B-3, C-1, D-4",
+        "A-4, B-3, C-1, D-2",
+        "A-4, B-1, C-3, D-2"
+      ],
+      "answer": "A-4, B-3, C-1, D-2",
+      "explanation": "Option c is correct answer."
+    },
+    {
+      "subject": "Medieval History",
+      "question": "Which one of the following statements about the teachings of Kabir is not correct?",
+      "image": "",
+      "options": [
+        "He was not against pilgrimage and idol worship",
+        "He believed in universal love",
+        "He emphasised on one God and the spread of devotionalism",
+        "He did not consider it necessary to abandon the normal life of a householder"
+      ],
+      "answer": "He was not against pilgrimage and idol worship",
+      "explanation": "Kabir did not believe in idol worship. He was also against the performance of rituals and superstitions or pilgrimage to the so-called holy places."
+    }
+  ],
+  "Modern History": [
+    {
+      "subject": "Modern History",
+      "question": "Consider the following statement and identify the author of the statement using the codes given below<br>I shall work for an India in which the poorest shall feel that it is their country, in whose making they have an effective voice, an India in which there shall be no high class and low class of people, an India in which all communities shall live in perfect harmony.",
+      "image": "",
+      "options": [
+        "Baba Saheb Ambedkar",
+        "Mahatma Gandhi",
+        "Gurudev Tagore",
+        "Pandit Nehru"
+      ],
+      "answer": "Mahatma Gandhi",
+      "explanation": ""
+    },
+    {
+      "subject": "Modern History",
+      "question": "Which one among the following statements regarding the social and religious reform ideas of Raja Rammohan Roy is not correct?",
+      "image": "",
+      "options": [
+        "His efforts led to the formation of Brahmo Samaj in 1828",
+        "He considered different religions as embodiments of universal theism",
+        "His Vedantic monism was strengthened after 1815 since an exposure to Christian unitarianism",
+        "He paid attention exclusively to the problems/issues of the emerging middle class of India"
+      ],
+      "answer": "He paid attention exclusively to the problems/issues of the emerging middle class of India",
+      "explanation": "Reforms of Raja Ram Mohan Roy:<br>• Crusaded against social evils like sati, polygamy and child marriage etc.<br>• Demanded property inheritance rights for women.<br>• Supported induction of western learning into Indian education.<br>He is best known for his efforts to abolish the practice of sati, the Hindu funeral practice in which the widow was compelled to sacrifice herself on her husband's funeral pyre in some parts of the then Bengal."
+    },
+    {
+      "subject": "Modern History",
+      "question": "Which one among the following was part of Gandhi-lrwin Agreement of 1931?",
+      "image": "",
+      "options": [
+        "Stern action against policemen guilty of brutal assault on Satyagrahis",
+        "Nehru to represent Congress at the Round Table Conference of 1931",
+        "Deletion of communal question from the agenda of the conference",
+        "Release of political prisoners excepting those guilty of arson and violence"
+      ],
+      "answer": "Release of political prisoners excepting those guilty of arson and violence",
+      "explanation": "The proposed conditions of Gandhi-Irwin pact were as follows:<br>• Discontinuation of the civil disobedience movement by the Indian National Congress<br>• Participation by the Indian National Congress in the Round Table Conference<br>• Withdrawal of all ordinances issued by the British Government imposing curbs on the activities of the Indian National Congress<br>• Withdrawal of all prosecutions relating to several types of offenses except those involving violence<br>• Release of prisoners arrested for participating in the civil disobedience movement<br>• Removal of the tax on salt, which allowed the Indians to produce, trade, and sell salt legally and for their own private use"
+    }
+  ],
+  "Ancient History": [
+    {
+      "subject": "Ancient History",
+      "question": "Which one among the following statements about Ashokan edicts is correct?",
+      "image": "",
+      "options": [
+        "The Pillar edicts were located in all parts of the empire",
+        "The edicts give details of his personal concerns but are silent on events of the empire",
+        "The subject of inscribed matter on Rock edicts differs completely with that of the Pillar edicts",
+        "The Greek or Aramaic edicts are versions or translations of the texts used in other edicts"
+      ],
+      "answer": "The subject of inscribed matter on Rock edicts differs completely with that of the Pillar edicts",
+      "explanation": ""
+    }
+  ]
+}

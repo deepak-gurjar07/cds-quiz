@@ -1,0 +1,242 @@
+{
+  "Modern History": [
+    {
+      "subject": "Modern History",
+      "question": "Consider the following statements :<br>1. In Hind Swaraj, Mahatma Gandhi formulates a conception of part life for the individual as well as the society.<br>2. Hind Swaraj was the outcome of the experience of Gandhi’s prolonged struggle against colonial raj in India<br>Which of the statement given above is / are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither1 nor 2"
+      ],
+      "answer": "1 only",
+      "explanation": "Hind Swaraj or Indian Home Rule is a book written by Mahatma Gandhi in which he expresses his views on Swaraj, modern civilisation, Religion, Nationality, Patriotism, Unity etc."
+    }
+  ],
+  "Ancient History": [
+    {
+      "subject": "Ancient History",
+      "question": "Who among the following archaeologists was the first to idenity similarities between a pre - Harappan culture and the mature Harappan culture?",
+      "image": "",
+      "options": [
+        "Amalananda Ghosh",
+        "Rakhaldas Banerji",
+        "Dava Ram Sahni",
+        "Sir John Marshall"
+      ],
+      "answer": "Amalananda Ghosh",
+      "explanation": "Amalananda Ghosh was the first archaeologist to identify similarities between a pre-harappan culture and the mature Harappan culture."
+    },
+    {
+      "subject": "Ancient History",
+      "question": "Which one of the following is the common element between the kailasanatha Temple at Ellora and the Shore Temple at Mamallapuram?",
+      "image": "",
+      "options": [
+        "Both are examples of Nagara architecture",
+        "Both are carved out from solid rocks",
+        "Both are Gupta period temples",
+        "Both were built under the patronage of Pallava Kings"
+      ],
+      "answer": "Both are carved out from solid rocks",
+      "explanation": "Kailasanatha Temple at Ellora and the Shore temple at Mamallapuram are carved out from solid rocks."
+    },
+    {
+      "subject": "Ancient History",
+      "question": "Consider the following statements:<br>1. The inscriptions on the pillar at Rummindei give vivid details or Ashok’s Dhamma<br>2. the Nigalisagar inscription records the fact of Ashoka having visited the Konagamana stupa<br>Which of the statements given above is / are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "2 only",
+      "explanation": "The inscriptions on the pillar at Rummindei give vivid details of Ashoka's conversion and the Nigalisagar inscription records the fact that Ashoka had visited the Kongamana stupa."
+    },
+    {
+      "subject": "Ancient History",
+      "question": "Which of the following statements is /are true ?<br>1. Faxian’s ‘Gaoseng Faxian zhuani was the earliest first - hand Chinese account of Buddhist sites and practices in India<br>2. Faxian was only 25 years old at the times of writing the text<br>3. Faxian’s main aim in coming to India was to obtain and take back texts containing monastic rules<br>Select the correct answer using the code given below:",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "2 only",
+        "1 and 3 only",
+        "3 only"
+      ],
+      "answer": "1 and 3 only",
+      "explanation": "Gaoseng Faxian Zhuan a Chinese Buddist monk (5th Century) wrote a travelogue describing contemperary Buddist effect over Indian society."
+    },
+    {
+      "subject": "Ancient History",
+      "question": "Consider the following statement about votive inscriptions in the second century BC ?<br>1. They records gifts made to religious institutions<br>2. They tell us about the idea of transference of the meritorious results of the action of one person<br>Which of the statements given above is are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "1 only",
+      "explanation": "Votive inscriptions (2nd century BC) describes about offerings given to super natural forces to get their favour."
+    },
+    {
+      "subject": "Ancient History",
+      "question": "Which one among the following statements about the coins of the Gupta rulers is correct?",
+      "image": "",
+      "options": [
+        "The obverse and reverse, both had only the king's portrait and date",
+        "The obverse an reverse, both had only an image of a deity and date",
+        "The obverse generally had king's portrait and reverse had an image of a deity or a motif",
+        "The obverse generally had king 's portrait and reverse always had a date"
+      ],
+      "answer": "The obverse generally had king's portrait and reverse had an image of a deity or a motif",
+      "explanation": "The Gupta coinage started with a remarkable series in Gold issued by Chandragupta I, the third ruler of the dynasty."
+    },
+    {
+      "subject": "Ancient History",
+      "question": "The Agrahara in early India was :",
+      "image": "",
+      "options": [
+        "The name of a village or land granted to Brahmins",
+        "the garland of flowers of Agar",
+        "the grant of land to officers and soldiers",
+        "land or village settled by Vaishya farmers"
+      ],
+      "answer": "The name of a village or land granted to Brahmins",
+      "explanation": "An Agrahara is the name given to the Brahmin quarter of a heterogenous village or to any village inhabited by Brahmins."
+    },
+    {
+      "subject": "Ancient History",
+      "question": "Which one among the following was not an attribute of Samudragupta described in Prayag Prashasti ?",
+      "image": "",
+      "options": [
+        "Sharp and polished intellect",
+        "Accomplished sculptor",
+        "Fine musical performances",
+        "Poetical talent of genius"
+      ],
+      "answer": "Accomplished sculptor",
+      "explanation": "According to Prayag Prashasti, Samudragupta was a great warrior as well as a great musician and poet."
+    },
+    {
+      "subject": "Ancient History",
+      "question": "Kamandaka’s Nitisara is a contribution to :",
+      "image": "",
+      "options": [
+        "Logic and Philosopy",
+        "Mathematics",
+        "Political morality",
+        "Grammar"
+      ],
+      "answer": "Political morality",
+      "explanation": "Kamandaka's Nitisara is related to the subjects like political science, etc."
+    },
+    {
+      "subject": "Ancient History",
+      "question": "The Lilavati of Bhaskara is a standard text on :",
+      "image": "",
+      "options": [
+        "Mathematics",
+        "Surgery",
+        "Poetics",
+        "Linguistics"
+      ],
+      "answer": "Mathematics",
+      "explanation": "The Lilavati is India Mathematician Bhaskara - II's treatise on mathematics, written in 1150."
+    }
+  ],
+  "Medieval History": [
+    {
+      "subject": "Medieval History",
+      "question": "Which of the following is / are not depicted in the Rajput paintings?<br>1. The stories of Krishna<br>2. Ragas and Raginis<br>3. The deeds of Hamza<br>4. The deeds of Babur<br>Select the correct answer using the code given below:",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "2, 3 and 4",
+        "3 and 4 only",
+        "4 only"
+      ],
+      "answer": "3 and 4 only",
+      "explanation": "'The deeds of Hamza\" and 'The deeds of Babar' are not depicted in the Rajput Paintings."
+    },
+    {
+      "subject": "Medieval History",
+      "question": "Consider the following statements<br>1. Abhinavagupta wrote a comprehensive treatise called the Tantraloka which systematically presents the teachings of the kula and Trika systems<br>2. The Samartehchakaha by Haribhadra Suri written in Gujarat around the eighth century is technically not a tantric work but is saturated with tantric ideas and practices<br>Which of the statements given above is / are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Tantraloka was written by Abhinavagupta. Which presents the teachings of the Kula and Trika systems."
+    },
+    {
+      "subject": "Medieval History",
+      "question": "Which of the following statements about the Vijayanagara Empire is / are true?<br>1. The kings claimed to rule on behalf of the God Virupaksha<br>2. Rulers used the title “Hindu Suratrana”<br>3. All Royal orders were signed in Kannada, Sanskrit and Tamil<br>4. Royal Portrait sculpture was now displayed in temples<br>Select the correct answer using the code given below",
+      "image": "",
+      "options": [
+        "4 only",
+        "1 and 2 only",
+        "1, 2 and 3",
+        "1, 2 and 4"
+      ],
+      "answer": "1, 2 and 4",
+      "explanation": ""
+    },
+    {
+      "subject": "Medieval History",
+      "question": "Tqta in medieval India meant:",
+      "image": "",
+      "options": [
+        "land assigned to religious personnel for spiritual purposes",
+        "land revenue from different territorial units assigned to army officers",
+        "charity for educational and cultural activities",
+        "the rights of the zamindar"
+      ],
+      "answer": "land revenue from different territorial units assigned to army officers",
+      "explanation": "In medieval India, Iqta was a type of land revenue."
+    },
+    {
+      "subject": "Medieval History",
+      "question": "Which one of the following books was not illustrated with paintings in Akbar’s court?",
+      "image": "",
+      "options": [
+        "Hamzanama",
+        "Razmnama",
+        "Baburnama",
+        "Tarikh - i -Alfi"
+      ],
+      "answer": "Baburnama",
+      "explanation": ""
+    },
+    {
+      "subject": "Medieval History",
+      "question": "Which kingdom did the temple of Hazara Rama belong to?",
+      "image": "",
+      "options": [
+        "Avadh",
+        "Travancore",
+        "Vijayanagara",
+        "Ahom"
+      ],
+      "answer": "Vijayanagara",
+      "explanation": "The temple of Hazara Rama belongs to Vijaynagara Kingdom. It was built in the 15th century. by Devaraya II."
+    },
+    {
+      "subject": "Medieval History",
+      "question": "The followers of Gorakhnath were called :",
+      "image": "",
+      "options": [
+        "Jogis",
+        "Nath-Panthis",
+        "Tantriks",
+        "Sanyasis"
+      ],
+      "answer": "Jogis",
+      "explanation": "The followers of Guru Gorakshanath (also known as Gorakhnath) were called 'yogis' (Jogis)."
+    }
+  ]
+}

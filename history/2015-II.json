@@ -1,0 +1,255 @@
+{
+  "Modern History": [
+    {
+      "subject": "Modern History",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (Steel mill)<br>A. Kalinganagar<br>B. Vijayanagar<br>C. Salem<br>D. Durgapur<br>List-II (State)<br>1. West Bengal<br>2. Tamil Nadu<br>3. Odisha<br>4. Karnataka<br>Codes:",
+      "image": "",
+      "options": [
+        "1 4 2 3",
+        "1 2 4 3",
+        "3 4 2 1",
+        "3 2 4 1"
+      ],
+      "answer": "3 4 2 1",
+      "explanation": "Steel mill - State<br>Kalinganagar - Odisha<br>Vijayanagar - Karnataka<br>Salem - Tamil Nadu<br>Durgapur - West Bengal"
+    },
+    {
+      "subject": "Modern History",
+      "question": "Which of the following statements about the Hastings Plan of 1772 is/ are correct?<br>1. Each district was to have a civil and a criminal Court.<br>2. The Judges were helped by native assessors who were skilled in Hindu and Islamic laws.<br>3. The Sadar Diwani Adalat was mainly meant to settle mercantile cases exceeding ` 10,000 in value.<br>4. These Courts did not put into place any procedural improvements.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "3 and 4",
+        "2 and 4",
+        "2 only"
+      ],
+      "answer": "1 and 2",
+      "explanation": "The Governor General of India, Waren Hasting (1772-1774) proposed a judicial plan -<br>(i) Each district will have a civil and criminal court.<br>(ii) The judges will be assisted by native experts in Hindu and Islamic laws."
+    },
+    {
+      "subject": "Modern History",
+      "question": "Which of the following statements about the formation of the Indian National Congress are true?<br>1. The Indian National Congress was formed at a national convention held in Calcutta in December 1885 under the Presidency of Motilal Nehru.<br>2. The Safety Valve Theory regarding the formation of the Indian National Congress emerged from a biography of A. O. Hume written by William Wedderbrn.<br>3. An early decision was that the President would be from the same region where the session was to be held.<br>4. W. C. Banerjee was the first President of the Indian National Congress.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1, 2 and 4",
+        "2 and 3",
+        "2 and 4 only",
+        "1 and 3"
+      ],
+      "answer": "2 and 4 only",
+      "explanation": "Indian National Congress was established on 28 December, 1885 by A.O. Hume, a British Civil Servant to create a platform for civil and political discussion. Womesh Chander Benerji (1844 –1906), the president of Indian National Congress, presided over the first session of the Indian National Congress held at Bombay in 1885."
+    },
+    {
+      "subject": "Modern History",
+      "question": "Which of the following statements about Jyotirao Phule's Satyashodhak Samaj Movement in Maharashtra is / are true?<br>1. The Satyashodhak Samaj was set up in 1873.<br>2. Phule argued that Brahmins were the progeny of a 'alien' Aryans.<br>3. Phule's focus on the Kunbi peasantry in the 1880s and 1890s led to a privileging of Maratha identity.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "2 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "2 only",
+      "explanation": "Jyotirao Phule (11 April 1827- 28 Nov 1890) on social reformer, writer and theologist organised an organisation - Satyashodhak Samaj Movement, He opined that Brahmins are descendent of alien Aryans."
+    },
+    {
+      "subject": "Modern History",
+      "question": "Which of the following statements about Maulvi Ahmadullah Shah, who played an important part in the Revolt of 1857, is/ are correct?<br>1. He was popularly known as Danka Shah or the Maulvi with a drum.<br>2. He fought in the famous Battle of Chinhat.<br>3. He was killed by British troops under the command of Henry Lawrence.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "1 and 3",
+        "2 and 3",
+        "1 and 2"
+      ],
+      "answer": "1 and 2",
+      "explanation": "Maulvi Ahmadullah Shah was a talukdar in Faizabad (UP). His talook was confiscated by the British government. He was an important character in the battle of 1857. He was famous as Danka shah in public. He took part in the battle of Chinhat. He fought in the famous Battle of Chinhat in which the British forces under Henry Lawrence were defeated"
+    },
+    {
+      "subject": "Modern History",
+      "question": "Who among the following is the author of the autobiography entitled Aamar Katha (1913)?",
+      "image": "",
+      "options": [
+        "Satyajit Ray",
+        "Rassundari Devi",
+        "Ganesh Chandra Ghosh",
+        "Binodini Dasi"
+      ],
+      "answer": "Binodini Dasi",
+      "explanation": "Binodini Dasi (1862-1941) was a renowned actress in Kolkata. Her autobiography- Amarkatha was published in 1913, this book reveals the contemporary sketch of Bengali society."
+    },
+    {
+      "subject": "Modern History",
+      "question": "Name the French revolutionary who wrote Declaration of the Rights of Woman and Female Citizen.",
+      "image": "",
+      "options": [
+        "Olympe de Gouges",
+        "Nancy Ruhling",
+        "Maximilien Robespierre",
+        "Mary Wollstonecraft"
+      ],
+      "answer": "Olympe de Gouges",
+      "explanation": "Olympe de Gouges (7 May 1748 - 3 Nov 1793), a French playwright and political activist, was famous for writing in favour of rights of women. She opposed male dominant society."
+    }
+  ],
+  "Medieval History": [
+    {
+      "subject": "Medieval History",
+      "question": "Consider the following statements about Alauddin Khalji's market policy :<br>1. He placed markets under the control of a high officer called 'Shahna' for strictly controlling the shopkeepers and prices.<br>2. In order to ensure a regular supply of cheap food grains, he ordered the land revenue from Doab region to be paid directly to the State.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Alauddin Khalji was the second ruler of khalji dynasty (1296-1316 reigning period). He is famous for market reforms and price control. Actually he did so for maintaining a large army. By controlling the items price, he became able to pay salary to soldiers."
+    },
+    {
+      "subject": "Medieval History",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (Term)<br>A. Mihrab<br>B. Mimbar<br>C. Khutba<br>D. Kibla<br>List-II (Meaning)<br>1. Stepped pulpit<br>2. Direction towards the Kaba for prayer<br>3. Arch<br>4. Sermon<br>Codes:",
+      "image": "",
+      "options": [
+        "2 1 4 3",
+        "2 4 1 3",
+        "3 1 4 2",
+        "3 4 l 2"
+      ],
+      "answer": "2 1 4 3",
+      "explanation": "Mihrab - Direction towards the Kaba for prayer.<br>Mimbar - Stepped pulpit<br>Khutba - Sermon<br>Kibla - Arch"
+    },
+    {
+      "subject": "Medieval History",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (Person)<br>A. Uddanda<br>B. Sayana<br>C. Yadavaprakasa<br>D. Bhavabhuti<br>List-II (Work)<br>1. Sudhanidhi<br>2. Mallikamaruta<br>3. Malatimadhava<br>4. Vaijayanti<br>Codes:",
+      "image": "",
+      "options": [
+        "2 1 4 3",
+        "3 4 1 2",
+        "2 4 1 3",
+        "3 1 4 2"
+      ],
+      "answer": "2 1 4 3",
+      "explanation": "Person Work<br>Uddanda - Mallikamaruta<br>Sayana - Sudhanidhi<br>Yadavaprakasa - Vaijayanti<br>Bhavabhuti - Malatimadhava"
+    },
+    {
+      "subject": "Medieval History",
+      "question": "The Rihla was written in",
+      "image": "",
+      "options": [
+        "Arabic in the Fourteenth Century by Ibn Battuta",
+        "Persian in the Fifteenth Century by Abdur Razzaq",
+        "Persian in the Thirteenth Century by Ibn Battuta",
+        "Italian in the Thirteenth Century by Marco Polo"
+      ],
+      "answer": "Arabic in the Fourteenth Century by Ibn Battuta",
+      "explanation": "Ibn Battuta (1304-1377) was a Muslim scholar and traveller. He was born in Morocco. The book, Rihla is account of his travelling throughout his life in different countries."
+    },
+    {
+      "subject": "Medieval History",
+      "question": "The 'Sur Sagar' is",
+      "image": "",
+      "options": [
+        "a medieval treatise on music composed by Tansen",
+        "a poetic work of Surdas",
+        "memories of Bahadur Shah Zafar",
+        "None of the above"
+      ],
+      "answer": "None of the above",
+      "explanation": "Surdas (1479-1586) was a saint, poet and musician, famous for devotional songs for Lord krishna, Sur Sagar is a great composition (a poetic work) and two other works - Sur Sarawali and Sahitya Lahiri."
+    },
+    {
+      "subject": "Medieval History",
+      "question": "Who among the following was not a painter at Akbar's Court?",
+      "image": "",
+      "options": [
+        "Daswanth",
+        "Abdus Samad",
+        "Kalyan Das",
+        "Basawan"
+      ],
+      "answer": "Kalyan Das",
+      "explanation": "Akbar (1556-1605) took interest in paintings. His court had some famous painters as - Daswanth, Abdus Samad, Basawan and Mir Sayyid Ali etc."
+    },
+    {
+      "subject": "Medieval History",
+      "question": "After the death of Shivaji, there was a fight for succession between",
+      "image": "",
+      "options": [
+        "Shambhaji and the widow of Shivaji",
+        "Shambhaji and Bajirao",
+        "Rajaram and Shambhaji",
+        "None of them"
+      ],
+      "answer": "Rajaram and Shambhaji",
+      "explanation": "Chhatrapati Shivaji (1630-1680) had two heirs for throne. The eldest son Sambhaji was irresponsible person, towards subjects. So younger son Rajaram was crowned."
+    }
+  ],
+  "Ancient History": [
+    {
+      "subject": "Ancient History",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (Author)<br>A. Somadeva<br>B. Kalidasa<br>C. Bhasa<br>D. Bilhana<br>List-II (Work)<br>l. Malavikagnimitra<br>2. Kathasaritsagara<br>3. Chaurapanchasika<br>4. Svapnavasavadatta<br>Codes:",
+      "image": "",
+      "options": [
+        "2 1 4 3",
+        "3 4 1 2",
+        "2 4 1 3",
+        "3 1 4 2"
+      ],
+      "answer": "2 1 4 3",
+      "explanation": "Author Work<br>Somadeva - Kathasaritsagara<br>Kalidasa - Malavikagnimitra<br>Bhasa - Svapnavasavasdatta<br>Bilhana - Chaurapanchasika"
+    },
+    {
+      "subject": "Ancient History",
+      "question": "Patanjali was",
+      "image": "",
+      "options": [
+        "a philosopher of the 'Yogachara' school",
+        "the author of a book on Ayurveda",
+        "a philosopher of the 'Madhyamika' school",
+        "the author of a commentary on Panini's Sanskrit grammar"
+      ],
+      "answer": "the author of a commentary on Panini's Sanskrit grammar",
+      "explanation": "Patanjali (2nd BC), an author of a commentary on Panini's Ashtadhyayi was a great philosopher. He compiled a famous book - Yogashutra."
+    },
+    {
+      "subject": "Ancient History",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (King)<br>A. Shashanka<br>B. Kharavela<br>C. Simuka<br>D. Bhaskara Varman<br>List-II (Region)<br>1. Assam<br>2. Maharashtra<br>3. Orissa<br>4. Bengal<br>Code :",
+      "image": "",
+      "options": [
+        "4 2 3 1",
+        "1 3 2 4",
+        "4 3 2 1",
+        "1 2 3 4"
+      ],
+      "answer": "4 3 2 1",
+      "explanation": "King Region<br>Shashanka - Bengal<br>Kharavela - Orissa<br>Simuka - Maharashtra<br>Bhaskara - Assam"
+    },
+    {
+      "subject": "Ancient History",
+      "question": "In ancient India, the 'Yaudheyas' were",
+      "image": "",
+      "options": [
+        "a sect of the Buddhism",
+        "a sect of the Jainism",
+        "a republican tribe",
+        "Vassals of the Cholas"
+      ],
+      "answer": "a republican tribe",
+      "explanation": "Yaudheyas were related with Johiya Kshatriyas residing near Muttan (Presently in Pakistan)."
+    },
+    {
+      "subject": "Ancient History",
+      "question": "The Dashakumaracharita or Tales of Ten Princes' was composed by",
+      "image": "",
+      "options": [
+        "Bhatti",
+        "Banabhatta",
+        "Bhasa",
+        "Dandin"
+      ],
+      "answer": "Dandin",
+      "explanation": "Dandin (8th century), a Sanskrit grammarian was a great writer and poet. His works are related with prose romance. His book Dashakumaracharita is a composition of tale of ten princes."
+    }
+  ]
+}
