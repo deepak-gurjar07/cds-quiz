@@ -1,0 +1,282 @@
+{
+  "Polity (Constitution)": [
+    {
+      "subject": "Polity (Constitution)",
+      "question": "Which among the following Acts were repealed by Article 395 of the Constitution of India?<br>1. The Government of lndia Act, 1935<br>2. The Indian Independence Act, 1947<br>3. The Abolition of Privy Council Jurisdiction Act, 1949<br>4. The Government of India Act, 1919<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "1 and 3 only",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": "1 and 2 only",
+      "explanation": "The Government of India Act, 1935 and The Indian Independence Act, 1947, together with all enactments amending or supplementing the latter act, but not including the abolition of Privy Council jurisdiction act, 1949 are hereby repealed by Article 395 of the Constitution of India."
+    },
+    {
+      "subject": "Polity (Constitution)",
+      "question": "On 26th November, 1949, which of the following provisions of the Constitution of India came into effect?<br>1. Citizenship<br>2. Elections<br>3. Provisional Parliament<br>4. Fundamental Rights<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "2, 3 and 4",
+        "1, 2 and 3",
+        "1 and 3 only",
+        "l and 2 Only"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "The constitution came into force on 26 January 1950, but some provisions relating to Citizenship, Elections, provisional parliament, temporary & transitional provisions were given immediate effect on 26 November 1949."
+    },
+    {
+      "subject": "Polity (Constitution)",
+      "question": "Which of the following statements regarding the Constituent Assembly of India is/are correct?<br>1. The Assembly was elected indirectly by the members of the Provincial Legislative Assemblies.<br>2. The elections were held on the basis of Universal Adult Franchise.<br>3. The scheme of election was laid down by the Cabinet Delegation.<br>4. The distribution of seats was done on the basis of the Mountbatten Plan.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "1, 2 and 3",
+        "2 and 4",
+        "1 and 3 only"
+      ],
+      "answer": "1 and 3 only",
+      "explanation": "The members of the Constituent assembly were indirectly elected by the members of the provincial assemblies by method of single transferable vote system of proportional representations. The membership plan was roughly as per suggestions of the Cabinet Mission plan. The basis of divisions of seats was \"population\" roughly in 1:10 Lakh ratio."
+    },
+    {
+      "subject": "Polity (Constitution)",
+      "question": "The basic structure doctrine with regard to the Constitution of India relates to<br>1. the power of judicial review<br>2. the judgment in Kesavananda Bharati case (1973)<br>3. the constraints on Article 368 of the Constitution of India<br>4. the judgment in Golaknath case (1967)<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4",
+        "l and 3 only",
+        "2 and 4 only"
+      ],
+      "answer": "1, 2 and 3 only",
+      "explanation": "The process of judicial scrutiny of legislative acts is called Judicial Review. If law passed by parliament violates any provision of the constitution, the Supreme Court has the power to declare such a law invalid. The Supreme Court held the view in Kesavananda Bharti case that Article 368 did not enable Parliament to alter the basic structure or framework of the Constitution. Parliament could not use its amending powers under Article368 to 'alter' the 'basic structure' or framework of the constitution."
+    },
+    {
+      "subject": "Polity (Constitution)",
+      "question": "Which one of the following statements with regard to the Ninth Schedule of the Constitution of India is not correct?",
+      "image": "",
+      "options": [
+        "It was inserted by the Constitution (First Amendment) Act, 1951.",
+        "The Acts and Regulations specified in the Ninth Schedule shall become void on the ground that it violates a fundamental right in Part III of the Constitution.",
+        "The Supreme Court has the power of judicial review of an Act included in the Ninth Schedule on the doctrine of basic structure.",
+        "The appropriate Legislature can repeal or amend an Act specified in the Ninth Schedule."
+      ],
+      "answer": "The Acts and Regulations specified in the Ninth Schedule shall become void on the ground that it violates a fundamental right in Part III of the Constitution.",
+      "explanation": "Article 31-B was inserted by the First Constitutional (Amendment) Act 1951 which states that without prejudiced to the generality of the provisions contained in Article 31-A, none of the Acts and Regulations specified in the Ninth Schedule of the constitution of India nor any of the provisions thereof shall be deemed to be void."
+    }
+  ],
+  "Polity (Fundamental Rights & Duties)": [
+    {
+      "subject": "Polity (Fundamental Rights & Duties)",
+      "question": "Which of the following fundamental rights as enshrined in the Constitution of India belong only to the citizens?<br>1. Article 19 (Protection of right to freedom of speech)<br>2. Article 21 (Protection of life and personal liberty)<br>3. Article 15 (Prohibition of discrimination)<br>4. Article 16 (Equality of opportunity)<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "2, 3 and 4",
+        "l, 3 and 4",
+        "1 and 4 only"
+      ],
+      "answer": "l, 3 and 4",
+      "explanation": "Article 21 (Protection of life and personal liberty) is available to foreigners and Citizens both."
+    },
+    {
+      "subject": "Polity (Fundamental Rights & Duties)",
+      "question": "Which one of the following statements is not correct with respect to protection of individuals being tried for offences?",
+      "image": "",
+      "options": [
+        "A confession can never be used as evidence against the accused.",
+        "The accused must have violated an existing law.",
+        "An accused cannot be tried and punished for the same offence again.",
+        "The quantum of punishment must be provided in law as it existed on the date of commission of an offence."
+      ],
+      "answer": "A confession can never be used as evidence against the accused.",
+      "explanation": ""
+    },
+    {
+      "subject": "Polity (Fundamental Rights & Duties)",
+      "question": "Which one of the following statements is not correct with respect to Article 32 of the Constitution of India?",
+      "image": "",
+      "options": [
+        "It provides remedies to citizens for the enforcement of fundamental rights.",
+        "It is a part of fundamental rights.",
+        "The Supreme Court cannot refuse a writ petition under Article 32 on the ground of delay.",
+        "Protection under Article 32 also applies to the enforcement of ordinary law which has nothing to do with the fundamental rights."
+      ],
+      "answer": "Protection under Article 32 also applies to the enforcement of ordinary law which has nothing to do with the fundamental rights.",
+      "explanation": "Only the fundamental rights guaranteed by the constitution can be enforced under Article-32 and not any other rights."
+    },
+    {
+      "subject": "Polity (Fundamental Rights & Duties)",
+      "question": "According to the provisions of the Constitution of India, which one of the following is not a fundamental duty?",
+      "image": "",
+      "options": [
+        "To respect the National Flag",
+        "To defend the country",
+        "To provide education to one's child",
+        "To promote village and cottage industries"
+      ],
+      "answer": "To promote village and cottage industries",
+      "explanation": "The fundamental duties include to abide by the Constitution and respect its ideals and institutions, the National Flag and the National Anthem; to uphold and protect the sovereignty, unity and integrity of India; to defend the country and render national service when called upon to do so; to provide opportunities for education to his child or, as the case may be, ward between the age of six and fourteen years."
+    },
+    {
+      "subject": "Polity (Fundamental Rights & Duties)",
+      "question": "The right to form associations and unions is a right",
+      "image": "",
+      "options": [
+        "guaranteed to everybody",
+        "to freedom guaranteed to citizens only",
+        "to equality before law",
+        "to life and personal liberty"
+      ],
+      "answer": "to freedom guaranteed to citizens only",
+      "explanation": "Under the Right to Freedom all citizens have the right to freedom of speech and expression; to assemble; to form associations or unions; to move freely throughout the territory of India; to reside in any part of India; to practice any profession, or to carry on any , trade or business."
+    }
+  ],
+  "Polity (Citizenship)": [
+    {
+      "subject": "Polity (Citizenship)",
+      "question": "A citizen of India will lose his or her citizenship if he or she<br>1. renounces Indian citizenship<br>2. voluntarily acquires the citizenship of another country<br>3. marries a citizen of another country<br>4. criticizes the Government<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "l, 2 and 3",
+        "2, 3 and 4",
+        "1 and 2 only",
+        "1 and 4"
+      ],
+      "answer": "1 and 2 only",
+      "explanation": "The citizenship cannot be deprived merely on the ground of marriage with a foreigner and criticizing the Government."
+    }
+  ],
+  "Polity (Judiciary)": [
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "Which one of the following writs is issued by the Supreme Court to secure the freedom of a person upon unlawful arrest?",
+      "image": "",
+      "options": [
+        "Habeas Corpus",
+        "Mandamus",
+        "Certiorari",
+        "Quo Warranto"
+      ],
+      "answer": "Habeas Corpus",
+      "explanation": "Habeas Corpus- The court can order a person who has detained another person to produce the body of the latter before it."
+    },
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "Which one of the following is not true about the powers of the Supreme Court?",
+      "image": "",
+      "options": [
+        "The Supreme Court has original and exclusive jurisdiction in inter- governmental disputes.",
+        "The Supreme Court has advisory jurisdiction on a question of law or fact which may be referred to it by the President of India.",
+        "The Supreme Court has the power to review its own judgment or order.",
+        "The Supreme Court has the exclusive power to issue writs to protect the fundamental rights of the people."
+      ],
+      "answer": "The Supreme Court has the exclusive power to issue writs to protect the fundamental rights of the people.",
+      "explanation": "The power to issue writs including Habeas Corpus, Mandamus, Quo Warrento, Certiorari, and Prohibition for the protection of the fundamental rights of the citizen is not exclusive to Supreme Court. The high courts are also empowered to issue writs in these cases. The Citizens can approach either the high court or directly to Supreme Court."
+    }
+  ],
+  "Polity (Emergency Provisions)": [
+    {
+      "subject": "Polity (Emergency Provisions)",
+      "question": "Under Article 352 of the Constitution of India, an emergency can be declared it security of any part of India is threatened ' by<br>1. war<br>2. external aggression<br>3. armed rebellion<br>4. internal disturbance<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "2, 3 and 4",
+        "1, 3 and 4",
+        "1 and 2 only"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "Under Article 352 of the constitution of India a Proclamation of Emergency can be declared if security of India or any territory is threatened by war or by external aggression or by armed rebellion."
+    }
+  ],
+  "Polity (Acts & Amendments)": [
+    {
+      "subject": "Polity (Acts & Amendments)",
+      "question": "Which one of the following statements is not true of the Protection of Women from Domestic Violence Act, 2005?",
+      "image": "",
+      "options": [
+        "This Act provides civil remedies to protect a woman subjected to domestic violence.",
+        "Only women can make a complaint under this legislation.",
+        "Relief may be sought only against the husband or a male live-in partner with whom the woman has lived in a domestic relationship.",
+        "The Act includes not just wives but also women in marriage-like relationships."
+      ],
+      "answer": "Relief may be sought only against the husband or a male live-in partner with whom the woman has lived in a domestic relationship.",
+      "explanation": "The aggrieved wife or female may also file a complaint against a relative of the husband or the male partner with whom the woman has lived in a domestic relationship."
+    },
+    {
+      "subject": "Polity (Acts & Amendments)",
+      "question": "Some Indian territory was transferred in 2015 to Bangladesh by following which procedure?",
+      "image": "",
+      "options": [
+        "By an agreement between the Government of India and the Government of Bangladesh",
+        "By a legislation passed by the Parliament amending Schedule 1 to the Constitution of India",
+        "By amending Schedule 1 to the Constitution of India by exercising amending power of the Parliament",
+        "By amending Schedule 1 to the Constitution of India by exercising amending power of the Parliament and ratification by sixteen State Legislatures"
+      ],
+      "answer": "By amending Schedule 1 to the Constitution of India by exercising amending power of the Parliament",
+      "explanation": "Exchange of territories between India and Bangladesh took place by passing of the Constitution (119th Amendment) Bill by the Parliament of India on 7th May 2015. The bill proposed to amend the 1st schedule of the constitution to exchange the disputed territories occupied by both the nations in accordance with the India-Bangladesh Land Boundary Agreement-1974. The bill now after the assent of the President entered in to the statue book as Constitution 100th Amendment Act 2015."
+    }
+  ],
+  "Polity (Social Justice & Welfare)": [
+    {
+      "subject": "Polity (Social Justice & Welfare)",
+      "question": "Which of the following are constitutional provisions and laws for the protection of the rights of the Scheduled Castes in India?<br>1. Article 17 of the Constitution of India<br>2. The Protection of Civil Rights Act, 1955<br>3. The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3",
+        "2 and 3 only"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "Article 17 of the constitution of India deals with untouchability and enforcement of any disability arising out of Untouchability is an offence punishable in accordance with law. The protection of civil rights act, 1955 deals with punishment for the preaching and practice of untouchability and for matters connected with it. The scheduled castes and the scheduled tribes (prevention of atrocities) act, 1989 forbids any atrocities against them and any offence under this act is punishable."
+    }
+  ],
+  "Polity (Federalism)": [
+    {
+      "subject": "Polity (Federalism)",
+      "question": "The Sixth Schedule of the Constitution of India pertains to the administration of tribal areas in which of the following States?",
+      "image": "",
+      "options": [
+        "Assam, Meghalaya, Tripura and Mizoram",
+        "Meghalaya, Tripura, Manipur and Mizoram",
+        "Assam, Manipur, Meghalaya and Tripura",
+        "Manipur, Meghalaya, Tripura and Arunachal Pradesh"
+      ],
+      "answer": "Assam, Meghalaya, Tripura and Mizoram",
+      "explanation": "The Sixth Schedule of the constitution of India pertains to administration of tribal areas in states of Tripura,Meghalaya,Mizoram and Assam."
+    }
+  ],
+  "Polity (Elections & Representation)": [
+    {
+      "subject": "Polity (Elections & Representation)",
+      "question": "Which of the following statements with regard to the conduct of elections in India is / are not correct?<br>1. The responsibility for the prepara tion of the electoral rolls is vested in the Election Commission of India.<br>2. The Model Code of Conduct comes into existence as soon as the date of the election is announced.<br>3. The laws relating to delimitation of constituencies are made by the Election Commission of India.<br>4. No election shall be called in question except by an election petition.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "3 only",
+        "1, 2 and 4",
+        "1, 2 and 3",
+        "4 only"
+      ],
+      "answer": "3 only",
+      "explanation": "Article 327 empowers the Parliament to make provision from time to time with respect to all matters relating to, or in connection with, elections to either house of parliament or to the house or either house of the legislature of a state including the delimitation of constituencies.<br>As per article 329 of the constitution of India no election to either house of parliament or to the house or either house of the legislature of a state shall be called in question except by an election petition presented to authority."
+    }
+  ],
+  "Polity (Constitutional & Statutory Bodies)": [
+    {
+      "subject": "Polity (Constitutional & Statutory Bodies)",
+      "question": "Which one of the following statements with regard to the National Commission for Scheduled Tribes is not correct?",
+      "image": "",
+      "options": [
+        "The Union and every State Government shall consult the Commission on all major policy matters affecting Scheduled Tribes.",
+        "All the reports of the Commission and its recommendations shall be laid only before Lok Sabha.",
+        "The Commission, while investigating any matter, has all the powers of a Civil Court.",
+        "The Commission has the power to regulate its own procedures."
+      ],
+      "answer": "All the reports of the Commission and its recommendations shall be laid only before Lok Sabha.",
+      "explanation": "The commission presents an annual report to the President. The president places all such reports before the Parliament."
+    }
+  ]
+}

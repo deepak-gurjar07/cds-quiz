@@ -1,0 +1,262 @@
+{
+  "Polity (Parliament)": [
+    {
+      "subject": "Polity (Parliament)",
+      "question": "Which one among the following is a function of the Pro-Tem Speaker of the Lok Sabha?",
+      "image": "",
+      "options": [
+        "Conduct of the proceedings of the house in the absence of the Speaker",
+        "To check if the election certificates of the members of the house are in order",
+        "Swear in the members of the house and hold the charge till a regular Speaker is elected",
+        "Give his assent to the bills passed by the house"
+      ],
+      "answer": "Swear in the members of the house and hold the charge till a regular Speaker is elected",
+      "explanation": "Protem speaker is chosen with the agreement of the members of the Lok Sabha and legislative assembly, so that he can carry on the activities untilthe permanent speaker is chosen. Protem speaker is appointed for a limited time period. Generally in such a condition when the Lok Sabha and Legislative Assemblies have been elected, but the vote for the speaker and deputy speaker has not taken place."
+    },
+    {
+      "subject": "Polity (Parliament)",
+      "question": "Statement I Adjournment is a short recess within the session of the Parliament ordered by the Presiding Officer of the House.<br>Statement II When the Presiding Officer adjourns the House without fixing any date or time of the next meeting of the House, it is known as adjournment sine die.",
+      "image": "",
+      "options": [
+        "Both the Statements are true and Statement II is the correct explanation of Statement I",
+        "Both the Statements are true, but Statement II is not the correct explaination of Statement I",
+        "Statement I is true, but Statement II is false",
+        "Statement I is false, but Statement li is true"
+      ],
+      "answer": "Both the Statements are true, but Statement II is not the correct explaination of Statement I",
+      "explanation": "'Adjournment' refers to postpone the further transaction of the business for specified time by the presiding officer of the House. Adjournment terminates the sitting of the House which meets again at the time appointed for the next sitting. Adjournment sine die refers to termination of a sitting of the House without any definite date being fixed for the next sitting."
+    }
+  ],
+  "Polity (Judiciary)": [
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "The original jurisdiction of the Supreme Court of India extends to",
+      "image": "",
+      "options": [
+        "treaties and agreements signed by the Government of India",
+        "disputes between the Government of India and one or more States",
+        "disputes relating to implementation of the Directive Principles of State Policy",
+        "a bill passed by the Parliament which is violative of the Constitution"
+      ],
+      "answer": "disputes between the Government of India and one or more States",
+      "explanation": "The original jurisdiction of supreme court of India extends to all cases between the Government of India and the States of India or between Government of India and states on side and one or more states on other side or cases between different states."
+    },
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "Which of the following statements regarding writ of certiorari is/are correct?<br>1. There should be court, tribunal or an officer having legal authority to determine the questions of deciding Fundamental Rights with a duty to act judicially.<br>2. Write of certiorari is available during the tendency of proceedings before a subordinate court.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "Only I",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Only 2",
+      "explanation": "If a lower court or tribunal gives its decision but based on wrong jurisdiction the affected party can move this writ to a higher court like supreme court or High Court. The writ of certiorari issued to subordinate judicial or quasi judicial body when they act.\n· Without or in excess of jurisdiction\n· In violation of the prescribed procedure\n· In contravention of principles of natural justice\n· Resulting in an error of law apparent on the face of record."
+    },
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "Which of the following statements with respect to the judiciary in India is/are correct?<br>1. Unlike in the United States, India has not provided for a double system of courts.<br>2. Under the Constitution of India, there is a single integrated system of courts for the Union as well as the states.<br>3. The organisation of the subordinate judiciary varies slightly from state to state.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "Only 1",
+        "1 and 2",
+        "2 and 3",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "explanation": "The U.S. court system is divided into two administratively separate systems, the federal and the state, each of which is independent of the executive and legislative branches of government. One of the unique features of the Indian Constitution is that, notwithstanding the adoption of a federal system and existence of Central Acts and State Acts in their respective spheres, it has generally provided for a single integrated system of Courts to administer both Union and State laws. At the apex of the entire judicial system, exists the Supreme Court of India below which are the High Courts in each State or group of States. Below the High Courts, lies a hierarchy of Subordinate Courts."
+    }
+  ],
+  "Polity (Elections)": [
+    {
+      "subject": "Polity (Elections)",
+      "question": "The President of India is elected by a proportional representation system through single transferable vote. This implies that",
+      "image": "",
+      "options": [
+        "each elected MP or MLA has an equal number of votes",
+        "MPs and MLAs of a State have the same number of votes",
+        "all MPs and MLAs have one vote each",
+        "MPs and MLAs of different States have different numbers of votes"
+      ],
+      "answer": "all MPs and MLAs have one vote each",
+      "explanation": "Irrespective of the fact that a number of seats may have to be filled, this system postulates one vote for each voter with the reservation that this single vote is transferred to other candidates. This is the reason why this system is known as \"single transferable vote system.\""
+    }
+  ],
+  "Polity (Centre-State Relations)": [
+    {
+      "subject": "Polity (Centre-State Relations)",
+      "question": "Which one among the following is not correct? A special category state invariably",
+      "image": "",
+      "options": [
+        "is a border State",
+        "has harsh terrain",
+        "has low literacy rate",
+        "has poor infrastructure"
+      ],
+      "answer": "has low literacy rate",
+      "explanation": "As per Gadgil formula a special category state gets preferential treatment in federal assistance and tax breaks. The special-category states get significant excise duty concessions and thus help these states attract large number of industrial units to establish manufacturing facilities within their territory. 90% of the central assistance is treated as grant and remaining 10% is considered as loan unlike other states which get 30% grant and 70% loan."
+    }
+  ],
+  "Polity (Constitutional Framework)": [
+    {
+      "subject": "Polity (Constitutional Framework)",
+      "question": "Despite being a Republican State, India is a member of the Commonwealth of Nations whose head is the British Monarch. This is because",
+      "image": "",
+      "options": [
+        "this mernbership does not affect the sovereign nature of the Indian Republic",
+        "this membership only shows that the British ruled over India",
+        "members of the association are sovereign and independent",
+        "it is a symbol of the unity among the members of the association"
+      ],
+      "answer": "this membership only shows that the British ruled over India",
+      "explanation": "The Commonwealth of Nations is an intergovernmental organisation of 53 member states that were mostly territories of the former British Empire. The membership only shows that the British ruled over India."
+    }
+  ],
+  "Polity (Local Government)": [
+    {
+      "subject": "Polity (Local Government)",
+      "question": "The tenure of every Panchayat shall be for five years from the date of",
+      "image": "",
+      "options": [
+        "its first meeting",
+        "issue of notification for the conduct of elections to the Panchayat",
+        "declaration of the election results",
+        "taking oath of office by the elected members"
+      ],
+      "answer": "its first meeting",
+      "explanation": "According to Article 243(E), every Panchayat, unless sooner dissolved under any law for the time being in force, shall continue for five years from the date appointed for its first meeting and no longer."
+    }
+  ],
+  "Polity (Constitutional Bodies)": [
+    {
+      "subject": "Polity (Constitutional Bodies)",
+      "question": "Which one among the following is not true of the Planning Commission?",
+      "image": "",
+      "options": [
+        "It is an advisory body and makes recommendations to the Cabinet",
+        "It is responsible for the execution of development programmes and plans",
+        "It is responsible for formulation of a plan for the most effective and balanced utilisation of the country's resources",
+        "It indicates the factors which tend to retard economic development"
+      ],
+      "answer": "It is responsible for the execution of development programmes and plans",
+      "explanation": "The Planning Commission was established in March 1950 by an executive resolution of the government of India. The Planning Commission is neither constitutional nor a statutory body. In India, it is the supreme organ of planning for social and economic development. It is not responsible for taking and implementing decisions. It is only a staff agency, an advisory body and has no executive responsibility."
+    }
+  ],
+  "Polity (Federalism)": [
+    {
+      "subject": "Polity (Federalism)",
+      "question": "Which of the following features is/are contrary to the norms of a federal polity?<br>1. Common All India Service<br>2. Single integrated judiciary<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Neither 1 nor 2",
+      "explanation": "India is a Quasi-Federal country because the Constitution of India is federal in nature but unitary in spirit. It has common features of a federation such as written Constitution, supremacy of Constitution, rigidity of Constitution, two governments, division of powers, bicameralism as well as unitary features like single Constitution, integrated judiciary and All-India Services etc."
+    }
+  ],
+  "Polity (Fundamental Rights & Duties)": [
+    {
+      "subject": "Polity (Fundamental Rights & Duties)",
+      "question": "Which one among the following statements regarding the constitutionally guaranteed Right to Education in India is correct?",
+      "image": "",
+      "options": [
+        "This right covers both child and adult illiteracy and therefore, universally guarantees education to all citizens of India",
+        "This right is a child right covering the age group of 6 to 14 years and becomes operational from the year 2015",
+        "This right has been taken from the British Constitution which was the first Welfare State in the world",
+        "This right has been given to all Indian children between the ages of 6 to 14 years under the 86th Constitutional Amendment Act"
+      ],
+      "answer": "This right has been given to all Indian children between the ages of 6 to 14 years under the 86th Constitutional Amendment Act",
+      "explanation": "The 86th amendment to the Constitution approved in 2002 providing free and compulsory education to all children age 6 to 14 years has been notified. It included Article 21(a) in the Indian constitution making education a fundamental right."
+    },
+    {
+      "subject": "Polity (Fundamental Rights & Duties)",
+      "question": "Statement I ' The Fundamental Rights protect the rights and liberties of the people against encroachment by the legislative and executive wings of the government.<br>Statement II The Fundamental Rights guarantee the rights of the citizens.",
+      "image": "",
+      "options": [
+        "Both the Statements are true and Statement II is the correct explanation of Statement I",
+        "Both the Statements are true, but Statement II is not the correct explaination of Statement I",
+        "Statement I is true, but Statement II is false",
+        "Statement I is false, but Statement li is true"
+      ],
+      "answer": "Both the Statements are true and Statement II is the correct explanation of Statement I",
+      "explanation": "Fundamental Rights guarantee civil liberties such that all Indians can lead their lives in peace and harmony as citizens of India. The seven fundamental rights recognised by the Indian constitution Aliens (persons who are not citizens) are also considered in matters like equality before law. They are enforceable by the courts, subject to certain restrictions. It protects the rights and liberties of the people against encroachment by the legislative and executive wings of the government."
+    }
+  ],
+  "Polity (Citizenship)": [
+    {
+      "subject": "Polity (Citizenship)",
+      "question": "Statement I By virtue of a law passed by the Parliament of India in the year 2003, the people of Indian origin residing in 16 countries enjoy dual citizenship status.<br>Statement II This law enables them to participate in economic activities, cast their vote or get elected to various legislative bodies in India.",
+      "image": "",
+      "options": [
+        "Both the Statements are true and Statement II is the correct explanation of Statement I",
+        "Both the Statements are true, but Statement II is not the correct explaination of Statement I",
+        "Statement I is true, but Statement II is false",
+        "Statement I is false, but Statement li is true"
+      ],
+      "answer": "Statement I is true, but Statement II is false",
+      "explanation": "The Overseas Citizenship of India (OCI) scheme was introduced by amending The Citizenship Act, 1955 in August 2005. The scheme was launched during the Pravasi Bharatiya Divas convention at Hyderabad in 2006. Overseas citizens of India will not enjoy the following rights even if resident in India: (i) the right to vote, (ii) the right to hold the offices of President, Vice-President, Judge of Supreme Court and High Court, Member of Lok Sabha, Rajya Sabha, Legislative Assembly or Council (iii) appointment to Public Services (Government Service)."
+    }
+  ],
+  "Polity (Union Executive)": [
+    {
+      "subject": "Polity (Union Executive)",
+      "question": "Statement I The principle of equality before the law is not applicable to the President of India.<br>Statement II The President of India enjoys some special privileges under the Constitution of India",
+      "image": "",
+      "options": [
+        "Both the Statements are true and Statement II is the correct explanation of Statement I",
+        "Both the Statements are true, but Statement II is not the correct explaination of Statement I",
+        "Statement I is true, but Statement II is false",
+        "Statement I is false, but Statement li is true"
+      ],
+      "answer": "Both the Statements are true and Statement II is the correct explanation of Statement I",
+      "explanation": "According to Article 361, the principle of equality before the law is not applicable to the president of India because the president of India enjoys some special privileges under the Constitution of India."
+    },
+    {
+      "subject": "Polity (Union Executive)",
+      "question": "Consider the following statements about the powers of the President of India<br>1. The President can direct that any matter on which decision has been taken by a Minister should be placed before the Council of Ministers.<br>2. The President can call all information relating to proposals for legislation.<br>3. The President has the right to address and send messages to either House of the Parliament.<br>4. All decisions of the Council of Ministers relating to the administration of the Union must be communicated to the President.<br>Which of the statements given above are correct?",
+      "image": "",
+      "options": [
+        "1,2 and 3",
+        "1 and 3",
+        "2 and 4",
+        "1,2, 3 and 4"
+      ],
+      "answer": "2 and 4",
+      "explanation": "According to Article 78 it shall be the duty of the Prime Minister-\n(a) to communicate to the President all decisions of the council of Ministers relating to the administration of the affairs of the union and proposals for legislation;\n(b) to furnish such information relating to the administration of the affairs of the Union and proposals for legislation as the President may call for;\n(c) if the President so requires, to submit for the consideration of the Council of Ministers any matter on which a decision has been taken by a Minister."
+    }
+  ],
+  "Polity (Constitutional Amendments)": [
+    {
+      "subject": "Polity (Constitutional Amendments)",
+      "question": "Which of the following provisions of the Constitution of India need the ratification by the legislatures of not less than one-half of the states to effect amendment?<br>1. The manner of election of the President of India.<br>2. Extent of the executive power of the Union and the states.<br>3. Powers of the Supreme Court and High Courts.<br>4. Any of the Lists in the 7th Schedule.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1, 2, 3 and 4",
+        "1, 2 and 3",
+        "3 and 4",
+        "1 and 2"
+      ],
+      "answer": "1, 2, 3 and 4",
+      "explanation": "Bills that have to be passed by Special Majority and also to be ratified by not less than one-half of the State Legislatures . This comprises of Constitutional Amendment Bills which seek to make any change in articles relating to:\n· The Election of the President.\n· The extent of the Executive Power of the Union and the States.\n· The Supreme Court and the High Courts.\n· Any of the Lists in the Seventh Schedule.\n· The representation of States in Parliament.\n· The provisions of Article 368 itself."
+    }
+  ],
+  "Polity (Democracy)": [
+    {
+      "subject": "Polity (Democracy)",
+      "question": "There are different arguments given in favour of power sharing in a democratic political system.<br>Which one of the following is not one of them?",
+      "image": "",
+      "options": [
+        "It reduces conflict among different communities",
+        "Majority community does not impose its will on others",
+        "Since, all are affected by the policies of the government, they should be consulted in the governance of the country",
+        "It speeds up the decision-making process and improves the chances of unity of the country"
+      ],
+      "answer": "Majority community does not impose its will on others",
+      "explanation": ""
+    }
+  ]
+}

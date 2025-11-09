@@ -1,0 +1,183 @@
+{
+  "Polity (State Government)": [
+    {
+      "subject": "Polity (State Government)",
+      "question": "Which of the following statements relating to the duties of the Governor is / are correct?<br>1. The duties of the Governor as a constitutional Head of the State do not become the subject matter of questions or debate in the Parliament.<br>2. Where the Governor takes a decision independently of his Council of Ministers or where he acts as the Chief Executive of the State under President’s rule, his actions are subject to scrutiny by the Parliament.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "2 only",
+      "explanation": "Where the Governor takes a decision independently of his Council of Ministers or where he acts as the Chief Executive of the State under President’s rule, his actions are subject to scrutiny by the Parliament. This statement is correct ."
+    }
+  ],
+  "Polity (Constitutional Provisions)": [
+    {
+      "subject": "Polity (Constitutional Provisions)",
+      "question": "Which one of the following Articles of the Constitution of India deals with the special provision with respect to the State of Assam?",
+      "image": "",
+      "options": [
+        "Article 371A",
+        "Article 371 B",
+        "Article 371C",
+        "Article 371D"
+      ],
+      "answer": "Article 371 B",
+      "explanation": "Article 371B in The Constitution Of India 1949 provides special provision with respect to the State of Assam Notwithstanding anything in this Constitution, the President may, by order made with respect to the State of Assam, provide for the constitution and functions of a committee of the Legislative Assembly of the State consisting of members of that Assembly elected from the tribal areas specified in Part I of the table appended to paragraph 20 of the Sixth Schedule and such number of other members of that Assembly as may be specified in the order and for the modifications to be made in the rules of procedure of that Assembly for the constitution and proper functioning of such committee."
+    },
+    {
+      "subject": "Polity (Constitutional Provisions)",
+      "question": "Provisions of which one of the following Articles of the Constitution of India apply to the State of Jammu and Kashmir?",
+      "image": "",
+      "options": [
+        "Article 238",
+        "Article 370",
+        "Article 371",
+        "Article 371G"
+      ],
+      "answer": "Article 370",
+      "explanation": "Article 370 of the Indian constitution is an article that gives autonomous status to the state of Jammu and Kashmir. The article is drafted in Part XXI of the Constitution: Temporary, Transitional and Special Provisions."
+    },
+    {
+      "subject": "Polity (Constitutional Provisions)",
+      "question": "Which one of the following Schedules to the Constitution of India provides for setting up of Autonomous District Councils?",
+      "image": "",
+      "options": [
+        "Third Schedule",
+        "Fourth Schedule",
+        "Fifth Schedule",
+        "Sixth Schedule"
+      ],
+      "answer": "Sixth Schedule",
+      "explanation": "Sixth Schedule, the four states viz. Assam, Meghalaya, Tripura and Mizoram contain the Tribal Areas which are technically different from the Scheduled Areas. Though these areas fall within the executive authority of the state, provision has been made for the creation of the District Councils and regional councils for the exercise of the certain legislative and judicial powers."
+    }
+  ],
+  "Polity (Executive)": [
+    {
+      "subject": "Polity (Executive)",
+      "question": "Who has the power of annulment or suspension of Acts and Resolutions of the Autonomous District and Regional Councils?",
+      "image": "",
+      "options": [
+        "The Governor",
+        "The President",
+        "The Chief Minister of the State",
+        "The Prime Minister"
+      ],
+      "answer": "The Governor",
+      "explanation": "If at any time the Governor is satisfied that an act or resolution of a District or a Regional Council is likely to endanger the safety of India _504[or is likely to be prejudicial to public order], he may annul or suspend such act or resolution and take such steps as he may consider necessary (including the suspension of the Council and the assumption to himself of all or any of the powers vested in or exercisable by the Council) to prevent the commission or continuance of such act, or the giving of effect to such resolution."
+    },
+    {
+      "subject": "Polity (Executive)",
+      "question": "The audit reports of the Comptroller and Auditor General of India relating to the accounts of the Union shall be submitted to",
+      "image": "",
+      "options": [
+        "the President",
+        "the Speaker of the Lok Sabha",
+        "the Prime Minister",
+        "the Vice President"
+      ],
+      "answer": "the President",
+      "explanation": "The reports of the Comptroller and Auditor-General of India relating to the accounts of the Union shall be submitted to the president, who shall cause them to be laid before each House of Parliament."
+    },
+    {
+      "subject": "Polity (Executive)",
+      "question": "Which of the following is not related to the powers of the Governor?",
+      "image": "",
+      "options": [
+        "Diplomatic and military powers",
+        "Power to appoint Advocate General",
+        "Summoning, proroguing and dissolving State Legislature",
+        "Power to grant pardons, reprieves, respites or remission of punishments"
+      ],
+      "answer": "Diplomatic and military powers",
+      "explanation": "Diplomatic and military powers is related to the powers of the President. It is not the power of Governor."
+    },
+    {
+      "subject": "Polity (Executive)",
+      "question": "Which one of the following is not among the duties of the Chief Minister?",
+      "image": "",
+      "options": [
+        "To communicate to the Governor of the State all decisions of the Council of Ministers relating to the administration of the affairs of the State and proposals for legislation",
+        "To furnish information relating to the administration of the State and proposals for legislation as the Governor may call for",
+        "To communicate to the President all decisions of the Council of Ministers relating to the administration of the State in the monthly report",
+        "To submit for the consideration of the Council of Ministers any matter on which a decision has been taken by a Minister but has not been considered by the Council, if the Governor so requires"
+      ],
+      "answer": "To communicate to the President all decisions of the Council of Ministers relating to the administration of the State in the monthly report",
+      "explanation": "To communicate to the President all decisions for the Council of Ministers relating to the administration of the State in the monthly report is not the duties of the Chief Minister."
+    },
+    {
+      "subject": "Polity (Executive)",
+      "question": "Which one of the following regarding the ordinance-making power of the Governor is not correct?",
+      "image": "",
+      "options": [
+        "It is not a discretionary power.",
+        "The Governor may withdraw the ordinance anytime.",
+        "The ordinance power can be exercised when the Legislature is not in session.",
+        "The aid and advice of ministers is not required for declaring the ordinance."
+      ],
+      "answer": "The aid and advice of ministers is not required for declaring the ordinance.",
+      "explanation": "The exercise of ordinance-making power is not discretionary. The governor exercises this power on the advice of the cabinet."
+    }
+  ],
+  "Polity (Legislature)": [
+    {
+      "subject": "Polity (Legislature)",
+      "question": "Which one of the following regarding the procedure and conduct of business in the Parliament is not correct?",
+      "image": "",
+      "options": [
+        "To discuss State matters",
+        "To discuss issues of the use of police force in suppressing the Scheduled Caste and Scheduled Tribe communities",
+        "To discuss issues in dealing with violent disturbances in an Undertaking under the control of the Union Government",
+        "To discuss issues for putting down the demands of the industrial labour"
+      ],
+      "answer": "To discuss issues of the use of police force in suppressing the Scheduled Caste and Scheduled Tribe communities",
+      "explanation": "Use of police force comes under state list so statement (b) is not correct."
+    },
+    {
+      "subject": "Polity (Legislature)",
+      "question": "Which one of the following is not considered a part of the Legislature of States?",
+      "image": "",
+      "options": [
+        "The Governor",
+        "The Legislative Assembly",
+        "The Legislative Council",
+        "The Chief Minister"
+      ],
+      "answer": "The Chief Minister",
+      "explanation": "Legislature of States consist of (a) The Governor (b) The Legislative Assembly (c) The Legislative Council."
+    }
+  ],
+  "Polity (Elections)": [
+    {
+      "subject": "Polity (Elections)",
+      "question": "Which of the following is not under the powers and functions of the Election Commission of India?",
+      "image": "",
+      "options": [
+        "Superintendence, direction and control of the preparation of electoral rolls",
+        "Conduct of elections to the Parliament and to the Legislature of each State",
+        "Conduct of election to the office of the President and the Vice President",
+        "Appointment of the Regional Commissioners to assist the Election Commission in the performance of the functions conferred on the Commission"
+      ],
+      "answer": "Appointment of the Regional Commissioners to assist the Election Commission in the performance of the functions conferred on the Commission",
+      "explanation": "The President appoints Regional Commissioners after consultation with the election commission to assist the election Commissioner."
+    }
+  ],
+  "Polity (Judiciary)": [
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "Which one of the following criteria is not required to be qualified for appointment as Judge of the Supreme Court?",
+      "image": "",
+      "options": [
+        "At least five years as a Judge of a High Court",
+        "At least ten years as an Advocate of a High Court",
+        "In the opinion of the President, a distinguished Jurist",
+        "At least twenty years as a Sub Judicial Magistrate"
+      ],
+      "answer": "At least twenty years as a Sub Judicial Magistrate",
+      "explanation": "Eligibility of a judge of the Supreme Court<br>A judge of one high court or more (continuously), for at least five years, or.<br>An advocate there, for at least ten years, or.<br>A distinguished jurist, in the opinion of the president, power conferred by clause(2) of article 124 of the Constitution of India."
+    }
+  ]
+}

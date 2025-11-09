@@ -1,0 +1,107 @@
+{
+  "Polity (Constitutional Bodies)": [
+    {
+      "subject": "Polity (Constitutional Bodies)",
+      "question": "Consider the following statements with respect to the Comptroller and Auditor General of India<br>1. He shall only be removed from office in like manner and on the ground as a Judge of the Supreme Court.<br>2. He shall not be eligible for further office either under the Government of India or under the Government of any State after he has ceased to hold his office.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Under Article 148 of the Indian Constitution the Comptroller and Auditor General (CAG) of India is an authority who audits all receipts and expenditure of the Government of India and the state governments, including those of bodies and authorities substantially financed by the government. The CAG shall only be removed from office in like manner and on the like grounds as a judge of the Supreme Court of India :Article148(a)\nThe Comptroller and Auditor General shall not be eligible for further office either under the Government of India or under the Government of any State after he has ceased to hold his office:Article 148(d)"
+    }
+  ],
+  "Polity (Local Government)": [
+    {
+      "subject": "Polity (Local Government)",
+      "question": "The Constitution (74th) Amendment Act makes mention of the",
+      "image": "",
+      "options": [
+        "composition of the National Development Council",
+        "structure of the Planning Commission of India",
+        "functions of the State Finance Commission",
+        "functions of the Kaveri Water Authority"
+      ],
+      "answer": "functions of the State Finance Commission",
+      "explanation": "74th Amendment deals with Muncipalities and urban local bodies. The Finance Commission Constituted under 243-I shall review the Financial Position of Muncipalities."
+    }
+  ],
+  "Polity (Citizenship)": [
+    {
+      "subject": "Polity (Citizenship)",
+      "question": "Under which of the following conditions can citizenship be provided in India?<br>1. One should be born in India.<br>2. Either of whose parents was born in India<br>3. Who has been a resident of India for not less than five years.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "1 and 2",
+        "2 and 3",
+        "None of these"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "Under article 5 of the Indian Constitution Citizenship at the commencement of the Constitution every person who has his domicile in the territory of India and\n(a) who was born in the territory of India; or\n(b) either of whose parents was born in the territory of India; or\n(c) who has been ordinarily resident in the territory of India for not less than five years preceding such commencement, shall be a citizen of India."
+    }
+  ],
+  "Polity (Fundamental Rights & Duties)": [
+    {
+      "subject": "Polity (Fundamental Rights & Duties)",
+      "question": "Which one of the following is a human right as well as a Fundamental Rights under the Constitution of India?",
+      "image": "",
+      "options": [
+        "Right to Information",
+        "Right to Education",
+        "Right to Work",
+        "Right to Housing"
+      ],
+      "answer": "Right to Education",
+      "explanation": "The Constitution (86th Amendment) Act, 2002 inserted Article 21-A in the Constitution of India to provide free and compulsory education of all children in the age group of six to fourteen years as a Fundamental Right. This is recognized in the International Covenant on Economic, Social and Cultural Rights as a human right that includes the right to free, compulsory primary education for all."
+    }
+  ],
+  "Polity (Parliament)": [
+    {
+      "subject": "Polity (Parliament)",
+      "question": "Consider the following statements<br>1. The total elective membership of the Lok Sabha is distributed among the States on the basis of the population and the area of the State.<br>2. The 84th Amendment Act of the Constitution of India lifted the freeze on the delimitation of constituencies imposed by the 42nd Amendment.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "The total elective membership of the Lok Sabha is distributed among States in such a way that the ratio between the number of seats allotted to each State and population of the State is, as far as practicable, the same for all States. The 84th Amendment to the Constitution (which was numbered as the 91st Amendment Bill before it was passed in Parliament) lifted the freeze on the delimitation of constituencies, as stipulated by the 42nd Constitution amendment of 1976, and allowed delimitation within States on the basis of the 1991 Census."
+    }
+  ],
+  "Polity (Union Executive)": [
+    {
+      "subject": "Polity (Union Executive)",
+      "question": "Who among the following Indian Prime Ministers resigned before facing a vote of no-confidence in the Lok Sabha?",
+      "image": "",
+      "options": [
+        "Chandra Shekhar",
+        "Morarji Desai",
+        "Chaudhary Charan Singh",
+        "VP Singh"
+      ],
+      "answer": "Chaudhary Charan Singh",
+      "explanation": "OnAugust 20, 1979, Charan Singh resigned without moving the motion after the Congress withdrew support."
+    }
+  ],
+  "Polity (Landmark Cases)": [
+    {
+      "subject": "Polity (Landmark Cases)",
+      "question": "For which one of the following Judgements of the Supreme Court of India, the Kesavananda Bharati vs State of India case is considered a landmark?",
+      "image": "",
+      "options": [
+        "The religion cannot be mobilised for political ends",
+        "Abolishing untouchability from the country",
+        "The basic structures of the Constitution, as defined in the preamble, cannot be changed",
+        "Right to life and liberty cannot be suspended under any circumstance"
+      ],
+      "answer": "The basic structures of the Constitution, as defined in the preamble, cannot be changed",
+      "explanation": "Kesavananda Bharati vs State of Kerala(1973)is a landmark decision of the Supreme Court of India that outlined the Basic Structure doctrine of the Constitution.In the case, the Supreme Court ruled that all provisions of the constitution, including Fundamental Rights can be amended. However, the Parliament cannot alter the basic structure of the constitution like secularism, democracy, federalism, separation of powers."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "Polity (Parliamentary Committees)": [
+    {
+      "subject": "Polity (Parliamentary Committees)",
+      "question": "Which of the following is not a Parliamentary Committee?",
+      "image": "",
+      "options": [
+        "Demands for Grants Committee",
+        "Committee on Public Accounts",
+        "Committee on Public Undertakings",
+        "Committee on Esti mates"
+      ],
+      "answer": "Demands for Grants Committee",
+      "explanation": "Demands for Grants Committees are Departmentally Related Standing Committees.After the General Discussion on the Budget is over, the House is adjourned for a fixed period. During this period, the Demands for Grants of the Ministries/ Departments are considered by the Committees. It is not a parliamentary committee."
+    }
+  ],
+  "Polity (Parliament)": [
+    {
+      "subject": "Polity (Parliament)",
+      "question": "Consider the following statements<br>1. A Money Bill cannot be introduced in the Council of States.<br>2. The Council of States cannot reject a Money Bill nor amend it.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Money Bills can be introduced only in Lok Sabha. Money bills passed by the Lok Sabha are sent to the Rajya Sabha.Rajya Sabha(Council of States) cannot reject or amend this bill. It can only recommend amendments."
+    }
+  ],
+  "Polity (Union Executive)": [
+    {
+      "subject": "Polity (Union Executive)",
+      "question": "Which one of the following statements in not correct?",
+      "image": "",
+      "options": [
+        "The Vice-President of India holds office for a period of five years",
+        "The Vice-President of India can be removed by a simple majority of votes passed in the Rajya Sabha only",
+        "The Vice-President of India continues to be in office even after the expiry of his term till his successor takes over",
+        "The Supreme Court of India has to look into all disputes with regard to the election of the Vice-President of India"
+      ],
+      "answer": "The Vice-President of India can be removed by a simple majority of votes passed in the Rajya Sabha only",
+      "explanation": "According to Article 67, a Vice-President may be removed from his office by a resolution of the Council of States passed by a majority of all the then members of the Council and agreed to by the House of the People."
+    }
+  ],
+  "Polity (Emergency Provisions)": [
+    {
+      "subject": "Polity (Emergency Provisions)",
+      "question": "Who was the President of India at the time of proclamation of emergency in the year 1976?",
+      "image": "",
+      "options": [
+        "V.V Giri",
+        "Giani Zail Singh",
+        "Fakhr-ud-din Ali Ahmad",
+        "Shankar Dayal Sharma"
+      ],
+      "answer": "Fakhr-ud-din Ali Ahmad",
+      "explanation": "In India, \"the Emergency\" refers to a 21-month period in 1975-77 when Prime Minister Indira Gandhi unilaterally had a state of emergency declared across the country.Fakhruddin Ali Ahmed was the President at that time."
+    }
+  ],
+  "Polity (Centre-State Relations)": [
+    {
+      "subject": "Polity (Centre-State Relations)",
+      "question": "The Sarkaria Commission Report deal with which one the following?",
+      "image": "",
+      "options": [
+        "Corruption in India",
+        "Centre-state relations",
+        "local governance",
+        "Inter-river dispute"
+      ],
+      "answer": "Centre-state relations",
+      "explanation": "Sarkaria Commission was set up in June 1983 to examine the relationship and balance of power between state and central government."
+    }
+  ]
+}

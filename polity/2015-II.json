@@ -1,0 +1,254 @@
+{
+  "Polity (Parliament)": [
+    {
+      "subject": "Polity (Parliament)",
+      "question": "A Bill is deemed to be a 'Money Bill' if it has any provisions dealing with<br>1. imposition, abolition, remission, alteration or regulation of any tax<br>2. appropriation of money from the Consolidated Fund of India<br>3. imposition of fines or other pecuniary penalties<br>4. payment of fee for licences or fee for service rendered<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "1, 3 and 4",
+        "1, 2 and 3",
+        "2 only"
+      ],
+      "answer": "1 and 2 only",
+      "explanation": "A Bill shall be deemed to be a money Bill if it contains the following matters<br>(I) The imposition abolition, remission, alteration or regulation of any tax<br>(II) The regulation of the borrowing of money or the giving of any guarantee by the Government of India, or the amendment of the law with respect to any financial obligations undertaken or to be undertaken by the Government of India.<br>(III) The custody of the consolidated fund or the contigency Fund of India, The payment of money into or withdrawal of money from any such fund."
+    },
+    {
+      "subject": "Polity (Parliament)",
+      "question": "After the general elections, the Protem Speaker is",
+      "image": "",
+      "options": [
+        "elected by the Lok Sabha",
+        "appointed by the President of India",
+        "appointed by the Chief Justice of the Supreme Court",
+        "the senior most member of the Lok Sabha"
+      ],
+      "answer": "appointed by the President of India",
+      "explanation": "After the general election and newly formed government, the legislative section prepares a list of senior Lok Sabha member (MPs), This list is submitted to the minister of parliamentary affairs through this process a pro tem Speaker is seleced and is approved by the President."
+    }
+  ],
+  "Polity (Constitutional Framework)": [
+    {
+      "subject": "Polity (Constitutional Framework)",
+      "question": "Which of the following is/are not central feature(s) of Article 343 of the Constitution of India?<br>1. Hindi in Devanagari Script shall be the national language of the Union.<br>2. The official language of the Union shall be Hindi in Devanagari Script.<br>3. English language shall continue to be used for official purposes within States.<br>4. If two or more States agree, Hindi language should be the official language of communication between the States.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1, 3 and 4",
+        "2 and 4 only",
+        "2, 3 and 4",
+        "2 only"
+      ],
+      "answer": "1, 3 and 4",
+      "explanation": "Hindi wrtten in Devanagari script is to be the official language of the Union. However, for the period of fifteen years from the commencement of the constitution (i.e., from 1950 to 1965), the English language would continue to be used for all the official purposes of the union for which it was used before 1950. Even after fifteen years, parliment many provide for the continued use of English language for the specific purposes."
+    },
+    {
+      "subject": "Polity (Constitutional Framework)",
+      "question": "Which of the following is/are not central tenet(s) of the Constitution of India?<br>1. Prohibits discrimination on grounds of religion<br>2. Gives official status to certain religions<br>3. Provides freedom to profess any religion<br>4. Ensures equality of all citizens within religious communities<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "3 and 4 only",
+        "2, 3 and 4",
+        "2 only"
+      ],
+      "answer": "2 only",
+      "explanation": "There is no provison in the Constitution of India to give official status to a particular religion."
+    }
+  ],
+  "Polity (Elections & Political Parties)": [
+    {
+      "subject": "Polity (Elections & Political Parties)",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (Leader) List-II (Party)<br>A. Shyama Prasad Mukherjee 1. Communist Party of India<br>B. Minoo Masani 2. Bharatiya Jana Sangh<br>C. S. A. Dange 3. Swatantra Party<br>D. Ashok Mehta 4. Praja Socialist Party<br>Code :<br>A B C D<br>(a) 2 3 1 4<br>(b) 4 1 3 2<br>(c) 2 1 3 4<br>(d) 4 3 1 2",
+      "image": "",
+      "options": [
+        "2 3 1 4",
+        "4 1 3 2",
+        "2 1 3 4",
+        "4 3 1 2"
+      ],
+      "answer": "2 3 1 4",
+      "explanation": "Leader Party<br>Shyama Prasad Mukherjee - Bhartiya Jana Sangh<br>Minoo Masani - Swatantra Party<br>S.A. Dange - Communist Party of India<br>Ashok Mehta - Praja Socialist Party"
+    }
+  ],
+  "Polity (Fundamental Rights)": [
+    {
+      "subject": "Polity (Fundamental Rights)",
+      "question": "The Constitution of India guarantees freedom of thought and expression to all its citizens subject to<br>1. implementation of Directive Principles<br>2. Fundamental Duties<br>3. Right to Equality<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "l and 2 only",
+        "2 and 3 only",
+        "1 only",
+        "l, 2 and 3"
+      ],
+      "answer": "1 only",
+      "explanation": "The Part IV of the Constitution of India provides the Directive Principle of State Policy. This policy has the following categories- social justice, economic welfare, foreign policy, legal and administrative matters."
+    },
+    {
+      "subject": "Polity (Fundamental Rights)",
+      "question": "The protection against arrest and detention under Article 22 of the Constitution of India is not available to<br>1. an enemy alien<br>2. a person detained under a preventive detention law<br>3. a foreigner<br>4. an overseas citizen of India<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "l and 2 only",
+        "1, 3 and 4",
+        "1, 2 and 3",
+        "3 and 4 only"
+      ],
+      "answer": "l and 2 only",
+      "explanation": "Article 22 of the Constitution of India states that no protection against arrest and detention is available to enemy of foreign state or a person detained under preventive detention law."
+    },
+    {
+      "subject": "Polity (Fundamental Rights)",
+      "question": "Freedom of conscience under the Constitution of India is subject to<br>1. public order, morality and health<br>2. a law providing for social welfare and reform<br>3. opening Hindu religious institutions of a public character to all Hindus<br>4. defamation or incitement to an offence<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1,2, 3 and 4",
+        "1, 2 and 3 only",
+        "3 and 4 only",
+        "l and 2 only"
+      ],
+      "answer": "1, 2 and 3 only",
+      "explanation": "(i) Morality, health and other provisions relating to fundamental rights.<br>(ii) Regulate or religious practice: and<br>(ii) Provide for social welfare and reform or throw open Hindu religious institutions for public character to all classes and sections of Hindus."
+    },
+    {
+      "subject": "Polity (Fundamental Rights)",
+      "question": "Which of the following Fundamental Rights is / are available to non-citizens?<br>1. Equality before Law<br>2. Right against Discrimination<br>3. Equality of Opportunity<br>4. Protection of Life and Personal Liberty<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "1 and 4 only",
+        "1, 2 and 4",
+        "2 and 3"
+      ],
+      "answer": "1 and 4 only",
+      "explanation": "Equality before law and protection of life and personal liberty are available to non citizens by fundamental Rights of Indian Constitution."
+    }
+  ],
+  "Polity (International Relations)": [
+    {
+      "subject": "Polity (International Relations)",
+      "question": "Which one of the following is not a component of the Realist Theory?",
+      "image": "",
+      "options": [
+        "The State is the preeminent actor",
+        "State sovereignty is important for the affirmation of juridical authority over territory",
+        "The primary objective of all States is survival",
+        "Survival can be assured in cooperation with international organizations"
+      ],
+      "answer": "Survival can be assured in cooperation with international organizations",
+      "explanation": "Realists believe in self assistance. They think that no other country may be trusted for the survival."
+    },
+    {
+      "subject": "Polity (International Relations)",
+      "question": "Which one of the following does not form part of Immanuel Kant's theory of 'perpetual peace'?",
+      "image": "",
+      "options": [
+        "Republican Constitutionalism",
+        "Federal contract among States to abolish war",
+        "World Government",
+        "Transformation of individual consciousness"
+      ],
+      "answer": "World Government",
+      "explanation": "Immanuel Kant (22 April, 1724 - 12 Feb 1804), a great German philosopher proposed the theory of perpetual peace containing following points:-<br>(i) No standing army existance.<br>(ii) No any independent state will be interfered with any other dominion state.<br>(iii) No state will be interfered by another state constitutionally.<br>(iv) Existance of universal peace policy."
+    }
+  ],
+  "Polity (Federalism & Centre-State Relations)": [
+    {
+      "subject": "Polity (Federalism & Centre-State Relations)",
+      "question": "Which one of the following statements about the process of the Parliament to make new States is not correct?",
+      "image": "",
+      "options": [
+        "The Parliament may by law form a new State and alter the boundaries or names of existing States.",
+        "A Bill to this effect cannot be introduced in the Parliament except on the recommendation of the President.",
+        "A Bill to this effect may be referred by the President to the Legislature of the affected State.",
+        "Such a law will fall under the purview of Article 368."
+      ],
+      "answer": "Such a law will fall under the purview of Article 368.",
+      "explanation": "The Bill may be introduced in either house of Parliament to form a new state. It needs a Prior Permission of the President before introduction of the Bill. Moreover, the Constitution (Article 4) itself declares that laws made for admission or establishment of new states (under Article 2) and formation of new states and alternation of areas, boundaries or names of existing states (under Articles 3) are not to be considered as amendments of the Constitution under Article 368."
+    }
+  ],
+  "Polity (Historical Background)": [
+    {
+      "subject": "Polity (Historical Background)",
+      "question": "Which one of the following statements with regard to India's economy between 1814 to 1860 is not correct?",
+      "image": "",
+      "options": [
+        "Between 1814 and 1850, four commodities dominated India's exports-raw silk, opium, cotton and indigo.",
+        "Between 1814 and 1860, five commodities dominated India's exports-raw silk, opium, cotton, indigo and jute.",
+        "Indigo and raw silk required processing techniques.",
+        "Indigo and raw silk were financed by foreign capital."
+      ],
+      "answer": "Between 1814 and 1860, five commodities dominated India's exports-raw silk, opium, cotton, indigo and jute.",
+      "explanation": "During the period of 1814-1850, commodities such as cotton, opium and raw silk were exported from British India. Indigo was not dominately exported during that time."
+    },
+    {
+      "subject": "Polity (Historical Background)",
+      "question": "Which of the following statements about the formation of the Constituent Assembly is/are correct?<br>1. The members of the Constituent Assembly were chosen on the basis of the provincial elections of 1946.<br>2. The Constituent Assembly did not include representatives of the Princely States.<br>3. The discussions within the Constituent Assembly were not influenced by opinions expressed by the public.<br>4. In order to create a sense of collective participation, submissions were solicited from the public.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 and 3",
+        "3 and 4",
+        "1 and 4"
+      ],
+      "answer": "1 and 4",
+      "explanation": "The formation of the Constituent Assembly includes the following facts-<br>(i) On the basis of the provincial election of 1946, the members of the Constituent Assembly were choosen.<br>(ii) Opinions were invited from the public to evolve a sense of mass participation."
+    },
+    {
+      "subject": "Polity (Historical Background)",
+      "question": "Which of the following laws have been repealed by the Constitution of India?<br>1. The Government of India Act, 1935<br>2. The Indian Independence Act, 1947<br>3. The Abolition of Privy Council Jurisdiction Act, 1949<br>4. The Preventive Detention Act, 1950<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "2 and 4 only",
+        "1 and 3",
+        "1, 2 and 4"
+      ],
+      "answer": "1 and 3",
+      "explanation": "The Government of Indfia Act 1935 and the abolition of Privy council Jurisdiction Act 1949. were repealed by the Constitution of India. It took place due to out of use in free India."
+    }
+  ],
+  "Polity (Citizenship)": [
+    {
+      "subject": "Polity (Citizenship)",
+      "question": "Which of the following statements with regard to citizenship provisions of the Constitution of India is/ are correct?<br>1. No person shall be a citizen of India by virtue of Article 5, or be deemed to be a citizen of India by virtue of Article 6 or Article 8, if he /she has voluntarily acquired the citizenship of any foreign State.<br>2. The Parliament has power to make any provision with respect to the acquisition and termination of citizenship and all other matters relating to citizenship.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Generally citizenship is terminated due to possession of citizenship of any foreign state. The parliament has power about acquisition and termination of citizenship of a person."
+    },
+    {
+      "subject": "Polity (Citizenship)",
+      "question": "Which one of the following changes has not been made to the Citizenship Act of India by the Amendment in 2015?",
+      "image": "",
+      "options": [
+        "The Overseas Citizens of India will now be called the Overseas Citizens of India Cardholders",
+        "The Non-Resident Indians are entitled to vote in elections in India",
+        "The Persons of Indian Origin have been placed at par with the Overseas Citizens of India",
+        "The Persons of Indian Origin are now entitled to lifelong visa to visit India"
+      ],
+      "answer": "The Non-Resident Indians are entitled to vote in elections in India",
+      "explanation": "Citizenship Act of India (amendment 2015) entitles the NRI to vote in elections in India."
+    }
+  ],
+  "Polity (Judiciary)": [
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "A writ of Habeas Corpus for the release of a person can be issued<br>1. where the arrest or detention has taken place in contravention of the procedure established by law<br>2. to secure the release of a person imprisoned on a criminal charge<br>3. where the arrest has taken place for contempt of Court or the Parliament<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "2 and 3 only",
+        "1 only",
+        "l and 2 only"
+      ],
+      "answer": "1 only",
+      "explanation": "Habeas Corpus is a legal remedy to provide relief to detaines from unlawful imprisonment."
+    }
+  ]
+}

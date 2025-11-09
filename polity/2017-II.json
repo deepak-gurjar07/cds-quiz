@@ -1,0 +1,297 @@
+{
+  "Polity (Panchayati Raj)": [
+    {
+      "subject": "Polity (Panchayati Raj)",
+      "question": "In which two Indian States of the four mentioned below, it is necessary to hold certain minimum educational qualifications to be eligible to contest Panchayat Elections?<br>1. Punjab<br>2. Haryana<br>3. Karnataka<br>4. Rajasthan<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "2 and 4",
+        "2 and 3",
+        "1 and 4"
+      ],
+      "answer": "2 and 4",
+      "explanation": "Rajasthan is the first state to brought minimum qualification of Class X for contesting the zilla parishad or panchayat samiti polls, Class VIII to contest sarpanch elections, and Class V for scheduled areas. The minimum education qualification set by the Haryana law to contest panchayat polls is Class X for general candidates, Class VIII pass for women and Dalits, Class V for Dalit women."
+    },
+    {
+      "subject": "Polity (Panchayati Raj)",
+      "question": "Which of the following statements about the 73rd and 74th Constitution Amendment Act is/are correct?<br>1. It makes it mandatory for all States to establish a three-tier system of Government.<br>2. Representatives should be directly elected for five years.<br>3. There should be mandatory reservation of one-third of all seats in all Panchayats at all levels for women.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3",
+        "3 only"
+      ],
+      "answer": "2 and 3 only",
+      "explanation": ""
+    }
+  ],
+  "Polity (Governance)": [
+    {
+      "subject": "Polity (Governance)",
+      "question": "Which of the following statements about ‘delegation’ is/ are correct?<br>1. It is the abdication of responsibility.<br>2. It means conferring of specified authority by a lower authority to a higher one.<br>3. It is subject to supervision and review.<br>4. It is a method of dividing authority in the organization.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "3 only",
+        "2 and 4 only",
+        "3 and 4",
+        "1, 2 and 4"
+      ],
+      "answer": "2 and 4 only",
+      "explanation": "Delegation means conferring of specified authority by a lower authority to a higher one. It is a method of dividing authority in the organization."
+    },
+    {
+      "subject": "Polity (Governance)",
+      "question": "Constitutional safeguards available to Civil Servants are ensured by",
+      "image": "",
+      "options": [
+        "Article 310",
+        "Article 311",
+        "Article 312",
+        "Article 317"
+      ],
+      "answer": "Article 311",
+      "explanation": "The Constitution of India through Article 311, thus protects and safeguards the rights of civil servants in Government service against arbitrary dismissal, removal and reduction in rank. Such protection enables the civil servants to discharge their functions boldly, efficiently and effectively."
+    },
+    {
+      "subject": "Polity (Governance)",
+      "question": "Which one of the following statements about the All India Services is correct?",
+      "image": "",
+      "options": [
+        "The All India Services may be created by an Act of the Parliament.",
+        "The endorsement of the Rajya Sabha is not essential for the creation of the All India Services.",
+        "The rules of recruitment to the All India Services are determined by the UPSC.",
+        "The conditions of service to the All India Services may be altered by the UPSC."
+      ],
+      "answer": "The All India Services may be created by an Act of the Parliament.",
+      "explanation": "The Parliament can create new All-India Services (including an All-India Judicial Service), if the Rajya Sabha passes a resolution declaring that it is necessary or expedient in the national interest to do so."
+    }
+  ],
+  "Polity (Constitution)": [
+    {
+      "subject": "Polity (Constitution)",
+      "question": "Which of the following features were borrowed by the Constitution of India from the British Constitution?<br>1. Rule of Law<br>2. Law-making Procedure<br>3. Independence of Judiciary<br>4. Parliamentary System<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "2, 3 and 4",
+        "1 and 4 only",
+        "1, 2 and 4"
+      ],
+      "answer": "1 and 4 only",
+      "explanation": "Rule of Law and Parliamentary system are borrowed features of Constitution of India from British Constitution. Feature of Independence of Judiciary is taken from US Constitution. Law making procedure has been borrowed from Japan."
+    },
+    {
+      "subject": "Polity (Constitution)",
+      "question": "Which of the following statements is/are correct?<br>1. The Directive Principles of State Policy are meant for promoting social and economic democracy in India.<br>2. The Fundamental Rights enshrined in Part III of the Constitution of India are ordinarily subject to reasonable restrictions.<br>3. Secularism is one of the basic features of Constitution of any country.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "1 and 2 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1 and 2 only",
+      "explanation": "The Directive Principles of State Policy are meant for promoting social and economic democracy in India. The Fundamental Rights enshrined in Part III of the constitution of India are ordinarily subject to reasonable restrictions."
+    },
+    {
+      "subject": "Polity (Constitution)",
+      "question": "Who among the following was not a member of the Drafting Committee of the Constituent Assembly?",
+      "image": "",
+      "options": [
+        "N. G. Ayyangar",
+        "K. M. Munshi",
+        "B. N. Rau",
+        "Muhammad Saadulah"
+      ],
+      "answer": "B. N. Rau",
+      "explanation": "The Drafting Committee had seven members: Alladi Krishnaswami Ayyar, N. Gopalaswami Ayyangar ; B.R. Ambedkar, K.M Munshi, Mohammad Saadulla, B.L. Mitter and D.P. Khaitan. B N Rau was the Constitutional Advisor."
+    }
+  ],
+  "Polity (Parliament)": [
+    {
+      "subject": "Polity (Parliament)",
+      "question": "Which one of the following Schedules of the Constitution of India has fixed the number of Members of the Rajya Sabha to be elected from each State?",
+      "image": "",
+      "options": [
+        "Fifth Schedule",
+        "Third Schedule",
+        "Sixth Schedule",
+        "Fourth Schedule"
+      ],
+      "answer": "Fourth Schedule",
+      "explanation": "The Fourth Schedule to the Constitution provides for allocation of seats to the States and Union Territories in Rajya Sabha. The allocation of seats is made on the basis of the population of each State. Consequent on the reorganization of States and formation of new States, the number of elected seats in the Rajya Sabha allotted to States and Union Territories has changed from time to time since 1952."
+    },
+    {
+      "subject": "Polity (Parliament)",
+      "question": "A Joint Sitting of the Parliament is resorted to, for resolving the deadlock between two Houses of the Parliament for passing which of the following Bills?<br>1. Money Bill<br>2. Constitutional Amendment Bill<br>3. Ordinary Bill<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 and 3 only",
+        "3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "3 only",
+      "explanation": "A joint sitting of parliament is resorted to for resolving the deadlock between two houses of the parliament for passing of only Ordinary Bill and Finance Bill , not for Constitution amendment and Money Bill."
+    },
+    {
+      "subject": "Polity (Parliament)",
+      "question": "A Money Bill passed by the Lok Sabha can be held up by the Rajya Sabha for how many weeks?",
+      "image": "",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": "Two",
+      "explanation": "A Money Bill after having been passed by the Lok Sabha, and sent to Rajya Sabha for its recommendations, has to be returned to Lok Sabha by the Rajya Sabha, with in a period of fourteen days from the date of its receipt, with or without recommendations."
+    },
+    {
+      "subject": "Polity (Parliament)",
+      "question": "Which one of the following cannot be introduced first in the Rajya Sabha?",
+      "image": "",
+      "options": [
+        "Constitutional Amendment",
+        "CAG Report",
+        "Annual Financial Statement",
+        "Bill to alter the boundaries of any State"
+      ],
+      "answer": "Annual Financial Statement",
+      "explanation": "The Rajya Sabha cannot discuss the Annual Financial Statement."
+    }
+  ],
+  "Polity (Fundamental Rights & Duties)": [
+    {
+      "subject": "Polity (Fundamental Rights & Duties)",
+      "question": "The Fundamental Rights guaranteed in the Constitution of India can be suspended only by",
+      "image": "",
+      "options": [
+        "a proclamation of National Emergency",
+        "an Act passed by the Parliament",
+        "an amendment to the Constitution of India",
+        "the judicial decisions of the Supreme Court"
+      ],
+      "answer": "a proclamation of National Emergency",
+      "explanation": "During a national emergency, many Fundamental Rights of Indian citizens can be suspended. The six freedoms under Right to Freedom are automatically suspended. By contrast, the Right to Life and Personal Liberty cannot be suspended according to the original Constitution."
+    },
+    {
+      "subject": "Polity (Fundamental Rights & Duties)",
+      "question": "Article 21 of the Constitution of India includes<br>1. Rights of transgenders<br>2. Rights of craniopagus twins<br>3. Rights of mentally retarded women to bear a child<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "Article 21 of the Constitution of India, 1950 provides that, “No person shall be deprived of his life or personal liberty except according to procedure established by law.”"
+    }
+  ],
+  "Polity (Executive)": [
+    {
+      "subject": "Polity (Executive)",
+      "question": "The President of India is elected by an Electoral College comprising of elected members of which of the following?<br>1. Both the Houses of the Parliament<br>2. The Legislative Assemblies of States<br>3. The Legislative Councils of States<br>4. The Legislative Assemblies of NCT of Delhi and Puducherry<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3",
+        "1, 2 and 4",
+        "3 and 4"
+      ],
+      "answer": "1, 2 and 4",
+      "explanation": "The President is elected by the members of an electoral college consisting of the elected members of both the Houses of Parliament and the elected members of the Legislative Assemblies of States and the Union Territories of Delhi and Pondicherry."
+    }
+  ],
+  "Polity (Social Justice & Welfare)": [
+    {
+      "subject": "Polity (Social Justice & Welfare)",
+      "question": "Consider the following statements about the Scheduled Castes and the Scheduled Tribes under the provisions of the Constitution of India :<br>1. State can make any special provision relating to their admission to the Government educational institutions.<br>2. State can make any special provision relating to their admission to the private educational institutions aided by the State.<br>3. State can make any special provision relating to their admission to the private educational institutions not aided by the State.<br>4. State can make any special provision relating to their admission to the minority educational institutions as described in Article 30.<br>Which of the statements given above are correct?",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "3 and 4 only",
+        "1, 2 and 3 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": "1, 2 and 3 only",
+      "explanation": "1,2 and 3 are correct."
+    }
+  ],
+  "Polity (Constitutional Bodies)": [
+    {
+      "subject": "Polity (Constitutional Bodies)",
+      "question": "Which one of the following criteria got the highest weight for determination of shares of States in the formula given by the 14th Finance Commission?",
+      "image": "",
+      "options": [
+        "Population",
+        "Income distance",
+        "Area",
+        "Tax effort"
+      ],
+      "answer": "Income distance",
+      "explanation": "In the formula given by the Fourteen Finance Commission, income inequality in the states got 50% weightage in the tax distribution and population got 17.5% weightage. ‘Forest cover’ was assigned 7.5% weightage, ‘area’ 15 per cent weightage and tax effort got 10% weightage."
+    }
+  ],
+  "Polity (Judiciary)": [
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "A writ issued to secure the release of a person found to be detained illegally is",
+      "image": "",
+      "options": [
+        "Mandamus",
+        "Habeas corpus",
+        "Certiorari",
+        "Prohibition"
+      ],
+      "answer": "Habeas corpus",
+      "explanation": "“Habeas Corpus” is a Latin term which literally means “you may have the body.” The writ is issued to produce a person who has been detained , whether in prison or in private custody, before a court and to release him if such detention is found illegal."
+    },
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "Who among the following was the Chief Justice of India when Public Interest Litigation (PIL) was introduced in the Indian Judicial System?",
+      "image": "",
+      "options": [
+        "M. Hidayatullah",
+        "A. S. Anand",
+        "A. M. Ahmadi",
+        "P. N. Bhagwati"
+      ],
+      "answer": "P. N. Bhagwati",
+      "explanation": "In August 1985, P N Bhagwati became Chief Justice of India. As a supreme court judge, Bhagwati introduced the concepts of public interest litigation and absolute liability to the Indian judicial system."
+    }
+  ],
+  "Polity (Constitutional & Statutory Bodies)": [
+    {
+      "subject": "Polity (Constitutional & Statutory Bodies)",
+      "question": "The National Commission for Women was created by",
+      "image": "",
+      "options": [
+        "an amendment in the Constitution of India",
+        "a decision of the Union Cabinet",
+        "an Act passed by the Parliament",
+        "an order of the President of India"
+      ],
+      "answer": "an Act passed by the Parliament",
+      "explanation": "The National Commission for Women was set up as statutory body in January 1992 under the National Commission for Women Act, 1990 ( Act No. 20 of 1990 of Govt.of India) to review the Constitutional and legal safeguards for women; recommend remedial legislative measures, facilitate redressal of grievances and advise the Government on all policy matters affecting women."
+    }
+  ],
+  "Polity (Emergency Provisions)": [
+    {
+      "subject": "Polity (Emergency Provisions)",
+      "question": "Which one of the following statements about emergency provisions under the Constitution of India is not correct?",
+      "image": "",
+      "options": [
+        "The powers of the Union Executive extend to giving directions to the States concerning the exercise of their powers.",
+        "The Union Executive can issue a provision relating to reduction of salaries of employees of the State Governments.",
+        "Governors have no emergency powers like the President of India.",
+        "If the Governor of a State is satisfied that a situation has arisen whereby the financial stability or credit of the State is threatened, he may declare financial emergency in the State."
+      ],
+      "answer": "If the Governor of a State is satisfied that a situation has arisen whereby the financial stability or credit of the State is threatened, he may declare financial emergency in the State.",
+      "explanation": "If the Governor of a State is satisfied that a situation has arisen whereby the financial stability or credit of the State is threatened, he may declare financial emergency in the State."
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "Polity (Constitutional Bodies)": [
+    {
+      "subject": "Polity (Constitutional Bodies)",
+      "question": "The Chief Election Commissioner of India holds office for a period of",
+      "image": "",
+      "options": [
+        "six years",
+        "during the pleasure of the President",
+        "for 6 years or till the age of 65 years, whichever is earlier",
+        "for 5 years or till the age of 60 years, whichever is earlier"
+      ],
+      "answer": "for 6 years or till the age of 65 years, whichever is earlier",
+      "explanation": "The Chief Election Commissioner holds office for a term of six years or until they attain the age of 65 years, whichever is earlier."
+    }
+  ],
+  "Polity (Parliamentary Committees)": [
+    {
+      "subject": "Polity (Parliamentary Committees)",
+      "question": "Which of the following Committees are the Committees of Parliament?<br>1. Public Accounts Committee<br>2. Estimates Committee<br>3. Committee on Public Undertakings<br>Select the correct answer using the code given below",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "1 and 3",
+        "2 and 3",
+        "1, 2 and 3"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "There are three Financial Committees in the Indian Parliament mentioned below:\n1. Estimates Committee- This Committee consists of 30 members who are elected by the Lok Sabha every year from amongst its members. The term of the Committee is one year.\n2. Committee on Public Undertakings- The Committee on Public Undertakings consists of 22 members(15 members from Lok Sabha and 7 members from Rajya Sabha) .The term of the Committee is one year.\n3. Public Accounts Committee- This Committee consists of 22 members (15 members from Lok Sabha and 7 members from the Rajya Sabha.). The term of the Committee is one year."
+    }
+  ],
+  "Polity (Judiciary)": [
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "According to the Administrative Tribunal Act, 1985. the Central Administrative Tribunal adjudicates disputes and complaints with respect to the service of persons who are",
+      "image": "",
+      "options": [
+        "appointed to pubic services and posts in connection with the affairs of the Union except members of the Defence services",
+        "official and servants of the Supreme Court or any High Courts",
+        "members of the Secretarial staff of the Parliament or any state legislatures",
+        "members of the Defence services"
+      ],
+      "answer": "appointed to pubic services and posts in connection with the affairs of the Union except members of the Defence services",
+      "explanation": "The Central Administrative Tribunal has been established for adjudication of disputes with respect to recruitment and conditions of service of persons appointed to public services and posts in connection with the affairs of the Union or other local authorities within the territory of India."
+    },
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "Under which law it is prescribed that all proceedings in the Supreme Court of India shall be in English language?",
+      "image": "",
+      "options": [
+        "The Supreme Court Rules, 1966",
+        "A Legislation made by the Parliament",
+        "Article 145 of the Constitution of India",
+        "Article 348 of the Constitution of India"
+      ],
+      "answer": "Article 348 of the Constitution of India",
+      "explanation": "Article 348 of Indian Constitution mentions the language to be used in Supreme Court and the High Courts. According to the article 348, the language of all proceedings in the Supreme court and in every high court shall be English."
+    },
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "Which among the following conditions are necessary for the issue of writ of quo warranto?<br>1. The office must be public and must be created by a Statute or by the constitution itself.<br>2. The office must be a substantive one and not merely the function or employment of a servant at the will and during the pleasure of another.<br>3. There has been a contravention of the Constitution or a Statute or Statutory Instrument, in appointing such person to that office.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "1 and 3",
+        "2 and 3",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "explanation": "All the conditions given in the question are necessary for issuing writ of quo warranto. The conditions necessary for the issue of a writ of quo warranto are as follows :<br>(i) The office must be public and it must be created by a statue or by the constitution itself."
+    }
+  ],
+  "Polity (Parliament)": [
+    {
+      "subject": "Polity (Parliament)",
+      "question": "With reference to the conduct of government business in the Parliament of India, the term 'closure' refers to",
+      "image": "",
+      "options": [
+        "suspension of debate at the terminafan of a day's sitting of the Parliament",
+        "a rule of legislative procedure under which further debate on a motion can be hatted",
+        "the termination of a Parliamentary session",
+        "refusal on the part of tie Government to have the opposition look at important documents"
+      ],
+      "answer": "suspension of debate at the terminafan of a day's sitting of the Parliament",
+      "explanation": "\"Closure\" is one of the means by which a debate may be brought to a close by a majority decision of the House, even though all members wishing to speak have not done so."
+    },
+    {
+      "subject": "Polity (Parliament)",
+      "question": "With regard to the powers of the Rajya Sabha, which one among the following statements is not correct?",
+      "image": "",
+      "options": [
+        "A money bill cannot be introduced in the Rajya Sabha",
+        "The Rajya Sabha has no power either to reject or amend a money bill",
+        "The Rajya Sabha cannot discuss the Annual Financial Statement",
+        "The Rajya Sabha has no power to vote on the Demands for Grants"
+      ],
+      "answer": "The Rajya Sabha cannot discuss the Annual Financial Statement",
+      "explanation": "A Money Bill cannot be introduced in Rajya Sabha. Rajya Sabha has no power either to reject or amend a Money Bill. It can only make recommendations on the Money Bill. Whether a particular Bill is a Money Bill or not is to be decided by the Speaker of Lok Sabha. Rajya Sabha may discuss the Annual Financial Statement. It has no power to vote on the Demands for Grants."
+    }
+  ],
+  "Polity (Landmark Cases)": [
+    {
+      "subject": "Polity (Landmark Cases)",
+      "question": "In which one of the following cases the Supreme Court of India gave verdicts which have a direct bearing on the Centre-State relations?",
+      "image": "",
+      "options": [
+        "Keshavananda Bharati case",
+        "Vishakha case",
+        "S R Bommai case",
+        "Indira Sawhney case"
+      ],
+      "answer": "S R Bommai case",
+      "explanation": "S. R. Bommai v. Union of Indiawas a landmark judgment of the Supreme Court of India regarding provisions of Article 356 of the Constitution of India and related issues. This case had huge impact on Centre-State Relations. The misuse of Article 356 was stopped after this judgment.Article 356 deals with imposition of President's Rule over a State of India."
+    }
+  ],
+  "Polity (Fundamental Rights & Duties)": [
+    {
+      "subject": "Polity (Fundamental Rights & Duties)",
+      "question": "Which of the following are envisaged as being part of the 'Right against Exploitation' in the Constitution of India?<br>1. Prohibition of traffic in human beings and forced labour.<br>2. Abolition of untouchability.<br>3. Protection of the interests of the minorities.<br>4. Prohibition of employment of children in factories and mines.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "1 and 3",
+        "1 and 4",
+        "2, 3 and 4"
+      ],
+      "answer": "1 and 4",
+      "explanation": "Articles 23 and 24 of the Indian Constitution safeguard women and children and others against exploitation of various forms.\nArticle 23 declares slave trade, prostitution and human trafficking a punishable offence.\nArticle 24 of the Indian Constitution prohibits employment of children below the age of 14 years in dangerous jobs like factories and mines."
+    },
+    {
+      "subject": "Polity (Fundamental Rights & Duties)",
+      "question": "Which one among the following is not guaranteed by the Constitution of India?",
+      "image": "",
+      "options": [
+        "Freedom to move freely throughout the country",
+        "Freedom to assemble peacefully without arms",
+        "Freedom to own, acquire and dispose property anywhere in the country",
+        "Freedom to practice any trade or profession"
+      ],
+      "answer": "Freedom to own, acquire and dispose property anywhere in the country",
+      "explanation": "The Indian Constitution does not recognize property right as a fundamental right. In the year 1978, the 44th amendment eliminated the right to acquire, hold and dispose of property as a fundamental right."
+    }
+  ],
+  "Polity (State Government)": [
+    {
+      "subject": "Polity (State Government)",
+      "question": "Which of the following statements is/are correct?<br>Under the provisions of Article 200 of the Constitution of India the Governor of a state may<br>1. Withhold his assent to a Bill passed by the state legislature.<br>2. Reserve the Bill passed by the state legislature for consideration of the President.<br>3. Return the Bill, other than a money Bill, for reconsideration of the legislature.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "Only 1",
+        "1 and 2",
+        "2 and 3",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "explanation": "All of the above statements are correct."
+    },
+    {
+      "subject": "Polity (State Government)",
+      "question": "The Constitution of India divided the states of India in categories A, B, C and D in the year 1950. In this context which of the following statements is correct ?",
+      "image": "",
+      "options": [
+        "The Chief Commissioner was the executive head of category A states. The Rajpramukh was the executive head of category B states. The Governor was the executive head of categories C and D states",
+        "The Rajpramukh was the executive head of category A states. The Chief Commissioner was the executive head of categories B and C states. The Governor was the executive head of the category D states",
+        "The Governor was the executive head of category A states. The Rajpramukh was the executive head of category B states. The Chief Commissioner was the executive head of categories C and D states",
+        "The Governor was the executive head of category A states. The Chief Commissioner was the executive head of category B states. The Rajpramukh was the executive head of categories C and D states"
+      ],
+      "answer": "The Governor was the executive head of category A states. The Rajpramukh was the executive head of category B states. The Chief Commissioner was the executive head of categories C and D states",
+      "explanation": "The constitution of 1950 distinguished between three main types of states:\nThe Part A states were ruled by an elected governor and state legislature.\nThe Part B states were governed by a rajpramukh.\nThe Part C states were governed by a chief commissioner appointed by the President of India.\nThe Part D states were administered by a lieutenant governor appointed by the central government."
+    }
+  ],
+  "Polity (Elections)": [
+    {
+      "subject": "Polity (Elections)",
+      "question": "Which of the following condition/conditions must be fulfilled by the NRIs to be eligible to vote in elections in India?<br>1. They must be physically present in their place of origin to exercise their franchise.<br>2. NRIs whether they have acquired citizenship of other countries or not are eligible to vote.<br>3. Eligible NRIs have to register by filling up form 6-A with electoral registration office.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "1 and 3",
+        "Only 2",
+        "Only 3"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "NRIs can’t vote if they have acquired citizenship of other country."
+    }
+  ],
+  "Polity (DPSP)": [
+    {
+      "subject": "Polity (DPSP)",
+      "question": "The purpose of Directive Principles of State Policy is to",
+      "image": "",
+      "options": [
+        "lay down positive instructions which would guide the State Policy at all levels",
+        "implement Gandhiji's idea for a decentralised state",
+        "check the use of arbitrary powers by the government",
+        "promote welfare of the backward sections of the society"
+      ],
+      "answer": "lay down positive instructions which would guide the State Policy at all levels",
+      "explanation": "The purpose of Directive Principle of State Policy is to lay down positive instructions which would guide State Policy at all levels. The Directive Principles of State Policy contained in Part IV, Articles 36-51 of the Indian constitution. The Directive Principles may be said to contain the philosophy of the constitution. The Directive principles are broad directives given to the state in accordance with which the legislative and executive powers of the state are to be exercised."
+    }
+  ],
+  "Polity (Federalism & Centre-State Relations)": [
+    {
+      "subject": "Polity (Federalism & Centre-State Relations)",
+      "question": "Which one among the following pairs of level of government and legislative power is not correctly matched?",
+      "image": "",
+      "options": [
+        "Central Government : Union List",
+        "Local Governments : Residuary powers",
+        "State Governments : State List",
+        "Central and State Government : Concurrent List"
+      ],
+      "answer": "Local Governments : Residuary powers",
+      "explanation": "The State list contains 66 subjects of local or state importance. The state governments have the authority to make laws on these subjects. These subjects include police, local governments, trade, commerce and agriculture. Parliament has exclusive power to make any law with respect to any matter not enumerated in the Concurrent List or State List.<br>Note: Residuary Power retained by a governmental authority after certain powers have been delegated to other authorities."
+    }
+  ],
+  "Polity (Elections & Political Parties)": [
+    {
+      "subject": "Polity (Elections & Political Parties)",
+      "question": "Which one among the following is the distinguishing factor between a pressure group and a political party?",
+      "image": "",
+      "options": [
+        "Pressure groups are confined to a few, while political parties involve larger number of people",
+        "Pressure groups do not seek active political power, political parties do",
+        "Pressure groups do not politically motivate people, while political parties do",
+        "Political parties take political stance, while pressure groups do not bother about political issues"
+      ],
+      "answer": "Pressure groups do not seek active political power, political parties do",
+      "explanation": "Pressure groups do not seek active political power, political parties do. Political parties exist to gain power over governmental policy by winning elections for political office. Interest groups do not necessarily have their members run for office and they vote in a nonpartisan way, supporting candidates who promote their point of view."
+    }
+  ],
+  "Polity (Emergency Provisions)": [
+    {
+      "subject": "Polity (Emergency Provisions)",
+      "question": "While a proclamation of emergency is in operation the duration of the Lok Sabha can be extended for a period",
+      "image": "",
+      "options": [
+        "not exceeding three months",
+        "not exceedng nine-months",
+        "of one year at a time",
+        "of two years at a time"
+      ],
+      "answer": "of one year at a time",
+      "explanation": "While a proclamation of emergency is in operation, this period may be extended by Parliament by law for a period not exceeding one year at a time.Under Article 352 the president can declare a national emergency when the security of India or part of it is threatened by war or external aggression or armed rebellion."
+    }
+  ],
+  "Polity (Constitutional Framework)": [
+    {
+      "subject": "Polity (Constitutional Framework)",
+      "question": "Suppose a Legislation was passed by the Parliament imposing certain restrictions on newspapers. These included page ceiling, price and advertisements. The legislation is included in the Ninth Schedule to the Constitution of India. In this context, which one among the following statements is correct?",
+      "image": "",
+      "options": [
+        "The legislation is invalid as it violates the Freedom of Press",
+        "The legislation is valid by virtue of Article 31 B",
+        "The legislation is invalid as it imposes unreasonable restrictions under Article 19 (2) of the Constitution",
+        "The legislation is valid as the Press is not a citizen under Article 19 of the Constitution"
+      ],
+      "answer": "The legislation is valid by virtue of Article 31 B",
+      "explanation": "Article 31B of the Constitution of India ensured that any law in the 9th Schedule could not be challenged in courts and Government can rationalize its programme of social engineering by reforming land and agrarian laws. In other words laws under Ninth Schedule are beyond the purview of judicial review even though they violate fundamental rights enshrined under part III of the Constitution. On the one hand considerable power was given to legislature under Article 31B and on the other hand the power of judiciary was curtailed, this is the starting point of tussle between legislature and judiciary."
+    },
+    {
+      "subject": "Polity (Constitutional Framework)",
+      "question": "The Constitution of India is republican because it",
+      "image": "",
+      "options": [
+        "provides for an elected Parliament",
+        "provides for adult franchise",
+        "contains a bill of rights",
+        "has no hereditary elements"
+      ],
+      "answer": "provides for an elected Parliament",
+      "explanation": "The constitution of India is republican because it provides for an elected parliament."
+    },
+    {
+      "subject": "Polity (Constitutional Framework)",
+      "question": "Take the case of dignity and equal rights for women. How do democracies help?",
+      "image": "",
+      "options": [
+        "Women in democracies have equal degree of political representation in legislatures",
+        "Women in democracies have guaranteed rights and are always treated with respect",
+        "Women in democracies are not subjected sex discrimination in most aspects of social life",
+        "In democracies, the principle of equality is accepted as legal norm, which makes it easier to guarantee their freedom and dignity"
+      ],
+      "answer": "In democracies, the principle of equality is accepted as legal norm, which makes it easier to guarantee their freedom and dignity",
+      "explanation": "Right to Equality refers to the equality in the eyes of law, discarding any unfairness on grounds of caste, race, religion, place of birth and sex. It provides equal right to women."
+    }
+  ],
+  "Polity (Preamble)": [
+    {
+      "subject": "Polity (Preamble)",
+      "question": "Which one among the following statements is not correct?<br>The word 'socialist' in the Preamble of the Constitution of India read with",
+      "image": "",
+      "options": [
+        "Article 39 (d), would enable the court to uphold the constitutionality of nationalisation laws",
+        "Article 14, would enable the court to strike down a-statute which failed to achieve the socialist goal to the fullest extent",
+        "Article 25, would enable the court to ensure freedom guaranteed under that Article",
+        "Article 23, would enable the court to reduce inequality in income and status"
+      ],
+      "answer": "Article 25, would enable the court to ensure freedom guaranteed under that Article",
+      "explanation": ""
+    }
+  ],
+  "Polity (Social Justice)": [
+    {
+      "subject": "Polity (Social Justice)",
+      "question": "Consider the following statements According to Hindu Law, marriage is defined as<br>1. A contract<br>2. A sacrament<br>3. Mutual understanding<br>4. Indissoluble<br>Which of the statement given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "1 and 3",
+        "2 and 4"
+      ],
+      "answer": "Only 2",
+      "explanation": "According to Hindu Law, marriage is defined as a Holy Sanskar (Sacrament)."
+    }
+  ],
+  "Polity (Fundamental Duties)": [
+    {
+      "subject": "Polity (Fundamental Duties)",
+      "question": "Which one among the following is a Fundamental Duties of citizens under the Constitution of India?",
+      "image": "",
+      "options": [
+        "To provide friendly co-operation to the people of the neighbouring countries",
+        "To protect monuments of national importance",
+        "To defend the country and render national service when called upon to do so",
+        "To know more and more about the history of India"
+      ],
+      "answer": "To defend the country and render national service when called upon to do so",
+      "explanation": "The Forty Second Constitution Amendment Act, 1976 has incorporated ten Fundamental Duties in Article 51(a) of the constitution of India. The 86th Constitution Amendment Act 2002 has added one more Fundamental Duty in Article 51(a) of the constitution of India. As a result, there are now 11 Fundamental Duties of the citizen of India."
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "Polity (Union Executive)": [
+    {
+      "subject": "Polity (Union Executive)",
+      "question": "Consider the following statements<br>1. The Ministries Departments of the Union Government are created by the Prime Minister.<br>2. The Cabinet Secretary is the Ex-officio Chairman of the Civil Services Board.<br>Which of the statement given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Only 2",
+      "explanation": "The Government of India (Allocation of Business) Rules, 1961 are made by the President of India under Article 77 of the Constitution for the allocation of business of the Government of India. The Ministries/Departments of the Government are created by the President on the advice of the Prime Minister under these Rules. The Cabinet Secretary is the ex-officio Chairman of the Civil Services Board of the Republic of India."
+    },
+    {
+      "subject": "Polity (Union Executive)",
+      "question": "In which one of the following Minsitries the census organisation has been functioning on a permanent footing since 1961?",
+      "image": "",
+      "options": [
+        "Health and Family Welfare",
+        "Home Affairs",
+        "Social Justice and Empowerment",
+        "Human Resource Development"
+      ],
+      "answer": "Home Affairs",
+      "explanation": "The responsibility of conducting the decennial Census rests with the Office of the Registrar General and Census Commissioner, India under Ministry of Home Affairs, Government of India."
+    },
+    {
+      "subject": "Polity (Union Executive)",
+      "question": "Consider the following Vice-Presidents of India<br>1. V.V Giri 2. M Hidayatullah<br>3. BD Jatti 4. GS Pathak<br>Which one of the following is the correct chronology of their tenures?",
+      "image": "",
+      "options": [
+        "1, 4, 3, 2",
+        "2, 1, 3, 4",
+        "3, 2, 1,4",
+        "4, 1,3, 2"
+      ],
+      "answer": "1, 4, 3, 2",
+      "explanation": "Correct chronological order of the Vice-Presidents of India is as follows:\n1. V.V .Giri - 1967\n2. G.S Pathak 1969\n3. B.D Jatti-1974\n4. M Hidayatullah- 1979"
+    }
+  ],
+  "Polity (Commissions & Committees)": [
+    {
+      "subject": "Polity (Commissions & Committees)",
+      "question": "The Veerapa Moily Commission in its report on Administrative Reforms among other aspects has suggested doing away with which one of the following pairs of Articles of the Constitution of India?",
+      "image": "",
+      "options": [
+        "Articles 305 and 306",
+        "Articles 307 and 308",
+        "Articles 308 and 309",
+        "Articles 310 and 311"
+      ],
+      "answer": "Articles 310 and 311",
+      "explanation": "The Second Administrative Reforms Commission (ARC) was constituted under the Chairmanship of Veerappa Moily in 2005 for preparing a detailed blueprint for revamping the public administrative system.\nArticle 310 -Tenure of office of persons serving the Union or a State\nArticle 311 -Dismissal, removal or reduction in rank of persons employed in civil capacities under the Union or a State."
+    }
+  ],
+  "Polity (Centre-State Relations)": [
+    {
+      "subject": "Polity (Centre-State Relations)",
+      "question": "With reference to the Constitution of India, which one of the following pairs is not correctly matched<br>Subject List<br>(a) Stock Exchanges The State List<br>(b) Forest The Concurrent List<br>(c) Insurance The Union List<br>(d) Marriage and Divorce The Concurrent List",
+      "image": "",
+      "options": [
+        "Stock Exchanges The State List",
+        "Forest The Concurrent List",
+        "Insurance The Union List",
+        "Marriage and Divorce The Concurrent List"
+      ],
+      "answer": "Stock Exchanges The State List",
+      "explanation": "Stock Exchange is the subject of union list."
+    }
+  ],
+  "Polity (Local Government)": [
+    {
+      "subject": "Polity (Local Government)",
+      "question": "Which of the following is not a recommendation of the Ashok Mehta Committee on Panchayati Raj ?",
+      "image": "",
+      "options": [
+        "Open participation of political parties in Panchayati Raj affairs",
+        "Creation of a three-tier system",
+        "Reservation of seats for Scheduled Castes and Scheduled Tribes",
+        "Compulsory powers of taxation to Panchayati Raj Institution"
+      ],
+      "answer": "Creation of a three-tier system",
+      "explanation": "Creation of a three-tier system was not the recommendation of Ashok Mehta Committee. According to this committee,the 3-tier system of Panchayati Raj should be replaced by the 2-tier system. Ashoka Mehta committee was appointed by the Janata Government under the chairmanship of Ashoka Mehta."
+    }
+  ],
+  "Polity (Parliament)": [
+    {
+      "subject": "Polity (Parliament)",
+      "question": "Who among the following was the first Speaker of the Lok Sabha?",
+      "image": "",
+      "options": [
+        "M A Ayyangar",
+        "G V Mavalankar",
+        "Sardar Hukam Singh",
+        "N Sanjiva Reddy"
+      ],
+      "answer": "G V Mavalankar",
+      "explanation": "Ganesh Vasudev Mavalankar became the Speaker of the Provisional Parliament on 26 November 1949 and continued to occupy the office till the 1st Lok Sabha that was constituted in 1952."
+    }
+  ],
+  "Polity (State Government)": [
+    {
+      "subject": "Polity (State Government)",
+      "question": "According to Article 164(1) of the Constitution of India, in three States there shall be a Minister in charge of tribal welfare who may in addition be in charge of the welfare of the Scheduled Castes and Backward Classes. Which one of the following States is not covered by the Article?",
+      "image": "",
+      "options": [
+        "Jharkhand",
+        "Punjab",
+        "Madhya Pradesh",
+        "Odisha"
+      ],
+      "answer": "Punjab",
+      "explanation": "According to Article 164(1) in the State of Bihar, Madhya Pradesh and Orissa, there shall be a Minister in charge of tribal welfare who may in addition be in charge of the welfare of the Scheduled Castes and backward classes or any other work. Punjab is not covered by the Article."
+    }
+  ],
+  "Polity (Sources of Constitution)": [
+    {
+      "subject": "Polity (Sources of Constitution)",
+      "question": "Match the following<br>List I (Provision of the Constitution of India) List II (Source)<br>A. Amendment of the Constitution of Constitution Germany<br>B. Directive Principles Constitution of Canada<br>C. Emergency Power of the President Constitution of South Africa<br>D. The Union-State Relations Irish Constitution",
+      "image": "",
+      "options": [
+        "A-1 B-2 C-4 D-3",
+        "A-3 B-4 C-1 D-2",
+        "A-1 B-4 C-2 D-3",
+        "A-3 B-7 C-4 D-2"
+      ],
+      "answer": "A-3 B-4 C-1 D-2",
+      "explanation": "Constitution of India is unique in itself. Many features of our constitution are borrowed from various sources around the world.\n1. Amendment of the constitution - Constitution of South Africa\n2. Directive Principles- Irish Constitution\n3. Emergency Powers of the President- Constitution of the Germany\n4. The Union State Relations- Constitution of Canada"
+    }
+  ],
+  "Polity (Constitutional Bodies)": [
+    {
+      "subject": "Polity (Constitutional Bodies)",
+      "question": "Consider the following statements with respect to the Attorney General of India<br>1. He is appointed by the President.<br>2. He must have the same qualifications as are required by a Judge of High Court.<br>3. In the performance of his duties he shall have the right of audience in all courts of India.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "1 and 3",
+        "2 and 3",
+        "1, 2 and 3"
+      ],
+      "answer": "1 and 3",
+      "explanation": "The Attorney General of India is the chief legal advisor of Indian government. He is appointed by the President of India under Article 76(1) of the Constitution. He must be a person qualified to be appointed as a Judge of the Supreme Court. The Attorney General has the right of audience in all Courts in India as well as the right to participate in the proceedings of the Parliament. He holds office during the pleasure of the President."
+    }
+  ],
+  "Polity (Fundamental Rights & Duties)": [
+    {
+      "subject": "Polity (Fundamental Rights & Duties)",
+      "question": "In which of the following years the Fundamental Duties have been added to the existent Fundamental Rights in the Constitution of India?",
+      "image": "",
+      "options": [
+        "1965",
+        "1976",
+        "1979",
+        "1982"
+      ],
+      "answer": "1976",
+      "explanation": "The Fundamental Duties were added to the Constitution by the 42nd Amendment in 1976 on the recommendations of the Swaran Singh Committee. They were Originally ten in number, but by the 86th Amendment in 2002 they were increased to eleven."
+    }
+  ],
+  "Polity (Parliamentary Committees)": [
+    {
+      "subject": "Polity (Parliamentary Committees)",
+      "question": "Which one of the following is the largest Committee of the Parliament?",
+      "image": "",
+      "options": [
+        "The Public Accounts Committee",
+        "The Estimates Committee",
+        "The Committee on Public Undertakings",
+        "The Committee on Petitions"
+      ],
+      "answer": "The Estimates Committee",
+      "explanation": "The estimates committee is the largest committee of the parliament. This Committee consists of 30 members who are elected by the Lok Sabha every year from amongst its members. The term of office of the Committee is one year. The committee was constituted in 1950 on the recommendation of John Mathai, the then finance minister of India."
+    }
+  ]
+}

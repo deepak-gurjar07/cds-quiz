@@ -1,0 +1,150 @@
+{
+  "Polity (Judiciary)": [
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "Assertion (A) An award made by a Lok Adalat is deemed be a decree of a Civil Court.<br>Reason (R) Award of Lok Adalat is final and binding on all parties, and no appeal lies against thereto before any court",
+      "image": "",
+      "options": [
+        "Bath A and R are true and R is the correct explanation of A",
+        "Both A and R are true, but R is not the correct explanation of A",
+        "A is true, but R is false",
+        "A is false, but R is true"
+      ],
+      "answer": "Both A and R are true, but R is not the correct explanation of A",
+      "explanation": "The award of the Lok Adalat is fictionally deemed to be decrees of Court and therefore the court has all the powers in relation thereto as it has in relation to a decree passed by itself. This includes the powers to extend time in appropriate cases. The award passed by the Lok Adalat is the decision of the court itself, though, arrived at by the simpler method of conciliation instead of the process of arguments in court."
+    },
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "The Bombay High Court does not have a bench at which one of the following places?",
+      "image": "",
+      "options": [
+        "Nagpur",
+        "Panaji",
+        "Pune",
+        "Aurangabad"
+      ],
+      "answer": "Pune",
+      "explanation": "The Bombay High Court has benches in Nagpur, Aurangabad and Panaji."
+    }
+  ],
+  "Polity (Centre-State Relations)": [
+    {
+      "subject": "Polity (Centre-State Relations)",
+      "question": "Sarkaria Commission was established to study",
+      "image": "",
+      "options": [
+        "President and Governoers' relations",
+        "Centre-State relations",
+        "State and Panchayat body relations",
+        "President and Prime Minister' relations"
+      ],
+      "answer": "Centre-State relations",
+      "explanation": "Sarkaria Commission was set up by the central government of India in June 1983 to examine the relationship and balance of power between state and central governments in the country and suggest changes within the framework of Constitution of India."
+    }
+  ],
+  "Polity (Fundamental Rights & Duties)": [
+    {
+      "subject": "Polity (Fundamental Rights & Duties)",
+      "question": "Which of the following statements is/are correct?<br>Article 26 of the Constitution of India states that subject to public order, morality and health, every religious denomination or any section there of shall have the right.<br>1. to establish and maintain institutions for religious and charitable purposes.<br>2. to manage its own affairs in matters of religion.<br>3. to own and acquire movable and immovable property.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "Only 1",
+        "1 and 3",
+        "1 and 3",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "explanation": "Article 26 of the Indian Constitution states freedom to manage religious affairs subject to public order, morality and health, every religious denomination or any section thereof shall have the right-\n(a) to establish and maintain institutions for religious and charitable purposes;\n(b) to manage its own affairs in matters of religion;\n(c) to own and acquire movable and immovable property; and\n(d) to administer such property in accordance with law"
+    }
+  ],
+  "Polity (Parliamentary Committees)": [
+    {
+      "subject": "Polity (Parliamentary Committees)",
+      "question": "Consider the following statements on Parliamentary Committees<br>1. Members of the Rajya Sabha are not associated with the Committees on Public Accounts and Public Undertakings.<br>2. Members of the Committee on Estimates are drawn from both the Lok Sabha and the Rajya Sabha.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Neither 1 nor 2",
+      "explanation": "Committee on Public Accounts and Committee on Public Undertakings consist of 15 members elected by the Lok Sabha and 7 members of the Rajya Sabha.Committee on Estimates consists of 30 members who are elected by the Lok Sabha every year from amongst its members."
+    }
+  ],
+  "Polity (Local Government)": [
+    {
+      "subject": "Polity (Local Government)",
+      "question": "The Balwant Rai Mehta Committee recommended which one of the following Panchayati Raj structures?",
+      "image": "",
+      "options": [
+        "Gram Panchayat at the village level and Panchayat Samiti at the block level only",
+        "Panchayat Samiti at the block level and Zilla Parishad at the district level only",
+        "Gram Panchayat at the village level, Panchayat Samiti at the block level and Zilla Parishad at the district level",
+        "Gram Panchayat at the village level and Zilla Parishad Parishad at the district level only"
+      ],
+      "answer": "Gram Panchayat at the village level, Panchayat Samiti at the block level and Zilla Parishad at the district level",
+      "explanation": "The Balwant Rai Mehta Committee was appointed by the Government of India in January 1957 to examine the working of the Community Development Programme(1952).It recommended a 3-tier Panchayati Raj system-Gram Panchayat at the village level, Panchayat Samiti at the block level, and Zila Parishad at the district level."
+    }
+  ],
+  "Polity (Constitutional Framework)": [
+    {
+      "subject": "Polity (Constitutional Framework)",
+      "question": "Consider the following statements<br>1. Article 46 of the Constitution of India provides for free legal aid to Scheduled Castes and Scheduled Tribes.<br>2. Article 14 of the Constitution of India provides for equality before law.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Only 2",
+      "explanation": "Article 46 deals with Promotion of educational and economic interests of the weaker sections of the people, and in particular, of the Scheduled Castes and the Scheduled Tribes and shall protect them from social injustice and all forms of exploitation. It does not provide free legal aid to them. According to Article 14, \"the State shall not deny to any person equality before the law or equal protection of the laws within the territory of India\"."
+    }
+  ],
+  "Polity (Constitutional Bodies)": [
+    {
+      "subject": "Polity (Constitutional Bodies)",
+      "question": "Consider the following statements<br>1. The Chairman and the Members of the UPSC are appointed by the President.<br>2. The Chairman and the Members of the UPSC are eligible for further employment under the Government.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Only 1",
+      "explanation": "According to Article 316(a)of the Indian Constitution, the chairman and the members of the UPSC are appointed by the president. Under Article 316(3) a person who holds office as a member of a Public Service Commission shall, on the expiration of his term of office, be ineligible for re-appointment to that office."
+    }
+  ],
+  "Polity (Union Executive)": [
+    {
+      "subject": "Polity (Union Executive)",
+      "question": "Department of Official Language (Raj Bhasha Vibhag) comes under which one of the following Ministries?",
+      "image": "",
+      "options": [
+        "Ministry of Culture",
+        "Ministry of Home Affairs",
+        "Ministry of Human Resource Development",
+        "Ministry of Information and Broadcasting"
+      ],
+      "answer": "Ministry of Home Affairs",
+      "explanation": "Department of Official language(Raj Bhasha Vibhag) comes under Ministry of Home affairs."
+    }
+  ],
+  "Polity (Special Provisions)": [
+    {
+      "subject": "Polity (Special Provisions)",
+      "question": "With respect to Article 371 A of the Constitution of India, the Governor of which one of the following States has special responsibility with respect to law and order of the State?",
+      "image": "",
+      "options": [
+        "Asom",
+        "Manipur",
+        "Nagaland",
+        "Andhra Pradesh"
+      ],
+      "answer": "Nagaland",
+      "explanation": "Article 371A deals with the special provision with respect to the State of Nagaland."
+    }
+  ]
+}

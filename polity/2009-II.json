@@ -1,0 +1,273 @@
+{
+  "Polity (State Legislature)": [
+    {
+      "subject": "Polity (State Legislature)",
+      "question": "Who among the following recommends to the Parliament for the abolition of the Legislative Council in a State?",
+      "image": "",
+      "options": [
+        "The President of India",
+        "The Governor of the concerned State",
+        "The Legislative Council of the concerned State",
+        "The Legislative Assembly of the concerned State"
+      ],
+      "answer": "The Legislative Assembly of the concerned State",
+      "explanation": "The legislative assembly of the concerned state recommends to the parliament for the abolition of the legislative council in a state (Article 169)."
+    },
+    {
+      "subject": "Polity (State Legislature)",
+      "question": "Which one of the following states does not have Vidhan Parishad?",
+      "image": "",
+      "options": [
+        "Bihar",
+        "Maharashtra",
+        "Tamil Nadu",
+        "Uttar Pradesh"
+      ],
+      "answer": "Tamil Nadu",
+      "explanation": "Up to 2014, seven (out of twenty-nine) states have a Legislative Council: Andhra Pradesh, Bihar, Jammu and Kashmir, Karnataka, Maharashtra, Telangana and Uttar Pradesh.Tamilnadu does not have Legislative Council."
+    }
+  ],
+  "Polity (Commissions & Committees)": [
+    {
+      "subject": "Polity (Commissions & Committees)",
+      "question": "The Sachar Committee Report pertains to",
+      "image": "",
+      "options": [
+        "Indian federalism",
+        "Economic development of backward regions",
+        "Indian Muslims",
+        "OBC's"
+      ],
+      "answer": "Indian Muslims",
+      "explanation": "The Rajinder Sachar Committee was commissioned to prepare a report on the latest social, economic and educational condition of the Muslim community of India. It was appointed by the Indian Prime Minister Manmohan Singhin 2005."
+    }
+  ],
+  "Polity (Local Government)": [
+    {
+      "subject": "Polity (Local Government)",
+      "question": "The 73rd Amendment of the Constitution provided constitutional status to the Panchayati Raj Institutions. Which of the following are the main features of this provision?<br>1. A three-tier system of Panchayati Raj for all states.<br>2. Panchayat election in every 5 years.<br>3. Not less than 33% of seats are reserved for women.<br>4. Constitution of district planning committies to prepare development plans.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "1, 3 and 4",
+        "1, 2 and 4",
+        "2, 3 and 4"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "The salient features of the 73rd Amendment Act, 1992 are: -\n· To provide 3-tier system of Panchayati Raj for all States having population of over 20 lakhs.\n· To hold Panchayat elections regularly every 5 years.\n· To provide reservation of seats for Scheduled Castes, Scheduled Tribes and women (not less than 33%)\n· To appoint State Finance Commission to make recommendations as regards the financial powers of the Panchayats.\n· District planning committee to role of consolidate the plans prepared by panchayats and municiplalities was provided as per 74th Amendment."
+    }
+  ],
+  "Polity (Fundamental Rights & Duties)": [
+    {
+      "subject": "Polity (Fundamental Rights & Duties)",
+      "question": "Which of the following would be construed as a reasonable restriction of the right to freedom'?",
+      "image": "",
+      "options": [
+        "When the state disallows a candidate from securing votes in the name of religion",
+        "When the state disallows citizens from forming a club out of State funds that denies access to women",
+        "When the Government of Nagaland disallows temporary residents to buy immovable property in Nagaland.",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "explanation": ""
+    },
+    {
+      "subject": "Polity (Fundamental Rights & Duties)",
+      "question": "Which one of the following rights conferred by the Constitution of India is also available to non-citizens?",
+      "image": "",
+      "options": [
+        "Freedom of speech, assembly and form association",
+        "Freedom to move, reside and settle in any part of the territory of India",
+        "Freedom to acquire property or to carry on any occupation, trade or business",
+        "Right to constitutional remedies"
+      ],
+      "answer": "Freedom to acquire property or to carry on any occupation, trade or business",
+      "explanation": "Freedom to acquire property or to carry on any occupation trade or business is also available to non citizens."
+    }
+  ],
+  "Polity (Union Executive)": [
+    {
+      "subject": "Polity (Union Executive)",
+      "question": "In India the Supreme Command of the Armed Forces is, vested in the President. This means that in the exercise of this power",
+      "image": "",
+      "options": [
+        "he/she cannot be regulated by law",
+        "he/she shall be regulated by law",
+        "during war, the President seeks advice only from the Chiefs of the Armed Forces",
+        "during war the President can suspended the Fundamental Rights of citizens"
+      ],
+      "answer": "he/she shall be regulated by law",
+      "explanation": "According to Article 53(b) of the Indian Constitution the supreme command of the Defence Forces of the Union shall be vested in the President and the exercise thereof shall be regulated by law."
+    },
+    {
+      "subject": "Polity (Union Executive)",
+      "question": "Who among the following Indian Prime Ministers could not vote for himself during the 'Vote of Confidence' that he was seeking from the Lok Sabha?",
+      "image": "",
+      "options": [
+        "VP Singh",
+        "PV Narasimha Rao",
+        "Chandra Sekhar",
+        "Manmohan Singh"
+      ],
+      "answer": "PV Narasimha Rao",
+      "explanation": ". P V Narasimha Rao could not vote for himself during vote of confidence."
+    },
+    {
+      "subject": "Polity (Union Executive)",
+      "question": "Who among the following was elected President of India unopposed?",
+      "image": "",
+      "options": [
+        "Dr Rajendra Prasad",
+        "Dr S Radhakrishnan",
+        "Dr Neelam Sanjeeva Reddy",
+        "K R Narayanan"
+      ],
+      "answer": "Dr Neelam Sanjeeva Reddy",
+      "explanation": "Dr.Neelam Sanjiva Reddy was the sixth President of India. After the death of Fakhruddin Ali Ahmed in office,Reddy was elected unopposed. He was only President to be elected thus, after being unanimously supported by all political parties including the opposition Congress party. He was elected president on 21 July 1977."
+    },
+    {
+      "subject": "Polity (Union Executive)",
+      "question": "If the Prime Minister is a member of the Rajya Sabha",
+      "image": "",
+      "options": [
+        "He/she has to get elected to the Lok Sabha within 6 months",
+        "He/she can declare the government's policies only in the Rajya Sabha",
+        "He/she cannot take part in the voting when a vote of no confidence is under consideration",
+        "He/she cannot take part in the budget deliberation in the Lok Sabha"
+      ],
+      "answer": "He/she cannot take part in the voting when a vote of no confidence is under consideration",
+      "explanation": "He/she cannot take part in the voting when a vote of no confidence is under consideration."
+    }
+  ],
+  "Polity (Directive Principles)": [
+    {
+      "subject": "Polity (Directive Principles)",
+      "question": "Which one of the following is not a correct description of the Directive Principles of State Policy?",
+      "image": "",
+      "options": [
+        "Directive Principles are not enforceable by the courts",
+        "Directive Principles have a political sanction",
+        "Directive Principles are declaration of objective for State Legislation",
+        "Directive Principles promise equal income and free health care for all Indians"
+      ],
+      "answer": "Directive Principles promise equal income and free health care for all Indians",
+      "explanation": "The Directive Principles of State Policy are guidelines for creating a social order characterized by social, economic, and political justice, liberty, equality, and fraternity as enunciated in the constitution's preamble. It does not promise equal income and free healthcare for all Indians."
+    }
+  ],
+  "Polity (Judiciary)": [
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "Which one of the following jurisdictions of the Indian judiciary covers Public Interest Litigation?",
+      "image": "",
+      "options": [
+        "Original Jurisdiction",
+        "Appellate Jurisdiction",
+        "Epistolary Jurisdiction",
+        "Advisory Jurisdiction"
+      ],
+      "answer": "Appellate Jurisdiction",
+      "explanation": "PIL (Public Interest Litigation) writ petition can be filed in Supreme Court under Article 32 only if a question concerning the enforcement of a fundamental right is involved. Under Article 226, a writ petition can be filed in a High court whether or not a Fundamental Right is involved. Thus, it comes under appellate jurisdiction."
+    }
+  ],
+  "Polity (Parliament)": [
+    {
+      "subject": "Polity (Parliament)",
+      "question": "The quorum for Joint Sitting of the Indian Parliament is",
+      "image": "",
+      "options": [
+        "One- twelveth of the total number of members of the House",
+        "One-sixth of the total numbers of members of the House",
+        "One-tenth of the total number of members of the House",
+        "Two-third of the total number of members of the House"
+      ],
+      "answer": "One-tenth of the total number of members of the House",
+      "explanation": "The quorum to constitute a joint sitting shall be one- tenth of the total number of members of the Houses."
+    },
+    {
+      "subject": "Polity (Parliament)",
+      "question": "Identify the correct sequence of passing a Budget in the Parliament",
+      "image": "",
+      "options": [
+        "Vote on Account, Finance Bill, Appropriation Bill Discussion on Budget",
+        "Finance Bill, Appropriation Bill, Discussion on Budget, Vote on Accounts",
+        "Discussion on Budget, Vote on Account, Finance Bill, Appropriation Bill",
+        "Discussion on Budget, Appropriation Bill, Finance Bill, Vote on Account"
+      ],
+      "answer": "Discussion on Budget, Appropriation Bill, Finance Bill, Vote on Account",
+      "explanation": "The correct sequence is, Discussion on Budget, Appropriation Bill, Finance Bill, Vote on Account."
+    },
+    {
+      "subject": "Polity (Parliament)",
+      "question": "The function of a Protem Speaker is to",
+      "image": "",
+      "options": [
+        "conduct the proceeding of the House in the absence of the Speaker",
+        "officiate as Speaker when the Speaker is unlikely to be elected",
+        "swear members and hold charge till a regular Speaker is elected",
+        "scrutinize the authenticity of the election certificates of members"
+      ],
+      "answer": "swear members and hold charge till a regular Speaker is elected",
+      "explanation": "Protem Speaker performs the duties of the office of the Speaker from the commencement of the sitting of the new Lok Sabha till the election of the Speaker. Protem speaker is mainly an operating and temporary speaker."
+    }
+  ],
+  "Polity (Anti-Defection Law)": [
+    {
+      "subject": "Polity (Anti-Defection Law)",
+      "question": "According to the Constitution (Fifty Second Amendment Act, 1985 as amended in 2003, a legislator attracts disqualification under the 10th Schedule if<br>1. he voluntarily gives up the membership of the party on whose ticket he was elected.<br>2. he votes or abstains from voting contrary to any direction issued by his political party.<br>3. as a result of split, less than one third of the members formed a new group or party in the house.<br>4. a member who has been elected as a independent member joins any political party.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "2 and 3",
+        "1, 2 and 4",
+        "1 and 3",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "explanation": "The Tenth Schedule ( Anti-Defection Act) was included in the Constitution in 1985 by the Rajiv Gandhi ministry and sets the provisions for disqualification of elected members on the grounds of defection to another political party."
+    }
+  ],
+  "Polity (Constitutional Bodies)": [
+    {
+      "subject": "Polity (Constitutional Bodies)",
+      "question": "Which one of the following Commissions is not provided in the Constitution of India?",
+      "image": "",
+      "options": [
+        "Planning Commission",
+        "UPSC",
+        "Finance Commission",
+        "Election Commission"
+      ],
+      "answer": "Planning Commission",
+      "explanation": "The Planning Commission was set up by a Resolution of the Government of India in March 1950.It is not provided in the constitution of India."
+    }
+  ],
+  "Polity (Citizenship)": [
+    {
+      "subject": "Polity (Citizenship)",
+      "question": "Consider the following statements<br>1. A person who was born on January, 26th, 1951 in Rangoon, whose father was a citizen of India by birth at the time of his birth is deemed to be an Indian citizen by descent.<br>2. A person who was born on July, 1st 1988 in Itanagar, whose mother is a citizen of India at the time of his birth but the father was not, is deemed to be a citizen of India by birth.<br>Which of the statements given above is/are corrcet?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "A person born in India on or after 26th January 1950 but before 1st July 1987 is a citizen of India by birth irrespective of the nationality of his parents, considered citizen of India by birth if either of his parents is a citizen of India at the time of his birth. The citizenship of India is mentioned in Articles 5 to 11 (Part II)."
+    }
+  ],
+  "Polity (Elections)": [
+    {
+      "subject": "Polity (Elections)",
+      "question": "Under which of the following conditions security deposits of a candidate contesting for a Lok Sabha seat is returned to him/her?<br>1. The nomination made by the candidate if found to be invalid.<br>2. The candidate has withdrawn his/her nomination even though it is found valid.<br>3. The candidate lost the polls but secured l/6th of the total number of valid votes polled in that election.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "Only 3",
+        "2 and 3",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "explanation": "The deposit made by a candidate shall be returned if the following conditions are satisfied:-\n(i) the candidate is not shown in the list of contesting candidates, that is to say, either his nomination was rejected or after his nomination was accepted, he withdrew his candidature; or\n(ii) he dies before the commencement of the poll; or\n(iii) he is elected; or\n(iv) he is not elected but gets more than 1/6th of the total number of valid votes polled by all the candidates at the election."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "Polity (Judiciary)": [
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "Which among the following writs is issued to quash the order of a Court or Tribunal?",
+      "image": "",
+      "options": [
+        "Mandamus",
+        "Prohibition",
+        "Quo Warranto",
+        "Certiorari"
+      ],
+      "answer": "Certiorari",
+      "explanation": "The writ of certiorari can be issued by the Supreme Court or any High Court for quashing the order already passed by an inferior court, tribunal or quasi-judicial author-ity."
+    }
+  ],
+  "Polity (Constitutional Provisions)": [
+    {
+      "subject": "Polity (Constitutional Provisions)",
+      "question": "Which among the following statements about the power to change the basic structure of the Constitution of India is/are correct?<br>1. It falls outside the scope of the amending powers of the Parliament.<br>2. It can be excercised by the people through representatives in a Constituent Assembly.<br>3. It falls within the consitituent powers of the Parliament.<br>Select the correct answer using the code below.",
+      "image": "",
+      "options": [
+        "1 and 3",
+        "1 and 2",
+        "1 only",
+        "2 and 3"
+      ],
+      "answer": "1 only",
+      "explanation": "If the Supreme Court finds any law made by the Parliament inconsistent with the constitution, it has the power to declare that law to be invalid. Thus, to preserve the ideals and philosophy of the original constitution, the Supreme Court has laid down the basic structure doctrine. According to the doctrine, the Parliament cannot destroy or alter the basic structure of the doctrine."
+    },
+    {
+      "subject": "Polity (Constitutional Provisions)",
+      "question": "Which one of the following statements about the provisions of the Constitution of India with regard to the State of Jammu and Kashmir is not correct?",
+      "image": "",
+      "options": [
+        "The Directive Principles of State Policy do not apply.",
+        "Article 35A gives some special rights to the permanent residents of the State with regard to employment, settlement and property.",
+        "Article 19(1)(f) has been omitted.",
+        "Article 368 is not applicable for the amendment of Constitution of the State."
+      ],
+      "answer": "Article 19(1)(f) has been omitted.",
+      "explanation": "Article 19 (1) (f) and 31 (2) have not been abolished for this State and hence, properly still stands guaranteed to the people of Jammu and Kashmir."
+    }
+  ],
+  "Polity (Fundamental Rights)": [
+    {
+      "subject": "Polity (Fundamental Rights)",
+      "question": "When a Proclamation of Emergency is in operation, the right to move a Court for the enforcement of all Fundamental Rights remains suspended, except",
+      "image": "",
+      "options": [
+        "Article 20 and Article 21",
+        "Article 21 and Article 22",
+        "Article 19 and Article 20",
+        "Article 15 and Article 16"
+      ],
+      "answer": "Article 20 and Article 21",
+      "explanation": "Where a Proclamation of Emergency is in operation, the President may by order declare that the right to move any court for the enforcement of such of the rights conferred by Part 3 (fundamental rights) except Art 20 & 21 and all proceedings pending in any Court for the enforcement of the same shall remain suspended for the period during which the proclamation is in force."
+    },
+    {
+      "subject": "Polity (Fundamental Rights)",
+      "question": "Which one of the following Articles of the Constitution of India lays down that no citizen can be denied the use of wells, tanks and bathing Ghats maintained out of State funds?",
+      "image": "",
+      "options": [
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
+      ],
+      "answer": "Article 15",
+      "explanation": "Article 15 states Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth. No citizen shall, on grounds only of religion, race, caste, sex, place of birth or any of them, be subject to any disability, liability, restriction or condition with regard to- (a) access to shops, public restaurants, hotels and places of public entertainment; or (b) the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public."
+    }
+  ],
+  "Polity (Legislature)": [
+    {
+      "subject": "Polity (Legislature)",
+      "question": "Which one of the following is not a correct statement regarding the provision of Legislative Council in the State Legislature?",
+      "image": "",
+      "options": [
+        "The States of Bihar and Telangana have Legislative Councils.",
+        "The total number of members in the Legislative Council of a State shall not exceed one-third of the total number of members in the Legislative Assembly.",
+        "One-twelfth of all members shall be elected by electorates consisting of local bodies and authorities.",
+        "One-twelfth of all members shall be elected by graduates residing in the State."
+      ],
+      "answer": "One-twelfth of all members shall be elected by electorates consisting of local bodies and authorities.",
+      "explanation": "One third are elected by members of local bodies such as municipalities, gram sabhas/gram panchayats, panchayat samitis and Zila Parishads."
+    }
+  ],
+  "Polity (Local Government)": [
+    {
+      "subject": "Polity (Local Government)",
+      "question": "Which one of the following is not correct about the Panchayats as laid down in Part IX of the Constitution of India?",
+      "image": "",
+      "options": [
+        "The Chairperson of a Panchayat needs to be directly elected by people in order to exercise the right to vote in the Panchayat meetings.",
+        "The State Legislature has the right to decide whether or not offices of the Chairpersons in the Panchayats are reserved for SCs, STs or women.",
+        "Unless dissolved earlier, every Panchayat continues for a period of five years.",
+        "The State Legislature may by law make provisions for audit of accounts of the Panchayats."
+      ],
+      "answer": "The Chairperson of a Panchayat needs to be directly elected by people in order to exercise the right to vote in the Panchayat meetings.",
+      "explanation": "The chairperson of a panchayat can be elected directly or indirectly, as the legislature may provide."
+    }
+  ]
+}

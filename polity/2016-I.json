@@ -1,0 +1,303 @@
+{
+  "Polity (Elections & Representation)": [
+    {
+      "subject": "Polity (Elections & Representation)",
+      "question": "Which one of the following statements about Electoral Government in India is not correct?",
+      "image": "",
+      "options": [
+        "The superintendence, direction and control of elections are vested in the Election Commission of India.",
+        "There is one general electoral roll for every territorial constituency.",
+        "The Parliament has the power to make laws relating to the delimitation of constituencies.",
+        "The Supreme Court of India has the authority to scrutinize the validity of a law relating to delimitation of constituencies."
+      ],
+      "answer": "The Supreme Court of India has the authority to scrutinize the validity of a law relating to delimitation of constituencies.",
+      "explanation": "Under Article 82 of the constitution, after every census, the delimitation commission demarcates the boundary of parliamentary constituency on the basis of Delimitation Act."
+    }
+  ],
+  "Polity (Constitutional Bodies)": [
+    {
+      "subject": "Polity (Constitutional Bodies)",
+      "question": "Which one of the following is not a recommendation of the Fourteenth Finance Commission?",
+      "image": "",
+      "options": [
+        "Share of States in Central Divisible Pool is increased from 32 per cent to 42 per cent",
+        "Area under forest cover is an important variable in distribution of States' share among States",
+        "Fiscal discipline is dropped as a variable in distribution of States share among States",
+        "Sector specific grant is recommended as in the previous Finance Commissions"
+      ],
+      "answer": "Fiscal discipline is dropped as a variable in distribution of States share among States",
+      "explanation": "The fourteenth finance commission wants the states to share a larger fiscal responsibility for the implementation of the scheme."
+    },
+    {
+      "subject": "Polity (Constitutional Bodies)",
+      "question": "Which of the following statement about Comptroller and Auditor General of India (CAG) are correct?<br>1. The CAG will hold office for a period of six years from the date he assumes the office, He shall vacate office on attaining the age of 65 years, if earlier than the expiry of the 6 years term<br>2. The powers of CAG are derived from the Constitution of India<br>3. The CAG is a multi-member body appointed by the President of India in constitution with the prime Minister and the Council of Ministers<br>4. The CAG may be removed by the President only on an address from both Houses of Parliament, on the grounds of proved misbehavior or incapacity<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1, 2 and 4",
+        "1, 2 and 3",
+        "3 and 4",
+        "1 and 2 only"
+      ],
+      "answer": "1, 2 and 4",
+      "explanation": "The CAG is an authority, established by the constitution. Who audits all receipts and expenditure of the Government of India and the State Governments."
+    }
+  ],
+  "Polity (Constitutional & Statutory Bodies)": [
+    {
+      "subject": "Polity (Constitutional & Statutory Bodies)",
+      "question": "Which of the following is / are Constitutional Body / Bodies?<br>1. National Commission for Scheduled Tribes<br>2. National Commission for Women<br>3. National Commission for Minorities<br>4. National Human Right Commission<br>Select the correct answer using the code given below",
+      "image": "",
+      "options": [
+        "1 only",
+        "1, 3 and 4 only",
+        "3 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": "1, 2, 3 and 4",
+      "explanation": "Constitutional bodies are formed by the constitution which helps the government to run properly."
+    }
+  ],
+  "Polity (Citizenship)": [
+    {
+      "subject": "Polity (Citizenship)",
+      "question": "The category of Overseas citizens of india was entered in the citizenship Act of India through an amendement in the year:",
+      "image": "",
+      "options": [
+        "1986",
+        "1992",
+        "1996",
+        "2003"
+      ],
+      "answer": "2003",
+      "explanation": "In year 2003, by an amendment in constitution the category of 'Overseas Citizen of India' was entered in the Citizenship Act of India."
+    }
+  ],
+  "Polity (Fundamental Rights & Duties)": [
+    {
+      "subject": "Polity (Fundamental Rights & Duties)",
+      "question": "The Right to Education was added to the fundamental Rights in the Constitution of India through the",
+      "image": "",
+      "options": [
+        "Constitution (86th Amendment) Act, 2002",
+        "Constitution (93th Amendment) Act, 2005",
+        "Constitution (87th Amendment) Act, 2003",
+        "Constitution (97th Amendment) Act, 2011"
+      ],
+      "answer": "Constitution (86th Amendment) Act, 2002",
+      "explanation": "In 2002, through the 86th amendement act, the Right to Education was added to the Fundamental Rights."
+    }
+  ],
+  "Polity (Executive)": [
+    {
+      "subject": "Polity (Executive)",
+      "question": "Consider the following statements about the President of India.<br>1. The President has the right to address and send message to The Council of Ministers to elicit specific information<br>2. The President can call for information relating to proposal for legislation<br>3. All decisions of the Council of Ministers relating to administration of the Union must be communicated to the President<br>Which of the statements given above are correct?",
+      "image": "",
+      "options": [
+        "1 and 3 only",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "The rights of Indian President-<br>(i) To address the Council of Ministers<br>(ii) To send message to the Council of Ministers.<br>(iii) To Call for information regarding proposals of Legislation.<br>(iv) The president will receive all decisions of the council of Ministers concerned with administration of the Union."
+    },
+    {
+      "subject": "Polity (Executive)",
+      "question": "Who among the following Prime Ministers of India were defeated by a vote of No Confidence ?<br>1. Morarji Desai<br>2. Viswanath Pratap Singh<br>3. H.D. Deve Gowda<br>4. Atal Bihari Vajpayee<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1,2, 3 and 4",
+        "1, 2 and 3 only",
+        "2, 3 and 4 only",
+        "1 and 4 only"
+      ],
+      "answer": "2, 3 and 4 only",
+      "explanation": "Vishwanath Pratap Singh, H.D. Deve Gowda, Atal Bihari Vajpayee were defeated by a vote of 'no confidence'."
+    },
+    {
+      "subject": "Polity (Executive)",
+      "question": "Which of the following statements relating to the office of the President of India are correct ?<br>1. The President has the power to grant pardon to a criminal in special case<br>2. The President can promulgate ordinances even when the Parliament is in session<br>3. The President can dissolve the Rajya Sabha during emergency.<br>4. The President has the power to nominate two member in the Lok Sabha from the Anglo Indian community<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "1 and 4",
+        "3 and 4 only",
+        "1, 3 only 4"
+      ],
+      "answer": "1 and 4",
+      "explanation": "The President can dissolve the Lok Sabha only. On the other hand, President can nominate 12 member in Rajya Sabha."
+    }
+  ],
+  "Polity (Landmark Cases)": [
+    {
+      "subject": "Polity (Landmark Cases)",
+      "question": "In which one of the following cases, the Constitutional validity of the Muslim Women (Protection of Rights of Divorce) Act 1986, was upheld by the Supreme court of India?",
+      "image": "",
+      "options": [
+        "Muhammad Ahmed Khan v. Shah Bano Begum",
+        "Danial Latifi v. Union of India",
+        "Mary Roy v. State of Kerala",
+        "Shankari Prasad v. Union of India"
+      ],
+      "answer": "Danial Latifi v. Union of India",
+      "explanation": "In the Case of Danial Latifi Vs. Union of India, the court decision gave. The extension to the right of a muslim woman to get maintenance till she gets remarriage."
+    },
+    {
+      "subject": "Polity (Landmark Cases)",
+      "question": "In which one of the following judgments of the Consitutional Bench of the Supreme Court of India, the ‘rarest of rare’ principle in the award of death penalty was first laid down?",
+      "image": "",
+      "options": [
+        "Bachan Singh v. State of Punjab (1980)",
+        "Gopalanachari v. State of Kerala (1980)",
+        "Dr. Upendra Boxi v. State of UP (1983)",
+        "Tukaram v. State of Maharashtra (1979)"
+      ],
+      "answer": "Bachan Singh v. State of Punjab (1980)",
+      "explanation": "The principle of 'Rarest of Rare' has been laid down by the top court in the landmark judgement in Bachan Singh versus State of Punjab in 1980."
+    }
+  ],
+  "Polity (Social Justice & Welfare)": [
+    {
+      "subject": "Polity (Social Justice & Welfare)",
+      "question": "The National Policy for Children, 2013 recognizes every person as a child below the age of:",
+      "image": "",
+      "options": [
+        "12 years",
+        "14 years",
+        "16 years",
+        "18 years"
+      ],
+      "answer": "18 years",
+      "explanation": "The National policy for children 2013 states -<br>(i) a child is any person below 18 years old.<br>(ii) Childhood is an integral part of life.<br>(iii) Every child is unique and important national asset.<br>(iv) All Children have the right to grow in a family environment."
+    }
+  ],
+  "Polity (Parliament)": [
+    {
+      "subject": "Polity (Parliament)",
+      "question": "A Member of Lok Sabha does not become disqualified to continue as a Member of the House if the Member",
+      "image": "",
+      "options": [
+        "voluntarily gives up his / her membership of the political party from which he /she was elected",
+        "is expelled by the political party from which he / she had been elected to the House",
+        "Joins a political party after being elected as an independent candidate",
+        "abstains from voting contrary to the direction by his / her political party"
+      ],
+      "answer": "is expelled by the political party from which he / she had been elected to the House",
+      "explanation": "A MP elected from a particular party does not become disqualified for a member of a house, when he is expelled by that particular party."
+    },
+    {
+      "subject": "Polity (Parliament)",
+      "question": "Consider the following statements :<br>1. The President of India shall have the power to appoint and remove the Speaker of Lok Sabha<br>2. The Speaker has to discharge the function of his office himself throughout of his office term and cannot delegate his function to the Deputy Speaker during his absence from the station or during his illness.<br>Which of the statements given above is / are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Neither 1 nor 2",
+      "explanation": "The speaker has the authority to discharge the functions of his office in his whole term but can't delegate his functions to the Deputy Speaker during his absence. The Speaker of Lok Sabha can be removed by passing a resolution in Lok Sabha with an absolute majority, that is, majority of votes of the total members in the house."
+    },
+    {
+      "subject": "Polity (Parliament)",
+      "question": "Which of the following statements regarding Rajya Sabha is / are correct ?<br>1. The maximum Permissible strength of Rajya Sabha is 250<br>2. In Rajya Sabha, 238 members are elected indirectly from the States and Union Territories.<br>3. It shares legislative powers equally with Lok Sabha in matters such as creation of All India Services<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3",
+        "2 and 3 only",
+        "1 only"
+      ],
+      "answer": "1 and 2 only",
+      "explanation": "The Constitution lays down 250 as the maximum strength of the Rajya Sabha, out of which 12 are nominated by the President from among persons who have achieved distinction in literature, art, science and social services."
+    }
+  ],
+  "Polity (Constitution)": [
+    {
+      "subject": "Polity (Constitution)",
+      "question": "Which one of the following language is not recognized in the Eighth Schedule to the Constitution of India",
+      "image": "",
+      "options": [
+        "English",
+        "Sanskrit",
+        "Urdu",
+        "Nepali"
+      ],
+      "answer": "English",
+      "explanation": "The recognized languages in the 8th Schedule of the constitution - Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Marathi, Nepalli, Oriya, Punjabi, Sanskrit, Santhali, Sindhi, Tamil, Telugu & Urdu."
+    }
+  ],
+  "Polity (Judiciary)": [
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "Which of the statement given below is / are correct?<br>1. The ideal of a common civil code is set forth in Article 44 of the Constitution of India<br>2. In certain respects, the High Courts in India have been given more extensive power than the Supreme Court<br>3. The Supreme Court of India, the first fully independent Court for the country was set up under the Constitution of India in 1950<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "2 and 3 only",
+        "1 only",
+        "3 only"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "Article 44 of the constitution states about the existence of uniform civil code for all citizens in the country. Each High court has power to issue to any person within it jurisdiction, orders different writs including habeas corpus, mandamus, prohibition quo-warranto and certiorari. Supreme Court of India was established on January 28, 1950. It is the highest Judicial forum."
+    },
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "As per the Constitution of india, the Writ of Prohibition relates to an order :<br>1. issued against judicial and quasi judicial authority<br>2. to prohibit an inferior Court from proceeding in a particular case where it has no jurisdiction to try<br>3. to restrain a person from holding a public office to when he is not entitled<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1 and 2 only",
+      "explanation": "A Writ of prohibition is issued primarily to prevent an inferior court from exceeding its jurisdiction, or acting contrary to the rule of natural justice. The writ lies only against a body exercising public functions of a judicial or quasi-judicial character."
+    }
+  ],
+  "Polity (Federalism)": [
+    {
+      "subject": "Polity (Federalism)",
+      "question": "Which one of the following Articles Schedules in the Constitution of India deals with Autonomous District Councils?",
+      "image": "",
+      "options": [
+        "Eighth Schedule",
+        "Article 370",
+        "Sixth Schedule",
+        "Article 250"
+      ],
+      "answer": "Sixth Schedule",
+      "explanation": "The sixth schedule to the constitution of India deals with Autonomous District Councils (ADCs)."
+    }
+  ],
+  "Polity (Acts & Amendments)": [
+    {
+      "subject": "Polity (Acts & Amendments)",
+      "question": "Which of the following statements relating to the Scheduled Tribe and other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 are correct ?<br>1. The Act recognizes forest rights of forest dwelling Scheduled Tribes who have been occupying the forest land before October 25, 1980<br>2. The onus of implementation of the Act lies at the level of the State / UT Governments<br>3. The Act seeks to recognize and vest certain forest rights in the forest dwelling Scheduled Tribes and other traditional forest dwellers<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "2 and 3 only",
+      "explanation": "On 29th December, 2006 the Scheduled Tribes and other Traditional Forest Dwellers (Recognition of Forest Rights) Act came into force."
+    }
+  ],
+  "Polity (Governance)": [
+    {
+      "subject": "Polity (Governance)",
+      "question": "The Second Administrative Reforms Commission (2005) was concerned with",
+      "image": "",
+      "options": [
+        "reforms in institutional arrangements for good governance",
+        "reforms in the Indian Penal Code and the Criminal Justice System",
+        "creating an ombudsma mechanism for reduction of corription in public life",
+        "devising new measures for urban governance and management"
+      ],
+      "answer": "reforms in institutional arrangements for good governance",
+      "explanation": "The Second Administrative Reforms Commission (2005) was setup by the Government of India as a committee of inquiry to prepare a detailed blueprint for revamping the public administration system."
+    }
+  ]
+}

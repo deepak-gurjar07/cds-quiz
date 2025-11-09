@@ -1,0 +1,92 @@
+{
+  "Polity (Local Government)": [
+    {
+      "subject": "Polity (Local Government)",
+      "question": "Consider the following statements about local government in India:<br>1. Article 40 of Indian Constitution provides for the State to organize village panchayats and endow them with such powers and authority as may be necessary to make them function as units of self-government.<br>2. The 73rd and 74th Constitution Amendments inserted Part IX and IX A in the Constitution.<br>3. The provisions in Parts IX and IX A of Indian Constitution are more or less parallel and analogous.<br>4. The 73rd Constitution Amendment is applicable to all states irrespective of size of population.<br>Which of the statements given above are correct?",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3 only",
+        "3 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": "1, 2 and 3 only",
+      "explanation": "73 rd constitution amendment is applicable to all states except Jammu & Kashmir."
+    }
+  ],
+  "Polity (Executive)": [
+    {
+      "subject": "Polity (Executive)",
+      "question": "Which of the following is/are department(s) in Ministry of Defence ?<br>1. Department of Defence<br>2. Department of Defence Research and Development<br>3. Department of Defence Production<br>4. Department of Defence Finance<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3",
+        "2, 3 and 4",
+        "1 only"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "Ministry of Defence comprises of four Departments as Department of Defence (DOD), Department of Defence Production (DDP), Defence Research & Development organisation (DRDO) and Department of Ex-Servicemen Welfare (DESW)."
+    }
+  ],
+  "Polity (Elections & Political Parties)": [
+    {
+      "subject": "Polity (Elections & Political Parties)",
+      "question": "Consider the following statements about State Election Commission ?<br>1. The State Election Commissioner shall be appointed by the Governor of the State.<br>2. The State Election Commission shall have the power of even preparing the electoral rolls besides the power of superintendence, direction and control of election to the panchayats.<br>3. The State Election Commissioner cannot be removed in any manner from his office until he demits himself or completes his tenure.<br>Which of the above statements is/are correct?",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 only"
+      ],
+      "answer": "1 and 2 only",
+      "explanation": "Three Election Commissioners in the each State shall be appointed by the Governor of the respective State from a penal of five names for each office forwarded by the Election Commission of Bharatto the provision of the Constitution (Seventy-third Amendment) Act, 1992 and the Constitution (Seventy-fourth Amendment) Act, 1992, whereunder the constitution of State Election Commissions and appointment of State Election Commissioners are contemplated to superintend, direct and control the preparation of the electoral rolls for, and the conduct of elections to Panchayats and Municipalities. Election Commissioner of a State can be removed by the Full Bench of State Judicial Commission on the basis of enquiry and investigation made by a judicial committee constituted for the purpose, consisting of two Chief Justices and one Judge from different High Courts."
+    }
+  ],
+  "Polity (Judiciary)": [
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "Which of I the following statements about Indian Judiciary is not correct ?",
+      "image": "",
+      "options": [
+        "The Constitution of India has not provided for double system of courts as in the United States",
+        "The organization of the subordinate judiciary in India varies slightly from State to State",
+        "Every State in India has separate High Court",
+        "The Supreme Court has issued direction to constitute an All India Judicial Service to bring about uniformity in designation of officers in criminal and civil side"
+      ],
+      "answer": "Every State in India has separate High Court",
+      "explanation": "Every state in India does not have a separate High Court .The constitution provides that parliament may by law establish a common High Court for two or more states and a Union Territory."
+    }
+  ],
+  "Polity (Social Justice)": [
+    {
+      "subject": "Polity (Social Justice)",
+      "question": "Which among the following about the Rangarajan Panel Report on poverty estimation (submitted in July, 2014) is/ are correct?<br>1. The report states that three out of ten people in India are poor<br>2. The report endorsed the Tendulkar committee suggestion on determining poverty line in India<br>Select the correct answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "1 only",
+      "explanation": "The Panel has dismissed the tendulkar committee report."
+    }
+  ],
+  "Polity (International Relations)": [
+    {
+      "subject": "Polity (International Relations)",
+      "question": "Which of the following about the principles of Panchsheel are correct ?<br>1. These are a set of five principles governing relations between States<br>2. The assumption of Panchsheel was that newly independent States after decolonization would be able to develop a new and more principled approach to international relations<br>3. The first formal codification in treaty form was done in an agreement between China and India<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3",
+        "1 and 3 only"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": ""
+    }
+  ]
+}

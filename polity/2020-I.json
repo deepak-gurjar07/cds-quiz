@@ -1,0 +1,159 @@
+{
+  "Polity (Local Government)": [
+    {
+      "subject": "Polity (Local Government)",
+      "question": "Which one of the following statements with regard to the functioning of the Panchayats is not correct?",
+      "image": "",
+      "options": [
+        "Panchayats may levy, collect and appropriate taxes, duties, tolls, etc.",
+        "A person who has attained the age of 25 years will be eligible to be a member of a Panchayat.",
+        "Every Panchayat shall ordinarily continue for five years from the date of its first meeting.",
+        "A Panchayat reconstituted after premature dissolution shall continue only for the remainder of the full period."
+      ],
+      "answer": "A person who has attained the age of 25 years will be eligible to be a member of a Panchayat.",
+      "explanation": "Functioning of Panchayat:<br>Implementing various initiatives to create clean, beautiful and green villages.<br>Implementing Poverty Eradication initiatives through Maharashtra Rajya Gramin Jivanonnati Abhiyan.<br>Providing shelter and shelter related facilities under Pradhan Mantri Gramin Awaas Yojana"
+    },
+    {
+      "subject": "Polity (Local Government)",
+      "question": "The power to legislate on all matters relating to elections to Panchayats lies with",
+      "image": "",
+      "options": [
+        "the Parliament of India",
+        "the State Legislatures",
+        "the State Election Commission",
+        "the Election Commission of India"
+      ],
+      "answer": "the State Legislatures",
+      "explanation": "Article-243 A. Gram Sabha. - A Gram Sabha may exercise such powers and perform such functions at the village level as the Legislature of a State fixing tenure of 5 years forPanchayats and holding elections within a period of 6 months in theevent of supersession of any Panchayat, disqualifications for membership of Panchayats."
+    },
+    {
+      "subject": "Polity (Local Government)",
+      "question": "The 11th Schedule of the Constitution of India distributes powers between",
+      "image": "",
+      "options": [
+        "the Union and the State Legislatures",
+        "the State Legislatures and the Panchayat",
+        "the Municipal Corporation and the Panchayat",
+        "the Gram Sabha and the Panchayat"
+      ],
+      "answer": "the Gram Sabha and the Panchayat",
+      "explanation": "The 11th Schedule distributes powers between the State Legislature and the Panchayat just as the 7th Schedule distributes powers between the Union and the State Legislature. Powers to impose taxes and financial resource.It can also assign to a Panchayat various taxes, duties."
+    },
+    {
+      "subject": "Polity (Local Government)",
+      "question": "The provisions of the Constitution of India pertaining to the institution of Panchayat do not apply to which one of the following States?",
+      "image": "",
+      "options": [
+        "Meghalaya",
+        "Tripura",
+        "Assam",
+        "Goa"
+      ],
+      "answer": "Meghalaya",
+      "explanation": "Part-IX of the Constitution of India deals with the Panchayati Raj system for the rural areas. It consists of definitions of various terms, composition, duration, reservation, powers, etc. of a Panchayat. It states that this part does not apply to the states of Nagaland, Meghalaya, and Mizoram."
+    }
+  ],
+  "Polity (Legislature)": [
+    {
+      "subject": "Polity (Legislature)",
+      "question": "Which of the following statements is not correct regarding the Members of Parliament Local Area Development Scheme (MPLADS)?",
+      "image": "",
+      "options": [
+        "Members of the Parliament (MPs) sanction, execute and complete works under the scheme.",
+        "Nominated Members of the Parliament can recommend works for implementation anywhere in the country.",
+        "The scheme is fully funded by the Government of India.",
+        "The annual entitlement per MP is `5 crore."
+      ],
+      "answer": "Members of the Parliament (MPs) sanction, execute and complete works under the scheme.",
+      "explanation": "Nominated Members of the Lok Sabha and Rajya Sabha may also select works for implementation in one or more districts, anywhere in the country. MPs can also recommend work of upto Rs. 25 lakhs per year outside their constituency or state of election to promote national unity, harmony and fraternity. MPs can recommend work of upto 25 lakh for Natural Calamity in the state and upto Rs. 1 crore in the country in case of Calamity of Severe Nature."
+    }
+  ],
+  "Polity (Elections)": [
+    {
+      "subject": "Polity (Elections)",
+      "question": "Overseas Indians can exercise franchise in an election to the Lok Sabha under which of the following conditions?<br>1. They must be citizens of India.<br>2. Their names must figure in the electoral roll.<br>3. They must be present in India to vote.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "2 and 3 only",
+        "1 and 2 only",
+        "1 only"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "An overseas elector is a person who is a citizen of India and who has not acquired citizenship of any other country and is otherwise eligible to be registered as a voter and who is absenting from his place of ordinary residence in India owing to his employment, education or otherwise is eligible to be registered as a voter in the constituency in which his place of residence in India as mentioned in his passport is located. According to the provisions of Section 20A of the Representation of People Act, 1950, an NRI settled in foreign land can become an elector in electoral roll in India."
+    }
+  ],
+  "Polity (Fundamental Duties)": [
+    {
+      "subject": "Polity (Fundamental Duties)",
+      "question": "Which one of the following was added as a fundamental duty through the Constitution (86th Amendment) Act, 2002?",
+      "image": "",
+      "options": [
+        "To strive towards excellence in individual and collective activity",
+        "To provide opportunities for education to one’s child between the age of 6 and 14 years",
+        "To work for the welfare of women and children",
+        "To promote peace and harmony"
+      ],
+      "answer": "To provide opportunities for education to one’s child between the age of 6 and 14 years",
+      "explanation": "The 86th amendment to constitution of India in 2002, provided right to education as a fundamental right in part-III of the Constitution. A new article 21A was inserted which made right to education a fundamental right for children between 6-14 years."
+    }
+  ],
+  "Polity (Fundamental Rights)": [
+    {
+      "subject": "Polity (Fundamental Rights)",
+      "question": "Which one of the following Articles of the Constitution of India protects a person against double jeopardy?",
+      "image": "",
+      "options": [
+        "Article 20",
+        "Article 21",
+        "Article 22",
+        "Article 23"
+      ],
+      "answer": "Article 20",
+      "explanation": "Article 20 of the Indian Constitution provides protection in respect of conviction for offences, and article 20(2) contains the rule against double jeopardy which says that “no person shall be prosecuted or punished for the same offence more than once.” The protection under clause (2) of Article 20 of Constitution of india."
+    }
+  ],
+  "Polity (Constitutional Provisions)": [
+    {
+      "subject": "Polity (Constitutional Provisions)",
+      "question": "Which one of the following Articles was defended by Dr. B. R. Ambedkar on the plea that it would be used as ‘a matter of last resort’?",
+      "image": "",
+      "options": [
+        "Article 352",
+        "Article 359",
+        "Article 356",
+        "Article 368"
+      ],
+      "answer": "Article 356",
+      "explanation": "Article 356 deals with imposition of President’s Rule over a State of India. When a state is under President’s Rule, the elected state government (led by the Chief Minister and the Council of Ministers) is dismissed and Council of ministers is suspended at legislature, and administration is conducted directly by the Governor of the state. The Governor is an appointee of the President and thus, effectively, a functionary of the Union Government. Bhimrao Ambedkar, chairman of the Drafting Committee of the Constitution of India, referred to Article 356 as a dead letter of the Constitution. In the constituent assembly debate it was suggested that Article 356 is liable to be abused for political gains. The Supreme Court said that Article 356 is an extreme power and is to be used as a last resort in cases where it is manifest that there is an impasse and the constitutional machinery in a State has collapsed."
+    }
+  ],
+  "Polity (Judiciary)": [
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "What is the ground on which the Supreme Court can refuse relief under Article 32?",
+      "image": "",
+      "options": [
+        "The aggrieved person can get remedy from another court",
+        "That disputed facts have to be investigated",
+        "That no fundamental right has been infringed",
+        "That the petitioner has not asked for the proper writ applicable to his/her case"
+      ],
+      "answer": "That no fundamental right has been infringed",
+      "explanation": "The Supreme Court does not countenance the proposition that, on an application under Article 32 of the Constitution, the Court may decline to entertain the same on the simple ground that it involves the determination of disputed questions of fact or on any other ground. The Court would be failing in its duty as the custodian and protector of the fundamental rights, which may, prima facie, appear to have been infringed. It is possible very often to decide questions of fact on affidavits. If the petition and the affidavits in support thereof are not convincing and the Court is not satisfied that the petitioner has established his fundamental right or any breach thereof, the Court may dismiss the petition on the ground that the petitioner has not discharged the onus that lay on him."
+    },
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "The power of the Supreme Court to decide in the case of a dispute between two or more States is called",
+      "image": "",
+      "options": [
+        "original jurisdiction",
+        "inherent jurisdiction",
+        "plenary jurisdiction",
+        "advisory jurisdiction"
+      ],
+      "answer": "original jurisdiction",
+      "explanation": "In India, the Supreme Court has original, appellate and advisory jurisdiction.[1] Its exclusive original jurisdiction extends to all cases between the Government of India and the States of India or between Government of India and states on one side and one or more states on other side or cases between different states. Original jurisdiction is related to cases which are directly brought to the Supreme Court Cases which require the interpretation of the constitution or cases relating to the denial of fundamental rights are heard In the supreme court. In case there is a dispute between two or more states or between the union and the states, the Supreme Court decides such cases. In addition, Article 131 of the Constitution of India grants original jurisdiction to the Supreme Court on all cases involving the enforcement of fundamental rights of citizens."
+    }
+  ]
+}

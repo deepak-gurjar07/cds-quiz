@@ -1,0 +1,140 @@
+{
+  "Polity (Constitutional Bodies)": [
+    {
+      "subject": "Polity (Constitutional Bodies)",
+      "question": "Assertion (A) The number of the Members of the Union Public Service Commission is preserved in the Constitution of India.<br>Reason (R) The Union Public Service Commission was constituted under the provisions in the Constitution of India.",
+      "image": "",
+      "options": [
+        "Bath A and R are true and R is the correct explanation of A",
+        "Both A and R are true, but R is not the correct explanation of A",
+        "A is true, but R is false",
+        "A is false, but R is true"
+      ],
+      "answer": "A is false, but R is true",
+      "explanation": "A is false because the constitution without specifying the strength of the Commission has left the matter to the discretion of the president, who determines its composition. According to article 315, the UPSC consists of a chairman and other members appointed by the president of India. Articles 315 to 323 of Part XIV of the constitution provide for a Public Service Commission for the Union and for each state."
+    },
+    {
+      "subject": "Polity (Constitutional Bodies)",
+      "question": "Who of the following constitutes a Finance Commission for a State in India?",
+      "image": "",
+      "options": [
+        "The President of India",
+        "The Governor of the State",
+        "The Union Finance Minister",
+        "The Union Cabinet"
+      ],
+      "answer": "The Governor of the State",
+      "explanation": "According to Article 243 (I) the governor of the state shall set up the Finance Commission within the period of one year. State Finance Commissions receive grants from the Finance Commission that is set up by the central government."
+    },
+    {
+      "subject": "Polity (Constitutional Bodies)",
+      "question": "Consider the following statements about the Attorney-General of India?<br>1. He is appointed by the President of India<br>2. He has the right to take part in the proceeding of the Parliament.<br>3. He has the right of audience in all courts in India.<br>Which of the statements given above are correct?",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "1 and 3",
+        "2 and 3",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "explanation": "Attorney General of India is appointed by the President of India under Article 76(a) of the Constitution and holds office during the pleasure of the President."
+    },
+    {
+      "subject": "Polity (Constitutional Bodies)",
+      "question": "Who among the following can be the Chairperson of the National Human Rights Commission?",
+      "image": "",
+      "options": [
+        "A Member of either House of Parliament",
+        "A Chief Justice of the Supreme Court of India",
+        "A social worker actively involved in the promotion of human rights",
+        "Any sitting Judge of High Court or Supreme Court"
+      ],
+      "answer": "A Chief Justice of the Supreme Court of India",
+      "explanation": "The Human Right Commission consists of a chairman and other four members. The chairman should be a retired chief justice of India."
+    },
+    {
+      "subject": "Polity (Constitutional Bodies)",
+      "question": "Consider the following statements<br>1. The maximum number of the Judges of the Supreme Court of India is prescribed in the Constitution of India.<br>2. The maximum number of the Members of the Union Public Service Commission is prescribed in the Constitution of India.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only I",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Only I",
+      "explanation": "Article 124 (a) of the Indian Constitution stipulates that \"There shall be a Supreme Court of India constituting of a Chief Justice of India and, until Parliament by law prescribes a larger number, of not more than seven other Judges\". At present the Supreme Court consists of thirty one judges (one chief justice and thirty other judges). Under article 315 the UPSC consists of a chairman and other members appointed by the president of India. The constitution without specifying the strength of the Commission has left the matter to the discretion of the president, who determines its composition."
+    }
+  ],
+  "Polity (Union Executive)": [
+    {
+      "subject": "Polity (Union Executive)",
+      "question": "Who among the following was never a Deputy Prime Minister of India?",
+      "image": "",
+      "options": [
+        "Devi Lal",
+        "GL Nanda",
+        "LK Advani",
+        "YB Chavan"
+      ],
+      "answer": "GL Nanda",
+      "explanation": "Gulzarilal Nanda became the Prime Minister of India for two short periods following the deaths of Jawaharlal Nehru in 1964 and Lal Bahadur Shastri in 1966."
+    },
+    {
+      "subject": "Polity (Union Executive)",
+      "question": "Consider the following statements<br>1. When the Vice-President of India acts as the President of India, he performs simultaneously the functions of the Chairman of Rajya Sabha.<br>2. The President, of India can promulgate ordinances at any time except when both Houses of Parliament are in session.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Only 2",
+      "explanation": "Article 65 of the Indian Constitution says that while acting as president or discharging the functions of president, the Vice President does not perform the duties of the office of the chairman of Rajya sabha."
+    }
+  ],
+  "Polity (Parliament)": [
+    {
+      "subject": "Polity (Parliament)",
+      "question": "Consider the following statements<br>1. The Annual Appropriation Bill is passed by the Lok Sabha in the same manner as any other Bill.<br>2. An amendment to the Constitution of India can be initiated by an introduction of a Bill in either Lok Sabha or Rajya Sabha.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Only 2",
+      "explanation": "The Appropriation Bill is intended to give authority to Government to incur expenditure from and out of the Consolidated Fund of India. The procedure for passing this Bill is the same as in the case of other money Bills. An amendment of the Constitution can be initiated only by the introduction of a Bill in either House of Parliament. The procedure of amendment in the constitution is laid down in Part XX (Article 368) of the Constitution of India."
+    },
+    {
+      "subject": "Polity (Parliament)",
+      "question": "Who among the following determines the authority who shall readjust the allocation of seats in the Lok Sabha to the states and division of each State into territorial constituencies?",
+      "image": "",
+      "options": [
+        "The President of India",
+        "The Parliament of India",
+        "The Chief Election Commissioner of India",
+        "The Lok Sabha alone"
+      ],
+      "answer": "The Parliament of India",
+      "explanation": "According to article 82 of Indian Constitution, the parliament of India shall readjust the allocation of seats in the Lok Sabha to the states and division of each state into territorial constituencies."
+    }
+  ],
+  "Polity (Schedules of the Constitution)": [
+    {
+      "subject": "Polity (Schedules of the Constitution)",
+      "question": "Which one of the following Schedules of the Constitution of India includes the disqualification of a Legislator on grounds of defection?",
+      "image": "",
+      "options": [
+        "8th Schedule",
+        "7th Schedule",
+        "Schedule",
+        "10th Schedule"
+      ],
+      "answer": "10th Schedule",
+      "explanation": "The 10th Schedule to the Indian Constitution is known as Anti-Defection Law. It was inserted by the 52nd Amendment Act 1985 to the Constitution. It sets the provisions for disqualification of elected members on the grounds of defection to another political party."
+    }
+  ]
+}

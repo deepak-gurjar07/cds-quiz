@@ -1,0 +1,211 @@
+{
+  "Polity (Executive)": [
+    {
+      "subject": "Polity (Executive)",
+      "question": "Which of the following statements as per the Constitution of India are not correct ?<br>1. The President tenders his resignation to the Chief Justice of India.<br>2. The Vice-President tenders his resignation to the President of India.<br>3. The Comptroller and Auditor General of India is removed from his office in the like manner as the President of India.<br>4. A Judge of the Supreme Court can resign his office by writing under his hand addressed to the Chief Justice of India.<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "3 and 4 only",
+        "1, 2 and 3",
+        "1, 3 and 4"
+      ],
+      "answer": "1, 3 and 4",
+      "explanation": "President removal from office is to be in accordance with procedure prescribed in Article 61 of the Constitution. He may, by writing under his hand addressed to the Vice-President, resign his office. Comptroller and Auditor General of India can be removed by the President only in accordance with the procedure mentioned in the Constitution that is the manner same as removal of a Supreme Court Judge. A Judge of SC may resign his office, by submitting his resignation letter to the President."
+    },
+    {
+      "subject": "Polity (Executive)",
+      "question": "Consider the following statements :<br>1. The Advocate General of a State in India is appointed by the President of India upon the recommendations of the Governor of the concerned State.<br>2. As provided in the Code of Civil Procedure, High Courts have original appellate advisory jurisdiction at the State level.<br>Which of the statements given above is/are correct ?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "2 only",
+      "explanation": "The Governor of each State shall appoint a person who is qualified to be appointed as a Judge of a High Court to be Advocate General for the State. The Governor appoints the Advocate General of the state. The person who is appointed should be qualified to be appointed a judge of a high court.<br>The Code of Civil Procedure, 1908 is a procedural law related to the administration of civil proceedings in India. The Code is divided into two parts: the first part contains 158 sections and the second part contains the First Schedule, which has 51 Orders and Rules.<br>The act clarified that the provisions of the Civil Procedure Code as amended by the Act would have an overriding effect over any rules of the High Court or of the amendments made by the state government concerned."
+    },
+    {
+      "subject": "Polity (Executive)",
+      "question": "Which provision of the Constitution of India provides that the President shall not be answerable to any Court in India for the exercise of powers of his office ?",
+      "image": "",
+      "options": [
+        "Article 53",
+        "Article 74",
+        "Article 361",
+        "Article 363"
+      ],
+      "answer": "Article 361",
+      "explanation": "Article 361 of the co situation of India extends protection to the president from legal liability. He enjoys personal immunity legal liability for his official acts. During his term of office, he is immune from any criminal proceedings."
+    },
+    {
+      "subject": "Polity (Executive)",
+      "question": "The total number of members in the Union Council of Ministers in India shall not exceed",
+      "image": "",
+      "options": [
+        "10% of the total number of members of the Parliament",
+        "15% of the total number of members of the Parliament",
+        "10% of the total number of members of the Lok Sabha",
+        "15% of the total number of members of the Lok Sabha"
+      ],
+      "answer": "15% of the total number of members of the Lok Sabha",
+      "explanation": "All union cabinet members shall submit in writing to the President to propose proclamation of emergency by the president in accordance with Article 352. According to the Constitution of India, the total number of ministers in the council of ministers must not exceed 15% of the total number of members of the Lok Sabha."
+    }
+  ],
+  "Polity (Legislature)": [
+    {
+      "subject": "Polity (Legislature)",
+      "question": "Rajya Sabha has exclusive jurisdiction in",
+      "image": "",
+      "options": [
+        "creation of new States",
+        "declaring a war",
+        "financial emergency",
+        "authorizing Parliament to legislate on a subject in the State List"
+      ],
+      "answer": "authorizing Parliament to legislate on a subject in the State List",
+      "explanation": "Rajya Sabha in India’s Parliament has certain exclusive powers with respect to the following: Enable the parliament to make law on a matter of state list. Creation of new All India Services. Enforcing proclamation of emergency when Lok Sabha is dissolved."
+    },
+    {
+      "subject": "Polity (Legislature)",
+      "question": "Under which one of the following Article of the Constitution of India, a statement of estimated receipts and expenditure of the Government of India has to be laid before the Parliament in respect of every financial year ?",
+      "image": "",
+      "options": [
+        "Article 110",
+        "Article 111",
+        "Article 112",
+        "Article 113"
+      ],
+      "answer": "Article 112",
+      "explanation": "Annual financial statement. (1) The President shall in respect of every financial year cause to be laid before both the Houses of Parliament a statement of the estimated receipts and expenditure of the Government of India for that year, in this Part referred to as the annual financial statement."
+    }
+  ],
+  "Polity (Fundamental Rights)": [
+    {
+      "subject": "Polity (Fundamental Rights)",
+      "question": "Which one among the following is not a part of the Fundamental Rights (Part III) of the Constitution of India?",
+      "image": "",
+      "options": [
+        "Prohibition of traffic in human beings and forced labour",
+        "Prohibition of employment of children in factories",
+        "Participation of workers in management of industries",
+        "Practice any profession, or to carry on any occupation, trade or business"
+      ],
+      "answer": "Participation of workers in management of industries",
+      "explanation": "The Constitution offers all citizens, individually and collectively, some basic freedoms. These are guaranteed in the Constitution in the form of six broad categories of Fundamental Rights, which are justiciable. Article 12 to 35 contained in Part III of the Constitution deal with Fundamental Rights. These are:<br>Right to equality, including equality before law, prohibition of discrimination on grounds of religion, race, caste, sex or place of birth, and equality of opportunity in matters of employment.<br>Right to freedom of speech and expression, assembly, association or union, movement, residence, and right to practice any profession or occupation (some of these rights are subject to security of the State, friendly relations with foreign countries, public order, decency or morality).<br>Right against exploitation, prohibiting all forms of forced labour, child labour and traffic in human beings.<br>Right to freedom of conscience and free profession, practice, and propagation of religion.<br>Right of any section of citizens to conserve their culture, language or script, and right of minorities to establish and administer educational institutions of their choice; and<br>Right to constitutional remedies for enforcement of Fundamental Rights."
+    }
+  ],
+  "Polity (Constitutional Provisions)": [
+    {
+      "subject": "Polity (Constitutional Provisions)",
+      "question": "Which of the following statements relating to the Fifth Schedule of the Constitution of India is not correct ?",
+      "image": "",
+      "options": [
+        "It relates to the special provision for administration of certain areas in the States other than Assam, Meghalaya, Tripura and Mizoram.",
+        "Tribal advisory councils are to be constituted to give advice under the Fifth Schedule.",
+        "The Governor is not authorized to make regulations to prohibit or restrict the transfer of land by, or among members of the Scheduled Tribes.",
+        "The Governors of the States in which there are scheduled areas have to submit reports to the President regarding the administration of such areas."
+      ],
+      "answer": "The Governor is not authorized to make regulations to prohibit or restrict the transfer of land by, or among members of the Scheduled Tribes.",
+      "explanation": "The Fifth Schedule of the Constitution deals with the administration and control of Scheduled Areas as well as of Scheduled Tribes residing in any State other than the States of Assam, Meghalaya, Tripura and Mizoram.<br>In the Article 244(1) of the Constitution, expression Scheduled Areas means such areas as the President may by order declare to be Scheduled Areas.<br>The President may at any time by order direct that the whole or any specified part of a Scheduled Area shall cease to be a Scheduled Area or a part of such an area; increase the area of any Scheduled Area in a State after consultation with the Governor of that State; alter, but only by way of rectification of boundaries, any Scheduled Area; on any alteration of the boundaries of a State on the admission into the Union or the establishment of a new State, declare any territory not previously included in any State to be, or to form part of, a Scheduled Area; rescind, in relation to any State of States, any order or orders made under these provisions and in consultation with the Governor of the State concerned, make fresh orders redefining the areas which are to be Scheduled Areas."
+    },
+    {
+      "subject": "Polity (Constitutional Provisions)",
+      "question": "Article 371A of the Constitution of India provides special privileges to",
+      "image": "",
+      "options": [
+        "Nagaland",
+        "Mizoram",
+        "Sikkim",
+        "Manipur"
+      ],
+      "answer": "Nagaland",
+      "explanation": "371A. Special provision with respect to the State of Nagaland.—(1) Notwithstanding anything in this Constitution,—<br>No Act of Parliament in respect of— (i) religious or social practices of the Nagas, (ii) Naga customary law and procedure, (iii) administration of civil and criminal justice involving decisions according to Naga customary law, (iv) ownership and transfer of land and its resources."
+    }
+  ],
+  "Polity (Federalism)": [
+    {
+      "subject": "Polity (Federalism)",
+      "question": "Consider the following statements with regard to the formation of new States and alteration of boundaries of existing States :<br>1. Parliament may increase the area of any State.<br>2. Parliament may diminish the area of any State.<br>3. Parliament cannot alter the boundary of any State.<br>4. Parliament cannot alter the name of any State.<br>Which of the statements given above is/are not correct ?",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "2 and 3",
+        "3 and 4",
+        "4 only"
+      ],
+      "answer": "3 and 4",
+      "explanation": "The Fifth Amendment of the Constitution of India, officially known as The Constitution (Fifth Amendment) Act, 1955, empowered the President to prescribe a time limit for a State Legislature to convey its views on proposed Central laws relating to the formation of new States and alteration of areas, boundaries or names of existing States.The amendment also permitted the President to extend the prescribed limit, and prohibited any such bill from being introduced in Parliament until after the expiry of the prescribed or extended period. The 5th Amendment re-enacted the proviso to Article 3 of the Constitution.<br>Under the proviso to Article 3 of the Constitution (relating to formation of new States and alteration of areas, boundaries or names of existing States), no bill for the purpose of forming a new state, increasing or decreasing the area of any state or altering the boundaries or name of any state could be introduced in."
+    },
+    {
+      "subject": "Polity (Federalism)",
+      "question": "Which one of the following forms of Constitution contains the features of both the Unitary and Federal Constitution?",
+      "image": "",
+      "options": [
+        "Unitary",
+        "Federal",
+        "Quasi-Federal",
+        "Quasi-Unitary"
+      ],
+      "answer": "Quasi-Federal",
+      "explanation": "A unitary system is governed constitutionally as one single unit, with one constitutionally created legislature. ... In Unitary Constitution the provinces are subordinate to the centre, but in federal constitution, there is a division of powers between the federal and the state governments.<br>Quasi federal refers to government organized similar to a union of states under a central government rather than the individual governments of the separate states.<br>Quasi federal refers to a system of government where the distribution of powers between the centre and the state are not equal. India is a federation with a unitary bias and is referred as a quasi federal state because of strong central machinery. States are also dependent on the centre for resources."
+    },
+    {
+      "subject": "Polity (Federalism)",
+      "question": "How many Zonal Councils were set up vide Part-Ill of the States Re-organization Act, 1956 ?",
+      "image": "",
+      "options": [
+        "Eight",
+        "Seven",
+        "Six",
+        "Five"
+      ],
+      "answer": "Five",
+      "explanation": "Originally five councils were created as per the States Reorganization Act 1956 as follows: Northern Zonal Council: Haryana, Himachal Pradesh, Jammu & Kashmir, Punjab, Rajasthan, National Capital Territory of Delhi and Union Territory of Chandigarh."
+    }
+  ],
+  "Polity (Judiciary)": [
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "Which law prescribes that all proceedings in the Supreme Court shall be in English language ?",
+      "image": "",
+      "options": [
+        "Article 145 of the Constitution of India",
+        "Article 348 of the Constitution of India",
+        "The Supreme Court Rules, 1966",
+        "An Act passed by the Parliament"
+      ],
+      "answer": "Article 348 of the Constitution of India",
+      "explanation": "Article 348 (1) of the Constitution of India provides that all proceedings in the Supreme Court and in every High court shall be in English Language until Parliament by law otherwise provides."
+    },
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "Which one of the following conditions laid down in the Constitution of India for the issue of a writ of Quo-Warranto is not correct ?",
+      "image": "",
+      "options": [
+        "The office must be public and it must be created by a Statute",
+        "The office must be a substantive one",
+        "There has been a contravention of the Constitution or a Statute in appointing such person to that office",
+        "The appointment is in tune with statutory provision"
+      ],
+      "answer": "The appointment is in tune with statutory provision",
+      "explanation": "The word Quo Warranto literally means “under what authority?” This kind of a writ is issued to ensure that the person holding a public office to which he is not entitled. The writ of quo-warranto is used to prevent illegal assumption of any public office or usurpation of any public office by anybody. The fundamental basis of the proceeding of Quo Warranto is that the public has an interest to see that an unlawful claimant does not usurp a public office. For example, a person of 62 years has been appointed to fill a public office whereas the retirement age is 60 years. Now, the appropriate High Court has a right to issue a writ of Quo Warranto against the person and declare the office vacant."
+    }
+  ],
+  "Polity (Fundamental Duties)": [
+    {
+      "subject": "Polity (Fundamental Duties)",
+      "question": "Which one of the following is not enumerated in the Constitution of India as a fundamental duty of citizens of India?",
+      "image": "",
+      "options": [
+        "To safeguard public property",
+        "To protect and improve the natural environment",
+        "To develop the scientific temper and spirit of inquiry",
+        "To promote international peace and security"
+      ],
+      "answer": "To promote international peace and security",
+      "explanation": "The Fundamental Rights, Directive Principles of State Policy and Fundamental Duties are sections of the Constitution of India that prescribe the fundamental obligations of the states to its citizens and the duties and the rights of the citizens to the State<br>To abide by the Constitution and respect its ideals and institutions, the National Flag and the National Anthem;<br>To cherish and follow the noble ideals which inspired our national struggle for freedom;<br>To uphold and protect the sovereignty, unity and integrity of India."
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "Polity (Judiciary)": [
+    {
+      "subject": "Polity (Judiciary)",
+      "question": "In which of the following cases did the Supreme Court rule that Constitutional - Amendments were also laws under Article 13 of the Constitution of India, which could be declared void for being inconsistent with Fundamental Rights ?",
+      "image": "",
+      "options": [
+        "Keshavanand Bharati Case",
+        "Golaknath Case",
+        "Minerva Mills Case",
+        "Maneka Gandhi Case"
+      ],
+      "answer": "Keshavanand Bharati Case",
+      "explanation": "Kesavananda Bharati. v. State of Kerala is a landmark decision of the Supreme Court of India that outlined the Basic Structure doctrine of the Constitution Upholding the validity of clause (4) of article 13 and a corresponding provision in article 368(3) inserted by the 24th Amendment. The Court settled in favour of the view that Parliament has the power to amend the Fundamental Rights also."
+    }
+  ],
+  "Polity (Constitutional Framework)": [
+    {
+      "subject": "Polity (Constitutional Framework)",
+      "question": "Which of the following statement(s) is/are not correct for the Ninth Schedule of the Constitution of India?<br>1. It was inserted by the first amendment in 1951.<br>2. It includes those laws which are beyond the purview of judicial review.<br>3. It was inserted by the 42nd Amendment.<br>4. The laws in the Ninth Schedule are primarily those which pertain to the matters of national security.<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "2 and 3",
+        "3 and 4",
+        "3 only"
+      ],
+      "answer": "3 and 4",
+      "explanation": "The Ninth Schedule was added by the 1st Amendment 1951 to protect the laws included in it from judicial scrutiny on the ground of violation of fundamental rights.However in 2007 Supreme Court ruled that the laws included in it after 24 April 1973 are now open to judicial review."
+    },
+    {
+      "subject": "Polity (Constitutional Framework)",
+      "question": "Parliamentry Democracy is one where<br>1. a balance of popular participation and elite rule takes place<br>2. the government is responsible not to the public but to the elected representatives.<br>3. the parliamentarians are delegated the responsibility of thinking and acting on behalf of their constituents.<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "2 and 3 only",
+        "1 and 3 only",
+        "2 only"
+      ],
+      "answer": "2 and 3 only",
+      "explanation": "Popular participation is unmediated; the people are the government, there is no separate elite or ruling-class between the government and their people. This is an indirect and limited form of democracy where the people choose who shall make decisions on their behalf. In the responsible democracy, the government is responsible first to the parliament's lower house, which is more numerous, directly elected and thus more representative than the upper house. The people vote for their representative who speaks on behalf of their constituents."
+    }
+  ],
+  "Polity (Fundamental Rights)": [
+    {
+      "subject": "Polity (Fundamental Rights)",
+      "question": "Which one of the following categories of persons is not treated at par so far as the availability of Fundamental Rights is concerned ?",
+      "image": "",
+      "options": [
+        "Members of the armed forces",
+        "Members of the forces charged with the responsibility of maintenance of public order",
+        "Members of the forces employed in connection with the communication systems set up in the country",
+        "Members of the forces employed in connection with the communication systems set up for maintenance of public order"
+      ],
+      "answer": "Members of the armed forces",
+      "explanation": "Members of Armed Forces are not treated at par so far as the availability of Fundamental Rights is concerned."
+    },
+    {
+      "subject": "Polity (Fundamental Rights)",
+      "question": "Which of the following is not true of Article 32 of the Indian Constitution ?",
+      "image": "",
+      "options": [
+        "It gives the Supreme Court and the High Courts the power to issue writs for the enforcement of Fundamental Rights.",
+        "It is included in Part III of the Indian Constitution and is therefore itself a Fundamental Right.",
+        "Dr. Ambedkar called it the ‘very soul of the Indian Constitution’.",
+        "An aggrieved person has no right to complain under Article 32 where a Fundamental Right has not been violated."
+      ],
+      "answer": "An aggrieved person has no right to complain under Article 32 where a Fundamental Right has not been violated.",
+      "explanation": "Under Article 226,a High Court can issue these writs not only for the purpose of enforcement of the fundamental rights but also for the redress of any other injury or illegality, owing to contravention of the ordinary law."
+    }
+  ],
+  "Polity (Executive)": [
+    {
+      "subject": "Polity (Executive)",
+      "question": "Notification regarding commencement on cessation of a state of war is the responsibility of",
+      "image": "",
+      "options": [
+        "Ministry of Home Affairs",
+        "Ministry of Defence",
+        "Ministry of External Affairs",
+        "None of the above"
+      ],
+      "answer": "Ministry of External Affairs",
+      "explanation": "Notification regarding commencement or cessation of a state of war is the responsibility of Ministry of External Affairs."
+    },
+    {
+      "subject": "Polity (Executive)",
+      "question": "Which one of the following statements is not correct ?",
+      "image": "",
+      "options": [
+        "The President cannot pardon a person sentenced by a Court Martial.",
+        "The supreme command of the defence forces of the Union vests in the President, but its exercise has to be regulated by law.",
+        "A person awarded rigorous imprisonment cannot be compelled to do hard work as this would amount to violation of Article 23 of the Constitution of India.",
+        "The Armed Forces Tribunal Act, 2007 excludes the powers of the High Courts under Article 226 of the Constitution of India in relation to service matters of persons in the armed forces."
+      ],
+      "answer": "The President cannot pardon a person sentenced by a Court Martial.",
+      "explanation": "Option (a) is not correct. Under Article 72 of the Indian Constitution the Indian President is empowered to grant pardon, he can reprieve, respite or remit the punishment in all cases where the punishment or sentence is by a court martial."
+    }
+  ],
+  "Polity (Emergency Provisions)": [
+    {
+      "subject": "Polity (Emergency Provisions)",
+      "question": "When martial law is imposed, Parliament cannot make law in respect of which one of following matters?",
+      "image": "",
+      "options": [
+        "Indemnify any person in respect of any act done by him in connection with the maintenance of order in the area where martial law was in force",
+        "Parliament can by law validate any sentence passed when martial law was in force in the area",
+        "A law of Parliament can validate forfeiture ordered when martial law was in force in the area",
+        "Any act done under martial law can be validated by Parliament by law"
+      ],
+      "answer": "Any act done under martial law can be validated by Parliament by law",
+      "explanation": "Any act done under martial law cannot be validated by parliament by law."
+    }
+  ],
+  "Polity (Federalism & Centre-State Relations)": [
+    {
+      "subject": "Polity (Federalism & Centre-State Relations)",
+      "question": "Which among the following features of a federal system is not found in the Indian Political System ?",
+      "image": "",
+      "options": [
+        "Dual citizenship",
+        "Distribution of powers between the Federal and the State Governments",
+        "Supremacy of the Constitution",
+        "Authority of the Courts to interpret the Constitution"
+      ],
+      "answer": "Dual citizenship",
+      "explanation": "Dual Citizenship is not found in the Indian political system. The Indian Constitution does not allow dual citizenship. Automatic loss of Indian citizenship covered in Section 9(1) of the Citizenship act 1955, provides that any citizen of India who by naturalisation or registration acquires the citizenship of another country shall cease to be a citizen of India. Indian Government has started OCI (Overseas citizen of India) Scheme in 2005.According to the scheme if you are already a Person of Indian origin (POI) and have taken up citizenship abroad, you can take up benefits of OCI scheme, which gives you the same travel and residence privileges like other Indians but you are not allowed to vote and take up jobs in Government sector."
+    },
+    {
+      "subject": "Polity (Federalism & Centre-State Relations)",
+      "question": "The Sixth Schedule of the Indian Constitution contains provisions for the administration of Tribal areas. Which of the following States is not covered under this Schedule?",
+      "image": "",
+      "options": [
+        "Assam",
+        "Manipur",
+        "Meghalaya",
+        "Tripura"
+      ],
+      "answer": "Manipur",
+      "explanation": "Tribal areas generally mean areas having preponderance of tribal population. However, the Constitution of India refers tribal areas within the States of Assam, Meghalaya, Tripura & Mizoram, as those areas specified in Parts I, II, IIA & III of the table appended to paragraph 20 of the Sixth Schedule."
+    }
+  ],
+  "Polity (Citizenship)": [
+    {
+      "subject": "Polity (Citizenship)",
+      "question": "Which of the following statements is/are not true for the category of the Overseas Citizens of India (OCI) inserted by the amendment to the Citizenship Act of India in 2003?<br>1. It gives dual citizenship to Persons of Indian Origin (PIO) who are citizens of another country.<br>2. It gives Persons of Indian Origin (PIO) who are citizens of another country, an OCI card without citizenship.<br>3. It permits the OCI to vote in general elections in India.<br>4. It allows the OCI to travel to India without visa.<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "1 and 3",
+        "3 only",
+        "2 and 4"
+      ],
+      "answer": "3 only",
+      "explanation": "It does not permit the OCI to vote in general election in India. On the occasion of first Pravasi Bhartiya Diwas on 9th January 2003, former Prime Minister AtalBihari Vajpayee had made an announcement for grant of dual citizenship to PIOs. The necessary Legislation was introduced by the Government of India in Parliament in May 2003."
+    }
+  ],
+  "Polity (Elections & Political Parties)": [
+    {
+      "subject": "Polity (Elections & Political Parties)",
+      "question": "The power to decide the date of an election to a State Legislative Assembly rests with the",
+      "image": "",
+      "options": [
+        "President of India",
+        "Chief Minister and his/her Cabinet",
+        "Election Commission of India",
+        "Parliament"
+      ],
+      "answer": "Election Commission of India",
+      "explanation": "The power to decide the date of an election a state legislative assembly rests with the election commission of India."
+    }
+  ]
+}

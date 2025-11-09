@@ -1,0 +1,120 @@
+{
+  "Polity (Schedules of the Constitution)": [
+    {
+      "subject": "Polity (Schedules of the Constitution)",
+      "question": "Which schedule of the Constitution of India contains the three lists that divide powers between the Union and the sates?",
+      "image": "",
+      "options": [
+        "Fifth",
+        "Sixth",
+        "Seventh",
+        "Eigth"
+      ],
+      "answer": "Seventh",
+      "explanation": "7th Schedule gives allocation of powers and functions between Union & States. It contains 3 lists:\nUnion List (97 Subjects)\nStates List (66 subjects)\nConcurrent List(52 subjects)"
+    },
+    {
+      "subject": "Polity (Schedules of the Constitution)",
+      "question": "Match the following<br>List I (Schedule in the Constitution of India) List II (Subject)<br>A. Tenth Schedule 1. Languages<br>B. Eighth Schedule 2. Provisions as to disqualification on the grounds of defection<br>C. First Schedule 3. Validation of certain Acts and Regulations<br>D. Ninth Schedule 4. The States",
+      "image": "",
+      "options": [
+        "A-4 B-3 C-2 D-1",
+        "A-2 B-1 C-4 D-3",
+        "A-4 B-1 C-2 D-3",
+        "A-2 B-3 C-4 D-1"
+      ],
+      "answer": "A-2 B-1 C-4 D-3",
+      "explanation": "Schedule X was added by 52nd amendment in 1985. It contains provisions of disqualification on the grounds of defection.\nSchedule Vlll contains List of 22 languages of India recognized by Constitution.\nSchedule l deals with the List of States & Union Territories.\nSchedule IX Contains acts & orders related to land tenure, land tax, railways, and industries. Added by Ist amendment in 1951.Laws underSchedule IXare beyond the purview of judicial review even though they violate fundamental rights enshrined under part III of the Constitution."
+    }
+  ],
+  "Polity (Constitutional Amendments)": [
+    {
+      "subject": "Polity (Constitutional Amendments)",
+      "question": "What does the 93rd Constitutional Amendment deal with?",
+      "image": "",
+      "options": [
+        "Inclusion of Bodo, Dogri, Maithili and Santhali languages in the Eighth Schedule",
+        "Inclusion of service tax levied by Union and collected and appropriated by the Union and the states in the Seventh Schedule",
+        "Free and compulsory education for all children between the age of 6 and 14 years",
+        "No reservation in Panchayats need to be made in favour of Scheduled Castes in Arunachal Pradesh"
+      ],
+      "answer": "Free and compulsory education for all children between the age of 6 and 14 years",
+      "explanation": "Parliament passed the 93rd Constitution Amendment Bill relating to the provision of reservation for socially and educationally backward classes of citizen or for the SCs and STs related to admission in educational institutions."
+    }
+  ],
+  "Polity (Union Executive)": [
+    {
+      "subject": "Polity (Union Executive)",
+      "question": "Consider the following statements<br>1. The Union Executive consists of the President and the Council of Ministers with the Prime Minister as the head.<br>2. The President may, by writing under his hand addressed to the Vice-President, resign his office.<br>3. Executive power of the Union is vested in the Prime Minister.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1 and 3",
+        "2 and 3",
+        "1, 2 and 3",
+        "Only 2"
+      ],
+      "answer": "Only 2",
+      "explanation": "The Union executive consists of the President, the Vice-President, and the Council of Ministers with the Prime Minister as the head to aid and advise the President.He may, by writing under his hand addressed to the Vice- President, resign his office (Article 61). According to article 52,executive power of the Union is vested in the President."
+    }
+  ],
+  "Polity (Parliamentary Committees)": [
+    {
+      "subject": "Polity (Parliamentary Committees)",
+      "question": "Consider the following statements<br>1. Ministry of Parliamentary Affairs constitute Consultative Committees of Members of both the Houses of Parliament.<br>2. The main purpose of these Committees are to provide a forum for formal discussions between the Government and Members of Parliament on polices and programmes of the Government.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "The Ministry of Parliamentary Affairs handles affairs relating to the Parliament of India and works as a link between the two chambers, the Lok Sabha and the Rajya Sabha. It constitutes consultative committees of members of Parliament and makes arrangements for holding their meetings, both during and between sessions."
+    }
+  ],
+  "Polity (Citizenship)": [
+    {
+      "subject": "Polity (Citizenship)",
+      "question": "In which part of the Constitution, details of citizenship are mentioned?",
+      "image": "",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "answer": "II",
+      "explanation": "Details of Citizenship are mentioned in part ll(Article 5-11) of the constitution."
+    }
+  ],
+  "Polity (Centre-State Relations)": [
+    {
+      "subject": "Polity (Centre-State Relations)",
+      "question": "Financial distribution between the Union and the State takes place on the basis of the recommendations of which one of the following?",
+      "image": "",
+      "options": [
+        "The National Development Council",
+        "The Inter-State Council",
+        "The Planning Commission",
+        "The Finance Commission"
+      ],
+      "answer": "The Finance Commission",
+      "explanation": "The Finance Commission is constituted by the President under article 280 of the Constitution, mainly to give its recommendations on distribution of tax revenues between the Union and the States and amongst the States themselves."
+    }
+  ],
+  "Polity (Commissions & Committees)": [
+    {
+      "subject": "Polity (Commissions & Committees)",
+      "question": "Who is the Chairman of second Administrative Reforms Commission?",
+      "image": "",
+      "options": [
+        "Bimal Jalan",
+        "Dr Karan Singh",
+        "M Veerappa Moily",
+        "Ahmed Patel"
+      ],
+      "answer": "M Veerappa Moily",
+      "explanation": "The 2nd Administrative Reforms Commission was initially set up under the Chairmanship of Mr. Veerappa Moily, who resigned with effect from 1st April 2009. He was succeeded by V. Ramachandran. The Commission was to prepare a detailed blueprint for revamping the public administration system in India."
+    }
+  ]
+}
