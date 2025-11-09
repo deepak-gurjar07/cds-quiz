@@ -1,0 +1,17 @@
+{
+  "Economics (Fiscal Policy)": [
+    {
+      "subject": "Economics (Fiscal Policy)",
+      "question": "According to the provisions of the Fiscal Responsibility and Budget Management [FRBM]. Act., 2003 and FRBM Rules, 2004, the Government is under obligation to present three statements before the parliament along with the Annual Budget. Which one of the following is not one of them?",
+      "image": "",
+      "options": [
+        "Macroeconomic Framework Statement",
+        "Fiscal Policy Strategy Statement",
+        "Medium-term Fiscal Policy Statement",
+        "Statement showing Short term Fiscal Policy"
+      ],
+      "answer": "Statement showing Short term Fiscal Policy",
+      "explanation": "The Act requires the government to lay before the parliament three policy statements in each financial year namely Medium Term Fiscal Policy Statement; Fiscal Policy Strategy Statement and Macroeconomic Framework Policy Statement."
+    }
+  ]
+}

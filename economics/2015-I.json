@@ -1,0 +1,45 @@
+{
+  "Economics (Microeconomics)": [
+    {
+      "subject": "Economics (Microeconomics)",
+      "question": "Demand for a commodity refers to",
+      "image": "",
+      "options": [
+        "Desire for that commodity",
+        "Need for that commodity",
+        "Quantity demanded of that commodity",
+        "Quantity demanded at certain price during any particular period of time"
+      ],
+      "answer": "Quantity demanded at certain price during any particular period of time",
+      "explanation": "The demand for a commodity at a given price is the quantity that will be purchased at a unit of time and at a unit price. Demand has the following features; Demand refers to the quantity at a given price, Demand must be defined per unit time."
+    },
+    {
+      "subject": "Economics (Microeconomics)",
+      "question": "An exceptional demand curve is one that slopes",
+      "image": "",
+      "options": [
+        "downward to the right",
+        "upward to the right",
+        "horizontally",
+        "upward to the left"
+      ],
+      "answer": "downward to the right",
+      "explanation": "An exceptional demand curve is one that slopes upward to the right"
+    }
+  ],
+  "Economics (Monetary System)": [
+    {
+      "subject": "Economics (Monetary System)",
+      "question": "Rise in the price of a commodity means",
+      "image": "",
+      "options": [
+        "rise in the value of currency only",
+        "fall in the value of currency only",
+        "rise in the value of commodity only",
+        "fall in the value of currency and rise in the value of commodity."
+      ],
+      "answer": "fall in the value of currency only",
+      "explanation": "Rise in the price of a commodity means both fall in the value of currency and rise in the value of commodity."
+    }
+  ]
+}

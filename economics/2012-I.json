@@ -1,0 +1,90 @@
+{
+  "Economics (Fiscal Policy)": [
+    {
+      "subject": "Economics (Fiscal Policy)",
+      "question": "Fiscal Policy in India is formulated by",
+      "image": "",
+      "options": [
+        "the Reserve Bank of India",
+        "the Planning Commission",
+        "the Finance Ministry",
+        "the Securities and Exchange Board of India"
+      ],
+      "answer": "the Finance Ministry",
+      "explanation": "The Department of Economic Affairs (DEA) under Ministry of Finance is the nodal agency of the Union Government to formulate and monitor country's economic policies and programmes having a bearing on domestic and international aspects of economic management."
+    }
+  ],
+  "Economics (Macroeconomics)": [
+    {
+      "subject": "Economics (Macroeconomics)",
+      "question": "Which of the following statements is/are correct?<br>1. If a country is experiencing increase in its per capita GDP, its GDP must necessarily be growing.<br>2. If a country is experiencing negative inflation its GDP must be decreasing.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Negative inflation is decrease in price level and economic growth is defined as GDP. A decrease in inflation means the prices has fallen. So, there is increase in purchasing power of money. It increases consumption, therefore GDP increases."
+    },
+    {
+      "subject": "Economics (Macroeconomics)",
+      "question": "Which of the following measures should be taken when an economy is going through in inflationary pressures?<br>1. The direct taxes should be increased.<br>2. The interest rate should be reduced.<br>3. The public spending should be increased.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "2 and 3",
+        "1 and 2"
+      ],
+      "answer": "Only 1",
+      "explanation": "Cost-push inflation occurs when businesses respond to rising costs, by increasing their prices to protect profit margins. There are many reasons why costs might rise: Component costs, Rising labour costs and higher indirect taxes imposed by the government. So, the direct taxes should be increased when an economy is going through in inflationary pressures."
+    }
+  ],
+  "Economics (National Income)": [
+    {
+      "subject": "Economics (National Income)",
+      "question": "National income ignores",
+      "image": "",
+      "options": [
+        "sales of a firm",
+        "salary of employees",
+        "exports of the IT sector",
+        "sale of land"
+      ],
+      "answer": "sale of land",
+      "explanation": "National Income ignores sale of land."
+    }
+  ],
+  "Economics (Unemployment)": [
+    {
+      "subject": "Economics (Unemployment)",
+      "question": "When the productive capacity of the economic systems of a state is inadequate to create sufficient number of jobs, it is called",
+      "image": "",
+      "options": [
+        "seasonal unemployment",
+        "structural unemployment",
+        "disguised unemployment",
+        "cyclical unemployment"
+      ],
+      "answer": "structural unemployment",
+      "explanation": "Cyclical unemployment is unemployment that results when the overall demand for goods and services in an economy cannot support full employment. It occurs during periods of slow economic growth or during periods of economic contraction."
+    }
+  ],
+  "Economics (Capital Markets)": [
+    {
+      "subject": "Economics (Capital Markets)",
+      "question": "Which of the following statements is/ are correct?<br>1. NIFTY is based upon 50 firms in India.<br>2. NIFTY is governed and regulated by the Reserve Bank of India.<br>3. NIFTY does not trade in mutual funds.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Only 3",
+        "1 and 3"
+      ],
+      "answer": "1 and 3",
+      "explanation": "NIFTY is an Index computed from performance of top stocks from different sectors listed on NSE (National stock exchange). NIFTY consists of 50 companies from 24 different sectors. Indian Capital Markets are regulated and monitored by the Ministry of Finance, The Securities and Exchange Board of India and The Reserve Bank of India. It does not trade in mutual funds."
+    }
+  ]
+}

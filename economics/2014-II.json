@@ -1,0 +1,174 @@
+{
+  "Economics (Energy Sector)": [
+    {
+      "subject": "Economics (Energy Sector)",
+      "question": "World Bank in June 2014 released a study report on India's Power Sector titled 'More Power' to India : The Challenge of Electricity Distribution'. Which of the following is/are the key recommendation(s) of the report ?<br>1. Ensure regulatory autonomy, effectiveness and accountability for utilities and regulators<br>2. Insulate utilities from State Governments to prevent interference with internal operations<br>3. Scrap the Electricity Act 2003 in order to improve the revenue generation of the power distribution companies<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "l and 2 only",
+        "2 only",
+        "1 and 3 only"
+      ],
+      "answer": "l and 2 only",
+      "explanation": "This report reviews the evolution of the Indian power sector since the landmark Electricity Act of 2003, with a focus on distribution as key to the performance and viability of the sector. While all three segments of the power sector (generation, transmission, and distribution) are important revenues originate with the customer at distribution, so subpar performance there hurts the entire value chain."
+    }
+  ],
+  "Economics (Microeconomics)": [
+    {
+      "subject": "Economics (Microeconomics)",
+      "question": "Which one among the following pairs is not correctly matched ?",
+      "image": "",
+      "options": [
+        "When total product : Marginal product increases at an increasing rate increases",
+        "When total product : Marginal product increases at a diminishing rate declines",
+        "When total product : Marginal product reaches its maximum becomes zero",
+        "When total product : Marginal product begins to decline becomes positive"
+      ],
+      "answer": "When total product : Marginal product increases at a diminishing rate declines",
+      "explanation": "When total product begins to decline, marginal product is negative."
+    },
+    {
+      "subject": "Economics (Microeconomics)",
+      "question": "The way total output changes due to change in all inputs in same proportion is known as law of",
+      "image": "",
+      "options": [
+        "Returns to scale",
+        "Diminishing returns",
+        "Increasing returns",
+        "Constant returns"
+      ],
+      "answer": "Returns to scale",
+      "explanation": "The way total output changes due to change in all inputs in the same proportion is known as \"law of return to scale\"."
+    },
+    {
+      "subject": "Economics (Microeconomics)",
+      "question": "Which of the following statements is/are true?<br>1. If increase in demand and supply are of equal magnitude, the price will remain unchanged, but the equilibrium quantity will increase.<br>2. If increase in demand is of greater magnitude than increase in supply, both equilibrium price and equilibrium quantity will increase.<br>3. If increase in supply is of greater magnitude than increase in demand, equilibrium price will fall but equilibrium quantity will increase.<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1 only I",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": ""
+    },
+    {
+      "subject": "Economics (Microeconomics)",
+      "question": "Which of the following statements are correct?<br>1. When marginal revenue is positive, total revenue increases with increase in output.<br>2. When marginal revenue is zero, total revenue is maximum.<br>3. When marginal revenue becomes negative, total revenue falls with increase in output.<br>Select the correct answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": ""
+    }
+  ],
+  "Economics (Market Structures)": [
+    {
+      "subject": "Economics (Market Structures)",
+      "question": "A market in which there are large numbers of sellers of a particular product, but each seller sells somewhat differentiated but close products is termed as",
+      "image": "",
+      "options": [
+        "Perfect competition",
+        "Monopoly",
+        "Monopolistic competition",
+        "Oligopoly"
+      ],
+      "answer": "Monopolistic competition",
+      "explanation": "Monopolistic competition is a form of market in which there are large numbers of sellers of a particular products but each seller sells somewhat differentiated but close products."
+    }
+  ],
+  "Economics (National Income)": [
+    {
+      "subject": "Economics (National Income)",
+      "question": "The value of all final goods and services produced by the normal residents of a country and their property, whether operating within the domestic territory of the country or outside in a year is termed as",
+      "image": "",
+      "options": [
+        "Gross National Income",
+        "Net National Income",
+        "Gross Domestic Product",
+        "Net Domestic Product"
+      ],
+      "answer": "Gross National Income",
+      "explanation": "The sum of a nation's gross domestic product (GDP) plus net income received from overseas. Gross national income (GNI) is defined as the sum of value added by all producers who are residents in a nation, plus any product taxes (minus subsidies) not included in output, plus income received from abroad such as employee compensation and property income."
+    },
+    {
+      "subject": "Economics (National Income)",
+      "question": "National product at factor cost is equal to",
+      "image": "",
+      "options": [
+        "Domestic product + Net factor income from abroad",
+        "National product at market prices - indirect taxes + subsidies",
+        "Gross domestic-product - depreciation",
+        "National product at market prices + Indirect taxes + 1. subsidies"
+      ],
+      "answer": "Domestic product + Net factor income from abroad",
+      "explanation": "Net National Product at factor Cost = National Product at market prices – Indirect taxes + subsidies."
+    }
+  ],
+  "Economics (Trade & Macro)": [
+    {
+      "subject": "Economics (Trade & Macro)",
+      "question": "Which of the following theories form the basis of international trade ?<br>1. Absolute cost difference<br>2. Comparative cost difference<br>3. Opportunity cost<br>Select the correct answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "1 and 2 only",
+        "1,2 and 3"
+      ],
+      "answer": "1 and 2 only",
+      "explanation": "Absolute cost difference, comparative cost difference and opportunity cost all form the basis of international trade."
+    }
+  ],
+  "Economics (Taxation)": [
+    {
+      "subject": "Economics (Taxation)",
+      "question": "Which one among the following is not a source of tax revenue for the Central Government in India ?",
+      "image": "",
+      "options": [
+        "Income tax",
+        "Customs duuties",
+        "Service tax",
+        "Motor Vehicle tax"
+      ],
+      "answer": "Motor Vehicle tax",
+      "explanation": "Motor Vehicle tax is not a source of tax revenue for the central government in India."
+    }
+  ],
+  "Economics (Balance of Payments)": [
+    {
+      "subject": "Economics (Balance of Payments)",
+      "question": "Which of the following does not form part of current account of Balance of Payments?",
+      "image": "",
+      "options": [
+        "Export and import of goods",
+        "Export and import of services",
+        "Income receipts and payments",
+        "Capital receipts and payments"
+      ],
+      "answer": "Capital receipts and payments",
+      "explanation": "Capital receipts and payments do not form part of current account of Balance of Payment."
+    }
+  ],
+  "Economics (Foreign Investment)": [
+    {
+      "subject": "Economics (Foreign Investment)",
+      "question": "Which of the following is not the recommendation of the Arvind Mayaram Committee on Rationalizing the FDI/FPI definition (June 2014) ?",
+      "image": "",
+      "options": [
+        "Foreign investment of 10 per cent or more in a listed company will be treated as foreign direct investment (FDI)",
+        "In a particular company, an investor can hold the investments either under the FPI (Foreign Portfolio Investment) route or under the FDI route, but not both",
+        "Any investment by way of equity shares, compulsorily convertible preference shares debentures which is less than 10 per cent of the post issue paid up equity capital of a company shall be treated as FPI",
+        "On NRI Investors, the Committee recommended treating non-repatriable invesnnent as FDI"
+      ],
+      "answer": "On NRI Investors, the Committee recommended treating non-repatriable invesnnent as FDI",
+      "explanation": "Union Finance Ministry on 21 June 2014 accepted the recommendations of Arvind Mayaram Committee on rationalising the FDI/FPI definition. On NRI Investors, the Committee recommended treating non-repatriable investment as domestic and exempting it from FDI related conditions."
+    }
+  ]
+}

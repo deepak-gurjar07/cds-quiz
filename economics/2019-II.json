@@ -1,0 +1,188 @@
+{
+  "Economics (Macro & Micro Concepts)": [
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Which one of the following statements with regard to economic models is not correct ?",
+      "image": "",
+      "options": [
+        "They involve simplification of complex processes.",
+        "They represent the whole or a part of a theory.",
+        "They can be expressed only through equations.",
+        "They help in gaining an insight into cause and effect."
+      ],
+      "answer": "They can be expressed only through equations.",
+      "explanation": "The economic model is a theoretical construct representing economic processes by a set of variables and a set of logical and/or quantitative relationships [or quantitative relationships] between them. The economic model is a simplified, often mathematical, framework designed to illustrate complex processes. Frequently, economic models posit structural parameters.A model may have various exogenous variables, and those variables may change to create various responses by economic variables. Methodological uses of models include investigation, theorizing, and fitting theories to the world."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "The value of the slope of a normal demand curve is",
+      "image": "",
+      "options": [
+        "positive",
+        "negative",
+        "zero",
+        "infinity"
+      ],
+      "answer": "negative",
+      "explanation": "Normal demand curve is the graph that shows relationship between demand and price under ceteris paribus… normal demand curve shows negative slope because of the inversely proportional between price and quantity demanded in the market such that when the price is higher quantity demanded decreases and vise versa."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Which one of the following is an example of a price floor ?",
+      "image": "",
+      "options": [
+        "Minimum Support Price (MSP) for Jowar in India",
+        "Subsidy given to farmers to buy fertilizers",
+        "Price paid by people to buy goods from ration shops",
+        "Maximum Retail Price (MRP) printed on the covers/ packets of goods sold in India"
+      ],
+      "answer": "Minimum Support Price (MSP) for Jowar in India",
+      "explanation": "Minimum Support Price is the price at which government purchases crops from the farmers, whatever may be the price for the crops. Minimum Support Price is an important part of India›s agricultural price policy. The MSP helps to incentivize the framers and thus ensures adequate food grains production in the country."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Which one of the following is not a dimension of the Human Development Index ?",
+      "image": "",
+      "options": [
+        "A long and healthy life",
+        "Knowledge",
+        "Access to banking and other financial provisions",
+        "A decent standard of living"
+      ],
+      "answer": "Access to banking and other financial provisions",
+      "explanation": "The Human Development Index (HDI) is a statistic composite index of life expectancy, education, and per capita income indicators, which are used to rank countries into four tiers of human development. ... Examples include—Being: well fed, sheltered, healthy; Doing: work, education, voting, participating in community life."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Gini Coefficient or Gini Ratio can be associated with which one of the following measurements in an economy ?",
+      "image": "",
+      "options": [
+        "Rate of inflation",
+        "Poverty index",
+        "Income inequality",
+        "Personal income"
+      ],
+      "answer": "Income inequality",
+      "explanation": "In economics, the Gini coefficient sometimes called the Gini index or Gini ratio, is a measure of statistical dispersion intended to represent the income or wealth distribution of a nation’s residents, and is the most commonly used measurement of inequality. It was developed by the Italian statistician and sociologist Corrado Gini and published in his 1912 paper Variability and Mutability."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "What do you mean by ‘Demographic Dividend’ ?",
+      "image": "",
+      "options": [
+        "A rise in the rate of economic growth due to a higher share of working age people in a population",
+        "A rise in the rate of literacy due to development of educational institutions in different parts of the country",
+        "A rise in the standard of living of the people due to the growth of alternative livelihood practices",
+        "A rise in the gross employment ratio of country due to government policies"
+      ],
+      "answer": "A rise in the rate of economic growth due to a higher share of working age people in a population",
+      "explanation": "Demographic dividend, as defined by the United Nations Population Fund (UNFPA) means, “the economic growth potential that can result from shifts in a population’s age structure, mainly when the share of the working-age population (15 to 64) is larger than the non-working-age share of the population (14 and younger, and 65 and older).<br>In other words, it is “a boost in economic productivity that occurs when there are growing numbers of people in the workforce relative to the number of dependents. UNFPA stated that, “A country with both increasing numbers of young people and declining fertility has the potential to reap a demographic dividend."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Which one of the following equals Personal Disposable Income?",
+      "image": "",
+      "options": [
+        "Personal Income – Direct taxes paid by households and miscellaneous fees, fines, etc.",
+        "Private Income – Saving of Private Corporate Sectors – Corporation Tax",
+        "Private Income – Taxes",
+        "Total expenditure of Households – Income Tax – Gifts received"
+      ],
+      "answer": "Personal Income – Direct taxes paid by households and miscellaneous fees, fines, etc.",
+      "explanation": "Disposable income is total personal income minus personal current taxes. In national accounts definitions, personal income minus personal current taxes equals disposable personal income.[2] Subtracting personal outlays (which includes the major category of personal [or private] consumption expenditure) yields personal (or, private) savings, hence the income left after paying away all the taxes is referred to as disposable income."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "The working of the price mechanism in a free-market economy refers to which one of the following ?",
+      "image": "",
+      "options": [
+        "The interplay of the forces of demand and supply",
+        "Determination of the inflation rate in the economy",
+        "Determination of the economy’s propensity to consume",
+        "Determination of the economy’s full employment output"
+      ],
+      "answer": "The interplay of the forces of demand and supply",
+      "explanation": "The term free price system refers to an economic system where prices are decided by exchange of demand and supply and the prices resulting from it is taken as a signal which is communicated between consumers and producers and which helps in guiding production and distribution of the resources.<br>The interaction of buyers and sellers in free markets enables goods, services, and resources to be allocated prices. ... Resources move towards where they are in the shortest supply, relative to demand, and away from where they are least demanded."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Indexation is a method whose use can he associated with which one of the following ?",
+      "image": "",
+      "options": [
+        "Controlling inflation",
+        "Nominal GDP estimation",
+        "Measurement of savings rate",
+        "Fixing of wage compensation"
+      ],
+      "answer": "Controlling inflation",
+      "explanation": "Indexation is a technique to adjust income payments by means of a price index, in order to maintain the purchasing power of the public after inflation, while deindexation is the unwinding of indexation. Indexation is used to adjust the purchase price of an investment to reflect the effect of inflation on it. A higher purchase price means lesser profits, which effectively means a lower tax. With the help of indexation, you will be able to lower your long-term capital gains, which brings down your taxable income."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Who among the following has given the concept of Human Development ?",
+      "image": "",
+      "options": [
+        "Amartya Sen",
+        "Mahbub-ul-Haq",
+        "Sukhamoy Chakravarty",
+        "G.S. Chaddha"
+      ],
+      "answer": "Mahbub-ul-Haq",
+      "explanation": "Human development is defined as the process of enlarging people’s freedoms and opportunities and improving their well-being. ... The human development concept was developed by economist Mahbub ul Haq."
+    }
+  ],
+  "Economics (Indian Economy)": [
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "Which one of the following factors is not considered in determining the Minimum Support Price (MSP) in India ?",
+      "image": "",
+      "options": [
+        "Cost of production",
+        "Price trends in international and domestic markets",
+        "Cost of living index",
+        "Inter-crop price parity"
+      ],
+      "answer": "Cost of living index",
+      "explanation": "A cost-of-living index is a theoretical price index that measures relative cost of living over time or regions. It is an index that measures differences in the price of goods and services, and allows for substitutions with other items as prices vary.<br>Minimum Support Price is the price at which government purchases crops for the farmers, to safeguard the interests of the farmers."
+    },
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "Which of the following statements with regard to the ‘Make in India’ initiative is/are correct ?<br>1. It was launched in the year 2018.<br>2. Its objective is to foster innovation.<br>Select the correct answer using the code given below :",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Neither 1 nor 2",
+      "explanation": "It was launched by Prime Minister. Narendra Modi on 25 September 2014.<br>Make in India is a major national programme of the Government of India designed to facilitate investment, foster innovation, enhance skill development, protect intellectual property and build best in class manufacturing infrastructure in the country."
+    },
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "Which of the following statements about ‘Invest India’ is/ are correct ?<br>1. It is a joint venture (not for profit) company.<br>2. It is the National Investment Promotion and Facilitation Agency of India.<br>Select the correct answer using the code given below:",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both l and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both l and 2",
+      "explanation": "Invest India is India’s official agency dedicated to investment promotion and facilitation. It is a not-for-profit, single window facilitator, set up in 2010 for prospective overseas investors and to those aspiring Indian investors desiring to invest in foreign locations, and acts as a structured mechanism to attract investment. Invest India is essentially an Investment Promotion Agency in India."
+    },
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "Who among the following was the Chairman of the Committee on Deepening Digital Payments appointed by the RBI ?",
+      "image": "",
+      "options": [
+        "H.R. Khan",
+        "Nandan Nilekani",
+        "N.R. Narayana Murthy",
+        "Sanjay Jain"
+      ],
+      "answer": "Nandan Nilekani",
+      "explanation": "The Reserve Bank of India had constituted a High-Level Committee on Deepening of Digital Payments under the Chairmanship of Shri Nandan Nilekani, former Chairman, UIDAI, in January 2019."
+    }
+  ]
+}

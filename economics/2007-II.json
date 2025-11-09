@@ -1,0 +1,17 @@
+{
+  "Economics (National Surveys & Data)": [
+    {
+      "subject": "Economics (National Surveys & Data)",
+      "question": "Consider the following statements<br>1. The current Economic Census is the seventh in the series so far conducted in India.<br>2. The Economic Census in India is undertaken by the Department of Economic Affairs (Union Ministry of Finance).<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both l and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Neither 1 nor 2",
+      "explanation": "In 1976, Government of India launched a plan scheme called \"Economic Census and Surveys\". In 1977 Central Statistical Organisation conducted First economic census in collaboration with the Directorate of Economics & Statistics (DES) in the States/Union Territories. Current Economic Census is Sixth Economic Census held in 2013. The Central Statistics Office (CSO) in the Ministry of Statistics and Programme Implementation (MOSPI) conducted the Sixth Economic Census during January, 2013 to April, 2014 in collaboration with Directorates of Economics and Statistics in all the States and Union Territories."
+    }
+  ]
+}

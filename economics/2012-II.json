@@ -1,0 +1,60 @@
+{
+  "Economics (Macroeconomics)": [
+    {
+      "subject": "Economics (Macroeconomics)",
+      "question": "Consider the following statements<br>1. High growth will led to inflation.<br>2. High growth will lead to deflation.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Only 1",
+      "explanation": "Typically, higher inflation is caused by strong economic growth. If Aggregate demand in an economy expanded faster than aggregate supply, we would expect to see a higher inflation rate. If demand is rising faster than supply, then this suggests that economic growth is higher than the long run sustainable rate of growth.<br>Note: A sustained rise in prices is known as inflation. A large rise in prices is often caused by economic growth."
+    },
+    {
+      "subject": "Economics (Macroeconomics)",
+      "question": "Which one among the following is an appropriate description of deflation?",
+      "image": "",
+      "options": [
+        "it is a sudden fall in the value of a currency against other currencies",
+        "It is a persistent recession in the economy",
+        "It is a persistent fall in the general price level of goods and services",
+        "It is fall in the rate of inflation over a period of time"
+      ],
+      "answer": "It is a persistent fall in the general price level of goods and services",
+      "explanation": "Deflation is defined as a fall in the general price level of goods and services. It is a negative rate of inflation. It means the value of money increases rather than decreases."
+    }
+  ],
+  "Economics (Agriculture)": [
+    {
+      "subject": "Economics (Agriculture)",
+      "question": "Which of the fallowing are responsible for the decrease of per capita holding of cultivated land in India?<br>1. Low per capita income.<br>2. Rapid rate of increase of population.<br>3. Practice of dividing land equally among the heirs.<br>4. Use of traditional techniques of ploughing.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "2 and 3",
+        "1 and 4",
+        "2,3 and 4"
+      ],
+      "answer": "2 and 3",
+      "explanation": "Rapid rate of increase of population and practice of dividing land equally among the heirs are responsible for the decrease of per capita holding of cultivated land in India."
+    }
+  ],
+  "Economics (Capital Markets)": [
+    {
+      "subject": "Economics (Capital Markets)",
+      "question": "In the parlance of financial investment, the term bear denotes",
+      "image": "",
+      "options": [
+        "an investor, who feels that the price of a particular security is going to fall",
+        "an investor, who expects the price of a particular share to rise",
+        "a shareholder, who has an interest in a company, financially or otherwise",
+        "any lender, whether by making a loan or buying a bond"
+      ],
+      "answer": "an investor, who feels that the price of a particular security is going to fall",
+      "explanation": "The term bear denotes an investor who believes that a particular security or market is headed downward. Bears attempt to profit from a decline in prices. Bears are generally pessimistic about the state of a given market. Bearish sentiment can be applied to all types of markets including commodity markets, stock markets and the bond market."
+    }
+  ]
+}

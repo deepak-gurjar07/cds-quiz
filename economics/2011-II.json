@@ -1,0 +1,191 @@
+{
+  "Economics (Global Economy)": [
+    {
+      "subject": "Economics (Global Economy)",
+      "question": "Consider the following statements<br>1. The current global economic crisis owes its genesis to the subprime crisis in the United States.<br>2. The Indian economy is showing a faster recovery from the economic crisis than its western counterparts.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "The U.S. subprime mortgage crisis was a nationwide banking emergency that coincided with the U.S. recession of December 2007 - June 2009. It was triggered by a large decline in home prices, leading to mortgage delinquencies and foreclosures and the devaluation of housing-related securities. India has not only shown greater resistance during financial crises but it was one of the countries showing the fastest recovery too. This financial crisis displayed the robustness of Indian economy. It has also helped in further fine-tuning our economic policies and changing the vision of various corporate."
+    },
+    {
+      "subject": "Economics (Global Economy)",
+      "question": "Which of the following statements are correct?<br>1. The global economy relied on oil for much of the 20th century as a portable and indispensable fuel.<br>2. The immense wealth associated with oil generates political struggles to control it.<br>3. History of petroleum is also the history of war and struggle.<br>4. Nowhere is this more obviously the case of war and struggle than in West Asia and Central America.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1, 2, 3 and 4",
+        "2 and 4",
+        "1 and 3",
+        "1, 2 and 3"
+      ],
+      "answer": "1, 2, 3 and 4",
+      "explanation": "All statements are correct."
+    }
+  ],
+  "Economics (Banking & Finance)": [
+    {
+      "subject": "Economics (Banking & Finance)",
+      "question": "Which one of the following Public Sector Bank's emblem figures a dog and the words 'faithful friendly, in it?",
+      "image": "",
+      "options": [
+        "Punjab National Bank",
+        "Syndicate Bank",
+        "Oriental Bank of Commerce",
+        "State Bank of India"
+      ],
+      "answer": "Syndicate Bank",
+      "explanation": "Syndicate Bank. The symbol of dog implies that Bank is trustworthy and a friend. Its slogan is : Your faithful and friendly financial partner."
+    },
+    {
+      "subject": "Economics (Banking & Finance)",
+      "question": "Consider the following statements with regard to Statutory Liquidity Ratio (SLR)<br>1. To meet SLR, Commercial banks can use cash only.<br>2. SLR is maintained by the banks with themselves.<br>3. SLR restricts the banks leverage in pumping more money into the economy.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "1 and 3",
+        "2 and 3",
+        "only 2"
+      ],
+      "answer": "2 and 3",
+      "explanation": "SLR used by bankers indicates the minimum percentage of deposits that the banks have to maintain in the form of gold, cash or other approved securities."
+    }
+  ],
+  "Economics (National Income)": [
+    {
+      "subject": "Economics (National Income)",
+      "question": "Consider the following statements relating to estimation of National Income.<br>1. Foreigners working in India Embassies are normal residents of India.<br>2. Foreigners working in the office of WHO, World Bank, UNO etc, located in India are not normal residents of India.<br>3. Indians working in foreign embassies in India are not normal residents of India.<br>Which of the statements given above is/are not correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "1 and 3",
+        "Only 3",
+        "All of these"
+      ],
+      "answer": "1 and 3",
+      "explanation": "Only statement 2 is correct. Statements 1 & 3 are wrong."
+    }
+  ],
+  "Economics (Commodity Markets)": [
+    {
+      "subject": "Economics (Commodity Markets)",
+      "question": "Brent index is associated with",
+      "image": "",
+      "options": [
+        "crude oil prices",
+        "copper future prices",
+        "gold future prices",
+        "shipping rate index"
+      ],
+      "answer": "crude oil prices",
+      "explanation": "Brent Crude is a major trading classification of sweet light crude oil that serves as a major benchmark price for purchases of oil worldwide. Brent Crude is extracted from the North Sea and comprises Brent Blend, Forties Blend, Oseberg and Ekofisk crudes .The Brent Crude oil marker is also known as Brent Blend, London Brent and Brent petroleum. The index represents the average price of trading in the 25 day Brent Blend, Forties, Oseberg, Ekofisk (BFOE) market in the relevant delivery month as reported and confirmed by the industry media."
+    }
+  ],
+  "Economics (Industrial Development)": [
+    {
+      "subject": "Economics (Industrial Development)",
+      "question": "Match the following<br>List I (Phase of Industrial Revolution)<br>A. First Phase<br>B. Third Phase<br>C. Second Phase<br>D. Fourth Phase<br>List II (Feature)<br>1. Rise of steel, chemical, electricity industries<br>2. Rise of cotton mill<br>3. Rise of steam engine<br>4. Rise of petro chemicals, jet aircraft, computers<br>Codes:<br>A B C D",
+      "image": "",
+      "options": [
+        "2 3 1 4",
+        "2 1 3 4",
+        "4 1 3 2",
+        "4 3 1 2"
+      ],
+      "answer": "2 3 1 4",
+      "explanation": "Phases of Industrial Revolution:<br>1. First phase- Rise of Cotton mill<br>2. Second phase- Rise of steel, chemicals, electricity industries.<br>3. Third phase- Rise of steam engine<br>4. Fourth phase- Rise of petrochemicals, jet aircraft, computers"
+    }
+  ],
+  "Economics (Monetary System)": [
+    {
+      "subject": "Economics (Monetary System)",
+      "question": "Consider the following statements<br>1. In India the minimum denomination coin acceptable for transaction is 50 paise.<br>2. Coins below 50 praise is not a legal tender for payment.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "India has already banned 25-paisa coin. Now 50-paisa is the minimum denomination coin."
+    }
+  ],
+  "Economics (Foreign Investment)": [
+    {
+      "subject": "Economics (Foreign Investment)",
+      "question": "A recent survey (by Bloomberg) shows that the USA has fallen behind emerging markets in Brazil, China and India as the preferred place to invest. Why is it so?<br>1. Unstable economic situation of the USA which the global investors feel not likely to improve in the near future.<br>2. Global investors are finding Brazil, China and India to be actually more amenable to foreign investment.<br>Select the correct answer using the code given below",
+      "image": "",
+      "options": [
+        "Only 1",
+        "only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "According to Bloomberg LP, an American company, the economy of USA is fallen. Instead, Brazil, India, China have emerged as investor-friendly nations."
+    },
+    {
+      "subject": "Economics (Foreign Investment)",
+      "question": "India's market regulator SEBI is on course to relax investment norms for sovereign wealth funds, the investment vehicles which are directly controlled by the government of a country. The main reason behind this move is",
+      "image": "",
+      "options": [
+        "the desire of the Government of India to attract more foreign investment",
+        "pressure by foreign Governments on India to execute specific mutual agreements on financial services.",
+        "SEBI's desire to create a more level playing field for foreign investors",
+        "RBI's relevant directives to SEBI"
+      ],
+      "answer": "the desire of the Government of India to attract more foreign investment",
+      "explanation": "The main reason behind this move is the desire of the government of India to attract more foreign investment."
+    }
+  ],
+  "Economics (Public Finance)": [
+    {
+      "subject": "Economics (Public Finance)",
+      "question": "Consider the following statements about Sinking Fund<br>1. It is a method of repayment of public debt.<br>2. It is created by the government out of budgetary revenues every year.<br>Winch of the statements given above is/are contact?",
+      "image": "",
+      "options": [
+        "Oniy 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "A sinking fund is a fund created by the government and gradually accumulated every year by setting aside a part of current public revenue in such a way that it would be sufficient to pay off the funded debt at the time of maturity. Under this method, the aggregate burden of public debt is least felt, as the burden of taxing the people to repay the debt is spread evenly over the period of the accumulation of the fund. The preferable alternative for the government is to raise a new loan and credit the proceeds of sinking fund. It is a separate fund established by a government."
+    }
+  ],
+  "Economics (Five Year Plans & Schemes)": [
+    {
+      "subject": "Economics (Five Year Plans & Schemes)",
+      "question": "Match the following<br>List I (Five Year Plan)<br>A. First<br>B. Second<br>C. Fifth<br>D. Ninth<br>List II (Emphasis)<br>1. Food security and women empowerment<br>2. Heavy industries<br>3. Agriculture and community development<br>4. Removal of poverty<br>Codes :<br>A B C D",
+      "image": "",
+      "options": [
+        "1 2 4 3",
+        "1 4 2 3",
+        "3 2 4 1",
+        "3 4 2 1"
+      ],
+      "answer": "3 2 4 1",
+      "explanation": "1. First Five Year Plan (1951-56)- Agriculture and community development<br>2. Second Five Year Plan (1956-61)- Heavy Industry<br>3. Fifth Five Year Plan (1974-79)- Removal of Poverty<br>4. Ninth Five Year Plan (1997-2002)- Food Security and woman empowerment"
+    }
+  ],
+  "Economics (Fiscal Policy)": [
+    {
+      "subject": "Economics (Fiscal Policy)",
+      "question": "Statement I Deficit financing does not lead to inflation if adopted in small doses.<br>Statement II Deficit financing is an often used tool for financing budgetary deficits.",
+      "image": "",
+      "options": [
+        "Both the Statements are individually true and Statement II is the correct explanation of Statement",
+        "Both the Statements are individually true, but Statement II is not the correct explanation of Statement I",
+        "Statement I is true, but Statement II is lalse",
+        "Statement I is false, but Statement II is true"
+      ],
+      "answer": "Both the Statements are individually true, but Statement II is not the correct explanation of Statement I",
+      "explanation": "Deficit Financing is an expansionist device of currency machine and is accompanied by inflation and has many adverse effects on the economy. It has also been compared to a drug market in red 'Poison' which is prescribed for a certain purpose and has to be administered in small regulated dose. When the outlay of a government exceeds its tax revenues, the government budget is said to be in deficit; government spending in excess of tax receipts is known as deficit spending. Governments usually issue bonds to match their deficit."
+    }
+  ]
+}

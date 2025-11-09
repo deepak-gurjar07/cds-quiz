@@ -1,0 +1,99 @@
+{
+  "Economics (Macro & Micro Concepts)": [
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Which one of the following statements about Exchange-Traded Fund (ETF) is not correct?",
+      "image": "",
+      "options": [
+        "It is a marketable security.",
+        "It experiences price changes throughout the day.",
+        "It typically has lower daily liquidity and higher fees than mutual fund shares.",
+        "An ETF does not have its net asset value calculated once at the end of every day."
+      ],
+      "answer": "It typically has lower daily liquidity and higher fees than mutual fund shares.",
+      "explanation": "An ETF, or exchange-traded fund, is a marketable security that tracks an index, a commodity, bonds, or a basket of assets like an index fund."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Consider the following statements about impact of tax:<br>1. A tax is shifted forward to consumers if the demand is inelastic relative to supply.<br>2. A tax is shifted backward to producers if the supply is relatively more inelastic than demand.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "The tax incidence depends on the relative price elasticity of supply and demand. When supply is more elastic than demand, buyers bear most of the tax burden. When demand is more elastic than supply, producers bear most of the cost of the tax. Tax revenue is larger the more inelastic the demand and supply are."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "According to the law of diminishing marginal utility, as the amount of a good consumed increases, the marginal utility of that good tends to",
+      "image": "",
+      "options": [
+        "improve",
+        "diminish",
+        "remain constant",
+        "first diminish and then improve"
+      ],
+      "answer": "diminish",
+      "explanation": "The law of diminishing marginal utility states that as a person increases consumption of a product while keeping consumption of other products constant, there is a decline in the marginal utility that person derives from consuming each additional unit of that product."
+    }
+  ],
+  "Economics (Indian Economy)": [
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "The Reserve Bank of India has recently constituted a high-level task force on Public Credit Registry (PCR) to suggest a road map for developing a transparent, comprehensive and near-real-time PCR for India. The task force is headed by",
+      "image": "",
+      "options": [
+        "Sekar Karnam",
+        "Vishakha Mulye",
+        "Sriram Kalyanaraman",
+        "Y. M. Deosthalee"
+      ],
+      "answer": "Y. M. Deosthalee",
+      "explanation": "The Reserve Bank of India has constituted a 10-member 'High Level Task Force on Public Credit Registry (PCR) for India', which is headed by YM Deosthalee, ex-CMD, L&T Finance Holdings."
+    },
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "Which of the following statements about the India Post Payments Bank (IPPB) is/are correct?<br>1. It has been incorporated as a Public Limited Company.<br>2. It started its operation by establishing two pilot branches at Hyderabad and Varanasi.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "1 only",
+      "explanation": "India Post Payments Bank is incorporated as a Public Sector Bank under the Department of Posts with 100% GOI equity. IPPB was launched on January 30th, 2017 in Ranchi and Raipur with the objective of being present in all corners of India by the end of the year."
+    },
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "Growth in production (in percent) of which one of the following core industries in India during the period 2015-2016 was negative?",
+      "image": "",
+      "options": [
+        "Natural gas",
+        "Refinery products",
+        "Fertilizer",
+        "Coal"
+      ],
+      "answer": "Natural gas",
+      "explanation": "Growth in production (in percent) of natural gas industries in India during the period 2015 - 2016 was negative. Production of refinery products, crude oil, natural gas, steel and cement dwindled in the period whereas fertilisers, coal and cement reported healthy output numbers. Electricity had no fluctuation from last year."
+    }
+  ],
+  "Economics (Trade & Macro)": [
+    {
+      "subject": "Economics (Trade & Macro)",
+      "question": "Which one of the following events is not correctly matched with the year in which it happened?",
+      "image": "",
+      "options": [
+        "Inauguration of the SWIFT system of electronic interbank fund transfers worldwide—1985",
+        "Conclusion of the Uruguay Round of GATT—1994",
+        "Inauguration of the World Trade Organization—1995",
+        "Establishment of the first wholly electronic stock exchange (Nasdaq)—1971"
+      ],
+      "answer": "Inauguration of the SWIFT system of electronic interbank fund transfers worldwide—1985",
+      "explanation": "The Society for Worldwide Interbank Financial Telecommunication (SWIFT) was founded in Brussels in 1973 under the leadership of its inaugural CEO, Carl Reuterskiöld , and was supported by 239 banks in fifteen countries. It started to establish common standards for financial transactions and a shared data processing system and worldwide communications network designed by Logica and developed by The Burroughs Corporation. Fundamental operating procedures, rules for liability, etc., were established in 1975 and the first message was sent in 1977. SWIFT's first United States operating center was inaugurated by Governor John N. Dalton of Virginia in 1979."
+    }
+  ]
+}

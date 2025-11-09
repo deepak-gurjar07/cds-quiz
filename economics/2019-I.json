@@ -1,0 +1,136 @@
+{
+  "Economics (Macro & Micro Concepts)": [
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Which one of the following statements is not correct.",
+      "image": "",
+      "options": [
+        "When total utility is maximum, marginal utility is zero.",
+        "When total utility is decreasing marginal utility is negative",
+        "When total utility is increasing, marginal utility is positive.",
+        "When total utility is maximum, marginal and average utility are equal to each other."
+      ],
+      "answer": "When total utility is maximum, marginal and average utility are equal to each other.",
+      "explanation": "When total utility is maximum, marginal utility is zero and it is not equal to average utility."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Consider the following statements about indifference curves:<br>1 Indifference curves are convex to the origin.<br>2 Higher indifference curves represents higher level of satisfaction.<br>3 Two indifference curves cut each other.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "1 and 2",
+        "2 and 3",
+        "3 only"
+      ],
+      "answer": "1 and 2",
+      "explanation": "In economics, an indifference curve connects points on a graph representing different quantities of two goods, points between which a consumer is indifferent. That is, the consumer has no preference for one combination or bundle of goods over a different combination on the same curve. Two indifference curves cannot cut each other."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Consider the following statements about a joint-stock company:<br>1 It has a legal existence.<br>2 There is limited liability of shareholders<br>3 It has a democratic management<br>4 It has a collective ownership.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3 only",
+        "3 and 4 only",
+        "1, 2, 3 and 4"
+      ],
+      "answer": "1, 2, 3 and 4",
+      "explanation": "All the statements are correct about a joint-stock company."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "When some goods or productive factors are completely fixed in amount, regardless of price, the supply curve is",
+      "image": "",
+      "options": [
+        "horizontal",
+        "downward sloping to the right",
+        "vertical",
+        "upward sloping to the right"
+      ],
+      "answer": "horizontal",
+      "explanation": "Some goods or productive factors are completely fixed in amount, regardless of price. There is only one Mona Lisa by da Vinci. Nature's original endowment of land can be taken as fixed in amount. In this case, the supply curve is always horizontal."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "A market situation when many firms sell similar but not identical products is termed as",
+      "image": "",
+      "options": [
+        "perfect competition",
+        "imperfect competition",
+        "monopolistic competition",
+        "oligopoly"
+      ],
+      "answer": "monopolistic competition",
+      "explanation": "Monopolistic competition is a market structure which combines elements of monopoly and competitive markets. It is a situation when firms sell similar but not identical products."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Which one of the following hypotheses postulates that individual’s consumption in any time period depends upon resources available to the individual, rate of return on his capital and age of the individual?",
+      "image": "",
+      "options": [
+        "Absolute Income Hypothesis",
+        "Relative Income Hypothesis",
+        "Life Cycle Hypothesis",
+        "Permanent Income Hypothesis"
+      ],
+      "answer": "Relative Income Hypothesis",
+      "explanation": "Developed by James Duesenberry, the relative income hypothesis states that an individual's attitude to consumption and saving is dictated more by his income in relation to others than by abstract standard of living; the percentage of income consumed by an individual depends on his percentile position within the income distribution. It also depends on the rate of return of his capital and age of the individual."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "According to John Maynard Keynes, employment depends upon",
+      "image": "",
+      "options": [
+        "aggregate demand",
+        "aggregate supply",
+        "effective demand",
+        "rate of interest"
+      ],
+      "answer": "effective demand",
+      "explanation": "According to Keynes, the volume of employment in a country depends on the level of effective demand of people for goods and services. Unemployment is attributed to the deficiency of effective demand."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Which one of the following canons of taxation was not advocated by Adam Smith?",
+      "image": "",
+      "options": [
+        "Canon of equality",
+        "Canon of certainty",
+        "Canon of convenience",
+        "Canon of fiscal adequacy"
+      ],
+      "answer": "Canon of fiscal adequacy",
+      "explanation": "Adam Smith said taxation should be imposed in proportion to the benefits a taxpayer receives from the state and should be equity, certainty, convenience, and efficiency."
+    }
+  ],
+  "Economics (Indian Economy)": [
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "Consider the following statements:<br>1. Inflation in India continued to be moderate during 2017-18.<br>2. There was significant reduction in food inflation, particularly pulses and vegetables during the period.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Inflation in the country continued to moderate during 2017-18. Consumer Price Index (CPI) based headline inflation averaged 3.3 per cent during the period which is the lowest in the last six financial years. This has been stated in the Economic Survey 2017-18. There was a significant reduction in food inflation too."
+    },
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "Eight States have achieved more than 99% household electrification prior to the launch of ‘Saubhagya Scheme’. Which one of the following is not among them?",
+      "image": "",
+      "options": [
+        "Kerala",
+        "Punjab",
+        "Himachal Pradesh",
+        "Madhya Pradesh"
+      ],
+      "answer": "Madhya Pradesh",
+      "explanation": "Eight States which have already achieved more than 99 per cent household electrification prior to launch of Saubhagya scheme are ineligible for participation under the award scheme. These eight states are Andhra Pradesh, Gujarat, Goa, Haryana, Himachal Pradesh, Kerala, Punjab and Tamil Nadu."
+    }
+  ]
+}

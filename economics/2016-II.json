@@ -1,0 +1,123 @@
+{
+  "Economics (Macro & Micro Concepts)": [
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Which of the following with regard to the term 'bank run' is correct?",
+      "image": "",
+      "options": [
+        "The net balance of money a bank has in its chest at the end of the day's business",
+        "The ratio of bank's total deposits and total liabilities",
+        "A panic situation when the deposit holders start withdrawing cash from the banks",
+        "The period in which a bank creates highest credit in the market"
+      ],
+      "answer": "A panic situation when the deposit holders start withdrawing cash from the banks",
+      "explanation": "A bank run occurs when a large number of customers of a bank or another financial institution withdraw their deposits simultaneously due to concerns about the bank's solvency. The panic situation arises when depositors withdraw their part fearing that the bank will be unable to repay their deposits in full and on time,"
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Which of the following will be the outcome if an economy is under the inflationary pressure?<br>1. Domestic currency heads for depreciation.<br>2. Exports become less competitive with imports getting costlier.<br>3. Cost of borrowing decreases.<br>4. Bondholders get benefitted.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "2 and 3",
+        "I and 3 only",
+        "1, 3 and 4"
+      ],
+      "answer": "I and 3 only",
+      "explanation": "If an economy is under inflationary pressure the most likely effects include the depreciation of domestic currencies and the cost of borrowing also decreases."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "According to the Classical Theory of Employment, deviations from the state of full employment are",
+      "image": "",
+      "options": [
+        "purely temporary in nature",
+        "permanent in nature",
+        "imaginary situations",
+        "normal situations"
+      ],
+      "answer": "purely temporary in nature",
+      "explanation": "Full employment is the employment level at which every individual who desires to work at the existing wage rate gets employed. If the condition of unemployment occurs, it is a temporary/abnormal condition in the economy."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Capital deepening refers to",
+      "image": "",
+      "options": [
+        "going for more fixed capital per worker",
+        "emphasis on social overhead capital",
+        "constant capital-output ratio",
+        "increasing capital-output ratio"
+      ],
+      "answer": "increasing capital-output ratio",
+      "explanation": "Capital Deepening is the process of increasing the amount of capital per worker."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "In India, the term 'hot money' is used to refer to",
+      "image": "",
+      "options": [
+        "Currency + Reserves with the RBI",
+        "Net GDR",
+        "Net Foreign Direct Investment",
+        "Foreign Portfolio Investment"
+      ],
+      "answer": "Foreign Portfolio Investment",
+      "explanation": "Hot money is cash that investors from foreign countries will invest during the short term in search of the highest interest rate possible. With the opening up of debt and equity markets to foreign portfolio investors, the FPI (Foreign Portfolio Investment) has emerged as the leading form of quick money flows globally."
+    }
+  ],
+  "Economics (Indian Economy)": [
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "Which one of the following statements is not correct?",
+      "image": "",
+      "options": [
+        "Creation of National Investment and Infrastructure Fund (NIIF) was announced in the Union Budget, 2015-16.",
+        "NIIF is a fund for enhancing infrastructure facility in the country.",
+        "NIIF and NIF (National Investment Fund) are the names of the same organization,",
+        "NIIF can have more than one alternative investment fund,"
+      ],
+      "answer": "NIIF and NIF (National Investment Fund) are the names of the same organization,",
+      "explanation": "The purpose of the National Investment Fund (NIF) is related to disinvestment proceedings of central public sector enterprises and to invest the same to generate earnings without depleting the corpus.<br>National Investment and Infrastructure Fund (NIIF) is a fund created by the Government of India for enhancing infrastructure financing in the country."
+    },
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "Which one of the following statements is correct with respect to the composition of national income in India?",
+      "image": "",
+      "options": [
+        "The share of manufacturing sector has declined.",
+        "The share of services sector has increased sharply.",
+        "The share of agriculture has remained static.",
+        "The share of services sector has declined."
+      ],
+      "answer": "The share of services sector has increased sharply.",
+      "explanation": "The contribution of Services Sector of India to overall GDP has increased sharply, from 41% in 1990-91 to 66% in 2014-15."
+    },
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "Which one of the following is/are credit rating agency/ agencies in India ?",
+      "image": "",
+      "options": [
+        "CRISIL",
+        "CARE",
+        "ICRA",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "explanation": "All three CRISIL,CARE and ICRA are credit rating agencies"
+    },
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "Who among the following is the Chairman of the Fourteenth Finance Commission?",
+      "image": "",
+      "options": [
+        "C. Rangarajan",
+        "Vijay Kelkar",
+        "Y. V. Reddy",
+        "Rakesh Mohan"
+      ],
+      "answer": "Y. V. Reddy",
+      "explanation": "Y. V. Reddy is the Chairman of Fourteenth Finance Commission of India."
+    }
+  ]
+}

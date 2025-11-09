@@ -1,0 +1,176 @@
+{
+  "Economics (Monetary System)": [
+    {
+      "subject": "Economics (Monetary System)",
+      "question": "Under flexible exchange rate system, the exchange rate is determined",
+      "image": "",
+      "options": [
+        "predominantly by market mechanism",
+        "by the Central Bank",
+        "as a weighted index of a group of currencies",
+        "by the World Trade Organization"
+      ],
+      "answer": "predominantly by market mechanism",
+      "explanation": "A flexible exchange rate system is a kind of a monetary system which allows the exchange rate to be regulated by supply and demand in relation to other currencies."
+    }
+  ],
+  "Economics (Industrial Development)": [
+    {
+      "subject": "Economics (Industrial Development)",
+      "question": "Which one of the following is not correct in the context of industrial clusters development in India?",
+      "image": "",
+      "options": [
+        "Industrial clusters play an important role for the MSME participants in their inclusiveness, technology absorption and efficiency improvement",
+        "Industrial clusters are visible in traditional handloom, handicrafts and modern SME",
+        "Industrial cluster programmes in India are administered by various ministries",
+        "Industrial clusters lead to promotion of monopoly in the market"
+      ],
+      "answer": "Industrial cluster programmes in India are administered by various ministries",
+      "explanation": "Industrial clusters development has an objective to support the sustainability and growth of small and medium enterprises in India. This scheme is governed and administered by the Ministry of micro, small and medium enterprises."
+    }
+  ],
+  "Economics (Agriculture)": [
+    {
+      "subject": "Economics (Agriculture)",
+      "question": "Private investment in Indian agriculture is mostly on labour- saving mechanization. This could be a response to",
+      "image": "",
+      "options": [
+        "rising productivity of agricultural sector",
+        "rising inequality in agriculture",
+        "rising wages and tighter labour market",
+        "debt write-off by the Government"
+      ],
+      "answer": "rising wages and tighter labour market",
+      "explanation": "The entry of Private investment in Indian agriculture would be responsible for rising wages and tightening labour market due to labour saving mechanism."
+    }
+  ],
+  "Economics (Taxation)": [
+    {
+      "subject": "Economics (Taxation)",
+      "question": "Which one of the following is the major source of gross tax revenue (GTR) for the Government of India?",
+      "image": "",
+      "options": [
+        "Income tax",
+        "Corporation tax",
+        "Customs duty",
+        "Service tax"
+      ],
+      "answer": "Corporation tax",
+      "explanation": "Corporation tax in India is the major source of Gross Tax Revenue (GTR) for the Government of India. It has great tax collection in comparison to income tax, custom duty and service tax."
+    },
+    {
+      "subject": "Economics (Taxation)",
+      "question": "Which one of the following represents a progressive tax structure?",
+      "image": "",
+      "options": [
+        "Tax rate is the same across all incomes",
+        "Tax rate increases as income increases",
+        "Tax rate decreases as income increases",
+        "Each household pays equal amount of tax"
+      ],
+      "answer": "Tax rate increases as income increases",
+      "explanation": "Progressive tax structure means increase in tax rate with increase in taxable amount. The word-progressive denotes a progress from low to high."
+    }
+  ],
+  "Economics (Environment & Development)": [
+    {
+      "subject": "Economics (Environment & Development)",
+      "question": "Which of the following statements in the context of income- environment relationship is /are correct?<br>(1) Pollution trends tend to follow an inverse-U shaped relationship across different stages of economic development.<br>(2) In the beginning stage, pollution increases due to urbanization and industrialization.<br>(3) In the later stage, pollution declines due to structural changes towards services sector.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "1, 2 and 3",
+        "2 and 3 only"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "Pollution trends show inverse relationship with the economic development. In early stage, pollution increases due to urbanization and industrialization. At last, pollution declines due to structural changes towards service sector."
+    }
+  ],
+  "Economics (Market Structures)": [
+    {
+      "subject": "Economics (Market Structures)",
+      "question": "Which one of the following is an example of a 'natural monopoly'?",
+      "image": "",
+      "options": [
+        "Indian Airlines",
+        "Delhi Jal Board",
+        "Delhi Transport Corporation",
+        "Steel Authority of India"
+      ],
+      "answer": "Delhi Jal Board",
+      "explanation": "When monopoly is arisen due to climatic, environmental and any natural factors in a particular area or in any country, known as Natural monopoly.<br>Example of Natural monopolies include monopoly of South Africa on gold and diamond mining and oil production by Arabic nation."
+    },
+    {
+      "subject": "Economics (Market Structures)",
+      "question": "What is meant by price discrimination?",
+      "image": "",
+      "options": [
+        "Increase in price of a commodity over time",
+        "A situation where the same product is sold to different consumers for different prices",
+        "Subsidization of a product by the Government to sell it at a lower price",
+        "General decrease in price of a commodity over time"
+      ],
+      "answer": "A situation where the same product is sold to different consumers for different prices",
+      "explanation": "When different consumers pay different prices for the same product, this situation is known as price discrimination."
+    }
+  ],
+  "Economics (Public Goods)": [
+    {
+      "subject": "Economics (Public Goods)",
+      "question": "What is meant by 'Public Good'?",
+      "image": "",
+      "options": [
+        "A commodity produced by the Government",
+        "A commodity whose benefits are indivisibly spread among the entire community",
+        "A Government scheme that benefits the poor households",
+        "Any commodity that is very popular among general public"
+      ],
+      "answer": "A commodity whose benefits are indivisibly spread among the entire community",
+      "explanation": "Public good means a commodity or service which is given without profit to everyone in a society by government or any organisation."
+    }
+  ],
+  "Economics (Microeconomics)": [
+    {
+      "subject": "Economics (Microeconomics)",
+      "question": "In view of the fact that kerosene is an inferior good in India, what is/are its implication(s)?<br>1. As households get richer, they consume less kerosene.<br>2. Over time there is a decline in quality of kerosene.<br>3. Government needs to stop subsidies on kerosene.<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1 only",
+      "explanation": "Generally Kerosene is used as fuel by the poor, As they get prosperity, they use little this fuel."
+    }
+  ],
+  "Economics (Indian Economy)": [
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "Which of the following factors led to a decline in inflation rate in India during 2014-2015?<br>1. Persistent decline in crude oil prices<br>2. Softness in global prices of tradables such as edible oils and coal<br>3. Tight monetary policy pursued by the Reserve Bank of India<br>Select the correct answer using the code given below.",
+      "image": "",
+      "options": [
+        "1 only",
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3"
+      ],
+      "answer": "1 only",
+      "explanation": "Government strict measures to control food inflation and persistent decline in crude prices results in declining trend in inflation during 2014-15."
+    },
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "Which one of the following statements about the Companies Act, 2013 is not correct?",
+      "image": "",
+      "options": [
+        "The Act regulates the corporate sector to make it accountable.",
+        "It provides for Corporate Social Responsibility.",
+        "It provides more opportunities for new entrepreneurs.",
+        "It enables wide application of Information Technology."
+      ],
+      "answer": "It provides more opportunities for new entrepreneurs.",
+      "explanation": ""
+    }
+  ]
+}

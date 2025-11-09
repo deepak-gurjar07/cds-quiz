@@ -1,0 +1,86 @@
+{
+  "Economics (Taxation)": [
+    {
+      "subject": "Economics (Taxation)",
+      "question": "As per the Economic Survey 2007-2008, which one of the following is the largest source of revenue of the Government of India?",
+      "image": "",
+      "options": [
+        "Excise Duty",
+        "Personal income Tax",
+        "Corporation Tax",
+        "Customs Duties"
+      ],
+      "answer": "Corporation Tax",
+      "explanation": "As per economic survey 2007-2008 corporation tax is the largest source of revenue of the Government of India."
+    }
+  ],
+  "Economics (Capital Markets)": [
+    {
+      "subject": "Economics (Capital Markets)",
+      "question": "The acronym SRO, being used in the capital market for various market participants, stands for which one of the following?",
+      "image": "",
+      "options": [
+        "Self regulatory Organisations",
+        "Small Revenue Operators",
+        "Securities Roll-back Operators",
+        "Securities Regulatory Organisations"
+      ],
+      "answer": "Self regulatory Organisations",
+      "explanation": "A self-regulatory organization (SRO) is a non-governmental organization that has the power to create and enforce industry regulations and standards. The priority is to protect investors through the establishment of rules that promote ethics and equality."
+    }
+  ],
+  "Economics (Five Year Plans & Schemes)": [
+    {
+      "subject": "Economics (Five Year Plans & Schemes)",
+      "question": "Consider the following statements<br>1. Food for Work Programme was launched in India during the 10th Five Year Plan.<br>2. The Planning commission in India is a constitutional body.<br>Which of the statements given above is/are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Only 1",
+      "explanation": "According to The National Food for Work Programme, food subsidy should be better targeted through targeted public distribution system and specific programmes for the poor like Food for Work Programme. The National Food for Work Programme was launched on 14 November 2004 in 150 of the most backward districts of India with the objective of generating supplementary wage employment. The Planning commission is not a constitutional body."
+    },
+    {
+      "subject": "Economics (Five Year Plans & Schemes)",
+      "question": "Which one of the following statements regarding Monitorable Socio-Economic target of the 11th Five Year Plan, under the head Environment, is not correct?",
+      "image": "",
+      "options": [
+        "Treat all urban waste water by 2011-2012 to clear river waters",
+        "Increase energy efficiency by 20 percentage points by 2016-1017",
+        "Attain WHO standards of air quality in all major cities by 2011-2012",
+        "Increase forest and tree cover by 15 percentage points"
+      ],
+      "answer": "Increase forest and tree cover by 15 percentage points",
+      "explanation": "Target of 11th Five Year Plan is to increase forest and tree cover by 5 percentage points."
+    },
+    {
+      "subject": "Economics (Five Year Plans & Schemes)",
+      "question": "By which one of the following years does the 11th Five Year Plan aim at achieving 10% rural tele-density in India from the present 1.9%?",
+      "image": "",
+      "options": [
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+      ],
+      "answer": "2012",
+      "explanation": "The aim of 11th Five Year Plan is to connect every village by telephone and provide broadband connectivity to all villages by 2012."
+    },
+    {
+      "subject": "Economics (Five Year Plans & Schemes)",
+      "question": "The 11th Five Year Plan strategy to raise agricultural output envisages which of the following?<br>1. Greater attention to land reforms.<br>2. Double the rate of growth of irrigated area.<br>3. Promote animal husbandry and fishery.<br>4. Interest free credit to the farmers.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "1 and 3",
+        "2 and 3",
+        "1, 2 and 3",
+        "2 and 4"
+      ],
+      "answer": "1, 2 and 3",
+      "explanation": "11th Five Year Plan's initiatives for agriculture were:<br>• Focusing on land reform issues<br>• Doubling the rate of growth of irrigated area<br>• Promoting animal husbandry and fishery<br>• Providing easy access to credit at affordable rates"
+    }
+  ]
+}

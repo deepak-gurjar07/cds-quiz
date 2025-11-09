@@ -1,0 +1,215 @@
+{
+  "Economics (Industrial Development)": [
+    {
+      "subject": "Economics (Industrial Development)",
+      "question": "Which of the following factors was not a reason behind the occurrence of the Industrial Revolution in England first?",
+      "image": "",
+      "options": [
+        "No part of the country was far from the sea",
+        "Navigable rivers made inland transport easier.",
+        "In England machines could be operated by wind or water power due to favourable climate condition",
+        "England had coal, iron and other necessary mineral resources"
+      ],
+      "answer": "In England machines could be operated by wind or water power due to favourable climate condition",
+      "explanation": "On the natural side England has in abundance three important commodities - water, iron and coal. Water in Britain's numerous hilly districts provides the power to drive mills in the early stages of industrialization; the rivers, amplified from 1761 by a developing network of canals, facilitate inland transport in an age where roads are only rough tracks; and the sea, never far from any part of Britain, makes transport of heavy goods easy between coastal cities."
+    }
+  ],
+  "Economics (Agriculture)": [
+    {
+      "subject": "Economics (Agriculture)",
+      "question": "Consider the following statements<br>1. The recent decision of Government of India to partially decontrol the sugar industry gives the millers the freedom to sell sugar in open market and removes their obligation to supply sugar at subsidised rates to ration shops.<br>2. C. Rangarajan panel also suggested decontrolling of sugar industry in India.<br>Which of the statements given above is/ are correct?",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "The decision to partially decontrol the sugar sector was taken by the Cabinet Committee on Economic Affairs (CCEA). This gives millers the freedom to sell in the open market and remove their obligation to supply the sweetener at subsidised rates to ration shops. The Rangarajan Committee has recommended total decontrol of the sugar industry by doing away with the levy sugar obligation, release mechanism and freeing of export-import."
+    }
+  ],
+  "Economics (Fiscal Policy)": [
+    {
+      "subject": "Economics (Fiscal Policy)",
+      "question": "In India, the price of petroleum products has been deregulated mainly to",
+      "image": "",
+      "options": [
+        "reduce the burden of subsidies given to the oil companies",
+        "discourage the exploration of oil reserves in the country",
+        "discourage the demand for private vehicles",
+        "curb the use of black money in the economy"
+      ],
+      "answer": "reduce the burden of subsidies given to the oil companies",
+      "explanation": "The sharp decline in crude oil price helped the government to deregulate the price of diesel and thus reduce a huge burden of subsidy on the exchequer. India if not a producing giant, is certainly a refining hub where it refines and markets around 220 metric million tonnes of petroleum products. Out of this around 160 mmt is used for domestic consumption while the rest is used for exports. Therefore, the drop in price of oil will be a blessing for the Indian refiners and the oil marketing companies."
+    }
+  ],
+  "Economics (Macroeconomics)": [
+    {
+      "subject": "Economics (Macroeconomics)",
+      "question": "Which of the following factors is/are responsible for recent rapid slow down of Indian economy despite recovering from the global financial crisis.<br>1. The boost to demand given by monetary and fiscal stimulus following the crisis was large.<br>2. Starting in 2011-12, corporate and infrastructure investment started slowing both as a result of investment bottlenecks as well as the tighter monetary policy.<br>Select the correct answer using the codes given below",
+      "image": "",
+      "options": [
+        "Only 1",
+        "Only 2",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "answer": "Both 1 and 2",
+      "explanation": "Factors responsible for this are given below:<br>1. The boost to demand given by monetary and fiscal stimulus following the crisis was large. Final consumption grew at an average of over 8% annually between 2009-10 and 2011-12. The result was strong inflation and a powerful monetary response that also slowed consumption demand.<br>2. Beginning in 2011-12 corporate and infrastructure investment started slowing both as a result of investment bottlenecks as well as the tighter monetary policy."
+    }
+  ],
+  "Economics (Banking & Finance)": [
+    {
+      "subject": "Economics (Banking & Finance)",
+      "question": "The main functioning of the banking system is to",
+      "image": "",
+      "options": [
+        "accept deposits and provide credit",
+        "accept deposits and subsidies",
+        "provide credit and subsidies",
+        "accept deposits, provide credit and subsidies"
+      ],
+      "answer": "accept deposits and provide credit",
+      "explanation": "The main functioning of the banking system is to accept deposits and provide credit. The bank collects deposits from public. These are savings, fixed, current and recurring deposits. The bank advances loan to the business community and other members of the public. The types of bank loans and advances are overdraft, cash credits, loans and discounting of bill of exchange."
+    },
+    {
+      "subject": "Economics (Banking & Finance)",
+      "question": "Which bank is limited to the needs of agriculture and rural finance?",
+      "image": "",
+      "options": [
+        "SBI",
+        "NABARD",
+        "IFC",
+        "RBI"
+      ],
+      "answer": "NABARD",
+      "explanation": "Committee to review the arrangements for institutional credit for agriculture and rural development (CRAFICARD) under the Chairmanship of Shri B. Sivaraman, recommended the formation of National Bank for Agriculture and Rural Development (NABARD). The bank came into existence on 12 July 1982. It is limited to the need of agriculture and rural finance."
+    }
+  ],
+  "Economics (Microeconomics)": [
+    {
+      "subject": "Economics (Microeconomics)",
+      "question": "The income elasticity of demand for inferior goods is",
+      "image": "",
+      "options": [
+        "less than one",
+        "less than zero",
+        "equal to one",
+        "greater than one"
+      ],
+      "answer": "less than zero",
+      "explanation": "Inferior goods have a negative(less than 0) income elasticity of demand meaning that demand falls as income rises."
+    },
+    {
+      "subject": "Economics (Microeconomics)",
+      "question": "The average fixed cost curve will always be",
+      "image": "",
+      "options": [
+        "a rectangular hyperbola",
+        "a downward sloping convex to the origin curve",
+        "a downward sloping straight line",
+        "a U-shaped curve"
+      ],
+      "answer": "a rectangular hyperbola",
+      "explanation": "Total fixed costs are constant, so the average fixed cost curve diminishes with the output. Thus, the average fixed cost curve is a rectangular hyperbola."
+    },
+    {
+      "subject": "Economics (Microeconomics)",
+      "question": "In a perfectly competitive economy production and consumption will both be Pareto optimal, if the economy operates at a point where",
+      "image": "",
+      "options": [
+        "there is general equilibrium",
+        "output levels are below equilibrium",
+        "output levels are above equilibrium",
+        "consumption is less than output"
+      ],
+      "answer": "there is general equilibrium",
+      "explanation": "General equilibrium involving both production and consumption also ensures the achievement of pareto efficiency. Pareto efficiency in this regard requires that marginal rate of transformation should be equal to the marginal rate of substitution of the individuals."
+    },
+    {
+      "subject": "Economics (Microeconomics)",
+      "question": "If the average total cost is declining then",
+      "image": "",
+      "options": [
+        "the marginal cost must be less than the average total cost",
+        "total cost must be constant",
+        "the average fixed cost curve must be above the average variable cost curve",
+        "the marginal cost must be greater than the average total cost"
+      ],
+      "answer": "the marginal cost must be less than the average total cost",
+      "explanation": "When marginal cost is less than average cost, average cost must be falling. When marginal cost exceeds average cost must be rising. The marginal cost and average cost curves are related to each other."
+    },
+    {
+      "subject": "Economics (Microeconomics)",
+      "question": "The production function of a firm will change whenever",
+      "image": "",
+      "options": [
+        "input price changes",
+        "the firm employs more of any input",
+        "the firm increases its level of output",
+        "the relevant technology changes"
+      ],
+      "answer": "the relevant technology changes",
+      "explanation": "The production function of a firm will change whenever input price changes."
+    }
+  ],
+  "Economics (Monetary System)": [
+    {
+      "subject": "Economics (Monetary System)",
+      "question": "The Government of India and Reserve Bank of India have decided to introduce 1 billion pieces of ` 10 notes in polymer/plastic on a field trial basis. Which of the following is/ are the objectives behind this move?",
+      "image": "",
+      "options": [
+        "Increase of the lifetime of the notes.",
+        "Combating counterfeiting.",
+        "Reducing the cost of minting of currency.",
+        "All of the above"
+      ],
+      "answer": "Increase of the lifetime of the notes.",
+      "explanation": "The government and the RBI have decided to launch one billion pieces of Rs 10 bank notes made of plastic on a field trial basis in 5 cities viz. Kochi, Mysore, Jaipur, Bhubhaneswar and Shimla. Primary goal of introduction of polymer notes is to increase its life. It could also help in combating counterfeiting. RBI will embark on polymer notes on a long term basis only if the cost-benefit calculus is decidedly positive in all dimensions."
+    },
+    {
+      "subject": "Economics (Monetary System)",
+      "question": "The value of money varies",
+      "image": "",
+      "options": [
+        "directly with the, interest rate",
+        "directly with the price level",
+        "directly with the volume of employment",
+        "inversely with the price level"
+      ],
+      "answer": "inversely with the price level",
+      "explanation": "The variation in the value of money is always accompanied by opposite variation in the price of commodities and services. In brief, the value of money varies inversely with the price level. It is reciprocal of price level. Vm =1/p (where Vm denotes value of money and p stands for price level)."
+    }
+  ],
+  "Economics (Taxation)": [
+    {
+      "subject": "Economics (Taxation)",
+      "question": "Corporation tax is imposed by",
+      "image": "",
+      "options": [
+        "State Government",
+        "Central Government",
+        "Local Government",
+        "State as well as Central Government"
+      ],
+      "answer": "State as well as Central Government",
+      "explanation": "Corporation Tax is imposed by State as well as Central Government. Corporation tax is imposed on the income or capital of some types of legal entities. The taxes may also be referred to as income tax."
+    }
+  ],
+  "Economics (National Income)": [
+    {
+      "subject": "Economics (National Income)",
+      "question": "The effect of a government surplus upon the equilibrium level of NNP [Net National Product] is substantially the same as",
+      "image": "",
+      "options": [
+        "an increase in investment",
+        "an increase in consumption",
+        "an increase in saving",
+        "a decrease in saving"
+      ],
+      "answer": "an increase in consumption",
+      "explanation": "The effect of a government surplus upon the equilibrium level of NNP (Net National Product) is substantially the same as an increase in consumption."
+    }
+  ]
+}

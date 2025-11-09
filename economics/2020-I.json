@@ -1,0 +1,110 @@
+{
+  "Economics (Indian Economy)": [
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "Saubhagya, a Government of India Scheme, relates to which of the following areas?",
+      "image": "",
+      "options": [
+        "Achieving universal household electrification",
+        "Providing clean cooking fuel to poor households",
+        "Rationalizing subsidies on LPG",
+        "Stopping female foeticide"
+      ],
+      "answer": "Achieving universal household electrification",
+      "explanation": "Saubhagya. Pradhan Mantri Sahaj Bijli Har Ghar Yojana – ‘Saubhagya’ a new scheme was launched by the Hon’ble Prime Minister on 25th September 2017. Under Saubhagya free electricity connections to all households (both APL and poor families) in rural areas and poor families in urban areas will be provided."
+    },
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "Which one of the following is not correct about Repo rate?",
+      "image": "",
+      "options": [
+        "It is the interest rate charged by the Central Bank on overnight loan.",
+        "It is the interest rate paid by the commercial banks on overnight borrowing.",
+        "It is the interest rate agreed upon in the loan contract between a commercial bank and the Central Bank.",
+        "It is the cost of collateral security."
+      ],
+      "answer": "It is the interest rate agreed upon in the loan contract between a commercial bank and the Central Bank.",
+      "explanation": "Repo rate refers to the rate at which commercial banks borrow money by selling their securities to the Central bank of our country. Reserve Bank of India (RBI) to maintain liquidity, in case of shortage of funds or due to some statutory measures. It is one of the main tools of RBI to keep inflation under control. Technically, repo stands for ‘Repurchasing Option’ or ‘Repurchase Agreement’. It is an agreement in which banks provide eligible securities such as Treasury Bills to the RBI while availing overnight loans. An agreement to repurchase them at a predetermined price will also be in place. Thus, the bank gets the cash and the central bank the security."
+    },
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "The Cash Reserve Ratio refers to",
+      "image": "",
+      "options": [
+        "the share of Net Demand and Time Liabilities that banks have to hold as liquid assets",
+        "the share of Net Demand and Time Liabilities that banks have to hold as balances with the RBI",
+        "the share of Net Demand and Time Liabilities that banks have to hold as part of their cash reserves",
+        "the ratio of cash holding to reserves of banks"
+      ],
+      "answer": "the share of Net Demand and Time Liabilities that banks have to hold as balances with the RBI",
+      "explanation": "Cash Reserve Ratio (CRR) is a specified minimum fraction of the total deposits of customers, which commercial banks have to hold as reserves either in cash or as deposits with the central bank. CRR is set according to the guidelines of the central bank of a country.<br>The CRR (4 per cent of NDTL) requires banks to maintain a current account with the RBI with liquid cash. ... While ensuring some liquid money against deposits is the primary purpose of CRR, its secondary purpose is to allow the RBI to control liquidity and rates in the economy."
+    },
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "The Ministry of Heavy Industries and Public Enterprises consists of",
+      "image": "",
+      "options": [
+        "the Department of Heavy Industry and the Department for Promotion of Industry and Internal Trade",
+        "the Department of Public Enterprises and the Department for Promotion of Industry and Internal Trade",
+        "the Department of Scientific and Industrial Research and the Department of Heavy Industry",
+        "the Department of Heavy Industry and the Department of Public Enterprises"
+      ],
+      "answer": "the Department of Heavy Industry and the Department of Public Enterprises",
+      "explanation": "The Ministry of Heavy Industries and Public Enterprises is an executive agency of the Government of India that administers 48 central public sector enterprises (PSEs) and assists them in their effort to improve capacity utilisation and increase profitability, generate resources and re-orient strategies to become more competitive. The ministry serves as an interface between PSEs and other agencies for long-term policy formulation. The ministry also encourages the restructuring of PSEs to make their operations competitive and viable on a long-term and sustainable basis."
+    },
+    {
+      "subject": "Economics (Indian Economy)",
+      "question": "Who among the following is the Chairman of the Economic Advisory Council to the Prime Minister (EAC-PM)?",
+      "image": "",
+      "options": [
+        "Ratan P. Watal",
+        "Bibek Debroy",
+        "Ashima Goyal",
+        "Sajjid Chinoy"
+      ],
+      "answer": "Bibek Debroy",
+      "explanation": "Dr. Bibek Debroy is Chairman of Economic Advisory Council to the Prime Minister, Government of India.He is an economist and was educated in Ramakrishna Mission School, Narendrapur; Presidency College, Kolkata; Delhi School of Economics and Trinity College, Cambridge."
+    }
+  ],
+  "Economics (Macro & Micro Concepts)": [
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "In economics, if a diagram has a line passing through the origin and has 45° angle with either axis and it is asserted that along the line X = Y, what is tacitly assumed?",
+      "image": "",
+      "options": [
+        "Both variables are pure numbers.",
+        "Both variables are in the same unit.",
+        "Both variables are in different units.",
+        "At least one variable is a pure number."
+      ],
+      "answer": "Both variables are in the same unit.",
+      "explanation": "Because the function is increasing, the slope must be positive. An angle of 45 degrees means that the values of x equal the values of y. To find the slope of a straight line use this equation M(slope)= (Y2 – Y1)/(X2 – X1), and as before X1=Y1 and X2=Y2. Depending on the previous information, the slope is 1."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :<br>List-I (Market structure) List-II (Characteristic)<br>A. Perfect competition 1. Only one producer selling one commodity<br>B. Monopoly 2. Few producers selling similar or almost similar products<br>C. Monopolistic competition 3. Many producers selling differentiated products<br>D. Oligopoly 4. Many producers selling similar products<br>Code:<br>A B C D",
+      "image": "",
+      "options": [
+        "4 3 1 2",
+        "4 1 3 2",
+        "2 1 3 4",
+        "2 3 1 4"
+      ],
+      "answer": "4 1 3 2",
+      "explanation": "Perfect competition-the situation prevailing in a market in which buyers and sellers are so numerous and well informed that all elements of monopoly are absent and the market price of a commodity is beyond the control of individual buyers and sellers.<br>Monopolistic competition is a type of imperfect competition such that many producers sell products that are differentiated from one another and hence are not perfect substitutes.<br>A monopoly exists when a specific person or enterprise is the only supplier of a particular commodity. This contrasts with a monopsony which relates to a single entity’s control of a market to purchase a good or service<br>An oligopoly is a market form wherein a market or industry is dominated by a small group of large sellers. Oligopolies can result from various forms of collusion which reduce competition and lead to higher prices for consumers. Oligopolies have their own market structure."
+    },
+    {
+      "subject": "Economics (Macro & Micro Concepts)",
+      "question": "Which of the following are considered to be the four pillars of human development?",
+      "image": "",
+      "options": [
+        "Equity, inclusion, productivity and empowerment",
+        "Equity, productivity, empowerment and sustainability",
+        "Productivity, gender, inclusion and equity",
+        "Labour, productivity, inclusion and equity"
+      ],
+      "answer": "Equity, productivity, empowerment and sustainability",
+      "explanation": "Four basic pillars of human development: equity, sustainability, productivity, empowerment. Equity is the idea of fairness for every person, between men and women; we each have the right to education and health care."
+    }
+  ]
+}

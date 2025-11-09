@@ -1,0 +1,118 @@
+{
+  "Economics (Consumption & Expenditure)": [
+    {
+      "subject": "Economics (Consumption & Expenditure)",
+      "question": "Share of food in total consumption expenditure has been coming down as Per Capita Income grew over time in last sixty years because",
+      "image": "",
+      "options": [
+        "people have been purchasing less food",
+        "people have been preferring non-cereal items in their food basket",
+        "growth in food expenditure has been lower than growth in per capita income",
+        "percentage of the poor in population has increased over time"
+      ],
+      "answer": "growth in food expenditure has been lower than growth in per capita income",
+      "explanation": "Share of food in total consumption expenditure has been coming down as per capita income grew over time in last sixty years because growth in food expenditure has been lower than growth in per capita income."
+    }
+  ],
+  "Economics (Corporate Governance)": [
+    {
+      "subject": "Economics (Corporate Governance)",
+      "question": "In India, mergers and acquisition of firms are regulated by",
+      "image": "",
+      "options": [
+        "National Manufacturing Competitiveness Council",
+        "Competition Commission of India",
+        "Security and Exchange Board of India",
+        "Department of Industrial Policy and Promotion"
+      ],
+      "answer": "Competition Commission of India",
+      "explanation": "The Competition Act, 2002 prohibits anti-competitive agreements, abuse of dominant position by enterprises and regulates combinations (acquisition, acquiring of control and Merger and acquisition), which causes or likely to cause an appreciable adverse effect on competition within India. Competition Commission of India was established on 14 October 2003 and became fully functional in May 2009. It is a body of the Government of India responsible for enforcing the Competition Act, 2002 throughout India and to prevent activities that have an adverse effect on competition in India"
+    },
+    {
+      "subject": "Economics (Corporate Governance)",
+      "question": "According to the Companies Act, 2013, 'nominal capital' implies",
+      "image": "",
+      "options": [
+        "such part of capital, which has been called for payment",
+        "the maximum amount of share capital of a company",
+        "such part of capital, which has been received by a company from its shareholders",
+        "such capital as the company issues from time to time for subscription"
+      ],
+      "answer": "the maximum amount of share capital of a company",
+      "explanation": "Nominal, authorized or registered capital means the sum mentioned in the capital clause of Memorandum of Association. It is the maximum amount which the company raises by issuing the shares and on which the registration fee is paid. This limit cannot be exceeded unless the Memorandum of Association is altered."
+    }
+  ],
+  "Economics (Sectors of Economy)": [
+    {
+      "subject": "Economics (Sectors of Economy)",
+      "question": "Classification of an enterprise into public or private sector is based on",
+      "image": "",
+      "options": [
+        "number of employees in the enterprise",
+        "ownership of assets of the enterprise",
+        "employment conditions for workers in the enterprise",
+        "nature of products manufactured by the enterprise"
+      ],
+      "answer": "ownership of assets of the enterprise",
+      "explanation": "A company organized for commercial purposes is called an enterprise. Classification of an enterprise into public or private sector is based on ownership of assets of the enterprise."
+    },
+    {
+      "subject": "Economics (Sectors of Economy)",
+      "question": "Which of the following statements about India's unorganised sector are true?<br>1. Labour is more in number than that in the organised sector.<br>2. Job security and work regulation are better in unorganised sector.<br>3. They are usually not organised into trade unions.<br>4. Workers are usually employed for a limited number of days.<br>Select the correct answer using the code given below",
+      "image": "",
+      "options": [
+        "1, 2 and 4",
+        "1, 3 and 4",
+        "3 and 4",
+        "1 and 3"
+      ],
+      "answer": "1, 3 and 4",
+      "explanation": "Unorganized workers (UW) in India have increased many folds post independence. Around 52% of UW's are engaged in agriculture & allied sector and they constitute more than 90% of the labour work force.<br>Characteristics of unorganized sector are:<br>• Excessive seasonality of employment<br>• Poor working conditions<br>• No fixed jobs<br>• Work in very poor working environment<br>• No job regulation<br>• No security of Employment<br>• Employed for a limited period"
+    }
+  ],
+  "Economics (Macroeconomics)": [
+    {
+      "subject": "Economics (Macroeconomics)",
+      "question": "In India, contribution of food inflation to overall inflation is around 1/3rd to 2/5th . Within food inflation, contribution of food articles is higher because price rise in food articles is",
+      "image": "",
+      "options": [
+        "higher and their weight is also higher compared to food products",
+        "higher but their weight is lower compared to food products",
+        "lower but their weight is higher compared to food products",
+        "lower and their weight is also lower compared to food products"
+      ],
+      "answer": "lower but their weight is higher compared to food products",
+      "explanation": ""
+    }
+  ],
+  "Economics (Taxation)": [
+    {
+      "subject": "Economics (Taxation)",
+      "question": "Corporation tax in India is levied on income of a company. Which one of the following does not include Corporation tax?",
+      "image": "",
+      "options": [
+        "Profit from business",
+        "Capital gain",
+        "Interest on securities",
+        "Sale proceed of assets"
+      ],
+      "answer": "Sale proceed of assets",
+      "explanation": "Generally, the income of a company falls under any of the following 4 heads of income:<br>(1) Profits or gains from the business<br>(2) Income from property, whether it is housing, commercial, self-occupied or let-out. If the property is used in the company's business operations, it does not fall under this head.<br>(3) Capital gains<br>(4) Income from other sources including winnings from lotteries, races and interest on securities."
+    }
+  ],
+  "Economics (Five Year Plans & Schemes)": [
+    {
+      "subject": "Economics (Five Year Plans & Schemes)",
+      "question": "'Inclusive growth' is a phrase used in India's<br>1. 9th Plan<br>2. 10th Plan<br>3. 11th Plan<br>4. 12th Plan<br>Select the correct answer using the codes given below.",
+      "image": "",
+      "options": [
+        "1, 2 and 3",
+        "2 and 4",
+        "3 and 4",
+        "Only 4"
+      ],
+      "answer": "3 and 4",
+      "explanation": "Inclusive growth is a phrase used in India for 11th (2007-2012) and 12th (2012-2017) Five year plans."
+    }
+  ]
+}
