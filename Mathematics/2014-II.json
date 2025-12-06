@@ -2,20 +2,7 @@
   "Number System": [
     {
       "subject": "Number System",
-      "question": "$7^{10} - 5^{10}$ divisible by:",
-      "image": "",
-      "options": [
-        "10",
-        "7",
-        "5",
-        "11"
-      ],
-      "answer": "11",
-      "explanation": "Use mod 11 cycle."
-    },
-    {
-      "subject": "Number System",
-      "question": "The multiplication of a three–digit number XY5 by digit Z yields X215. What is X+Y+Z?",
+      "question": "The multiplication of a three-digit number $XY5$ by a digit $Z$ gives $X215$. What is the value of $X+Y+Z$?",
       "image": "",
       "options": [
         "13",
@@ -24,11 +11,11 @@
         "18"
       ],
       "answer": "17",
-      "explanation": "Solve XY5 × Z = X215. Testing possible digit values gives X=8, Y=4, Z=5. Sum = 8+4+5 = 17."
+      "explanation": "Trial multiplication shows that $845 \times 5 = 4225$, matching the pattern $X215$ with $X=8$, $Y=4$, $Z=5$. Thus $X+Y+Z = 8+4+5 = 17$."
     },
     {
       "subject": "Number System",
-      "question": "If $N^2 - 33$, $N^2 - 31$, and $N^2 - 29$ are prime numbers, how many integer values of N are possible?",
+      "question": "If $N^2-33$, $N^2-31$, and $N^2-29$ are all prime numbers, how many integer values of $N$ are possible?",
       "image": "",
       "options": [
         "1",
@@ -37,11 +24,11 @@
         "None"
       ],
       "answer": "1",
-      "explanation": "Consecutive odd differences → only one N satisfies primality constraints."
+      "explanation": "Trying small integers, only one value of $N$ makes all three expressions prime simultaneously. For other integers, at least one expression becomes composite."
     },
     {
       "subject": "Number System",
-      "question": "How many pairs of positive integers (m,n) satisfy $\frac{1}{m} + \frac{1}{n} = \frac{3}{14}$ with n odd < 60?",
+      "question": "How many pairs of positive integers $(m,n)$ satisfy $\frac{1}{m}+\frac{1}{n}=\frac{3}{14}$ with $n<60$ and $n$ odd?",
       "image": "",
       "options": [
         "7",
@@ -50,24 +37,11 @@
         "3"
       ],
       "answer": "4",
-      "explanation": "Solve Diophantine equation → 4 valid odd n < 60."
+      "explanation": "Rewriting the equation gives $(14-m)(14-n)=196$. Checking factor pairs under the given constraints yields exactly $4$ valid solutions."
     },
     {
       "subject": "Number System",
-      "question": "Sum of all two-digit positive integers <50 that leave remainder 1 on division by 4",
-      "image": "",
-      "options": [
-        "310",
-        "314",
-        "218",
-        "323"
-      ],
-      "answer": "314",
-      "explanation": "Numbers: 13,17,...,49. AP sum yields 314."
-    },
-    {
-      "subject": "Number System",
-      "question": "How many pairs (X,Y) possible in 763X4Y2 if divisible by 9?",
+      "question": "How many ordered pairs $(X,Y)$ make the number $763X4Y2$ divisible by $9$?",
       "image": "",
       "options": [
         "8",
@@ -76,11 +50,11 @@
         "11"
       ],
       "answer": "10",
-      "explanation": "Sum = 7+6+3+X+4+Y+2 = 22 + X + Y. Must be multiple of 9. Counting valid (X,Y) gives 10."
+      "explanation": "Divisibility by $9$ requires the digit sum $7+6+3+X+4+Y+2 = 22+X+Y$ to be a multiple of $9$. Counting digit pairs $(X,Y)$ between $0$ and $9$ satisfying this gives $10$."
     },
     {
       "subject": "Number System",
-      "question": "If p,q,r primes <13 and p<q<r, how many cases make p+q+r prime?",
+      "question": "If $p,q,r$ are prime numbers less than $13$ such that $p<q<r$, in how many cases is $p+q+r$ also prime?",
       "image": "",
       "options": [
         "1",
@@ -89,11 +63,11 @@
         "None"
       ],
       "answer": "1",
-      "explanation": "Try triplets among primes <13: only one gives sum prime."
+      "explanation": "Testing all prime triplets less than $13$ shows only one combination gives a prime sum. All other sums are composite."
     },
     {
       "subject": "Number System",
-      "question": "Number of divisors of 360",
+      "question": "How many divisors does the number $360$ have?",
       "image": "",
       "options": [
         "12",
@@ -102,7 +76,7 @@
         "None"
       ],
       "answer": "24",
-      "explanation": "$360 = 2^3·3^2·5^1$ → number of divisors = (3+1)(2+1)(1+1)=24."
+      "explanation": "Prime factorization: $360=2^3\times3^2\times5^1$. Number of divisors $=(3+1)(2+1)(1+1)=24$."
     }
   ]
 }

@@ -2,20 +2,20 @@
   "Number System": [
     {
       "subject": "Number System",
-      "question": "If n is natural, then n is:",
+      "question": "If $n$ is a natural number, then $n$ is always",
       "image": "",
       "options": [
-        "Always natural",
-        "Always rational",
-        "Always irrational",
-        "Either natural or irrational"
+        "natural",
+        "rational",
+        "irrational",
+        "either natural or irrational"
       ],
-      "answer": "Always rational",
-      "explanation": "Every natural number is a rational number $=n/1$."
+      "answer": "rational",
+      "explanation": "Every natural number can be written as $n/1$, which is a rational number."
     },
     {
       "subject": "Number System",
-      "question": "Largest integer dividing product of any four consecutive integers",
+      "question": "The greatest integer that divides the product of any four consecutive integers is",
       "image": "",
       "options": [
         "4",
@@ -24,11 +24,24 @@
         "24"
       ],
       "answer": "24",
-      "explanation": "Among four consecutive numbers → divisible by 4! = 24."
+      "explanation": "Among any four consecutive integers, one is divisible by $4$, one by $3$, and at least two are even. Hence the product is always divisible by $24$."
     },
     {
       "subject": "Number System",
-      "question": "Which is prime?",
+      "question": "Find the largest four-digit number divisible by $88$.",
+      "image": "",
+      "options": [
+        "9988",
+        "9966",
+        "9944",
+        "8888"
+      ],
+      "answer": "9988",
+      "explanation": "Dividing $9999$ by $88$ gives a quotient slightly greater than $113$. The nearest lower multiple among the options is $9988$, which is divisible by $88$."
+    },
+    {
+      "subject": "Number System",
+      "question": "Which of the following numbers is prime?",
       "image": "",
       "options": [
         "161",
@@ -37,20 +50,20 @@
         "221"
       ],
       "answer": "173",
-      "explanation": "173 has no divisors among primes ≤13."
+      "explanation": "$161=7\times23$, $171=9\times19$, $221=13\times17$. Only $173$ has no non-trivial factors, so it is prime."
     },
     {
       "subject": "Number System",
-      "question": "Which statements correct: I product of 3 consecutive integers divisible by 6. II any integer = 3k,3k+1,3k+2",
+      "question": "Which statements are correct? I: The product of three consecutive integers is divisible by $6$. II: Every integer is of the form $3k$, $3k+1$, or $3k+2$.",
       "image": "",
       "options": [
-        "I",
-        "II",
-        "Both",
+        "I only",
+        "II only",
+        "Both I and II",
         "Neither"
       ],
-      "answer": "Both",
-      "explanation": "One multiple of 3 and one even always present."
+      "answer": "Both I and II",
+      "explanation": "Among three consecutive integers, one is divisible by $3$ and one by $2$, so the product is divisible by $6$. Also, every integer can be expressed in one of the three given forms modulo $3$."
     }
   ]
 }

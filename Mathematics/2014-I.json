@@ -2,20 +2,33 @@
   "Number System": [
     {
       "subject": "Number System",
-      "question": "Statements: I No integer 4k+3 can be sum of two squares. II Square of odd integer = 8k+1.",
+      "question": "Statements: I. No number of the form $4k+3$ can be expressed as the sum of two square numbers. II. The square of any odd integer is of the form $8k+1$.",
       "image": "",
       "options": [
-        "I",
-        "II",
+        "I only",
+        "II only",
         "Both",
         "Neither"
       ],
       "answer": "Both",
-      "explanation": "Standard number theory results."
+      "explanation": "Numbers of the form $4k+3$ cannot be written as sums of squares, and odd squares give remainder $1$ modulo $8$."
     },
     {
       "subject": "Number System",
-      "question": "$n^2(n^2-1)$ always divisible by:",
+      "question": "Statements: I. No integer of the form $4k+3$ can be expressed as the sum of two perfect squares. II. The square of an odd integer is of the form $8k+1$.",
+      "image": "",
+      "options": [
+        "I only",
+        "II only",
+        "Both",
+        "Neither"
+      ],
+      "answer": "Both",
+      "explanation": "For Statement I: A well-known result in number theory states that numbers of the form $4k+3$ cannot be written as sums of two squares. For Statement II: Let an odd integer be $2m+1$. Then $(2m+1)^2 = 4m(m+1)+1$. Since one of $m, m+1$ is even, $4m(m+1)$ is divisible by $8$, so the square is of the form $8k+1$. Hence both statements are true."
+    },
+    {
+      "subject": "Number System",
+      "question": "The expression $n^2(n^2-1)$ is always divisible by",
       "image": "",
       "options": [
         "12",
@@ -24,7 +37,7 @@
         "60"
       ],
       "answer": "24",
-      "explanation": "$n^2(n-1)(n+1)$ includes 3 consecutive numbers × a square."
+      "explanation": "Rewrite $n^2(n^2-1)=n^2(n-1)(n+1)$. The three consecutive integers $(n-1),n,(n+1)$ ensure divisibility by $6$, and the extra factor of $n$ provides additional evenness. Hence the product is always divisible by $24$."
     }
   ]
 }

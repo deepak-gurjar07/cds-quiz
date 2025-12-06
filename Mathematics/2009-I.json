@@ -2,7 +2,7 @@
   "Number System": [
     {
       "subject": "Number System",
-      "question": "Sum of all primes between 100 and 120",
+      "question": "What is the sum of all prime numbers between $100$ and $120$?",
       "image": "",
       "options": [
         "652",
@@ -11,7 +11,7 @@
         "533"
       ],
       "answer": "533",
-      "explanation": "Primes: 101,103,107,109,113. Sum = 533."
+      "explanation": "The primes between 100 and 120 are $101,103,107,109,$ and $113$. Their sum is $533$."
     }
   ]
 }

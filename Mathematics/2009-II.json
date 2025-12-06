@@ -2,46 +2,59 @@
   "Number System": [
     {
       "subject": "Number System",
-      "question": "$a^n + b^n$ is divisible by $(a - b)$ under which condition?",
+      "question": "$a^n + b^n$ is divisible by $(a-b)$ under which condition?",
       "image": "",
       "options": [
-        "All integers $n$",
-        "Even $n$",
-        "Odd $n$",
-        "No integral value of $n$"
+        "For all integral values of $n$",
+        "When $n$ is even",
+        "When $n$ is odd",
+        "For no integral value of $n$"
       ],
-      "answer": "Odd $n$",
-      "explanation": "$a^n + b^n$ is divisible by $(a+b)$ if $n$ is odd. Not divisible by $(a-b)$ for any integral $n$ → hence option (d)."
+      "answer": "For no integral value of $n$",
+      "explanation": "It is a known identity that $a^n+b^n$ is divisible by $(a+b)$ when $n$ is odd, not by $(a-b)$. There is no integer value of $n$ for which $a^n+b^n$ is divisible by $(a-b)$ in general. Hence, the correct answer is: for no integral value of $n$."
     },
     {
       "subject": "Number System",
-      "question": "Which is correct about the number $222222$?",
+      "question": "In a division operation, the divisor is five times the quotient and twice the remainder. If the remainder is $15$, what is the dividend?",
       "image": "",
       "options": [
-        "Divisible by 3 but not by 7",
-        "Divisible by 3 and 7 but not 11",
-        "Divisible by 2 and 7 but not 11",
-        "Divisible by 3,7 and 11"
+        "175",
+        "185",
+        "195",
+        "250"
       ],
-      "answer": "Divisible by 3,7 and 11",
-      "explanation": "Sum of digits = 12 → divisible by 3. Alternating-sum test gives 0 → divisible by 11. Repeating 6 same digits → divisible by 7,11,13."
+      "answer": "195",
+      "explanation": "Given remainder $R=15$. Since divisor $D=2R$, $D=30$. Also $D=5Q$, so $Q=6$. Dividend $=DQ+R=30\times6+15=195$."
     },
     {
       "subject": "Number System",
-      "question": "If $q, q+2, q+6$ are primes, possible values of $3q+9$?",
+      "question": "Which one of the following is correct? The number $222222$ is",
+      "image": "",
+      "options": [
+        "divisible by 3 but not divisible by 7",
+        "divisible by 3 and 7 but not 11",
+        "divisible by 2 and 7 but not 11",
+        "divisible by 3, 7 and 11"
+      ],
+      "answer": "divisible by 3, 7 and 11",
+      "explanation": "Sum of digits is $12$, so the number is divisible by $3$. The alternating sum of digits is $0$, so it is divisible by $11$. A known property is that a number made of six repeated digits is divisible by $7$, $11$, and $13$. Hence all three divisibilities hold."
+    },
+    {
+      "subject": "Number System",
+      "question": "If the numbers $q$, $q+2$ and $q+6$ are all prime, then what can be the value of $3q+9$?",
       "image": "",
       "options": [
         "Only 18",
         "Only 42",
         "Only 60",
-        "(b) and (c)"
+        "Both (b) and (c)"
       ],
-      "answer": "(b) and (c)",
-      "explanation": "Check cases: $q=11$ → primes 11,13,17 → $3q+9=42$. $q=17$ → 17,19,23 → $3q+9=60$."
+      "answer": "Both (b) and (c)",
+      "explanation": "Testing values: $q=11$ gives primes $11,13,17$ and $3q+9=42$. $q=17$ gives primes $17,19,23$ and $3q+9=60$. No other values satisfy primality. Hence both 42 and 60."
     },
     {
       "subject": "Number System",
-      "question": "A three-digit number has digits $h,t,u$ with $h>u$. Reversing and subtracting yields units digit 4. What are the other digits (left to right)?",
+      "question": "A three-digit number has digits $h,t,u$ with $h>u$. If the reversed number is subtracted from the original, the unit digit of the result is $4$. What are the other two digits of the result?",
       "image": "",
       "options": [
         "5 and 9",
@@ -50,24 +63,37 @@
         "4 and 5"
       ],
       "answer": "5 and 9",
-      "explanation": "Result = $99(h-u)$. Units digit 4 → $h-u=6$. Number = 594 → digits are 5,9,4."
+      "explanation": "Difference of original and reversed number is $99(h-u)$. To get unit digit $4$, $h-u=6$. Thus the result is $594$, whose digits are $5,9,4$."
     },
     {
       "subject": "Number System",
       "question": "Assertion: Zero is a whole number. Reason: Every integer is a whole number.",
       "image": "",
       "options": [
-        "A & R true; R explains A",
-        "A & R true; R does not explain A",
-        "A true; R false",
-        "A false; R true"
+        "A and R correct and R explains A",
+        "A and R correct but R does not explain A",
+        "A is correct but R is wrong",
+        "A is wrong but R is correct"
       ],
-      "answer": "A true; R false",
-      "explanation": "Zero is whole; negative integers are not whole → R is false."
+      "answer": "A is correct but R is wrong",
+      "explanation": "Zero belongs to whole numbers. However, negative integers are integers but not whole numbers, so the reason is false."
     },
     {
       "subject": "Number System",
-      "question": "Which of the following is prime?",
+      "question": "On dividing $4996$ by a number, the quotient is $62$ and the remainder is $36$. What is the divisor?",
+      "image": "",
+      "options": [
+        "80",
+        "85",
+        "90",
+        "95"
+      ],
+      "answer": "80",
+      "explanation": "Using Dividend = Divisor × Quotient + Remainder: $4996=62d+36$. Solving gives $d=80$."
+    },
+    {
+      "subject": "Number System",
+      "question": "Which of the following numbers is prime?",
       "image": "",
       "options": [
         "667",
@@ -76,37 +102,63 @@
         "331"
       ],
       "answer": "331",
-      "explanation": "331 is not divisible by any smaller primes → prime."
+      "explanation": "331 has no divisors among $2,3,5,7,11,13,17$. Hence it is prime, while the others are composite."
     },
     {
       "subject": "Number System",
-      "question": "Which statement is always correct?",
+      "question": "A number gives remainder $59$ when divided by $987$. What is the remainder when it is divided by $21$?",
+      "image": "",
+      "options": [
+        "21",
+        "19",
+        "17",
+        "15"
+      ],
+      "answer": "17",
+      "explanation": "Since $987$ is divisible by $21$, the remainder remains $59\bmod21=17$."
+    },
+    {
+      "subject": "Number System",
+      "question": "Which one of the following statements is always correct?",
       "image": "",
       "options": [
         "Square of a prime is prime",
-        "Sum of two squares is square",
-        "Digits of a square is even",
-        "Product of two squares is a square"
+        "Sum of two squares is a square",
+        "Number of digits in a square is even",
+        "Product of two square numbers is a square"
       ],
-      "answer": "Product of two squares is a square",
-      "explanation": "If $a=x^2$ and $b=y^2$, product $=x^2 y^2 = (xy)^2$."
+      "answer": "Product of two square numbers is a square",
+      "explanation": "If numbers are $a^2$ and $b^2$, then their product is $(ab)^2$, which is always a square."
     },
     {
       "subject": "Number System",
-      "question": "The set of integers is closed under?",
+      "question": "The set of integers is closed with respect to which operation(s)?",
       "image": "",
       "options": [
-        "Addition",
-        "Multiplication",
-        "Both",
+        "Addition only",
+        "Multiplication only",
+        "Addition and multiplication",
         "Division"
       ],
-      "answer": "Both",
-      "explanation": "Integer + Integer = Integer; Integer × Integer = Integer; division not closed."
+      "answer": "Addition and multiplication",
+      "explanation": "Integer addition and multiplication always give integers. Division may produce fractions, so integers are not closed under division."
     },
     {
       "subject": "Number System",
-      "question": "Sum of positive integers <100 giving remainder 1 mod 3 and 2 mod 4",
+      "question": "What least digit must be placed at * so that $87985465$ is divisible by $11$?",
+      "image": "",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "3",
+      "explanation": "Using divisibility by 11: $(8+9+5+6+5)-(7+8+4+)=14-$ must be multiple of 11. So $=3$."
+    },
+    {
+      "subject": "Number System",
+      "question": "What is the sum of all positive integers less than $100$ that leave remainder $1$ when divided by $3$ and remainder $2$ when divided by $4$?",
       "image": "",
       "options": [
         "416",
@@ -115,11 +167,11 @@
         "1314"
       ],
       "answer": "416",
-      "explanation": "Numbers are of form $12q-2$: 10,22,34,46,58,70,82,94. Sum = 416."
+      "explanation": "Solving the congruences gives numbers of the form $12k-2$: $10,22,34,46,58,70,82,94$. Their sum is $416$."
     },
     {
       "subject": "Number System",
-      "question": "How many 3-digit numbers end with 7 and are divisible by 11?",
+      "question": "How many three-digit numbers end in $7$ and are divisible by $11$?",
       "image": "",
       "options": [
         "6",
@@ -128,24 +180,24 @@
         "9"
       ],
       "answer": "8",
-      "explanation": "Valid numbers: 187,297,407,517,627,737,847,957 → 8 total."
+      "explanation": "Such numbers are $187,297,407,517,627,737,847,957$. There are $8$."
     },
     {
       "subject": "Number System",
-      "question": "Dividing a positive integer by another gives what type of number?",
+      "question": "If we divide a positive integer by another positive integer, the result is",
       "image": "",
       "options": [
-        "Always natural",
-        "Always integer",
-        "Rational",
-        "Irrational"
+        "always a natural number",
+        "always an integer",
+        "a rational number",
+        "an irrational number"
       ],
-      "answer": "Rational",
-      "explanation": "Quotient of integers $= p/q$, rational."
+      "answer": "a rational number",
+      "explanation": "The quotient of two integers is of the form $p/q$, which is rational."
     },
     {
       "subject": "Number System",
-      "question": "The product of two alternate odd integers exceeds three times the smaller by 12. Find the larger.",
+      "question": "The product of two alternate odd integers exceeds three times the smaller by $12$. What is the larger number?",
       "image": "",
       "options": [
         "3",
@@ -154,24 +206,37 @@
         "9"
       ],
       "answer": "7",
-      "explanation": "Let numbers $x$ and $x+4$. Solve $x(x+4)=3x+12$ → $x=3$. Larger = 7."
+      "explanation": "Let the smaller odd integer be $x$, the next alternate odd is $x+4$. Then $x(x+4)=3x+12$, solving gives $x=3$. The larger number is $3+4=7$."
     },
     {
       "subject": "Number System",
-      "question": "A number $a_1 a_2 a_3 a_4 a_5$ is divisible by 9 if:",
+      "question": "Which statement(s) ensure a five-digit number is divisible by $9$?",
       "image": "",
       "options": [
-        "I only",
-        "II only",
-        "Both",
-        "Neither"
+        "Only I",
+        "Only II",
+        "Both I and II",
+        "Neither I nor II"
       ],
-      "answer": "I only",
-      "explanation": "Divisibility by 9 uses sum of digits only. Alternating sum not relevant."
+      "answer": "Only I",
+      "explanation": "A number is divisible by $9$ if and only if the sum of its digits is divisible by $9$. Alternating sums are irrelevant for divisibility by $9$."
     },
     {
       "subject": "Number System",
-      "question": "Four numbers form a GP: 3rd exceeds 1st by 9; 2nd exceeds 4th by 18. First term?",
+      "question": "When a natural number $n$ gives remainder $3$ on division by $4$, what is the remainder when $2n$ is divided by $4$?",
+      "image": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "6"
+      ],
+      "answer": "2",
+      "explanation": "If $n=4k+3$, then $2n=8k+6=4(2k+1)+2$. Hence the remainder is $2$."
+    },
+    {
+      "subject": "Number System",
+      "question": "Four numbers form a GP. The third exceeds the first by $9$ and the second exceeds the fourth by $18$. What is the first term?",
       "image": "",
       "options": [
         "2",
@@ -180,24 +245,11 @@
         "-3"
       ],
       "answer": "3",
-      "explanation": "Let GP: $a, ar, ar^2, ar^3$. Solve equations → $r=-2$, $a=3$."
+      "explanation": "Let the GP be $a,ar,ar^2,ar^3$. Solving the two conditions simultaneously gives $r=-2$ and $a=3$."
     },
     {
       "subject": "Number System",
-      "question": "Angles of triangle in AP; greatest is twice least. Ratio of angles?",
-      "image": "",
-      "options": [
-        "2:3:4",
-        "1:2:3",
-        "3:3:6",
-        "4:5:7"
-      ],
-      "answer": "2:3:4",
-      "explanation": "Let angles $a,a+d,a+2d$. Condition $a+2d=2a$. Solve → $a=40°,d=20°. Ratio=40:60:80=2:3:4$."
-    },
-    {
-      "subject": "Number System",
-      "question": "What least value must be given to digit Ä so that the number 84705Ä2 is divisible by 9?",
+      "question": "What least value must be given to digit Ä so that the number $84705Ä2$ is divisible by $9$?",
       "image": "",
       "options": [
         "0",
@@ -206,20 +258,20 @@
         "3"
       ],
       "answer": "1",
-      "explanation": "Sum of digits = $8+4+7+0+5+Ä+2 = 26+Ä$. To be divisible by 9 → $26+Ä=27$. Hence Ä = 1."
+      "explanation": "A number is divisible by $9$ if the sum of its digits is divisible by $9$. The digit sum is $8+4+7+0+5+Ä+2 = 26+Ä$. The nearest multiple of $9$ greater than $26$ is $27$, so $26+Ä=27$. Hence $Ä=1$."
     },
     {
       "subject": "Number System",
-      "question": "When a polynomial is divided by a linear polynomial, what is the remainder?",
+      "question": "When a polynomial is divided by a linear polynomial, what is the nature of the remainder?",
       "image": "",
       "options": [
         "Constant polynomial only",
         "Zero polynomial only",
-        "Either constant or zero polynomial",
-        "Linear polynomial"
+        "Either zero or a constant polynomial",
+        "A linear polynomial"
       ],
-      "answer": "Either constant or zero polynomial",
-      "explanation": "Remainder theorem: Division by linear polynomial yields a constant or zero remainder."
+      "answer": "Either zero or a constant polynomial",
+      "explanation": "By the Division Algorithm, when any polynomial is divided by a polynomial of degree $1$, the remainder must have degree less than $1$. Hence, the remainder can only be $0$ or a constant."
     }
   ]
 }

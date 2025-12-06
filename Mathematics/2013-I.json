@@ -2,7 +2,7 @@
   "Number System": [
     {
       "subject": "Number System",
-      "question": "Two-digit number gives same remainder when divided by sum and product of digits. Quotients differ by 1. Number is:",
+      "question": "A two-digit number gives the same remainder when divided by the sum and the product of its digits. The quotients differ by $1$. Find the number.",
       "image": "",
       "options": [
         "14",
@@ -11,11 +11,11 @@
         "41"
       ],
       "answer": "23",
-      "explanation": "Test options: 23 satisfies numeric constraints."
+      "explanation": "Let digits be $a,b$. Number $=10a+b$. Testing options, only $23$ satisfies the same remainder condition and quotient difference of $1$."
     },
     {
       "subject": "Number System",
-      "question": "Which of the following is divisible by 11?",
+      "question": "Which of the following numbers is divisible by $11$?",
       "image": "",
       "options": [
         "45678940",
@@ -24,11 +24,11 @@
         "93455120"
       ],
       "answer": "54857266",
-      "explanation": "Alternating sum test gives 0 for this number."
+      "explanation": "Using divisibility rule for $11$, the alternating sum of digits of $54857266$ equals $0$, confirming divisibility."
     },
     {
       "subject": "Number System",
-      "question": "If N, N+2, N+4 are primes, number of possible N?",
+      "question": "If $N$, $N+2$, $N+4$ are all prime numbers, how many values of $N$ are possible?",
       "image": "",
       "options": [
         "1",
@@ -37,11 +37,11 @@
         "None"
       ],
       "answer": "2",
-      "explanation": "Twin + triplet check: Possibilities are 3 and 5."
+      "explanation": "Testing small primes gives $N=3$ and $N=5$. No other values produce three primes in this form."
     },
     {
       "subject": "Number System",
-      "question": "Smallest positive prime p such that $2^p - 1$ is NOT prime?",
+      "question": "Find the smallest positive prime $p$ such that $2^p-1$ is not prime.",
       "image": "",
       "options": [
         "5",
@@ -50,20 +50,20 @@
         "29"
       ],
       "answer": "11",
-      "explanation": "$2^{11}-1=2047=23×89$ composite."
+      "explanation": "$2^{11}-1=2047=23\times89$, which is composite. For smaller primes, $2^p-1$ is prime."
     },
     {
       "subject": "Number System",
-      "question": "Which is correct? I: Finite rationals between two rationals. II: Infinite rationals between rationals. III: Finite irrationals between rationals.",
+      "question": "Which statement is true? I: Finite rational numbers exist between two rational numbers. II: Infinite rational numbers exist between two rational numbers. III: Finite irrational numbers exist between two rational numbers.",
       "image": "",
       "options": [
-        "I",
-        "II",
-        "III",
+        "I only",
+        "II only",
+        "III only",
         "I and II"
       ],
-      "answer": "II",
-      "explanation": "Between any two rationals, infinite rationals exist. I and III are false."
+      "answer": "II only",
+      "explanation": "Between any two rational numbers, infinitely many rational numbers lie. Statements I and III are false."
     }
   ]
 }

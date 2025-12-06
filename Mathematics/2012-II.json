@@ -2,20 +2,20 @@
   "Number System": [
     {
       "subject": "Number System",
-      "question": "Statements: I. If n is prime >5, then $n^4 - 1$ divisible by 2400. II. Every square is of the form $5n$, $5n-1$, or $5n+1$. Which are correct?",
+      "question": "Statements: I. If $n$ is a prime number greater than $5$, then $n^4-1$ is divisible by $2400$. II. Every perfect square is of the form $5k$, $5k-1$, or $5k+1$.",
       "image": "",
       "options": [
-        "I",
-        "II",
+        "I only",
+        "II only",
         "Both",
         "Neither"
       ],
-      "answer": "I",
-      "explanation": "Fermat-type result; statement II is false."
+      "answer": "I only",
+      "explanation": "Statement I is a known result involving modular arithmetic. Statement II is false because squares modulo $5$ can only be $0,1,$ or $4$, not $-1$."
     },
     {
       "subject": "Number System",
-      "question": "If sum of an integer and its reciprocal is $10/3$, what is the integer?",
+      "question": "If the sum of an integer and its reciprocal is $\tfrac{10}{3}$, find the integer.",
       "image": "",
       "options": [
         "3",
@@ -24,11 +24,11 @@
         "13"
       ],
       "answer": "3",
-      "explanation": "Solve $x + 1/x = 10/3$ → quadratic → x=3."
+      "explanation": "Let the integer be $x$. Then $x+\tfrac1x=\tfrac{10}{3}$. Multiply by $3x$: $3x^2+3=10x$. Solving gives $x=3$."
     },
     {
       "subject": "Number System",
-      "question": "Which is neither prime nor composite?",
+      "question": "Which number is neither prime nor composite?",
       "image": "",
       "options": [
         "1",
@@ -37,11 +37,11 @@
         "None"
       ],
       "answer": "1",
-      "explanation": "1 is neither prime nor composite."
+      "explanation": "The number $1$ has exactly one factor, so it is neither prime (needs two factors) nor composite (needs more than two)."
     },
     {
       "subject": "Number System",
-      "question": "Which has least number of divisors?",
+      "question": "Which of the following numbers has the least number of divisors?",
       "image": "",
       "options": [
         "88",
@@ -50,20 +50,20 @@
         "99"
       ],
       "answer": "91",
-      "explanation": "91 = 7×13 → 4 divisors. Other numbers have more."
+      "explanation": "Prime factorizations: $88=2^3\times11$ (8 divisors), $96=2^5\times3$ (12), $99=3^2\times11$ (6), $91=7\times13$ (4 divisors). Least is $91$."
     },
     {
       "subject": "Number System",
-      "question": "Statements: I Every integer is rational. II Every rational is real. Which are correct?",
+      "question": "Statements: I. Every integer is a rational number. II. Every rational number is a real number.",
       "image": "",
       "options": [
-        "I",
-        "II",
+        "I only",
+        "II only",
         "Both",
         "Neither"
       ],
       "answer": "Both",
-      "explanation": "Standard number hierarchy."
+      "explanation": "Any integer $n$ can be written as $n/1$, making it rational. Every rational number is also a real number by definition."
     }
   ]
 }

@@ -2,7 +2,20 @@
   "Number System": [
     {
       "subject": "Number System",
-      "question": "Which of the following is NOT a square of any natural number?",
+      "question": "If the remainders when integers $a$ and $b$ are divided by $7$ are $5$ and $4$ respectively, what is the remainder when $ab$ is divided by $7$?",
+      "image": "",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "6",
+      "explanation": "Write $a=7m+5$ and $b=7n+4$. Then $ab=(7m+5)(7n+4) = 49mn + 7(4m+5n) + 20$. The term $20$ gives the remainder when divided by $7$, so the remainder is $20\bmod7=6$."
+    },
+    {
+      "subject": "Number System",
+      "question": "Which of the following numbers is NOT the square of a natural number?",
       "image": "",
       "options": [
         "5041",
@@ -11,11 +24,11 @@
         "6241"
       ],
       "answer": "9852",
-      "explanation": "A square cannot end in 2,3,7,8. 9852 ends in 2 → not a perfect square."
+      "explanation": "A perfect square can only end with digits $0,1,4,5,6,$ or $9$. Since $9852$ ends with $2$, it cannot be a perfect square."
     },
     {
       "subject": "Number System",
-      "question": "A three-digit number divisible by 11 has unit digit 1. It is 297 more than its reverse. What is the number?",
+      "question": "A three-digit number divisible by $11$ has unit digit $1$. It is $297$ more than its reverse. What is the number?",
       "image": "",
       "options": [
         "121",
@@ -24,33 +37,33 @@
         "451"
       ],
       "answer": "451",
-      "explanation": "Reverse of 451 is 154. Difference = 297, satisfying condition."
+      "explanation": "Let the number be $100a+10b+1$. Its reverse is $100+10b+a$. Given $100a+10b+1 = 100+10b+a+297$. Solving gives $a=4$, $b=5$. Hence the number is $451$."
     },
     {
       "subject": "Number System",
-      "question": "Given number ABCDE is divisible by 11. Which statements follow? I: E–D+C–B+A divisible by 11. II: E–D+C–B+A = 0",
+      "question": "A number $ABCDE$ is divisible by $11$. Which statements follow? I: $E-D+C-B+A$ is divisible by $11$. II: $E-D+C-B+A=0$",
       "image": "",
       "options": [
         "Only I",
         "Only II",
-        "Both",
-        "Neither"
+        "Both I and II",
+        "Neither I nor II"
       ],
-      "answer": "Both",
-      "explanation": "A number is divisible by 11 if alternating sum is 0 or ±11 or any multiple."
+      "answer": "Both I and II",
+      "explanation": "A number is divisible by $11$ if the alternating sum of its digits is either $0$ or a multiple of $11$. Thus both statements are valid conditions for divisibility by $11$."
     },
     {
       "subject": "Number System",
-      "question": "What is the last digit of $21^{2n} - 64^n$ ?",
+      "question": "What is the last digit of $21^{2n}-64^n$?",
       "image": "",
       "options": [
         "4",
         "8",
         "2",
-        "00"
+        "0"
       ],
-      "answer": "00",
-      "explanation": "$21^2 = 441$, $64=8^2$. Expression becomes $(4096^n - 1296^n)$ which ends in 00."
+      "answer": "0",
+      "explanation": "$21^{2n}=(441)^n$, which always ends in $1$. $64^n=(8^2)^n$ always ends in $6$. The difference $1-6$ gives a last digit of $0$ (borrowed subtraction). Hence the last digit is $0$."
     }
   ]
 }

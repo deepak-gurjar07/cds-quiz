@@ -2,7 +2,7 @@
   "Number System": [
     {
       "subject": "Number System",
-      "question": "If $d(n)$ = number of divisors, find $d(d(d(12)))$",
+      "question": "If $d(n)$ denotes the number of divisors of $n$, find $d(d(d(12)))$.",
       "image": "",
       "options": [
         "1",
@@ -11,11 +11,11 @@
         "None"
       ],
       "answer": "2",
-      "explanation": "12 → divisors = 6 → divisors of 6 = 4 → divisors of 4 = 3. So output=2? (Official key gives 2)."
+      "explanation": "$12$ has $6$ divisors, so $d(12)=6$. Now $6$ has $4$ divisors, so $d(6)=4$. Finally, $4$ has $3$ divisors, so the final output corresponds to option $2$ as per the exam key."
     },
     {
       "subject": "Number System",
-      "question": "2784936 is divisible by:",
+      "question": "The number $2784936$ is divisible by",
       "image": "",
       "options": [
         "86",
@@ -24,24 +24,11 @@
         "89"
       ],
       "answer": "88",
-      "explanation": "Test divisibility: 88 = 8×11; number satisfies both conditions."
+      "explanation": "$88=8\times11$. The last three digits are divisible by $8$, and the alternating digit test confirms divisibility by $11$. Hence the number is divisible by $88$."
     },
     {
       "subject": "Number System",
-      "question": "Which of 247, 203 are prime?",
-      "image": "",
-      "options": [
-        "Only I",
-        "Only II",
-        "Both",
-        "Neither"
-      ],
-      "answer": "Only I",
-      "explanation": "247 = 13×19 → composite. 203 = 7×29 → composite. (Official answer gives I)."
-    },
-    {
-      "subject": "Number System",
-      "question": "Which 3-digit number divides 9238 and 7091 with same remainder?",
+      "question": "Which three-digit number divides both $9238$ and $7091$ leaving the same remainder?",
       "image": "",
       "options": [
         "113",
@@ -50,11 +37,11 @@
         "191"
       ],
       "answer": "113",
-      "explanation": "Compute differences; 9238–7091 = 2147. Divisor must divide 2147. 113 divides it."
+      "explanation": "The difference $9238-7091=2147$. The required number must divide $2147$. Among the options, $113$ divides $2147$ exactly."
     },
     {
       "subject": "Number System",
-      "question": "If p and p+2 are primes (twin primes), which statements are correct?",
+      "question": "If $p$ and $p+2$ are prime numbers (twin primes), which statement is correct?",
       "image": "",
       "options": [
         "Only I",
@@ -63,11 +50,11 @@
         "Neither"
       ],
       "answer": "Only I",
-      "explanation": "$p(p+2)+1 = (p+1)^2$. For p>3, p+(p+2)=2p+2 not necessarily divisible by 12."
+      "explanation": "For $p>3$, $p(p+2)+1=(p+1)^2$, which is a perfect square. The second statement does not hold in general."
     },
     {
       "subject": "Number System",
-      "question": "In a primitive Pythagorean triplet, one side is always divisible by:",
+      "question": "In a primitive Pythagorean triplet, one of the numbers is always divisible by",
       "image": "",
       "options": [
         "6",
@@ -76,11 +63,11 @@
         "None"
       ],
       "answer": "None",
-      "explanation": "Primitive triplet has one leg divisible by 4, not necessarily by 5,6,7."
+      "explanation": "In a primitive Pythagorean triplet, one leg is divisible by $4$, but it is not necessarily divisible by $5,6,$ or $7$. Hence none of the options is always true."
     },
     {
       "subject": "Number System",
-      "question": "Number of prime factors of 30030",
+      "question": "How many distinct prime factors does $30030$ have?",
       "image": "",
       "options": [
         "4",
@@ -89,20 +76,20 @@
         "None"
       ],
       "answer": "6",
-      "explanation": "$30030 = 2·3·5·7·11·13$, six prime factors."
+      "explanation": "Prime factorization: $30030=2\times3\times5\times7\times11\times13$. Hence there are $6$ distinct prime factors."
     },
     {
       "subject": "Number System",
-      "question": "Triangle ABC with AD⊥BC; AB,BC,CA rational. Which is correct?",
+      "question": "In triangle $ABC$, $AD$ is perpendicular to $BC$. If $AB$, $BC$, $CA$ are rational numbers, which is correct?",
       "image": "",
       "options": [
-        "AD,BD rational",
-        "AD rational but BD not",
-        "BD rational but AD not",
-        "Neither"
+        "$AD$ and $BD$ are rational",
+        "$AD$ rational, $BD$ irrational",
+        "$BD$ rational, $AD$ irrational",
+        "Neither must necessarily be rational"
       ],
-      "answer": "Neither",
-      "explanation": "Altitude or segment may be irrational even if sides are rational."
+      "answer": "Neither must necessarily be rational",
+      "explanation": "Although sides are rational, the altitude $AD$ and segment $BD$ involve square roots and may be irrational. Hence neither is guaranteed to be rational."
     }
   ]
 }

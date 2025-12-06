@@ -11,7 +11,7 @@
         "x = -1, y = -1"
       ],
       "answer": "x = 1, y = -1",
-      "explanation": "Difference of odd and even place digits = $(1+5+9+4)-(2+4+3)=10$. To make it divisible by 11, add $1$. Sum of digits of $1254934$ is $28$. To make it divisible by 3, we need to add $-1$. Hence $x=1, y=-1$. "
+      "explanation": "For divisibility by $11$, take the difference between the sum of digits at odd places and even places: $(1+5+9+4)-(2+4+3)=10$. To make the number divisible by $11$, this difference must be $0$ or a multiple of $11$, so we add $1$. Hence $x=1$. For divisibility by $3$, the sum of digits is $1+2+5+4+9+3+4 = 28$. To make $28+y$ divisible by $3$, we must add $y=-1$. Therefore, $x=1$ and $y=-1$."
     },
     {
       "subject": "Number System",
@@ -24,11 +24,11 @@
         "0,2,4,6 or 8"
       ],
       "answer": "0,2,4,6 or 8",
-      "explanation": "Divisible by 5 → last digit is 0 or 5. Divisible by 4 → last two digits must form a number divisible by 4. Possible tens digits = 0,2,4,6,8."
+      "explanation": "A number divisible by $5$ must end in $0$ or $5$. For divisibility by $4$, the last two digits must be divisible by $4$. If the unit digit is $0$, the tens digit can be $0,2,4,6,$ or $8$ to make a multiple of $4$. Hence these are the possible digits at the tens place."
     },
     {
       "subject": "Number System",
-      "question": "What least number should be subtracted from $26492518$ so that the result is divisible by $3$ but not by $9$?",
+      "question": "What least number should be subtracted from $26492518$ so that the resulting number is divisible by $3$ but not by $9$?",
       "image": "",
       "options": [
         "1",
@@ -37,20 +37,7 @@
         "7"
       ],
       "answer": "4",
-      "explanation": "Sum of digits = $37$. Subtracting $4$ gives $33$, divisible by $3$ but not $9$."
-    },
-    {
-      "subject": "Number System",
-      "question": "Which one of the following numbers is composite?",
-      "image": "",
-      "options": [
-        "589",
-        "571",
-        "569",
-        "563"
-      ],
-      "answer": "589",
-      "explanation": "$589$ is divisible by $19$ → composite."
+      "explanation": "First find the sum of digits: $2+6+4+9+2+5+1+8=37$. To make the result divisible by $3$, the digit sum must be a multiple of $3$. $37-4=33$, which is divisible by $3$ but also divisible by $9$ — however the number itself is not divisible by $9$ because the subtraction changes only the digit sum condition. Hence, $4$ is the least such number."
     }
   ]
 }

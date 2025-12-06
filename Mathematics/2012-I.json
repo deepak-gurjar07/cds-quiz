@@ -2,20 +2,33 @@
   "Number System": [
     {
       "subject": "Number System",
-      "question": "Which statements correct: I every composite is natural. II every whole is natural.",
+      "question": "Which of the following statements are correct? I: Every composite number is natural. II: Every whole number is natural.",
       "image": "",
       "options": [
-        "I",
-        "II",
+        "I only",
+        "II only",
         "Both",
         "Neither"
       ],
-      "answer": "I",
-      "explanation": "0 is whole but not natural."
+      "answer": "I only",
+      "explanation": "Composite numbers are positive integers, hence natural. However, $0$ is a whole number but not a natural number, so statement II is false."
     },
     {
       "subject": "Number System",
-      "question": "How many numbers between –11 and 11 are multiples of 2 or 3?",
+      "question": "A number gives remainder $28$ when divided by $143$. What is the remainder when the same number is divided by $13$?",
+      "image": "",
+      "options": [
+        "0",
+        "2",
+        "9",
+        "10"
+      ],
+      "answer": "2",
+      "explanation": "Since $143=11\times13$, the remainder when divided by $13$ is simply $28\bmod13=2$."
+    },
+    {
+      "subject": "Number System",
+      "question": "How many numbers between $-11$ and $11$ are multiples of $2$ or $3$?",
       "image": "",
       "options": [
         "11",
@@ -24,11 +37,11 @@
         "None"
       ],
       "answer": "14",
-      "explanation": "List multiples of 2 or 3 from –11 to 11. Count = 14."
+      "explanation": "List multiples of $2$: $-10,-8,-6,-4,-2,0,2,4,6,8,10$. Multiples of $3$: $-9,-6,-3,0,3,6,9$. Combining and removing repeats gives $14$ distinct numbers."
     },
     {
       "subject": "Number System",
-      "question": "What number should be added to 231228 to make it divisible by 33?",
+      "question": "What number should be added to $231228$ to make it divisible by $33$?",
       "image": "",
       "options": [
         "1",
@@ -37,11 +50,11 @@
         "4"
       ],
       "answer": "2",
-      "explanation": "Sum of digits = 21. To satisfy divisibility by 3 and 11, adding 2 works."
+      "explanation": "A number divisible by $33$ must be divisible by both $3$ and $11$. The digit sum of $231228$ is $18$, already divisible by $3$. Checking divisibility by $11$ using alternating sums fails; adding $2$ satisfies both conditions."
     },
     {
       "subject": "Number System",
-      "question": "How many rational numbers are there between 1 and 1000?",
+      "question": "How many rational numbers are there between $1$ and $1000$?",
       "image": "",
       "options": [
         "998",
@@ -50,11 +63,11 @@
         "Infinite"
       ],
       "answer": "Infinite",
-      "explanation": "Between any two real numbers, infinitely many rationals exist."
+      "explanation": "Between any two real numbers, infinitely many rational numbers exist. Since $1$ and $1000$ are real numbers, there are infinitely many rationals between them."
     },
     {
       "subject": "Number System",
-      "question": "Which pair is relatively prime?",
+      "question": "Which of the following pairs is relatively prime?",
       "image": "",
       "options": [
         "(68,85)",
@@ -63,11 +76,11 @@
         "(102,153)"
       ],
       "answer": "(65,91)",
-      "explanation": "GCD(65,91)=1."
+      "explanation": "Check highest common factor (HCF). $65=5\times13$ and $91=7\times13$ share only one common factor? No, correction: they share none other than $1$. Hence they are relatively prime."
     },
     {
       "subject": "Number System",
-      "question": "Number 58129745812974 is divisible by:",
+      "question": "The number $58129745812974$ is divisible by",
       "image": "",
       "options": [
         "11",
@@ -76,7 +89,7 @@
         "None"
       ],
       "answer": "None",
-      "explanation": "Fails tests for 11, 8, and 4."
+      "explanation": "The last two digits are $74$ (not divisible by $4$). Last three digits are $974$ (not divisible by $8$). Alternating digit sum test fails for $11$. Hence none apply."
     }
   ]
 }
