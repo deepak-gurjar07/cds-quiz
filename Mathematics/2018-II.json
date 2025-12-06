@@ -1,0 +1,30 @@
+{
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "Find the least number which is divisible by $8$ and $12$ but not divisible by $6$.",
+      "image": "",
+      "options": [
+        "24",
+        "48",
+        "72",
+        "96"
+      ],
+      "answer": "48",
+      "explanation": "LCM of $8$ and $12$ is $24$, but $24$ is divisible by $6$. The next multiple is $48$, which is divisible by $8$ and $12$ but not by $6$. Hence the answer is $48$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "Find the greatest number that divides $1001$ and $2002$ exactly.",
+      "image": "",
+      "options": [
+        "7",
+        "11",
+        "13",
+        "91"
+      ],
+      "answer": "1001",
+      "explanation": "Since $2002=2·1001$, $1001$ divides both numbers exactly. Hence the greatest number dividing both is $1001$."
+    }
+  ]
+}

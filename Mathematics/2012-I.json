@@ -91,5 +91,33 @@
       "answer": "None",
       "explanation": "The last two digits are $74$ (not divisible by $4$). Last three digits are $974$ (not divisible by $8$). Alternating digit sum test fails for $11$. Hence none apply."
     }
+  ],
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the least number that must be added to $3000$ so that it becomes divisible by $56$?",
+      "image": "",
+      "options": [
+        "8",
+        "16",
+        "24",
+        "32"
+      ],
+      "answer": "32",
+      "explanation": "Divide $3000$ by $56$: $56·53=2968$, remainder $=32$. Adding $32$ makes it exactly divisible by $56$. Hence the required least number is $32$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "Find the LCM of $18$, $24$, $32$ and $36$.",
+      "image": "",
+      "options": [
+        "288",
+        "432",
+        "576",
+        "864"
+      ],
+      "answer": "288",
+      "explanation": "Prime factorize: $18=2·3^2$, $24=2^3·3$, $32=2^5$, $36=2^2·3^2$. LCM takes the highest powers: $2^5·3^2=32·9=288$."
+    }
   ]
 }

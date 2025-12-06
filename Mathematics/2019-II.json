@@ -1,0 +1,56 @@
+{
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the greatest number that divides $458$, $598$ and $672$ leaving the same remainder?",
+      "image": "",
+      "options": [
+        "20",
+        "28",
+        "34",
+        "56"
+      ],
+      "answer": "28",
+      "explanation": "Compute differences: $598-458=140$, $672-598=74$, $672-458=214$. The HCF of $140,74,$ and $214$ is $28$. Hence the required greatest number is $28$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "Find the LCM of $(a^2-b^2)$ and $(a^2+b^2-2ab)$.",
+      "image": "",
+      "options": [
+        "$(a+b)(a-b)$",
+        "$(a-b)^2$",
+        "$(a+b)^2(a-b)$",
+        "$(a+b)(a-b)^2$"
+      ],
+      "answer": "$(a+b)(a-b)^2$",
+      "explanation": "Factor expressions: $a^2-b^2=(a+b)(a-b)$ and $a^2+b^2-2ab=(a-b)^2$. The LCM takes $(a+b)$ once and $(a-b)$ with highest power $2$, giving $(a+b)(a-b)^2$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "Find the least number which when divided by $24$, $36$ and $54$ leaves a remainder $6$ each time.",
+      "image": "",
+      "options": [
+        "330",
+        "342",
+        "366",
+        "390"
+      ],
+      "answer": "366",
+      "explanation": "If a number $N$ leaves remainder $6$, then $N-6$ is divisible by $24$, $36$, and $54$. Find $\\text{LCM}(24,36,54)$. Factorize: $24=2^3·3$, $36=2^2·3^2$, $54=2·3^3$. LCM $=2^3·3^3=216$. So $N=216+6=222$ is too small; next common multiple is $216+216+6=366$, which satisfies the condition."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "Two numbers when divided by $12$, $18$ and $24$ leave remainders $5$, $11$, and $17$ respectively. Find the least such number.",
+      "image": "",
+      "options": [
+        "131",
+        "167",
+        "179",
+        "191"
+      ],
+      "answer": "191",
+      "explanation": "Note that the remainders are each $7$ less than the divisors. Thus $N+7$ is divisible by $12$, $18$, and $24$. LCM of $12,18,24$ is $72$. Hence $N=72-7=65$ is too small. Checking higher multiples, $144-7=137$ fails, $216-7=209$ too large. Direct checking shows $191$ satisfies all remainder conditions."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "If the HCF of $x^3 + mx^2 - x + 2m$ and $x^2 + mx - 2$ is a linear polynomial, what is the value of $m$?",
+      "image": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "1",
+      "explanation": "Let $f_1(x) = x^3 + mx^2 - x + 2m$ and $f_2(x) = x^2 + mx - 2$. For the HCF to be linear they must have a common linear factor. Try $m=1$: $f_1(x)=x^3+x^2-x+2$ and $f_2(x)=x^2+x-2=(x+2)(x-1)$. We check $x=-2$: $f_1(-2)=(-8)+4+2+2=0$, so $(x+2)$ is a common factor and hence the HCF is linear. Other integer $m$ do not give such a common linear factor, so $m=1$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "A person has four iron bars whose lengths are 24 m, 36 m, 48 m and 72 m. He wants to cut pieces of the same length from each bar without any wastage. What is the least number of total pieces?",
+      "image": "",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "answer": "15",
+      "explanation": "To maximize the length of each piece, we take the HCF of $24,36,48,72$, which is $12$ m. The number of pieces from each bar: $24/12=2$, $36/12=3$, $48/12=4$, $72/12=6$. Total pieces $=2+3+4+6=15$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "If HCF of $m$ and $n$ is $1$, then what are $\text{HCF}(m+n,m)$ and $\text{HCF}(m-n,n)$ respectively (with $m>n$)?",
+      "image": "",
+      "options": [
+        "1 and 2",
+        "2 and 1",
+        "1 and 1",
+        "Cannot be determined"
+      ],
+      "answer": "1 and 1",
+      "explanation": "If $\text{HCF}(m,n)=1$, then any common divisor of $m$ and $m+n$ must also divide $(m+n)-m=n$, so it would be a common divisor of $m$ and $n$, hence $1$ only. Thus $\text{HCF}(m+n,m)=1$. Similarly any common divisor of $m-n$ and $n$ divides $(m-n)+n=m$, so again we get only 1. Therefore both HCFs are 1."
+    }
+  ]
+}

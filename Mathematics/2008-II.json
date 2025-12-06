@@ -1,0 +1,30 @@
+{
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the LCM of $(x+2)^2(x-2)$ and $x^2 - 4x - 12$?",
+      "image": "",
+      "options": [
+        "$(x+2)(x-2)$",
+        "$(x+2)^3(x-2)(x-6)$",
+        "$(x+2)(x-2)^2$",
+        "$(x+2)^2(x-2)(x-6)$"
+      ],
+      "answer": "$(x+2)^2(x-2)(x-6)$",
+      "explanation": "Note that $x^2 - 4x - 12 = x^2 - 6x + 2x - 12 = x(x-6)+2(x-6) = (x+2)(x-6)$. The first expression is $(x+2)^2(x-2)$. For the LCM take each factor with its highest power: $(x+2)^2$, $(x-2)$, $(x-6)$. So LCM is $(x+2)^2(x-2)(x-6)$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "21 mango trees, 42 apple trees and 56 orange trees are to be planted in rows such that each row contains the same number of trees of one variety only. What is the minimum number of rows?",
+      "image": "",
+      "options": [
+        "3",
+        "15",
+        "17",
+        "20"
+      ],
+      "answer": "17",
+      "explanation": "Each variety is arranged separately in equal rows. The number of trees per row must divide 21, 42 and 56, so we use $\text{HCF}(21,42,56)=7$ trees per row (to minimize the number of rows). Mango rows $=21/7=3$, apple rows $=42/7=6$, orange rows $=56/7=8$. Total rows $=3+6+8=17$."
+    }
+  ]
+}

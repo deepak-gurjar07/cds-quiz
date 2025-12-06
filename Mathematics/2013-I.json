@@ -65,5 +65,33 @@
       "answer": "II only",
       "explanation": "Between any two rational numbers, infinitely many rational numbers lie. Statements I and III are false."
     }
+  ],
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the greatest number that divides $105$, $140$ and $175$ exactly?",
+      "image": "",
+      "options": [
+        "35",
+        "21",
+        "14",
+        "7"
+      ],
+      "answer": "35",
+      "explanation": "Find the HCF. Prime factorizations: $105=3·5·7$, $140=2^2·5·7$, $175=5^2·7$. Common factors are $5$ and $7$, so HCF $=35$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the smallest number which is divisible by $15$, $20$ and $24$?",
+      "image": "",
+      "options": [
+        "120",
+        "240",
+        "360",
+        "480"
+      ],
+      "answer": "120",
+      "explanation": "Compute LCM. Factorize: $15=3·5$, $20=2^2·5$, $24=2^3·3$. LCM $=2^3·3·5=120$."
+    }
   ]
 }

@@ -39,5 +39,33 @@
       "answer": "24",
       "explanation": "Rewrite $n^2(n^2-1)=n^2(n-1)(n+1)$. The three consecutive integers $(n-1),n,(n+1)$ ensure divisibility by $6$, and the extra factor of $n$ provides additional evenness. Hence the product is always divisible by $24$."
     }
+  ],
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the least number which is divisible by all numbers from $1$ to $10$?",
+      "image": "",
+      "options": [
+        "840",
+        "1260",
+        "1680",
+        "2520"
+      ],
+      "answer": "2520",
+      "explanation": "Take LCM of $1$ to $10$. Highest powers: $2^3$ (from 8), $3^2$ (from 9), $5$, $7$. LCM $=8·9·5·7=2520$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "Two numbers are in the ratio $4:9$. If their HCF is $18$, find the numbers.",
+      "image": "",
+      "options": [
+        "72 and 162",
+        "80 and 180",
+        "72 and 144",
+        "81 and 162"
+      ],
+      "answer": "72 and 162",
+      "explanation": "Let numbers be $4k$ and $9k$. Since HCF $=k=18$, numbers are $4·18=72$ and $9·18=162$."
+    }
   ]
 }

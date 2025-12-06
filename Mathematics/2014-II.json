@@ -78,5 +78,20 @@
       "answer": "24",
       "explanation": "Prime factorization: $360=2^3\times3^2\times5^1$. Number of divisors $=(3+1)(2+1)(1+1)=24$."
     }
+  ],
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "Find the greatest number that divides $200$, $300$ and $500$ leaving the same remainder.",
+      "image": "",
+      "options": [
+        "100",
+        "50",
+        "25",
+        "75"
+      ],
+      "answer": "100",
+      "explanation": "If a number leaves the same remainder, it must divide all pairwise differences. Differences: $300-200=100$, $500-300=200$, $500-200=300$. Their HCF is $100$."
+    }
   ]
 }

@@ -65,5 +65,20 @@
       "answer": "Both I and II",
       "explanation": "Among three consecutive integers, one is divisible by $3$ and one by $2$, so the product is divisible by $6$. Also, every integer can be expressed in one of the three given forms modulo $3$."
     }
+  ],
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "The LCM of two numbers is $660$ and their HCF is $11$. If one number is $132$, what is the other number?",
+      "image": "",
+      "options": [
+        "55",
+        "275",
+        "720",
+        "880"
+      ],
+      "answer": "55",
+      "explanation": "Using $a·b=\\text{HCF}·\\text{LCM}=11·660=7260$. Given $a=132$, the other number is $7260/132=55$."
+    }
   ]
 }

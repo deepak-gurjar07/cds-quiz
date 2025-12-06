@@ -1,0 +1,43 @@
+{
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "The HCF and LCM of two numbers are $20$ and $600$ respectively. If one number is $100$, find the other number.",
+      "image": "",
+      "options": [
+        "120",
+        "200",
+        "300",
+        "None"
+      ],
+      "answer": "120",
+      "explanation": "Using $a·b=\\text{HCF}·\\text{LCM}$, we get $100·b=20·600=12000$. Hence $b=12000/100=120$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the greatest number that divides $759$, $903$ and $1155$ leaving the same remainder?",
+      "image": "",
+      "options": [
+        "48",
+        "72",
+        "96",
+        "144"
+      ],
+      "answer": "96",
+      "explanation": "The required number divides all pairwise differences: $903-759=144$, $1155-903=252$, $1155-759=396$. The HCF of $144,252,$ and $396$ is $96$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the least number divisible by $18$ and $45$ but not divisible by $9$?",
+      "image": "",
+      "options": [
+        "90",
+        "180",
+        "270",
+        "360"
+      ],
+      "answer": "180",
+      "explanation": "LCM of $18$ and $45$ is $90$. But $90$ is divisible by $9$, so it is excluded. The next multiple is $180$, which is divisible by $18$ and $45$ but not divisible by $9$. Hence $180$."
+    }
+  ]
+}

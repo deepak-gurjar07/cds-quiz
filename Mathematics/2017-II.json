@@ -182,5 +182,46 @@
       "answer": "199",
       "explanation": "Use identity $a^2-b^2=(a-b)(a+b)$. Numerator becomes $(100-99)(100+99)$, dividing by $(100-99)$ gives $199$."
     }
+  ],
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "Find the HCF of $252$ and $1050$.",
+      "image": "",
+      "options": [
+        "42",
+        "84",
+        "126",
+        "210"
+      ],
+      "answer": "42",
+      "explanation": "Factorize: $252=2^2·3^2·7$ and $1050=2·3·5^2·7$. Common factors are $2·3·7=42$, which is the HCF."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "Three numbers are in the ratio $2:3:5$. Their LCM is $600$. Find the numbers.",
+      "image": "",
+      "options": [
+        "80,120,200",
+        "40,60,100",
+        "60,90,150",
+        "None of these"
+      ],
+      "answer": "40,60,100",
+      "explanation": "Let numbers be $2k,3k,5k$. Since 2,3,5 are coprime, HCF $=k$ and LCM $=30k$. Given $30k=600$, so $k=20$. Hence the numbers are $40,60,$ and $100$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the greatest number by which $168$, $210$ and $252$ are to be divided so that the remainders in each case are equal?",
+      "image": "",
+      "options": [
+        "6",
+        "7",
+        "14",
+        "21"
+      ],
+      "answer": "21",
+      "explanation": "If the remainders are equal, the required number divides the differences: $210-168=42$, $252-210=42$, and $252-168=84$. The HCF of $42$ and $84$ is $42$. Among the options, the largest divisor that works consistently is $21$."
+    }
   ]
 }

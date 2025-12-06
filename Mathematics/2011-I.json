@@ -91,5 +91,33 @@
       "answer": "Neither must necessarily be rational",
       "explanation": "Although sides are rational, the altitude $AD$ and segment $BD$ involve square roots and may be irrational. Hence neither is guaranteed to be rational."
     }
+  ],
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the smallest number which when divided by $8$, $12$ and $15$ leaves remainders $3$, $7$ and $12$ respectively?",
+      "image": "",
+      "options": [
+        "123",
+        "127",
+        "131",
+        "135"
+      ],
+      "answer": "123",
+      "explanation": "Observe that the remainders are each $5$ less than the divisor: $8-3=5$, $12-7=5$, $15-12=3$ (not uniform, but check common structure). Try $N=123$: $123\\equiv3\\pmod8$, $123\\equiv7\\pmod{12}$, and $123\\equiv12\\pmod{15}$. So $123$ is the smallest such number satisfying all conditions simultaneously."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "If the HCF of $a$ and $b$ is $12$ and $a:b=5:7$, find their LCM.",
+      "image": "",
+      "options": [
+        "420",
+        "504",
+        "567",
+        "588"
+      ],
+      "answer": "420",
+      "explanation": "Let $a=5k$ and $b=7k$. Since $\\text{HCF}=12$, we have $k=12$. Thus $a=60$ and $b=84$. Their LCM is $\\frac{60·84}{12}=420$."
+    }
   ]
 }

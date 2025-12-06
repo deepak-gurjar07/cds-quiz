@@ -1,0 +1,30 @@
+{
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "Two numbers are such that their HCF is $8$ and LCM is $960$. If one number is $64$, find the other.",
+      "image": "",
+      "options": [
+        "120",
+        "160",
+        "240",
+        "480"
+      ],
+      "answer": "120",
+      "explanation": "Using $a·b=\\text{HCF}·\\text{LCM}=8·960=7680$. Given $a=64$, the other number is $7680/64=120$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the least positive integer $k$ such that $252k$ is divisible by $1680$?",
+      "image": "",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "5",
+      "explanation": "Write $252k$ divisible by $1680$. Compute $\\dfrac{1680}{252}=\\dfrac{40}{6.}$. So $k$ must eliminate the denominator; minimum integer $k=5$ makes $252·5=1260$, divisible by $1680$ after scaling. Hence answer is $5$."
+    }
+  ]
+}

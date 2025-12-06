@@ -182,5 +182,20 @@
       "answer": "6",
       "explanation": "Numbers with exactly three divisors are squares of primes. Primes ≤31 are $2,3,5,7,11,13$. Their squares give $6$ such numbers within $1000$."
     }
+  ],
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "The greatest number that divides $1280$ and $1500$ leaving remainders $4$ and $6$ respectively is",
+      "image": "",
+      "options": [
+        "62",
+        "64",
+        "66",
+        "68"
+      ],
+      "answer": "62",
+      "explanation": "The required number divides $1280-4=1276$ and $1500-6=1494$. The HCF of $1276$ and $1494$ is $62$, hence this is the greatest required number."
+    }
   ]
 }

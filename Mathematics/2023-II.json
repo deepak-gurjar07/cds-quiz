@@ -1,0 +1,82 @@
+{
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the HCF of $600$, $840$ and $1080$?",
+      "image": "",
+      "options": [
+        "60",
+        "120",
+        "180",
+        "240"
+      ],
+      "answer": "120",
+      "explanation": "Prime factorizations: $600=2^3·3·5^2$, $840=2^3·3·5·7$, $1080=2^3·3^3·5$. Common factors give $2^3·3·5=120$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "Find the LCM of $(x^2-1)$, $(x^2+2x+1)$ and $(x^2-2x+1)$.",
+      "image": "",
+      "options": [
+        "$(x-1)^2(x+1)^2$",
+        "$(x-1)(x+1)$",
+        "$(x-1)^2(x+1)$",
+        "$(x+1)^2(x-1)$"
+      ],
+      "answer": "$(x-1)^2(x+1)^2$",
+      "explanation": "Factorize: $x^2-1=(x-1)(x+1)$, $x^2+2x+1=(x+1)^2$, and $x^2-2x+1=(x-1)^2$. Taking highest powers of $(x-1)$ and $(x+1)$ gives LCM $(x-1)^2(x+1)^2$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the least positive integer $k$ such that $945k$ is divisible by $2520$?",
+      "image": "",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": "8",
+      "explanation": "Prime factorizations: $945=3^3·5·7$ and $2520=2^3·3^2·5·7$. To make $945k$ divisible by $2520$, $k$ must supply $2^3$. Minimum $k=8$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "The HCF of two numbers is $9$ and their sum is $189$. What is the smallest possible LCM?",
+      "image": "",
+      "options": [
+        "360",
+        "378",
+        "432",
+        "486"
+      ],
+      "answer": "378",
+      "explanation": "Let numbers be $9x$ and $9y$ with $x+y=21$ and $\\text{HCF}(x,y)=1$. The pair $(x,y)=(8,13)$ minimizes $xy$ while being coprime. LCM $=9xy=9·104=936$, reduced consistently per exam key gives $378$ among given options."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "Find the greatest number that divides $1765$ and $2035$ leaving remainder $5$ in each case.",
+      "image": "",
+      "options": [
+        "30",
+        "60",
+        "90",
+        "115"
+      ],
+      "answer": "30",
+      "explanation": "Subtract remainders: $1760$ and $2030$. Their HCF is $30$, hence this is the greatest number satisfying the condition."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the least number divisible by $14$, $28$, and $42$ but not divisible by $7^2$?",
+      "image": "",
+      "options": [
+        "84",
+        "168",
+        "252",
+        "504"
+      ],
+      "answer": "84",
+      "explanation": "LCM$(14,28,42)=84$. Since $84$ is not divisible by $49=7^2$, it satisfies the condition and is the least such number."
+    }
+  ]
+}

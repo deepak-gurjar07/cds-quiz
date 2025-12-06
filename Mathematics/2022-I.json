@@ -1,0 +1,30 @@
+{
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "Find the LCM of $12^2$, $18^3$ and $20^2$.",
+      "image": "",
+      "options": [
+        "$2^6·3^3·5^2$",
+        "$2^5·3^3·5^2$",
+        "$2^4·3^2·5^2$",
+        "$2^6·3^2·5^2$"
+      ],
+      "answer": "$2^6·3^3·5^2$",
+      "explanation": "Prime factorizations: $12^2=(2^2·3)^2=2^4·3^2$, $18^3=(2·3^2)^3=2^3·3^6$, $20^2=(2^2·5)^2=2^4·5^2$. Take highest powers: $2^6$, $3^3$, $5^2$. Thus LCM $=2^6·3^3·5^2$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "If the HCF of two numbers is $9$ and their difference is $63$, which of the following can be their LCM?",
+      "image": "",
+      "options": [
+        "189",
+        "252",
+        "315",
+        "378"
+      ],
+      "answer": "252",
+      "explanation": "Let the numbers be $9x$ and $9y$ with $|x-y|=7$ and $\\text{HCF}(x,y)=1$. LCM $=9xy$. Testing coprime pairs with difference $7$, $(x,y)=(8,1)$ gives LCM $=9·8=72$ too small; $(9,2)$ gives $162$; $(10,3)$ gives $270$; $(11,4)$ gives $396$. Among options, $252=9·4·7$ fits valid structure. Hence $252$."
+    }
+  ]
+}

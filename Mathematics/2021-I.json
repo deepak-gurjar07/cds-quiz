@@ -1,0 +1,43 @@
+{
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "The greatest number which divides $910$, $1300$ and $1690$ leaving the same remainder is",
+      "image": "",
+      "options": [
+        "130",
+        "195",
+        "260",
+        "390"
+      ],
+      "answer": "130",
+      "explanation": "The required number divides differences: $1300-910=390$, $1690-1300=390$. Hence it must divide $390$. The greatest divisor common to all is $130$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "Find the least number which is divisible by $16$, $20$, and $24$ but not divisible by $10$.",
+      "image": "",
+      "options": [
+        "240",
+        "480",
+        "720",
+        "960"
+      ],
+      "answer": "240",
+      "explanation": "LCM of $16,20,24$ is $240$. Since $240$ is not divisible by $10$ (it does not end in $0$), it satisfies the condition and is the least such number."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the HCF of $(a^2-b^2)$ and $(a^2+2ab+b^2)$?",
+      "image": "",
+      "options": [
+        "$a-b$",
+        "$a+b$",
+        "$a^2-b^2$",
+        "$1$"
+      ],
+      "answer": "$a+b$",
+      "explanation": "Factorize: $a^2-b^2=(a-b)(a+b)$ and $a^2+2ab+b^2=(a+b)^2$. The common factor is $(a+b)$, so HCF is $a+b$."
+    }
+  ]
+}

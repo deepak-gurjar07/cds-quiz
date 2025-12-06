@@ -39,5 +39,20 @@
       "answer": "4",
       "explanation": "First find the sum of digits: $2+6+4+9+2+5+1+8=37$. To make the result divisible by $3$, the digit sum must be a multiple of $3$. $37-4=33$, which is divisible by $3$ but also divisible by $9$ — however the number itself is not divisible by $9$ because the subtraction changes only the digit sum condition. Hence, $4$ is the least such number."
     }
+  ],
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the HCF of the polynomials $x^3 + 3x^2y + 2xy^2$ and $x^4 + 6x^3y + 8x^2y^2$?",
+      "image": "",
+      "options": [
+        "$x(x+2y)$",
+        "$x(x+3y)$",
+        "$x+2y$",
+        "None of these"
+      ],
+      "answer": "$x(x+2y)$",
+      "explanation": "Factor each polynomial. First: $x^3 + 3x^2y + 2xy^2 = x(x^2 + 3xy + 2y^2) = x(x+y)(x+2y)$. Second: $x^4 + 6x^3y + 8x^2y^2 = x^2(x^2 + 6xy + 8y^2) = x^2(x+2y)(x+4y)$. The common factors are $x$ and $(x+2y)$, so the HCF is $x(x+2y)$."
+    }
   ]
 }

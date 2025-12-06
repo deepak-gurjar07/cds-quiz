@@ -117,5 +117,20 @@
       "answer": "Both",
       "explanation": "Both statements express the logic behind the Sieve of Eratosthenes up to $121$."
     }
+  ],
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "If the product of two numbers is $1800$ and their HCF is $15$, what is their LCM?",
+      "image": "",
+      "options": [
+        "60",
+        "80",
+        "100",
+        "120"
+      ],
+      "answer": "120",
+      "explanation": "Using $a·b=\\text{HCF}·\\text{LCM}$, we get $1800=15·\\text{LCM}$. Hence $\\text{LCM}=120$."
+    }
   ]
 }

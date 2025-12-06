@@ -1,0 +1,43 @@
+{
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "Find the HCF of $2^8·3^5$ and $2^6·3^7$.",
+      "image": "",
+      "options": [
+        "$2^6·3^5$",
+        "$2^8·3^5$",
+        "$2^6·3^7$",
+        "$2^8·3^7$"
+      ],
+      "answer": "$2^6·3^5$",
+      "explanation": "The HCF takes the minimum powers of common primes. For $2$, min$(8,6)=6$; for $3$, min$(5,7)=5$. Hence HCF $=2^6·3^5$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "If $\\text{HCF}(a,b)=15$ and $a+b=180$, what is the minimum possible value of $a$?",
+      "image": "",
+      "options": [
+        "15",
+        "30",
+        "45",
+        "60"
+      ],
+      "answer": "45",
+      "explanation": "Let $a=15x$ and $b=15y$ with HCF$(x,y)=1$. Then $15(x+y)=180$, so $x+y=12$. To minimize $a$, minimize $x$ subject to $x,y$ coprime. Smallest choice is $(x,y)=(3,9)$, giving $a=45$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the LCM of $(x^3 - 27)$ and $(x^2 - 9)$?",
+      "image": "",
+      "options": [
+        "$(x-3)(x^2+3x+9)$",
+        "$(x-3)(x+3)(x^2+3x+9)$",
+        "$(x-3)^2(x+3)(x^2+3x+9)$",
+        "$(x+3)(x^2+3x+9)$"
+      ],
+      "answer": "$(x-3)(x+3)(x^2+3x+9)$",
+      "explanation": "Factorize: $x^3-27=(x-3)(x^2+3x+9)$ and $x^2-9=(x-3)(x+3)$. The LCM takes each distinct factor with highest power: $(x-3)(x+3)(x^2+3x+9)$."
+    }
+  ]
+}

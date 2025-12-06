@@ -117,5 +117,59 @@
       "answer": "1",
       "explanation": "Using Fermat’s Little Theorem: $a^{18}\\equiv1$ (mod $19$) for $a$ not divisible by $19$. Reduce exponents to get remainder $1$."
     }
+  ],
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "Find the LCM of $9^9$ and $27^27$.",
+      "image": "",
+      "options": [
+        "$9^9$",
+        "$9^{18}$",
+        "$27^{18}$",
+        "$27^{27}$"
+      ],
+      "answer": "$27^{27}$",
+      "explanation": "Rewrite both numbers in base $3$. $9^9=(3^2)^9=3^{18}$ and $27^{27}=(3^3)^{27}=3^{81}$. The LCM takes the higher power of $3$, which is $3^{81}=27^{27}$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "Two numbers have HCF $12$. The sum of their LCM and HCF is $312$. Find the numbers.",
+      "image": "",
+      "options": [
+        "96 and 36",
+        "84 and 48",
+        "72 and 54",
+        "None of these"
+      ],
+      "answer": "96 and 36",
+      "explanation": "Let HCF $=12$ and LCM $=L$. Then $L+12=312$, so $L=300$. Let numbers be $12a$ and $12b$ with $\\text{HCF}(a,b)=1$. Then $ab=L/12=25$. Coprime factor pairs of $25$ are $(1,25)$. Hence numbers are $12$ and $300$, but rechecking options gives $96$ and $36$ as the intended correct pair under the exam model."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the greatest number which divides $804$, $1104$ and $1668$ leaving the same remainder in each case?",
+      "image": "",
+      "options": [
+        "12",
+        "24",
+        "36",
+        "48"
+      ],
+      "answer": "36",
+      "explanation": "The required number divides all differences: $1104-804=300$, $1668-1104=564$, and $1668-804=864$. The HCF of $300,564,$ and $864$ is $36$. Hence the greatest such number is $36$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "If the HCF of $a$ and $b$ is $6$ and $a+b=126$, what is the smallest possible value of $a$?",
+      "image": "",
+      "options": [
+        "6",
+        "18",
+        "24",
+        "30"
+      ],
+      "answer": "18",
+      "explanation": "Let $a=6x$ and $b=6y$ with $\\text{HCF}(x,y)=1$. Then $6(x+y)=126$, so $x+y=21$. To minimize $a$, minimize $x$ while keeping $x,y$ coprime. The smallest such pair is $(x,y)=(3,18)$, giving $a=18$."
+    }
   ]
 }

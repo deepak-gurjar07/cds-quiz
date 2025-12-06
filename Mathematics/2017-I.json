@@ -78,5 +78,46 @@
       "answer": "20",
       "explanation": "The largest possible remainder when dividing by $n$ is $n-1$. Hence for divisor $21$, the maximum remainder is $20$."
     }
+  ],
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the smallest number which when divided by $6$, $8$ and $15$ leaves remainder $1$ each time?",
+      "image": "",
+      "options": [
+        "121",
+        "241",
+        "361",
+        "481"
+      ],
+      "answer": "121",
+      "explanation": "If $N$ leaves remainder $1$ on division by $6,8,15$, then $N-1$ is divisible by all three. So $N-1=\\text{LCM}(6,8,15)=120$. Thus $N=120+1=121$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "If $\\text{LCM}(x,y)=xy$, which of the following must be true?",
+      "image": "",
+      "options": [
+        "$x=y$",
+        "$x$ and $y$ are composite",
+        "$\\text{HCF}(x,y)=1$",
+        "$x$ and $y$ are both prime"
+      ],
+      "answer": "$\\text{HCF}(x,y)=1$",
+      "explanation": "In general, $x·y=\\text{HCF}(x,y)·\\text{LCM}(x,y)$. If $\\text{LCM}(x,y)=xy$, then dividing both sides by $xy$ gives $\\text{HCF}(x,y)=1$. So $x$ and $y$ must be coprime."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the least number which is divisible by $10$, $15$, $20$ and $25$?",
+      "image": "",
+      "options": [
+        "300",
+        "600",
+        "1500",
+        "3000"
+      ],
+      "answer": "300",
+      "explanation": "Prime factorizations: $10=2·5$, $15=3·5$, $20=2^2·5$, $25=5^2$. LCM takes $2^2$, $3$, and $5^2$, giving $4·3·25=300$."
+    }
   ]
 }

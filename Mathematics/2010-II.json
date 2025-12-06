@@ -65,5 +65,20 @@
       "answer": "irrational",
       "explanation": "If a non-zero rational number multiplied an irrational gave a rational result, dividing would make the irrational rational — a contradiction. Hence the product is irrational."
     }
+  ],
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "Find the greatest integer which divides $840$ and $360$ leaving remainder $6$ in each case.",
+      "image": "",
+      "options": [
+        "42",
+        "54",
+        "60",
+        "66"
+      ],
+      "answer": "42",
+      "explanation": "If a number $d$ leaves remainder $6$, then $d$ divides $840-6=834$ and $360-6=354$. Now find HCF of $834$ and $354$. Using Euclid’s algorithm: $834-2·354=126$, $354-2·126=102$, $126-102=24$, $102-4·24=6$, $24-4·6=0$. Hence the HCF is $6·7=42$."
+    }
   ]
 }

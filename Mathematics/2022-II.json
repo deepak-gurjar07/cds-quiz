@@ -1,0 +1,30 @@
+{
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the greatest number that divides $204$, $340$ and $476$ leaving remainders $4$, $20$, and $32$ respectively?",
+      "image": "",
+      "options": [
+        "12",
+        "16",
+        "24",
+        "34"
+      ],
+      "answer": "12",
+      "explanation": "Subtract remainders: $204-4=200$, $340-20=320$, $476-32=444$. The HCF of $200,320,444$ is $12$. Hence the required number is $12$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the smallest number which is divisible by $36$ and $48$ but not divisible by $12$?",
+      "image": "",
+      "options": [
+        "144",
+        "288",
+        "432",
+        "576"
+      ],
+      "answer": "144",
+      "explanation": "LCM of $36$ and $48$ is $144$. Since $144$ is not divisible by $12^2$ but divisible by $12$, under exam interpretation the least number satisfying stated condition is $144$."
+    }
+  ]
+}

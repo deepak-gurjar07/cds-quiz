@@ -13,5 +13,33 @@
       "answer": "533",
       "explanation": "The primes between 100 and 120 are $101,103,107,109,$ and $113$. Their sum is $533$."
     }
+  ],
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the greatest number which divides 392, 486 and 627 so as to leave the same remainder in each case?",
+      "image": "",
+      "options": [
+        "47",
+        "43",
+        "37",
+        "34"
+      ],
+      "answer": "47",
+      "explanation": "If a number $d$ leaves the same remainder on dividing all three numbers, then $d$ must divide the pairwise differences: $486-392=94$, $627-486=141$, $627-392=235$. So $d$ is a common divisor of $94,141,235$. The HCF of these three is $47$, and this is the greatest such number."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the LCM of $(x^2 - y^2 - z^2 - 2yz)$, $(x^2 - y^2 + z^2 + 2xz)$ and $(x^2 + y^2 - z^2 - 2xy)$?",
+      "image": "",
+      "options": [
+        "$(x+y+z)(x+y-z)(x-y+z)$",
+        "$(x+y+z)(x-y-z)(x-y+z)$",
+        "$(x+y+z)(x+y-z)(x-y-z)$",
+        "$(x+y-z)(x-y-z)(x-y+z)$"
+      ],
+      "answer": "$(x+y+z)(x-y-z)(x-y+z)$",
+      "explanation": "Rewrite each expression using identities. Note that $x^2 - y^2 - z^2 - 2yz = x^2 - (y+z)^2 = (x+y+z)(x-y-z)$. Similarly, $x^2 - y^2 + z^2 + 2xz = (x+z)^2 - y^2 = (x+z+y)(x+z-y) = (x+y+z)(x+z-y)$, and $x^2 + y^2 - z^2 - 2xy = (x-y)^2 - z^2 = (x-y+z)(x-y-z)$. The LCM must contain each distinct linear factor that appears: $(x+y+z)$, $(x-y-z)$, $(x-y+z)$. So the LCM is $(x+y+z)(x-y-z)(x-y+z)$."
+    }
   ]
 }

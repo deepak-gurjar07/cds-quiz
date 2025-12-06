@@ -65,5 +65,20 @@
       "answer": "Both",
       "explanation": "Any integer $n$ can be written as $n/1$, making it rational. Every rational number is also a real number by definition."
     }
+  ],
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "The HCF of two numbers is $25$ and their product is $40000$. What is their LCM?",
+      "image": "",
+      "options": [
+        "800",
+        "1000",
+        "1600",
+        "2000"
+      ],
+      "answer": "1600",
+      "explanation": "For any two numbers, $\\text{HCF}·\\text{LCM}=\\text{product}$. Hence $25·\\text{LCM}=40000$, so $\\text{LCM}=40000/25=1600$."
+    }
   ]
 }

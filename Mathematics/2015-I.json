@@ -78,5 +78,20 @@
       "answer": "55.34",
       "explanation": "Using standard clock-hand interchange equations and solving for time after $4$ gives approximately $55.34$ minutes."
     }
+  ],
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the smallest number greater than $1000$ that is divisible by $72$?",
+      "image": "",
+      "options": [
+        "1008",
+        "1044",
+        "1080",
+        "1152"
+      ],
+      "answer": "1008",
+      "explanation": "Divide $1000$ by $72$: $72·13=936$, remainder $64$. Add $72-64=8$ to get $1008$, which is divisible by $72$."
+    }
   ]
 }

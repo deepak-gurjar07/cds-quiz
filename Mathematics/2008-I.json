@@ -1,0 +1,43 @@
+{
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "The LCM of three different numbers is 150. Which of the following cannot be their HCF?",
+      "image": "",
+      "options": [
+        "15",
+        "25",
+        "50",
+        "55"
+      ],
+      "answer": "55",
+      "explanation": "HCF must be a divisor of every number, and hence a divisor of the LCM. So any possible HCF must divide $150$. The divisors of $150$ include $15,25,50$ but not $55$ (since $150/55$ is not an integer). Therefore $55$ cannot be the HCF."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the HCF of $(x^2 + bx - x - b)$ and $[x^2 + x(a - 1) - a]$?",
+      "image": "",
+      "options": [
+        "$x+b$",
+        "$x+a$",
+        "$x+1$",
+        "$x-1$"
+      ],
+      "answer": "$x-1$",
+      "explanation": "Factor the expressions by grouping. First: $x^2 + bx - x - b = x(x+b) - 1(x+b) = (x-1)(x+b)$. Second: $x^2 + x(a-1) - a = x^2 + ax - x - a = x(x+a) - 1(x+a) = (x-1)(x+a)$. The common factor is $(x-1)$, so the HCF is $x-1$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the LCM of $(6x^3 + 60x^2 + 150x)$ and $(3x^4 + 12x^3 - 15x^2)$?",
+      "image": "",
+      "options": [
+        "$6x^2(x+5)^2(x-1)$",
+        "$3x^2(x+5)^2(x-1)$",
+        "$6x^2(x+5)^2(x-1)^2$",
+        "$3x^2(x+5)(x-1)^2$"
+      ],
+      "answer": "$6x^2(x+5)^2(x-1)$",
+      "explanation": "Factor each expression. First: $6x^3+60x^2+150x = 6x(x^2+10x+25) = 6x(x+5)^2$. Second: $3x^4+12x^3-15x^2 = 3x^2(x^2+4x-5) = 3x^2(x+5)(x-1)$. For the LCM we take each distinct factor with its highest power across both: numeric factor $6$, $x^2$, $(x+5)^2$, $(x-1)$, giving $6x^2(x+5)^2(x-1)$."
+    }
+  ]
+}

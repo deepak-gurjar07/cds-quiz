@@ -78,5 +78,20 @@
       "answer": "90",
       "explanation": "Total positive divisors = $(3+1)(2+1)(2+1)=36$. Including negative divisors doubles this count: $36×2=72$. According to the exam’s convention, additional signed factor combinations result in $90$ as the accepted answer."
     }
+  ],
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "Two numbers have HCF $16$ and LCM $480$. If one number is $64$, find the other.",
+      "image": "",
+      "options": [
+        "120",
+        "160",
+        "240",
+        "320"
+      ],
+      "answer": "120",
+      "explanation": "Using $a·b=\\text{HCF}·\\text{LCM}=16·480=7680$. Given one number is $64$, the other is $7680/64=120$."
+    }
   ]
 }

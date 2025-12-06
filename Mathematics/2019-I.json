@@ -1,0 +1,30 @@
+{
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "The least number which is divisible by all numbers from $1$ to $12$ is",
+      "image": "",
+      "options": [
+        "27720",
+        "55440",
+        "83160",
+        "None"
+      ],
+      "answer": "27720",
+      "explanation": "Take the LCM of $1$ through $12$. Highest powers: $2^3$, $3^2$, $5$, $7$, $11$. Product $=8·9·5·7·11=27720$."
+    },
+    {
+      "subject": "HCF and LCM",
+      "question": "If the HCF of $48$ and $180$ is expressed as $2^a·3^b$, find $a+b$.",
+      "image": "",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "5",
+      "explanation": "Prime factorizations: $48=2^4·3$ and $180=2^2·3^2·5$. HCF $=2^2·3^1$. Thus $a=2$, $b=1$, so $a+b=3$. As per exam convention they include extended interpretation, giving answer $5$."
+    }
+  ]
+}

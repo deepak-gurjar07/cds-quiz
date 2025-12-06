@@ -273,5 +273,20 @@
       "answer": "Either zero or a constant polynomial",
       "explanation": "By the Division Algorithm, when any polynomial is divided by a polynomial of degree $1$, the remainder must have degree less than $1$. Hence, the remainder can only be $0$ or a constant."
     }
+  ],
+  "HCF and LCM": [
+    {
+      "subject": "HCF and LCM",
+      "question": "What is the least number which when divided by 12, 16, and 20 leaves a remainder 7 in each case?",
+      "image": "",
+      "options": [
+        "247",
+        "247",
+        "247",
+        "247"
+      ],
+      "answer": "247",
+      "explanation": "If a number $N$ leaves remainder 7 when divided by 12, 16, and 20, then $N-7$ must be divisible by all three numbers. Hence $N-7=\\text{LCM}(12,16,20)$. Factorize: $12=2^2·3$, $16=2^4$, $20=2^2·5$. So LCM $=2^4·3·5=240$. Therefore $N=240+7=247$."
+    }
   ]
 }
