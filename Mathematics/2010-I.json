@@ -1,0 +1,56 @@
+{
+  "Number System": [
+    {
+      "subject": "Number System",
+      "question": "Which of the following is NOT a square of any natural number?",
+      "image": "",
+      "options": [
+        "5041",
+        "9852",
+        "1936",
+        "6241"
+      ],
+      "answer": "9852",
+      "explanation": "A square cannot end in 2,3,7,8. 9852 ends in 2 → not a perfect square."
+    },
+    {
+      "subject": "Number System",
+      "question": "A three-digit number divisible by 11 has unit digit 1. It is 297 more than its reverse. What is the number?",
+      "image": "",
+      "options": [
+        "121",
+        "231",
+        "561",
+        "451"
+      ],
+      "answer": "451",
+      "explanation": "Reverse of 451 is 154. Difference = 297, satisfying condition."
+    },
+    {
+      "subject": "Number System",
+      "question": "Given number ABCDE is divisible by 11. Which statements follow? I: E–D+C–B+A divisible by 11. II: E–D+C–B+A = 0",
+      "image": "",
+      "options": [
+        "Only I",
+        "Only II",
+        "Both",
+        "Neither"
+      ],
+      "answer": "Both",
+      "explanation": "A number is divisible by 11 if alternating sum is 0 or ±11 or any multiple."
+    },
+    {
+      "subject": "Number System",
+      "question": "What is the last digit of $21^{2n} - 64^n$ ?",
+      "image": "",
+      "options": [
+        "4",
+        "8",
+        "2",
+        "00"
+      ],
+      "answer": "00",
+      "explanation": "$21^2 = 441$, $64=8^2$. Expression becomes $(4096^n - 1296^n)$ which ends in 00."
+    }
+  ]
+}

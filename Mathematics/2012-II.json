@@ -1,0 +1,69 @@
+{
+  "Number System": [
+    {
+      "subject": "Number System",
+      "question": "Statements: I. If n is prime >5, then $n^4 - 1$ divisible by 2400. II. Every square is of the form $5n$, $5n-1$, or $5n+1$. Which are correct?",
+      "image": "",
+      "options": [
+        "I",
+        "II",
+        "Both",
+        "Neither"
+      ],
+      "answer": "I",
+      "explanation": "Fermat-type result; statement II is false."
+    },
+    {
+      "subject": "Number System",
+      "question": "If sum of an integer and its reciprocal is $10/3$, what is the integer?",
+      "image": "",
+      "options": [
+        "3",
+        "6",
+        "12",
+        "13"
+      ],
+      "answer": "3",
+      "explanation": "Solve $x + 1/x = 10/3$ → quadratic → x=3."
+    },
+    {
+      "subject": "Number System",
+      "question": "Which is neither prime nor composite?",
+      "image": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "None"
+      ],
+      "answer": "1",
+      "explanation": "1 is neither prime nor composite."
+    },
+    {
+      "subject": "Number System",
+      "question": "Which has least number of divisors?",
+      "image": "",
+      "options": [
+        "88",
+        "91",
+        "96",
+        "99"
+      ],
+      "answer": "91",
+      "explanation": "91 = 7×13 → 4 divisors. Other numbers have more."
+    },
+    {
+      "subject": "Number System",
+      "question": "Statements: I Every integer is rational. II Every rational is real. Which are correct?",
+      "image": "",
+      "options": [
+        "I",
+        "II",
+        "Both",
+        "Neither"
+      ],
+      "answer": "Both",
+      "explanation": "Standard number hierarchy."
+    }
+  ]
+}

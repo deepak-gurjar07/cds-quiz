@@ -1,0 +1,82 @@
+{
+  "Number System": [
+    {
+      "subject": "Number System",
+      "question": "Which statements correct: I every composite is natural. II every whole is natural.",
+      "image": "",
+      "options": [
+        "I",
+        "II",
+        "Both",
+        "Neither"
+      ],
+      "answer": "I",
+      "explanation": "0 is whole but not natural."
+    },
+    {
+      "subject": "Number System",
+      "question": "How many numbers between –11 and 11 are multiples of 2 or 3?",
+      "image": "",
+      "options": [
+        "11",
+        "14",
+        "15",
+        "None"
+      ],
+      "answer": "14",
+      "explanation": "List multiples of 2 or 3 from –11 to 11. Count = 14."
+    },
+    {
+      "subject": "Number System",
+      "question": "What number should be added to 231228 to make it divisible by 33?",
+      "image": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2",
+      "explanation": "Sum of digits = 21. To satisfy divisibility by 3 and 11, adding 2 works."
+    },
+    {
+      "subject": "Number System",
+      "question": "How many rational numbers are there between 1 and 1000?",
+      "image": "",
+      "options": [
+        "998",
+        "999",
+        "1000",
+        "Infinite"
+      ],
+      "answer": "Infinite",
+      "explanation": "Between any two real numbers, infinitely many rationals exist."
+    },
+    {
+      "subject": "Number System",
+      "question": "Which pair is relatively prime?",
+      "image": "",
+      "options": [
+        "(68,85)",
+        "(65,91)",
+        "(92,85)",
+        "(102,153)"
+      ],
+      "answer": "(65,91)",
+      "explanation": "GCD(65,91)=1."
+    },
+    {
+      "subject": "Number System",
+      "question": "Number 58129745812974 is divisible by:",
+      "image": "",
+      "options": [
+        "11",
+        "8",
+        "4",
+        "None"
+      ],
+      "answer": "None",
+      "explanation": "Fails tests for 11, 8, and 4."
+    }
+  ]
+}

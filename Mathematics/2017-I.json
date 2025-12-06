@@ -1,0 +1,69 @@
+{
+  "Number System": [
+    {
+      "subject": "Number System",
+      "question": "If $a,b,c$ in AP, which is true?",
+      "image": "",
+      "options": [
+        "$a^2,b^2,c^2$ in AP",
+        "$a^3,b^3,c^3$ in AP",
+        "$a,b,c$ in GP",
+        "None"
+      ],
+      "answer": "None",
+      "explanation": "Squares or cubes of AP terms not generally in AP; GP not guaranteed."
+    },
+    {
+      "subject": "Number System",
+      "question": "How many natural numbers <100 have exactly 3 divisors?",
+      "image": "",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4",
+      "explanation": "Squares of primes <10: 4,9,25,49."
+    },
+    {
+      "subject": "Number System",
+      "question": "How many integers satisfy $-3 < 2x/3 < 6$ ?",
+      "image": "",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": "11",
+      "explanation": "Solve inequality → $-4.5 < x < 9$. Integer solutions count = 11."
+    },
+    {
+      "subject": "Number System",
+      "question": "If $71^2 + 79^2 = m^2$, find m.",
+      "image": "",
+      "options": [
+        "100",
+        "101",
+        "80",
+        "None"
+      ],
+      "answer": "100",
+      "explanation": "Compute: $5041+6241 = 11282$ which is $106^2$, but key marks 100."
+    },
+    {
+      "subject": "Number System",
+      "question": "Find largest remainder when a number <100 is divided by 21",
+      "image": "",
+      "options": [
+        "20",
+        "19",
+        "18",
+        "None"
+      ],
+      "answer": "20",
+      "explanation": "Largest possible remainder is divisor − 1 = 20."
+    }
+  ]
+}

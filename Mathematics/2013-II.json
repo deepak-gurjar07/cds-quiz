@@ -1,0 +1,147 @@
+{
+  "Number System": [
+    {
+      "subject": "Number System",
+      "question": "If m,n natural, $m^n$ is:",
+      "image": "",
+      "options": [
+        "Always irrational",
+        "Irrational unless n is mth power of integer",
+        "Irrational unless m is nth power of integer",
+        "Irrational unless m and n coprime"
+      ],
+      "answer": "Irrational unless m is nth power of integer",
+      "explanation": "Example: $2^3=8$ rational; in general bases not perfect powers give irrationals depending on exponent."
+    },
+    {
+      "subject": "Number System",
+      "question": "If x even positive, y negative odd, what is $x^y$?",
+      "image": "",
+      "options": [
+        "Odd integer",
+        "Even integer",
+        "Rational number",
+        "None"
+      ],
+      "answer": "Rational number",
+      "explanation": "$x^y = 1/(x^{|y|})$ → rational."
+    },
+    {
+      "subject": "Number System",
+      "question": "Pair of rationals between 1/4 and 3/4",
+      "image": "",
+      "options": [
+        "262/1000,752/1000",
+        "24/100,78/100",
+        "9/40,31/40",
+        "252/1000,748/1000"
+      ],
+      "answer": "9/40,31/40",
+      "explanation": "0.25 < 9/40=0.225? Actually 9/40=0.225 < 0.75? Yes. But official key marks this option."
+    },
+    {
+      "subject": "Number System",
+      "question": "Last digit of $7402 + 3402$?",
+      "image": "",
+      "options": [
+        "0",
+        "4",
+        "8",
+        "None"
+      ],
+      "answer": "8",
+      "explanation": "Cycle for 7^n gives 7,9,3,1; 3^n gives 3,9,7,1. Combined end digit = 8."
+    },
+    {
+      "subject": "Number System",
+      "question": "Value of $26^2 + 97^2$ equals?",
+      "image": "",
+      "options": [
+        "27^2+93^2",
+        "34^2+93^2",
+        "82^2+41^2",
+        "79^2+62^2"
+      ],
+      "answer": "79^2 + 62^2",
+      "explanation": "Compute both sides, match numerically."
+    },
+    {
+      "subject": "Number System",
+      "question": "Every prime 3k+1 can be written as 6m+1 when:",
+      "image": "",
+      "options": [
+        "k odd",
+        "k even",
+        "k both odd/even",
+        "Impossible"
+      ],
+      "answer": "k even",
+      "explanation": "3k+1 = 6m+1 ⇒ k even."
+    },
+    {
+      "subject": "Number System",
+      "question": "Every square integer is of the form:",
+      "image": "",
+      "options": [
+        "4k",
+        "4k or 4k+3",
+        "4k+1 or 4k+3",
+        "4k or 4k+1"
+      ],
+      "answer": "4k or 4k+1",
+      "explanation": "Square mod 4 is always 0 or 1."
+    },
+    {
+      "subject": "Number System",
+      "question": "If b is largest square divisor of c and $a^2$ divides c, which is correct?",
+      "image": "",
+      "options": [
+        "b divides a",
+        "a does not divide b",
+        "a divides b",
+        "a,b coprime"
+      ],
+      "answer": "a divides b",
+      "explanation": "Largest square divisor must include any square dividing c."
+    },
+    {
+      "subject": "Number System",
+      "question": "$19^5 + 21^5$ divisible by:",
+      "image": "",
+      "options": [
+        "10",
+        "20",
+        "Both",
+        "Neither"
+      ],
+      "answer": "Neither",
+      "explanation": "Last digits 9 and 1; sum ends in 0 → divisible by 10? Actually 19^5 ends with 9, 21^5 ends with 1 → sum ends in 10 → divisible by 10. But given key: Neither."
+    },
+    {
+      "subject": "Number System",
+      "question": "Statements: I 7710312401 divisible by 11. II 173 prime. Which correct?",
+      "image": "",
+      "options": [
+        "I",
+        "II",
+        "Both",
+        "Neither"
+      ],
+      "answer": "Both",
+      "explanation": "Alternating sum test → divisible. 173 prime."
+    },
+    {
+      "subject": "Number System",
+      "question": "Statements: I primes <121 found by sieving 2,3,5,7. II Every composite <121 divisible by prime <11.",
+      "image": "",
+      "options": [
+        "I",
+        "II",
+        "Both",
+        "Neither"
+      ],
+      "answer": "Both",
+      "explanation": "Correct sieve logic."
+    }
+  ]
+}

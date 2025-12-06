@@ -1,0 +1,56 @@
+{
+  "Number System": [
+    {
+      "subject": "Number System",
+      "question": "If n is natural, then n is:",
+      "image": "",
+      "options": [
+        "Always natural",
+        "Always rational",
+        "Always irrational",
+        "Either natural or irrational"
+      ],
+      "answer": "Always rational",
+      "explanation": "Every natural number is a rational number $=n/1$."
+    },
+    {
+      "subject": "Number System",
+      "question": "Largest integer dividing product of any four consecutive integers",
+      "image": "",
+      "options": [
+        "4",
+        "6",
+        "12",
+        "24"
+      ],
+      "answer": "24",
+      "explanation": "Among four consecutive numbers → divisible by 4! = 24."
+    },
+    {
+      "subject": "Number System",
+      "question": "Which is prime?",
+      "image": "",
+      "options": [
+        "161",
+        "171",
+        "173",
+        "221"
+      ],
+      "answer": "173",
+      "explanation": "173 has no divisors among primes ≤13."
+    },
+    {
+      "subject": "Number System",
+      "question": "Which statements correct: I product of 3 consecutive integers divisible by 6. II any integer = 3k,3k+1,3k+2",
+      "image": "",
+      "options": [
+        "I",
+        "II",
+        "Both",
+        "Neither"
+      ],
+      "answer": "Both",
+      "explanation": "One multiple of 3 and one even always present."
+    }
+  ]
+}

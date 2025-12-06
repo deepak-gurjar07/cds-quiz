@@ -1,0 +1,225 @@
+{
+  "Number System": [
+    {
+      "subject": "Number System",
+      "question": "$a^n + b^n$ is divisible by $(a - b)$ under which condition?",
+      "image": "",
+      "options": [
+        "All integers $n$",
+        "Even $n$",
+        "Odd $n$",
+        "No integral value of $n$"
+      ],
+      "answer": "Odd $n$",
+      "explanation": "$a^n + b^n$ is divisible by $(a+b)$ if $n$ is odd. Not divisible by $(a-b)$ for any integral $n$ → hence option (d)."
+    },
+    {
+      "subject": "Number System",
+      "question": "Which is correct about the number $222222$?",
+      "image": "",
+      "options": [
+        "Divisible by 3 but not by 7",
+        "Divisible by 3 and 7 but not 11",
+        "Divisible by 2 and 7 but not 11",
+        "Divisible by 3,7 and 11"
+      ],
+      "answer": "Divisible by 3,7 and 11",
+      "explanation": "Sum of digits = 12 → divisible by 3. Alternating-sum test gives 0 → divisible by 11. Repeating 6 same digits → divisible by 7,11,13."
+    },
+    {
+      "subject": "Number System",
+      "question": "If $q, q+2, q+6$ are primes, possible values of $3q+9$?",
+      "image": "",
+      "options": [
+        "Only 18",
+        "Only 42",
+        "Only 60",
+        "(b) and (c)"
+      ],
+      "answer": "(b) and (c)",
+      "explanation": "Check cases: $q=11$ → primes 11,13,17 → $3q+9=42$. $q=17$ → 17,19,23 → $3q+9=60$."
+    },
+    {
+      "subject": "Number System",
+      "question": "A three-digit number has digits $h,t,u$ with $h>u$. Reversing and subtracting yields units digit 4. What are the other digits (left to right)?",
+      "image": "",
+      "options": [
+        "5 and 9",
+        "9 and 5",
+        "5 and 4",
+        "4 and 5"
+      ],
+      "answer": "5 and 9",
+      "explanation": "Result = $99(h-u)$. Units digit 4 → $h-u=6$. Number = 594 → digits are 5,9,4."
+    },
+    {
+      "subject": "Number System",
+      "question": "Assertion: Zero is a whole number. Reason: Every integer is a whole number.",
+      "image": "",
+      "options": [
+        "A & R true; R explains A",
+        "A & R true; R does not explain A",
+        "A true; R false",
+        "A false; R true"
+      ],
+      "answer": "A true; R false",
+      "explanation": "Zero is whole; negative integers are not whole → R is false."
+    },
+    {
+      "subject": "Number System",
+      "question": "Which of the following is prime?",
+      "image": "",
+      "options": [
+        "667",
+        "861",
+        "481",
+        "331"
+      ],
+      "answer": "331",
+      "explanation": "331 is not divisible by any smaller primes → prime."
+    },
+    {
+      "subject": "Number System",
+      "question": "Which statement is always correct?",
+      "image": "",
+      "options": [
+        "Square of a prime is prime",
+        "Sum of two squares is square",
+        "Digits of a square is even",
+        "Product of two squares is a square"
+      ],
+      "answer": "Product of two squares is a square",
+      "explanation": "If $a=x^2$ and $b=y^2$, product $=x^2 y^2 = (xy)^2$."
+    },
+    {
+      "subject": "Number System",
+      "question": "The set of integers is closed under?",
+      "image": "",
+      "options": [
+        "Addition",
+        "Multiplication",
+        "Both",
+        "Division"
+      ],
+      "answer": "Both",
+      "explanation": "Integer + Integer = Integer; Integer × Integer = Integer; division not closed."
+    },
+    {
+      "subject": "Number System",
+      "question": "Sum of positive integers <100 giving remainder 1 mod 3 and 2 mod 4",
+      "image": "",
+      "options": [
+        "416",
+        "620",
+        "1250",
+        "1314"
+      ],
+      "answer": "416",
+      "explanation": "Numbers are of form $12q-2$: 10,22,34,46,58,70,82,94. Sum = 416."
+    },
+    {
+      "subject": "Number System",
+      "question": "How many 3-digit numbers end with 7 and are divisible by 11?",
+      "image": "",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "8",
+      "explanation": "Valid numbers: 187,297,407,517,627,737,847,957 → 8 total."
+    },
+    {
+      "subject": "Number System",
+      "question": "Dividing a positive integer by another gives what type of number?",
+      "image": "",
+      "options": [
+        "Always natural",
+        "Always integer",
+        "Rational",
+        "Irrational"
+      ],
+      "answer": "Rational",
+      "explanation": "Quotient of integers $= p/q$, rational."
+    },
+    {
+      "subject": "Number System",
+      "question": "The product of two alternate odd integers exceeds three times the smaller by 12. Find the larger.",
+      "image": "",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "answer": "7",
+      "explanation": "Let numbers $x$ and $x+4$. Solve $x(x+4)=3x+12$ → $x=3$. Larger = 7."
+    },
+    {
+      "subject": "Number System",
+      "question": "A number $a_1 a_2 a_3 a_4 a_5$ is divisible by 9 if:",
+      "image": "",
+      "options": [
+        "I only",
+        "II only",
+        "Both",
+        "Neither"
+      ],
+      "answer": "I only",
+      "explanation": "Divisibility by 9 uses sum of digits only. Alternating sum not relevant."
+    },
+    {
+      "subject": "Number System",
+      "question": "Four numbers form a GP: 3rd exceeds 1st by 9; 2nd exceeds 4th by 18. First term?",
+      "image": "",
+      "options": [
+        "2",
+        "3",
+        "-2",
+        "-3"
+      ],
+      "answer": "3",
+      "explanation": "Let GP: $a, ar, ar^2, ar^3$. Solve equations → $r=-2$, $a=3$."
+    },
+    {
+      "subject": "Number System",
+      "question": "Angles of triangle in AP; greatest is twice least. Ratio of angles?",
+      "image": "",
+      "options": [
+        "2:3:4",
+        "1:2:3",
+        "3:3:6",
+        "4:5:7"
+      ],
+      "answer": "2:3:4",
+      "explanation": "Let angles $a,a+d,a+2d$. Condition $a+2d=2a$. Solve → $a=40°,d=20°. Ratio=40:60:80=2:3:4$."
+    },
+    {
+      "subject": "Number System",
+      "question": "What least value must be given to digit Ä so that the number 84705Ä2 is divisible by 9?",
+      "image": "",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "1",
+      "explanation": "Sum of digits = $8+4+7+0+5+Ä+2 = 26+Ä$. To be divisible by 9 → $26+Ä=27$. Hence Ä = 1."
+    },
+    {
+      "subject": "Number System",
+      "question": "When a polynomial is divided by a linear polynomial, what is the remainder?",
+      "image": "",
+      "options": [
+        "Constant polynomial only",
+        "Zero polynomial only",
+        "Either constant or zero polynomial",
+        "Linear polynomial"
+      ],
+      "answer": "Either constant or zero polynomial",
+      "explanation": "Remainder theorem: Division by linear polynomial yields a constant or zero remainder."
+    }
+  ]
+}

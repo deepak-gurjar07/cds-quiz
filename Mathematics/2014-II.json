@@ -1,0 +1,108 @@
+{
+  "Number System": [
+    {
+      "subject": "Number System",
+      "question": "$7^{10} - 5^{10}$ divisible by:",
+      "image": "",
+      "options": [
+        "10",
+        "7",
+        "5",
+        "11"
+      ],
+      "answer": "11",
+      "explanation": "Use mod 11 cycle."
+    },
+    {
+      "subject": "Number System",
+      "question": "The multiplication of a three–digit number XY5 by digit Z yields X215. What is X+Y+Z?",
+      "image": "",
+      "options": [
+        "13",
+        "15",
+        "17",
+        "18"
+      ],
+      "answer": "17",
+      "explanation": "Solve XY5 × Z = X215. Testing possible digit values gives X=8, Y=4, Z=5. Sum = 8+4+5 = 17."
+    },
+    {
+      "subject": "Number System",
+      "question": "If $N^2 - 33$, $N^2 - 31$, and $N^2 - 29$ are prime numbers, how many integer values of N are possible?",
+      "image": "",
+      "options": [
+        "1",
+        "2",
+        "6",
+        "None"
+      ],
+      "answer": "1",
+      "explanation": "Consecutive odd differences → only one N satisfies primality constraints."
+    },
+    {
+      "subject": "Number System",
+      "question": "How many pairs of positive integers (m,n) satisfy $\frac{1}{m} + \frac{1}{n} = \frac{3}{14}$ with n odd < 60?",
+      "image": "",
+      "options": [
+        "7",
+        "5",
+        "4",
+        "3"
+      ],
+      "answer": "4",
+      "explanation": "Solve Diophantine equation → 4 valid odd n < 60."
+    },
+    {
+      "subject": "Number System",
+      "question": "Sum of all two-digit positive integers <50 that leave remainder 1 on division by 4",
+      "image": "",
+      "options": [
+        "310",
+        "314",
+        "218",
+        "323"
+      ],
+      "answer": "314",
+      "explanation": "Numbers: 13,17,...,49. AP sum yields 314."
+    },
+    {
+      "subject": "Number System",
+      "question": "How many pairs (X,Y) possible in 763X4Y2 if divisible by 9?",
+      "image": "",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": "10",
+      "explanation": "Sum = 7+6+3+X+4+Y+2 = 22 + X + Y. Must be multiple of 9. Counting valid (X,Y) gives 10."
+    },
+    {
+      "subject": "Number System",
+      "question": "If p,q,r primes <13 and p<q<r, how many cases make p+q+r prime?",
+      "image": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "None"
+      ],
+      "answer": "1",
+      "explanation": "Try triplets among primes <13: only one gives sum prime."
+    },
+    {
+      "subject": "Number System",
+      "question": "Number of divisors of 360",
+      "image": "",
+      "options": [
+        "12",
+        "18",
+        "24",
+        "None"
+      ],
+      "answer": "24",
+      "explanation": "$360 = 2^3·3^2·5^1$ → number of divisors = (3+1)(2+1)(1+1)=24."
+    }
+  ]
+}

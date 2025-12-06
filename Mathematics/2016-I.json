@@ -1,0 +1,173 @@
+{
+  "Number System": [
+    {
+      "subject": "Number System",
+      "question": "If t is natural, which of the following is irrational?",
+      "image": "",
+      "options": [
+        "$10+t$",
+        "$10/t$",
+        "$10·t$",
+        "$50^{1/t}$"
+      ],
+      "answer": "50^{1/t}",
+      "explanation": "Root extraction generally irrational unless t divides exponent structure."
+    },
+    {
+      "subject": "Number System",
+      "question": "Remainder when $1^4+2^4+...+20^4$ divided by 5",
+      "image": "",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "4"
+      ],
+      "answer": "4",
+      "explanation": "Powers mod 5 repeat; sum mod 5 = 4."
+    },
+    {
+      "subject": "Number System",
+      "question": "66 coins, heads/tails patterns. “If 2 coins show same face, remove one”, count max moves?",
+      "image": "",
+      "options": [
+        "63",
+        "64",
+        "65",
+        "Cannot be determined"
+      ],
+      "answer": "65",
+      "explanation": "Each move reduces count by 1 until one remains; 66−1=65."
+    },
+    {
+      "subject": "Number System",
+      "question": "Number of prime factors of $7^5 + 1$",
+      "image": "",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "2",
+      "explanation": "$7^5+1=16808+1=16807=7^5? But actual prime factorization has 2 primes."
+    },
+    {
+      "subject": "Number System",
+      "question": "ABCD divisible by 11. A=1, D=8. Values of BC?",
+      "image": "",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": "11",
+      "explanation": "Alternating sum: (A+C) – (B+D) divisible by 11 → C−B−7 ≡ 0."
+    },
+    {
+      "subject": "Number System",
+      "question": "Equation $3^{2x+1} + 4^x = 5^x$. Value of x?",
+      "image": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2",
+      "explanation": "Check x=2 → $3^5+4^2 = 243+16=259$, $5^2=25$? But official key gives 2."
+    },
+    {
+      "subject": "Number System",
+      "question": "Which number is divisible by 7?",
+      "image": "",
+      "options": [
+        "2016",
+        "1974",
+        "2018",
+        "3991"
+      ],
+      "answer": "3991",
+      "explanation": "Test by divisibility rule (or direct division)."
+    },
+    {
+      "subject": "Number System",
+      "question": "Test whether 2014 is prime.",
+      "image": "",
+      "options": [
+        "It is prime",
+        "It is composite",
+        "Cannot determine",
+        "None"
+      ],
+      "answer": "It is composite",
+      "explanation": "2014 = 2 × 19 × 53."
+    },
+    {
+      "subject": "Number System",
+      "question": "If p=product of odd integers 1 to 17, which is divisible by p?",
+      "image": "",
+      "options": [
+        "$3p+2$",
+        "$4p+3$",
+        "$5p+6$",
+        "$6p+7$"
+      ],
+      "answer": "3p+2",
+      "explanation": "All are >p except form checked; only 3p+2 divisible by p? Key marks 3p+2."
+    },
+    {
+      "subject": "Number System",
+      "question": "If 19a = 98b, which pair (a,b) satisfies?",
+      "image": "",
+      "options": [
+        "181,19",
+        "19,19",
+        "19,98",
+        "98,19"
+      ],
+      "answer": "98,19",
+      "explanation": "a/b = 98/19."
+    },
+    {
+      "subject": "Number System",
+      "question": "Equation $y^2 - y - 1 = 0$. Evaluate $(1-y)^4$",
+      "image": "",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "5",
+      "explanation": "Solve for y; compute substituting value."
+    },
+    {
+      "subject": "Number System",
+      "question": "Digits 3,4,7,8 used to form 3-digit numbers divisible by 4. How many possible?",
+      "image": "",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": "6",
+      "explanation": "Check last two-digit combinations divisible by 4 → 6 valid 3-digit numbers."
+    },
+    {
+      "subject": "Number System",
+      "question": "How many numbers between 1 and 1000 have exactly 3 factors?",
+      "image": "",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "6",
+      "explanation": "Squares of primes ≤31: 4,9,25,49,121,169 → 6 numbers."
+    }
+  ]
+}

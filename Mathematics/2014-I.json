@@ -1,0 +1,30 @@
+{
+  "Number System": [
+    {
+      "subject": "Number System",
+      "question": "Statements: I No integer 4k+3 can be sum of two squares. II Square of odd integer = 8k+1.",
+      "image": "",
+      "options": [
+        "I",
+        "II",
+        "Both",
+        "Neither"
+      ],
+      "answer": "Both",
+      "explanation": "Standard number theory results."
+    },
+    {
+      "subject": "Number System",
+      "question": "$n^2(n^2-1)$ always divisible by:",
+      "image": "",
+      "options": [
+        "12",
+        "24",
+        "48",
+        "60"
+      ],
+      "answer": "24",
+      "explanation": "$n^2(n-1)(n+1)$ includes 3 consecutive numbers × a square."
+    }
+  ]
+}

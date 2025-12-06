@@ -1,0 +1,69 @@
+{
+  "Number System": [
+    {
+      "subject": "Number System",
+      "question": "Two-digit number gives same remainder when divided by sum and product of digits. Quotients differ by 1. Number is:",
+      "image": "",
+      "options": [
+        "14",
+        "23",
+        "32",
+        "41"
+      ],
+      "answer": "23",
+      "explanation": "Test options: 23 satisfies numeric constraints."
+    },
+    {
+      "subject": "Number System",
+      "question": "Which of the following is divisible by 11?",
+      "image": "",
+      "options": [
+        "45678940",
+        "54857266",
+        "87524398",
+        "93455120"
+      ],
+      "answer": "54857266",
+      "explanation": "Alternating sum test gives 0 for this number."
+    },
+    {
+      "subject": "Number System",
+      "question": "If N, N+2, N+4 are primes, number of possible N?",
+      "image": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "None"
+      ],
+      "answer": "2",
+      "explanation": "Twin + triplet check: Possibilities are 3 and 5."
+    },
+    {
+      "subject": "Number System",
+      "question": "Smallest positive prime p such that $2^p - 1$ is NOT prime?",
+      "image": "",
+      "options": [
+        "5",
+        "11",
+        "17",
+        "29"
+      ],
+      "answer": "11",
+      "explanation": "$2^{11}-1=2047=23×89$ composite."
+    },
+    {
+      "subject": "Number System",
+      "question": "Which is correct? I: Finite rationals between two rationals. II: Infinite rationals between rationals. III: Finite irrationals between rationals.",
+      "image": "",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "I and II"
+      ],
+      "answer": "II",
+      "explanation": "Between any two rationals, infinite rationals exist. I and III are false."
+    }
+  ]
+}

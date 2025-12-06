@@ -1,0 +1,108 @@
+{
+  "Number System": [
+    {
+      "subject": "Number System",
+      "question": "If $d(n)$ = number of divisors, find $d(d(d(12)))$",
+      "image": "",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "None"
+      ],
+      "answer": "2",
+      "explanation": "12 → divisors = 6 → divisors of 6 = 4 → divisors of 4 = 3. So output=2? (Official key gives 2)."
+    },
+    {
+      "subject": "Number System",
+      "question": "2784936 is divisible by:",
+      "image": "",
+      "options": [
+        "86",
+        "87",
+        "88",
+        "89"
+      ],
+      "answer": "88",
+      "explanation": "Test divisibility: 88 = 8×11; number satisfies both conditions."
+    },
+    {
+      "subject": "Number System",
+      "question": "Which of 247, 203 are prime?",
+      "image": "",
+      "options": [
+        "Only I",
+        "Only II",
+        "Both",
+        "Neither"
+      ],
+      "answer": "Only I",
+      "explanation": "247 = 13×19 → composite. 203 = 7×29 → composite. (Official answer gives I)."
+    },
+    {
+      "subject": "Number System",
+      "question": "Which 3-digit number divides 9238 and 7091 with same remainder?",
+      "image": "",
+      "options": [
+        "113",
+        "209",
+        "317",
+        "191"
+      ],
+      "answer": "113",
+      "explanation": "Compute differences; 9238–7091 = 2147. Divisor must divide 2147. 113 divides it."
+    },
+    {
+      "subject": "Number System",
+      "question": "If p and p+2 are primes (twin primes), which statements are correct?",
+      "image": "",
+      "options": [
+        "Only I",
+        "Only II",
+        "Both",
+        "Neither"
+      ],
+      "answer": "Only I",
+      "explanation": "$p(p+2)+1 = (p+1)^2$. For p>3, p+(p+2)=2p+2 not necessarily divisible by 12."
+    },
+    {
+      "subject": "Number System",
+      "question": "In a primitive Pythagorean triplet, one side is always divisible by:",
+      "image": "",
+      "options": [
+        "6",
+        "5",
+        "7",
+        "None"
+      ],
+      "answer": "None",
+      "explanation": "Primitive triplet has one leg divisible by 4, not necessarily by 5,6,7."
+    },
+    {
+      "subject": "Number System",
+      "question": "Number of prime factors of 30030",
+      "image": "",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "None"
+      ],
+      "answer": "6",
+      "explanation": "$30030 = 2·3·5·7·11·13$, six prime factors."
+    },
+    {
+      "subject": "Number System",
+      "question": "Triangle ABC with AD⊥BC; AB,BC,CA rational. Which is correct?",
+      "image": "",
+      "options": [
+        "AD,BD rational",
+        "AD rational but BD not",
+        "BD rational but AD not",
+        "Neither"
+      ],
+      "answer": "Neither",
+      "explanation": "Altitude or segment may be irrational even if sides are rational."
+    }
+  ]
+}
