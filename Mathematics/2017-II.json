@@ -223,5 +223,20 @@
       "answer": "21",
       "explanation": "If the remainders are equal, the required number divides the differences: $210-168=42$, $252-210=42$, and $252-168=84$. The HCF of $42$ and $84$ is $42$. Among the options, the largest divisor that works consistently is $21$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Which of the following is irrational?",
+      "image": "",
+      "options": [
+        "$\\sqrt{16}$",
+        "$\\sqrt{25}$",
+        "$\\sqrt{7}$",
+        "$\\sqrt{49}$"
+      ],
+      "answer": "$\\sqrt{7}$",
+      "explanation": "Square roots of perfect squares are rational. Since $7$ is not a perfect square, $\\sqrt{7}$ is irrational."
+    }
   ]
 }

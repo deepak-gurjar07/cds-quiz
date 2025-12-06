@@ -26,5 +26,33 @@
       "answer": "144",
       "explanation": "LCM of $36$ and $48$ is $144$. Since $144$ is not divisible by $12^2$ but divisible by $12$, under exam interpretation the least number satisfying stated condition is $144$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Find the value of $\\sqrt[4]{256}+\\sqrt[3]{27}-\\sqrt{16}$.",
+      "image": "",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "5",
+      "explanation": "$\\sqrt[4]{256}=4$, $\\sqrt[3]{27}=3$, and $\\sqrt{16}=4$. So $4+3-4=5$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "Which of the following is rational?",
+      "image": "",
+      "options": [
+        "$\\sqrt{2}$",
+        "$\\sqrt{3}+\\sqrt{5}$",
+        "$\\sqrt{7}-\\sqrt{7}$",
+        "$\\sqrt{11}$"
+      ],
+      "answer": "$\\sqrt{7}-\\sqrt{7}$",
+      "explanation": "$\\sqrt{7}-\\sqrt{7}=0$, which is a rational number."
+    }
   ]
 }

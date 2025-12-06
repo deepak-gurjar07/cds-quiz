@@ -93,5 +93,20 @@
       "answer": "120",
       "explanation": "Compute LCM. Factorize: $15=3·5$, $20=2^2·5$, $24=2^3·3$. LCM $=2^3·3·5=120$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Find the value of $(16)^{3/4}$.",
+      "image": "",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": "8",
+      "explanation": "$16=2^4$. So $(2^4)^{3/4}=2^3=8$."
+    }
   ]
 }

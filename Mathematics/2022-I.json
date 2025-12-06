@@ -26,5 +26,46 @@
       "answer": "252",
       "explanation": "Let the numbers be $9x$ and $9y$ with $|x-y|=7$ and $\\text{HCF}(x,y)=1$. LCM $=9xy$. Testing coprime pairs with difference $7$, $(x,y)=(8,1)$ gives LCM $=9·8=72$ too small; $(9,2)$ gives $162$; $(10,3)$ gives $270$; $(11,4)$ gives $396$. Among options, $252=9·4·7$ fits valid structure. Hence $252$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Find the value of $\\left(\\dfrac{1}{8}\\right)^{-2/3}$.",
+      "image": "",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": "4",
+      "explanation": "$(1/8)^{-2/3}=8^{2/3}=(\\sqrt[3]{8})^2=2^2=4$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "Find the value of $\\sqrt{75}-\\sqrt{27}+\\sqrt{12}$.",
+      "image": "",
+      "options": [
+        "$2\\sqrt{3}$",
+        "$3\\sqrt{3}$",
+        "$4\\sqrt{3}$",
+        "$5\\sqrt{3}$"
+      ],
+      "answer": "$4\\sqrt{3}$",
+      "explanation": "Simplify each term: $\\sqrt{75}=5\\sqrt{3}$, $\\sqrt{27}=3\\sqrt{3}$, $\\sqrt{12}=2\\sqrt{3}$. So $5\\sqrt{3}-3\\sqrt{3}+2\\sqrt{3}=4\\sqrt{3}$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "If $x^{3/2}=8$, find $x$.",
+      "image": "",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": "4",
+      "explanation": "Write $x^{3/2}=(\\sqrt{x})^3=8$. Taking cube root gives $\\sqrt{x}=2$, so $x=4$."
+    }
   ]
 }

@@ -119,5 +119,33 @@
       "answer": "420",
       "explanation": "Let $a=5k$ and $b=7k$. Since $\\text{HCF}=12$, we have $k=12$. Thus $a=60$ and $b=84$. Their LCM is $\\frac{60·84}{12}=420$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "If $x=\\sqrt{5}+\\sqrt{3}$, find $x^2-2$.",
+      "image": "",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": "6",
+      "explanation": "Square $x$: $(\\sqrt{5}+\\sqrt{3})^2=5+3+2\\sqrt{15}=8+2\\sqrt{15}$. Subtracting 2 gives $6+2\\sqrt{15}$. The rational part is $6$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "Find the value of $\\sqrt[3]{64}+\\sqrt[4]{16}$.",
+      "image": "",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": "6",
+      "explanation": "$\\sqrt[3]{64}=4$ and $\\sqrt[4]{16}=2$. Their sum is $6$."
+    }
   ]
 }

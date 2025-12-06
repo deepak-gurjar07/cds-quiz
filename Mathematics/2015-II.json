@@ -93,5 +93,33 @@
       "answer": "120",
       "explanation": "Using $a·b=\\text{HCF}·\\text{LCM}=16·480=7680$. Given one number is $64$, the other is $7680/64=120$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Which is greater: $\\sqrt{5}$ or $\\sqrt[3]{7}$?",
+      "image": "",
+      "options": [
+        "$\\sqrt{5}$",
+        "$\\sqrt[3]{7}$",
+        "Equal",
+        "Cannot compare"
+      ],
+      "answer": "$\\sqrt[3]{7}$",
+      "explanation": "Raise both to power 6: $(\\sqrt{5})^6=5^3=125$, $(\\sqrt[3]{7})^6=7^2=49$. Since 125>49, original comparison gives $\\sqrt{3]{7}$ greater."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "If $x=\\sqrt{3}+\\sqrt{2}$, find the value of $\\dfrac{1}{x}$.",
+      "image": "",
+      "options": [
+        "$\\sqrt{3}-\\sqrt{2}$",
+        "$\\sqrt{2}-\\sqrt{3}$",
+        "$\\sqrt{5}$",
+        "$1$"
+      ],
+      "answer": "$\\sqrt{3}-\\sqrt{2}$",
+      "explanation": "Multiply numerator and denominator by the conjugate: $\\dfrac{1}{\\sqrt{3}+\\sqrt{2}}\\times\\dfrac{\\sqrt{3}-\\sqrt{2}}{\\sqrt{3}-\\sqrt{2}}=\\dfrac{\\sqrt{3}-\\sqrt{2}}{3-2}=\\sqrt{3}-\\sqrt{2}$."
+    }
   ]
 }

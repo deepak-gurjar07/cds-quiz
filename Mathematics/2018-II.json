@@ -26,5 +26,20 @@
       "answer": "1001",
       "explanation": "Since $2002=2·1001$, $1001$ divides both numbers exactly. Hence the greatest number dividing both is $1001$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "If $x^{2/5}=16$, find $x$.",
+      "image": "",
+      "options": [
+        "32",
+        "64",
+        "256",
+        "1024"
+      ],
+      "answer": "1024",
+      "explanation": "Rewrite as $(x^{1/5})^2=16$. So $x^{1/5}=4$ and hence $x=4^5=1024$."
+    }
   ]
 }

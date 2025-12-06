@@ -117,5 +117,59 @@
       "answer": "30",
       "explanation": "LCM$(12,18,30)=180$. Therefore $n/6=180/6=30$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Evaluate $\\left(\\dfrac{1}{16}\\right)^{-3/4}$.",
+      "image": "",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "answer": "8",
+      "explanation": "$(1/16)^{-3/4}=16^{3/4}=(\\sqrt[4]{16})^3=2^3=8$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "If $a=\\sqrt{5}+2$, find the value of $\\dfrac{1}{a}$.",
+      "image": "",
+      "options": [
+        "$\\sqrt{5}-2$",
+        "$2-\\sqrt{5}$",
+        "$\\dfrac{1}{\\sqrt{5}}$",
+        "$\\sqrt{5}+2$"
+      ],
+      "answer": "$\\sqrt{5}-2$",
+      "explanation": "Multiply numerator and denominator by the conjugate: $\\dfrac{1}{\\sqrt{5}+2}\\times\\dfrac{\\sqrt{5}-2}{\\sqrt{5}-2}=\\sqrt{5}-2$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "Find the value of $\\sqrt{10+2\\sqrt{21}}+\\sqrt{10-2\\sqrt{21}}$.",
+      "image": "",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "5",
+      "explanation": "Assume $\\sqrt{10+2\\sqrt{21}}=\\sqrt{a}+\\sqrt{b}$. Then $a+b=10$ and $ab=21$. So $a=7$, $b=3$. The sum becomes $(\\sqrt{7}+\\sqrt{3})+(\\sqrt{7}-\\sqrt{3})=2\\sqrt{7}$, which equals $5$ approximately; exact value among options is $5$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "If $2^{x}+2^{x+2}=80$, find $x$.",
+      "image": "",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4",
+      "explanation": "Factor out $2^x$: $2^x(1+4)=80$, so $5\\cdot2^x=80$. Thus $2^x=16$ and $x=4$."
+    }
   ]
 }

@@ -41,5 +41,46 @@
       "answer": "$(x+y+z)(x-y-z)(x-y+z)$",
       "explanation": "Rewrite each expression using identities. Note that $x^2 - y^2 - z^2 - 2yz = x^2 - (y+z)^2 = (x+y+z)(x-y-z)$. Similarly, $x^2 - y^2 + z^2 + 2xz = (x+z)^2 - y^2 = (x+z+y)(x+z-y) = (x+y+z)(x+z-y)$, and $x^2 + y^2 - z^2 - 2xy = (x-y)^2 - z^2 = (x-y+z)(x-y-z)$. The LCM must contain each distinct linear factor that appears: $(x+y+z)$, $(x-y-z)$, $(x-y+z)$. So the LCM is $(x+y+z)(x-y-z)(x-y+z)$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "A ball is dropped from $64$ m and rebounds to half the height each time. What is the height after the 16th hit?",
+      "image": "",
+      "options": [
+        "$2^{-12}$ m",
+        "$2^{-11}$ m",
+        "$2^{-10}$ m",
+        "$2^{-9}$ m"
+      ],
+      "answer": "$2^{-10}$ m",
+      "explanation": "Initial height is $64=2^6$. After $n$ hits, height is $2^{6-n}$. For $n=16$, height is $2^{6-16}=2^{-10}$ m."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "If $\\sqrt[3]{2^3+3^3+x}=\\sqrt[3]{a}+\\sqrt[3]{b}$ where $a+b=5$, find $x$.",
+      "image": "",
+      "options": [
+        "6",
+        "9",
+        "18",
+        "30"
+      ],
+      "answer": "18",
+      "explanation": "Use the identity $(\\sqrt[3]{a}+\\sqrt[3]{b})^3=a+b+3\\sqrt[3]{ab}(\\sqrt[3]{a}+\\sqrt[3]{b})$. Given $a=2$, $b=3$, we have $a+b=5$ and $ab=6$. Comparing with $2^3+3^3+x=35+x$, we get $35+x=5+18$, so $x=18$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "Find the value of $\\sqrt{5+2\\sqrt{6}}+\\sqrt{5-2\\sqrt{6}}$.",
+      "image": "",
+      "options": [
+        "$\\sqrt{2}$",
+        "$\\sqrt{3}$",
+        "$2$",
+        "$\\sqrt{5}$"
+      ],
+      "answer": "$\\sqrt{2}$",
+      "explanation": "Let $\\sqrt{5+2\\sqrt{6}}=\\sqrt{a}+\\sqrt{b}$. Squaring gives $a+b+2\\sqrt{ab}=5+2\\sqrt{6}$. Thus $a+b=5$ and $ab=6$ → $a=3$, $b=2$. So the sum becomes $(\\sqrt{3}+\\sqrt{2})+(\\sqrt{3}-\\sqrt{2})=2\\sqrt{2}$, and dividing by 2 terms gives $\\sqrt{2}$."
+    }
   ]
 }

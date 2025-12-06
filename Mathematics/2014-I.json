@@ -67,5 +67,20 @@
       "answer": "72 and 162",
       "explanation": "Let numbers be $4k$ and $9k$. Since HCF $=k=18$, numbers are $4·18=72$ and $9·18=162$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Find the value of $\\sqrt{12}+\\sqrt{27}-\\sqrt{3}$.",
+      "image": "",
+      "options": [
+        "$4\\sqrt{3}$",
+        "$5\\sqrt{3}$",
+        "$6\\sqrt{3}$",
+        "$7\\sqrt{3}$"
+      ],
+      "answer": "$4\\sqrt{3}$",
+      "explanation": "Simplify: $\\sqrt{12}=2\\sqrt{3}$, $\\sqrt{27}=3\\sqrt{3}$. So $2\\sqrt{3}+3\\sqrt{3}-\\sqrt{3}=4\\sqrt{3}$."
+    }
   ]
 }

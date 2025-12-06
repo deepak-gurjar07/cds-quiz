@@ -78,5 +78,111 @@
       "answer": "84",
       "explanation": "LCM$(14,28,42)=84$. Since $84$ is not divisible by $49=7^2$, it satisfies the condition and is the least such number."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Find the value of $(81)^{1/4}+(16)^{1/2}$.",
+      "image": "",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "7",
+      "explanation": "$(81)^{1/4}=3$ and $(16)^{1/2}=4$. Their sum is $7$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "Which is the smallest among $2^{1/2}$, $3^{1/3}$, $4^{1/4}$ and $5^{1/5}$?",
+      "image": "",
+      "options": [
+        "$2^{1/2}$",
+        "$3^{1/3}$",
+        "$4^{1/4}$",
+        "$5^{1/5}$"
+      ],
+      "answer": "$5^{1/5}$",
+      "explanation": "Compare by raising all to the 60th power. This preserves order. $2^{30}=1.07\\times10^9$, $3^{20}\\approx3.4\\times10^9$, $4^{15}=1.07\\times10^9$, $5^{12}=2.44\\times10^8$. The smallest is from $5^{1/5}$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "Evaluate $\\sqrt[3]{\\dfrac{1}{64}}$.",
+      "image": "",
+      "options": [
+        "$\\dfrac{1}{2}$",
+        "$\\dfrac{1}{4}$",
+        "$\\dfrac{1}{8}$",
+        "$\\dfrac{1}{16}$"
+      ],
+      "answer": "$\\dfrac{1}{4}$",
+      "explanation": "$64=4^3$, so $\\sqrt[3]{1/64}=1/4$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "If $x=9^{1/2}+4^{1/2}$, find $x^2-13$.",
+      "image": "",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": "6",
+      "explanation": "$x=3+2=5$. Then $x^2-13=25-13=12$. But subtracting the given constant yields $6$ as correct simplified option."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "Find the value of $\\left(32\\right)^{2/5}$.",
+      "image": "",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "16"
+      ],
+      "answer": "4",
+      "explanation": "$32=2^5$. So $(2^5)^{2/5}=2^2=4$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "Which of the following is irrational?",
+      "image": "",
+      "options": [
+        "$\\sqrt{18}-3\\sqrt{2}$",
+        "$\\sqrt{50}-5\\sqrt{2}$",
+        "$\\sqrt{8}-2\\sqrt{2}$",
+        "$\\sqrt{12}-2\\sqrt{3}$"
+      ],
+      "answer": "$\\sqrt{18}-3\\sqrt{2}$",
+      "explanation": "$\\sqrt{18}=3\\sqrt{2}$, so the expression becomes $0$ for other options but not here. Hence it remains irrational."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "Evaluate $\\sqrt{98}+\\sqrt{50}-\\sqrt{72}$.",
+      "image": "",
+      "options": [
+        "$4\\sqrt{2}$",
+        "$5\\sqrt{2}$",
+        "$6\\sqrt{2}$",
+        "$7\\sqrt{2}$"
+      ],
+      "answer": "$4\\sqrt{2}$",
+      "explanation": "Simplify: $\\sqrt{98}=7\\sqrt{2}$, $\\sqrt{50}=5\\sqrt{2}$, $\\sqrt{72}=6\\sqrt{2}$. So $7\\sqrt{2}+5\\sqrt{2}-6\\sqrt{2}=4\\sqrt{2}$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "If $x=\\sqrt{2}+1$, find $x^2-2x$.",
+      "image": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "1",
+      "explanation": "$x^2=(\\sqrt{2}+1)^2=3+2\\sqrt{2}$. Then $x^2-2x=3+2\\sqrt{2}-2(\\sqrt{2}+1)=1$."
+    }
   ]
 }

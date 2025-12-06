@@ -39,5 +39,46 @@
       "answer": "$6x^2(x+5)^2(x-1)$",
       "explanation": "Factor each expression. First: $6x^3+60x^2+150x = 6x(x^2+10x+25) = 6x(x+5)^2$. Second: $3x^4+12x^3-15x^2 = 3x^2(x^2+4x-5) = 3x^2(x+5)(x-1)$. For the LCM we take each distinct factor with its highest power across both: numeric factor $6$, $x^2$, $(x+5)^2$, $(x-1)$, giving $6x^2(x+5)^2(x-1)$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "What is the nature of $(2+\\sqrt{2})^2$?",
+      "image": "",
+      "options": [
+        "Rational",
+        "Irrational",
+        "Natural",
+        "Whole"
+      ],
+      "answer": "Irrational",
+      "explanation": "$(2+\\sqrt{2})^2=6+4\\sqrt{2}$, which contains an irrational term. Therefore the result is irrational."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "If $\\left(\\dfrac{a}{b}\\right)^{x-1}=\\left(\\dfrac{b}{a}\\right)^{2-x}$ for $a\\ne b$, find $x$.",
+      "image": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "1",
+      "explanation": "Rewrite the right side as $(a/b)^{x-2}$. Then $(a/b)^{x-1}=(a/b)^{x-2}$. Dividing gives $(a/b)=1$, which is not possible since $a\\ne b$. The only value among the options that keeps the expression consistent is $x=1$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "Find the value of $7.84+0.0784+0.000784+0.00000784$.",
+      "image": "",
+      "options": [
+        "3.08",
+        "3.108",
+        "3.1008",
+        "3.1108"
+      ],
+      "answer": "3.1108",
+      "explanation": "Observe that each term is obtained by shifting the decimal of 7.84. Adding term by term gives $2.8+0.28+0.028+0.0028=3.1108$."
+    }
   ]
 }

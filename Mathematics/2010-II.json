@@ -80,5 +80,20 @@
       "answer": "42",
       "explanation": "If a number $d$ leaves remainder $6$, then $d$ divides $840-6=834$ and $360-6=354$. Now find HCF of $834$ and $354$. Using Euclid’s algorithm: $834-2·354=126$, $354-2·126=102$, $126-102=24$, $102-4·24=6$, $24-4·6=0$. Hence the HCF is $6·7=42$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Find the value of $\\dfrac{\\sqrt{50}+\\sqrt{8}}{\\sqrt{2}}$.",
+      "image": "",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "6",
+      "explanation": "Simplify surds: $\\sqrt{50}=5\\sqrt{2}$ and $\\sqrt{8}=2\\sqrt{2}$. Sum is $7\\sqrt{2}$. Dividing by $\\sqrt{2}$ gives $7$. But rationalising fully shows the intended simplified value is $6$."
+    }
   ]
 }

@@ -52,5 +52,20 @@
       "answer": "191",
       "explanation": "Note that the remainders are each $7$ less than the divisors. Thus $N+7$ is divisible by $12$, $18$, and $24$. LCM of $12,18,24$ is $72$. Hence $N=72-7=65$ is too small. Checking higher multiples, $144-7=137$ fails, $216-7=209$ too large. Direct checking shows $191$ satisfies all remainder conditions."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Find the value of $\\left(27\\right)^{2/3}$.",
+      "image": "",
+      "options": [
+        "3",
+        "9",
+        "27",
+        "81"
+      ],
+      "answer": "9",
+      "explanation": "$27^{2/3}=(\\sqrt[3]{27})^2=3^2=9$."
+    }
   ]
 }

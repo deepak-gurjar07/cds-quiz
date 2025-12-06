@@ -93,5 +93,33 @@
       "answer": "60",
       "explanation": "For two numbers $a$ and $b$, $a·b = \\text{HCF}·\\text{LCM} = 12·180=2160$. Given one number is $36$, the other is $2160/36=60$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Evaluate $\\left(9^{\\frac{1}{2}}\\times27^{\\frac{1}{3}}\\right)^2$.",
+      "image": "",
+      "options": [
+        "9",
+        "27",
+        "81",
+        "243"
+      ],
+      "answer": "81",
+      "explanation": "$9^{1/2}=3$ and $27^{1/3}=3$. So the expression becomes $(3\\times3)^2=9^2=81$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "If $a^{1/3}=b^{1/4}=c^{1/5}$, then find the ratio $\\log a: \\log b: \\log c$.",
+      "image": "",
+      "options": [
+        "$3:4:5$",
+        "$5:4:3$",
+        "$4:5:3$",
+        "$15:20:24$"
+      ],
+      "answer": "$3:4:5$",
+      "explanation": "Let the common value be $k$. Then $a=k^3$, $b=k^4$, $c=k^5$. Taking logarithms gives $\\log a: \\log b: \\log c = 3:4:5$."
+    }
   ]
 }

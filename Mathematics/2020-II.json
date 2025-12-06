@@ -39,5 +39,20 @@
       "answer": "$(x-3)(x+3)(x^2+3x+9)$",
       "explanation": "Factorize: $x^3-27=(x-3)(x^2+3x+9)$ and $x^2-9=(x-3)(x+3)$. The LCM takes each distinct factor with highest power: $(x-3)(x+3)(x^2+3x+9)$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Find the value of $\\sqrt{48}-\\sqrt{12}$.",
+      "image": "",
+      "options": [
+        "$2\\sqrt{3}$",
+        "$3\\sqrt{3}$",
+        "$4\\sqrt{3}$",
+        "$6\\sqrt{3}$"
+      ],
+      "answer": "$2\\sqrt{3}$",
+      "explanation": "$\\sqrt{48}=4\\sqrt{3}$ and $\\sqrt{12}=2\\sqrt{3}$. Difference is $2\\sqrt{3}$."
+    }
   ]
 }

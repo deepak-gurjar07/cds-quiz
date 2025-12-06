@@ -197,5 +197,33 @@
       "answer": "62",
       "explanation": "The required number divides $1280-4=1276$ and $1500-6=1494$. The HCF of $1276$ and $1494$ is $62$, hence this is the greatest required number."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Find the value of $\\sqrt{50}-\\sqrt{18}+\\sqrt{8}$.",
+      "image": "",
+      "options": [
+        "$2\\sqrt{2}$",
+        "$4\\sqrt{2}$",
+        "$6\\sqrt{2}$",
+        "$8\\sqrt{2}$"
+      ],
+      "answer": "$4\\sqrt{2}$",
+      "explanation": "Simplify each term: $\\sqrt{50}=5\\sqrt{2}$, $\\sqrt{18}=3\\sqrt{2}$, $\\sqrt{8}=2\\sqrt{2}$. So $5\\sqrt{2}-3\\sqrt{2}+2\\sqrt{2}=4\\sqrt{2}$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "If $2^{x}+2^{x+1}=48$, find $x$.",
+      "image": "",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4",
+      "explanation": "Take $2^x$ common: $2^x(1+2)=48 \\Rightarrow 3\\cdot2^x=48$. So $2^x=16=2^4$, hence $x=4$."
+    }
   ]
 }

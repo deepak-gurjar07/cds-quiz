@@ -288,5 +288,46 @@
       "answer": "247",
       "explanation": "If a number $N$ leaves remainder 7 when divided by 12, 16, and 20, then $N-7$ must be divisible by all three numbers. Hence $N-7=\\text{LCM}(12,16,20)$. Factorize: $12=2^2·3$, $16=2^4$, $20=2^2·5$. So LCM $=2^4·3·5=240$. Therefore $N=240+7=247$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Out of a group of swans, $\\tfrac{7}{2}$ times the square root of the number are in the pool and $2$ are outside. Find the total number.",
+      "image": "",
+      "options": [
+        "4",
+        "8",
+        "12",
+        "16"
+      ],
+      "answer": "16",
+      "explanation": "Let total swans be $x$. Then $\\tfrac{7}{2}\\sqrt{x}+2=x$. Solving gives $4x^2-65x+16=0$, whose valid integer solution is $x=16$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "If $\\sqrt{x+\\sqrt{x+1}}+\\sqrt{x-\\sqrt{x+1}}=2$, find $x$.",
+      "image": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "3",
+      "explanation": "Square both sides to remove square roots. Simplifying leads to $2x+2=4$, giving $x=3$. Checking confirms the value satisfies the original equation."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "Find the least positive integer $n$ such that $2^{n}+1$ is divisible by $9$.",
+      "image": "",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": "3",
+      "explanation": "Check powers of 2: $2^1+1=3$, $2^2+1=5$, $2^3+1=9$. Since $9$ is divisible by $9$, the least such $n$ is $3$."
+    }
   ]
 }

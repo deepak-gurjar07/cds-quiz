@@ -39,5 +39,33 @@
       "answer": "$a+b$",
       "explanation": "Factorize: $a^2-b^2=(a-b)(a+b)$ and $a^2+2ab+b^2=(a+b)^2$. The common factor is $(a+b)$, so HCF is $a+b$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "If $5^{x}=125$, find $x$.",
+      "image": "",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "3",
+      "explanation": "$125=5^3$. Hence $x=3$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "Evaluate $\\sqrt[5]{32}$.",
+      "image": "",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": "2",
+      "explanation": "$32=2^5$, so the fifth root is $2$."
+    }
   ]
 }

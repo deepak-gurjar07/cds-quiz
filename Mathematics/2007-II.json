@@ -39,5 +39,85 @@
       "answer": "1 and 1",
       "explanation": "If $\text{HCF}(m,n)=1$, then any common divisor of $m$ and $m+n$ must also divide $(m+n)-m=n$, so it would be a common divisor of $m$ and $n$, hence $1$ only. Thus $\text{HCF}(m+n,m)=1$. Similarly any common divisor of $m-n$ and $n$ divides $(m-n)+n=m$, so again we get only 1. Therefore both HCFs are 1."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "What is the square root of $9+2\\sqrt{14}$?",
+      "image": "",
+      "options": [
+        "$1+2\\sqrt{2}$",
+        "$3+\\sqrt{6}$",
+        "$\\sqrt{7}+\\sqrt{2}$",
+        "$\\sqrt{5}+\\sqrt{2}$"
+      ],
+      "answer": "$\\sqrt{7}+\\sqrt{2}$",
+      "explanation": "Assume $\\sqrt{9+2\\sqrt{14}}=\\sqrt{a}+\\sqrt{b}$. Squaring gives $a+b+2\\sqrt{ab}=9+2\\sqrt{14}$. Comparing, $a+b=9$ and $ab=14$. This is satisfied by $a=7,b=2$, so the square root is $\\sqrt{7}+\\sqrt{2}$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "Which is the largest among $\\sqrt{2}$, $\\sqrt[3]{3}$, $\\sqrt[6]{6}$ and $\\sqrt[12]{12}$?",
+      "image": "",
+      "options": [
+        "$\\sqrt{2}$",
+        "$\\sqrt[3]{3}$",
+        "$\\sqrt[6]{6}$",
+        "$\\sqrt[12]{12}$"
+      ],
+      "answer": "$\\sqrt[3]{3}$",
+      "explanation": "Write all with index 12: $\\sqrt{2}=\\sqrt[12]{2^6}$, $\\sqrt[3]{3}=\\sqrt[12]{3^4}$, $\\sqrt[6]{6}=\\sqrt[12]{6^2}$. Since $3^4=81$ is the largest radicand, $\\sqrt[3]{3}$ is the greatest."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "The sum of the square of a number and the square of its reciprocal is three times the difference of their squares. What is the number?",
+      "image": "",
+      "options": [
+        "$1$",
+        "$\\sqrt[4]{2}$",
+        "$\\sqrt[3]{3}$",
+        "$\\sqrt[4]{4}$"
+      ],
+      "answer": "$\\sqrt[4]{2}$",
+      "explanation": "Let the number be $x$. Then $x^2+\\dfrac{1}{x^2}=3\\left(x^2-\\dfrac{1}{x^2}\\right)$. Simplifying gives $x^4=2$. Hence $x=\\sqrt[4]{2}$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "What is the real value of $(256)^{0.16}(16)^{0.18}$?",
+      "image": "",
+      "options": [
+        "$-4$",
+        "$4$",
+        "$\\pm4$",
+        "$\\pm2$"
+      ],
+      "answer": "$4$",
+      "explanation": "Write numbers as powers of 2: $256=2^8$, $16=2^4$. Then $2^{8\\times0.16}·2^{4\\times0.18}=2^{1.28+0.72}=2^2=4$. Only the positive value is taken for real powers of positive numbers."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "If $x^{1/m}=y^{1/n}=z^{1/p}$ and $xyz=1$, find $m+n+p$.",
+      "image": "",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "$-1$"
+      ],
+      "answer": "0",
+      "explanation": "Let the common value be $k$. Then $x=k^m$, $y=k^n$, $z=k^p$, so $xyz=k^{m+n+p}$. Given $xyz=1$, so the exponent must be zero. Hence $m+n+p=0$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "Assertion (A): $\\sqrt{\\dfrac{5041}{6889}}$ is rational. Reason (R): The square root of a rational number is always rational.",
+      "image": "",
+      "options": [
+        "Both A and R true",
+        "Both true but R not explanation",
+        "A true, R false",
+        "A false, R true"
+      ],
+      "answer": "A true, R false",
+      "explanation": "$5041=71^2$ and $6889=83^2$, so the square root is $71/83$, which is rational. However, not every rational number has a rational square root (for example, $\\sqrt{2}$). So A is true and R is false."
+    }
   ]
 }

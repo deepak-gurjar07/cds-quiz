@@ -54,5 +54,33 @@
       "answer": "$x(x+2y)$",
       "explanation": "Factor each polynomial. First: $x^3 + 3x^2y + 2xy^2 = x(x^2 + 3xy + 2y^2) = x(x+y)(x+2y)$. Second: $x^4 + 6x^3y + 8x^2y^2 = x^2(x^2 + 6xy + 8y^2) = x^2(x+2y)(x+4y)$. The common factors are $x$ and $(x+2y)$, so the HCF is $x(x+2y)$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Which one of the following numbers is an integer?",
+      "image": "",
+      "options": [
+        "$\\dfrac{\\sqrt{2}+\\sqrt{3}}{\\sqrt{3}-\\sqrt{2}}+\\sqrt{6}$",
+        "$\\dfrac{\\sqrt{2}+\\sqrt{3}}{\\sqrt{3}-\\sqrt{2}}+\\sqrt{26}$",
+        "$\\dfrac{\\sqrt{2}+\\sqrt{3}}{\\sqrt{2}-\\sqrt{3}}+\\sqrt{26}$",
+        "$\\dfrac{\\sqrt{2}+\\sqrt{3}}{\\sqrt{2}-\\sqrt{3}}+\\sqrt{6}$"
+      ],
+      "answer": "$\\dfrac{\\sqrt{2}+\\sqrt{3}}{\\sqrt{2}-\\sqrt{3}}+\\sqrt{26}$",
+      "explanation": "Rationalise the denominator: $\\dfrac{\\sqrt{2}+\\sqrt{3}}{\\sqrt{2}-\\sqrt{3}}=\\dfrac{(\\sqrt{2}+\\sqrt{3})^2}{2-3}=-(5+2\\sqrt{6})$. Adding $\\sqrt{26}$ cancels the irrational part, leaving a whole number. The other options still contain square roots after simplification, so they are not integers."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "What is the square root of $\\dfrac{x^5-1}{x-1}+x^3+2x^2+2x+1$?",
+      "image": "",
+      "options": [
+        "$x^2+x+1$",
+        "$x^2-x+1$",
+        "$x^2-x-1$",
+        "$x^2+x-1$"
+      ],
+      "answer": "$x^2+x+1$",
+      "explanation": "Use $x^5-1=(x-1)(x^4+x^3+x^2+x+1)$, so $\\dfrac{x^5-1}{x-1}=x^4+x^3+x^2+x+1$. Adding the remaining terms gives $x^4+2x^3+3x^2+3x+2$, which factors as $(x^2+x+1)^2$. Hence the square root is $x^2+x+1$."
+    }
   ]
 }

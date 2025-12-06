@@ -39,5 +39,33 @@
       "answer": "None of these",
       "explanation": "If HCF is $1$, the numbers are coprime, so their LCM is simply the product of the two numbers. The given options cannot all be expressed as a product of two coprime integers under the given choices. Hence the correct option is ‘None of these’."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Find the value of $\\sqrt{7+4\\sqrt{3}}+\\sqrt{7-4\\sqrt{3}}$.",
+      "image": "",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "4",
+      "explanation": "Assume $\\sqrt{7+4\\sqrt{3}}=\\sqrt{a}+\\sqrt{b}$. Then $a+b=7$ and $ab=12$. So $a=4$, $b=3$. The sum becomes $(2+\\sqrt{3})+(2-\\sqrt{3})=4$."
+    },
+    {
+      "subject": "Powers and Roots",
+      "question": "Evaluate $16^{5/4}$.",
+      "image": "",
+      "options": [
+        "8",
+        "16",
+        "32",
+        "64"
+      ],
+      "answer": "32",
+      "explanation": "$16=2^4$. So $(2^4)^{5/4}=2^5=32$."
+    }
   ]
 }

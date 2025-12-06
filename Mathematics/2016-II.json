@@ -171,5 +171,20 @@
       "answer": "18",
       "explanation": "Let $a=6x$ and $b=6y$ with $\\text{HCF}(x,y)=1$. Then $6(x+y)=126$, so $x+y=21$. To minimize $a$, minimize $x$ while keeping $x,y$ coprime. The smallest such pair is $(x,y)=(3,18)$, giving $a=18$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Evaluate $\\left(\\dfrac{1}{9}\\right)^{-3/2}$.",
+      "image": "",
+      "options": [
+        "9",
+        "27",
+        "81",
+        "243"
+      ],
+      "answer": "27",
+      "explanation": "$(1/9)^{-3/2}=9^{3/2}=(\\sqrt{9})^3=3^3=27$."
+    }
   ]
 }

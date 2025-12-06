@@ -39,5 +39,20 @@
       "answer": "180",
       "explanation": "LCM of $18$ and $45$ is $90$. But $90$ is divisible by $9$, so it is excluded. The next multiple is $180$, which is divisible by $18$ and $45$ but not divisible by $9$. Hence $180$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Which is greater: $2^{5/3}$ or $3^{4/3}$?",
+      "image": "",
+      "options": [
+        "$2^{5/3}$",
+        "$3^{4/3}$",
+        "Equal",
+        "Cannot compare"
+      ],
+      "answer": "$3^{4/3}$",
+      "explanation": "Raise both to power 3: $(2^{5/3})^3=2^5=32$ and $(3^{4/3})^3=3^4=81$. Since 81>32, $3^{4/3}$ is greater."
+    }
   ]
 }

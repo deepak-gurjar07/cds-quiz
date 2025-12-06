@@ -93,5 +93,20 @@
       "answer": "1008",
       "explanation": "Divide $1000$ by $72$: $72·13=936$, remainder $64$. Add $72-64=8$ to get $1008$, which is divisible by $72$."
     }
+  ],
+  "Powers and Roots": [
+    {
+      "subject": "Powers and Roots",
+      "question": "Evaluate $\\sqrt[4]{81}$.",
+      "image": "",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "3",
+      "explanation": "$81=3^4$. So the fourth root is $3$."
+    }
   ]
 }
