@@ -24,7 +24,7 @@
         "89"
       ],
       "answer": "88",
-      "explanation": "$88=8\times11$. The last three digits are divisible by $8$, and the alternating digit test confirms divisibility by $11$. Hence the number is divisible by $88$."
+      "explanation": "$88=8\\times11$. The last three digits are divisible by $8$, and the alternating digit test confirms divisibility by $11$. Hence the number is divisible by $88$."
     },
     {
       "subject": "Number System",
@@ -76,7 +76,7 @@
         "None"
       ],
       "answer": "6",
-      "explanation": "Prime factorization: $30030=2\times3\times5\times7\times11\times13$. Hence there are $6$ distinct prime factors."
+      "explanation": "Prime factorization: $30030=2\\times3\\times5\\times7\\times11\\times13$. Hence there are $6$ distinct prime factors."
     },
     {
       "subject": "Number System",

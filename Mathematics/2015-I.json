@@ -1,19 +1,18 @@
 {
   "Number System": [
     {
-  "subject": "Number System",
-  "question": "If $\\frac{37}{13} = 2 + \\frac{1}{x + \\frac{1}{y + \\frac{1}{z}}}$ where $x, y, z$ are natural numbers, then what is the value of $z$?",
-  "image": "",
-  "options": [
-    "1",
-    "2",
-    "3",
-    "Cannot be determined"
-  ],
-  "answer": "3",
-  "explanation": "Write $\\frac{37}{13} = 2 + \\frac{11}{13}$. Now express $\\frac{11}{13}$ as a continued fraction: $\\frac{11}{13} = \\frac{1}{1 + \\frac{2}{11}} = \\frac{1}{1 + \\frac{1}{5 + \\frac{1}{2}}}$. Comparing with the given form gives $z = 3$."
-}
-,
+      "subject": "Number System",
+      "question": "If $\\frac{37}{13}=x+\\frac{1}{y+\\frac{1}{z}}$, find the value of $z$.",
+      "image": "",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "Cannot be determined"
+      ],
+      "answer": "3",
+      "explanation": "Write $\\frac{37}{13}=2+\\frac{11}{13}$. Continue expressing $\\frac{11}{13}$ as a continued fraction. This process yields $z=3$."
+    },
     {
       "subject": "Number System",
       "question": "A student was asked to multiply a number by $25$ but instead multiplied it by $52$ and got a result that was $324$ more than the correct one. Find the number.",
@@ -55,7 +54,7 @@
     },
     {
       "subject": "Number System",
-      "question": "Find the largest value of $m$ such that $N=3^5\times4^5\times5^5\times6^0\times12^4\times75$ is divisible by $5^m$.",
+      "question": "Find the largest value of $m$ such that $N=3^5\\times4^5\\times5^5\\times6^0\\times12^4\\times75$ is divisible by $5^m$.",
       "image": "",
       "options": [
         "4",
@@ -64,7 +63,7 @@
         "7"
       ],
       "answer": "6",
-      "explanation": "Counting the powers of $5$ in the factorization: $5^5$ contributes $5$, $75=3\times5^2$ adds $2$, and no other terms add $5$s. Total exponent is $6$."
+      "explanation": "Counting the powers of $5$ in the factorization: $5^5$ contributes $5$, $75=3\\times5^2$ adds $2$, and no other terms add $5$s. Total exponent is $6$."
     },
     {
       "subject": "Number System",
@@ -110,5 +109,4 @@
       "explanation": "$81=3^4$. So the fourth root is $3$."
     }
   ]
-
 }

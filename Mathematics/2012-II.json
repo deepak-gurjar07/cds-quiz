@@ -15,7 +15,7 @@
     },
     {
       "subject": "Number System",
-      "question": "If the sum of an integer and its reciprocal is $\tfrac{10}{3}$, find the integer.",
+      "question": "If the sum of an integer and its reciprocal is $\\tfrac{10}{3}$, find the integer.",
       "image": "",
       "options": [
         "3",
@@ -24,7 +24,7 @@
         "13"
       ],
       "answer": "3",
-      "explanation": "Let the integer be $x$. Then $x+\tfrac1x=\tfrac{10}{3}$. Multiply by $3x$: $3x^2+3=10x$. Solving gives $x=3$."
+      "explanation": "Let the integer be $x$. Then $x+\\tfrac1x=\\tfrac{10}{3}$. Multiply by $3x$: $3x^2+3=10x$. Solving gives $x=3$."
     },
     {
       "subject": "Number System",
@@ -50,7 +50,7 @@
         "99"
       ],
       "answer": "91",
-      "explanation": "Prime factorizations: $88=2^3\times11$ (8 divisors), $96=2^5\times3$ (12), $99=3^2\times11$ (6), $91=7\times13$ (4 divisors). Least is $91$."
+      "explanation": "Prime factorizations: $88=2^3\\times11$ (8 divisors), $96=2^5\\times3$ (12), $99=3^2\\times11$ (6), $91=7\\times13$ (4 divisors). Least is $91$."
     },
     {
       "subject": "Number System",

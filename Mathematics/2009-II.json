@@ -24,7 +24,7 @@
         "250"
       ],
       "answer": "195",
-      "explanation": "Given remainder $R=15$. Since divisor $D=2R$, $D=30$. Also $D=5Q$, so $Q=6$. Dividend $=DQ+R=30\times6+15=195$."
+      "explanation": "Given remainder $R=15$. Since divisor $D=2R$, $D=30$. Also $D=5Q$, so $Q=6$. Dividend $=DQ+R=30\\times6+15=195$."
     },
     {
       "subject": "Number System",
@@ -115,7 +115,7 @@
         "15"
       ],
       "answer": "17",
-      "explanation": "Since $987$ is divisible by $21$, the remainder remains $59\bmod21=17$."
+      "explanation": "Since $987$ is divisible by $21$, the remainder remains $59\\bmod21=17$."
     },
     {
       "subject": "Number System",

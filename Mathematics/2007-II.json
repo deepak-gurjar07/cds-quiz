@@ -28,7 +28,7 @@
     },
     {
       "subject": "HCF and LCM",
-      "question": "If HCF of $m$ and $n$ is $1$, then what are $\text{HCF}(m+n,m)$ and $\text{HCF}(m-n,n)$ respectively (with $m>n$)?",
+      "question": "If HCF of $m$ and $n$ is $1$, then what are $\\text{HCF}(m+n,m)$ and $\\text{HCF}(m-n,n)$ respectively (with $m>n$)?",
       "image": "",
       "options": [
         "1 and 2",
@@ -37,7 +37,7 @@
         "Cannot be determined"
       ],
       "answer": "1 and 1",
-      "explanation": "If $\text{HCF}(m,n)=1$, then any common divisor of $m$ and $m+n$ must also divide $(m+n)-m=n$, so it would be a common divisor of $m$ and $n$, hence $1$ only. Thus $\text{HCF}(m+n,m)=1$. Similarly any common divisor of $m-n$ and $n$ divides $(m-n)+n=m$, so again we get only 1. Therefore both HCFs are 1."
+      "explanation": "If $\\text{HCF}(m,n)=1$, then any common divisor of $m$ and $m+n$ must also divide $(m+n)-m=n$, so it would be a common divisor of $m$ and $n$, hence $1$ only. Thus $\\text{HCF}(m+n,m)=1$. Similarly any common divisor of $m-n$ and $n$ divides $(m-n)+n=m$, so again we get only 1. Therefore both HCFs are 1."
     }
   ],
   "Powers and Roots": [

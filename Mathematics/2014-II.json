@@ -11,7 +11,7 @@
         "18"
       ],
       "answer": "17",
-      "explanation": "Trial multiplication shows that $845 \times 5 = 4225$, matching the pattern $X215$ with $X=8$, $Y=4$, $Z=5$. Thus $X+Y+Z = 8+4+5 = 17$."
+      "explanation": "Trial multiplication shows that $845 \\times 5 = 4225$, matching the pattern $X215$ with $X=8$, $Y=4$, $Z=5$. Thus $X+Y+Z = 8+4+5 = 17$."
     },
     {
       "subject": "Number System",
@@ -28,7 +28,7 @@
     },
     {
       "subject": "Number System",
-      "question": "How many pairs of positive integers $(m,n)$ satisfy $\frac{1}{m}+\frac{1}{n}=\frac{3}{14}$ with $n<60$ and $n$ odd?",
+      "question": "How many pairs of positive integers $(m,n)$ satisfy $\\frac{1}{m}+\\frac{1}{n}=\\frac{3}{14}$ with $n<60$ and $n$ odd?",
       "image": "",
       "options": [
         "7",
@@ -76,7 +76,7 @@
         "None"
       ],
       "answer": "24",
-      "explanation": "Prime factorization: $360=2^3\times3^2\times5^1$. Number of divisors $=(3+1)(2+1)(1+1)=24$."
+      "explanation": "Prime factorization: $360=2^3\\times3^2\\times5^1$. Number of divisors $=(3+1)(2+1)(1+1)=24$."
     }
   ],
   "HCF and LCM": [

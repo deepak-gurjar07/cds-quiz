@@ -50,7 +50,7 @@
         "221"
       ],
       "answer": "173",
-      "explanation": "$161=7\times23$, $171=9\times19$, $221=13\times17$. Only $173$ has no non-trivial factors, so it is prime."
+      "explanation": "$161=7\\times23$, $171=9\\times19$, $221=13\\times17$. Only $173$ has no non-trivial factors, so it is prime."
     },
     {
       "subject": "Number System",

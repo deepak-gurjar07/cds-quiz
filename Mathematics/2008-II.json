@@ -42,5 +42,4 @@
       "explanation": "Use $\\dfrac{1}{k(k+1)}=\\dfrac{1}{k}-\\dfrac{1}{k+1}$. The series telescopes and simplifies to $1-\\dfrac{1}{16}=\\dfrac{15}{16}$, which rounds to $1$ among the given integer options."
     }
   ]
-
 }

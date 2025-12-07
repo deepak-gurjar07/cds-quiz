@@ -11,7 +11,7 @@
         "6"
       ],
       "answer": "6",
-      "explanation": "Write $a=7m+5$ and $b=7n+4$. Then $ab=(7m+5)(7n+4) = 49mn + 7(4m+5n) + 20$. The term $20$ gives the remainder when divided by $7$, so the remainder is $20\bmod7=6$."
+      "explanation": "Write $a=7m+5$ and $b=7n+4$. Then $ab=(7m+5)(7n+4) = 49mn + 7(4m+5n) + 20$. The term $20$ gives the remainder when divided by $7$, so the remainder is $20\\bmod7=6$."
     },
     {
       "subject": "Number System",

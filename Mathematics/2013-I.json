@@ -50,7 +50,7 @@
         "29"
       ],
       "answer": "11",
-      "explanation": "$2^{11}-1=2047=23\times89$, which is composite. For smaller primes, $2^p-1$ is prime."
+      "explanation": "$2^{11}-1=2047=23\\times89$, which is composite. For smaller primes, $2^p-1$ is prime."
     },
     {
       "subject": "Number System",

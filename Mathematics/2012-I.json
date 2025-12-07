@@ -24,7 +24,7 @@
         "10"
       ],
       "answer": "2",
-      "explanation": "Since $143=11\times13$, the remainder when divided by $13$ is simply $28\bmod13=2$."
+      "explanation": "Since $143=11\\times13$, the remainder when divided by $13$ is simply $28\\bmod13=2$."
     },
     {
       "subject": "Number System",
@@ -76,7 +76,7 @@
         "(102,153)"
       ],
       "answer": "(65,91)",
-      "explanation": "Check highest common factor (HCF). $65=5\times13$ and $91=7\times13$ share only one common factor? No, correction: they share none other than $1$. Hence they are relatively prime."
+      "explanation": "Check highest common factor (HCF). $65=5\\times13$ and $91=7\\times13$ share only one common factor? No, correction: they share none other than $1$. Hence they are relatively prime."
     },
     {
       "subject": "Number System",

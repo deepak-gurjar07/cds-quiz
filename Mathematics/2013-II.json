@@ -24,11 +24,11 @@
         "irrational number"
       ],
       "answer": "rational number",
-      "explanation": "$x^y=\tfrac1{x^{|y|}}$. Since $x$ is even and positive, its powers are integers, making the result rational."
+      "explanation": "$x^y=\\tfrac1{x^{|y|}}$. Since $x$ is even and positive, its powers are integers, making the result rational."
     },
     {
       "subject": "Number System",
-      "question": "Which of the following pairs of rational numbers lies between $\tfrac14$ and $\tfrac34$?",
+      "question": "Which of the following pairs of rational numbers lies between $\\tfrac14$ and $\\tfrac34$?",
       "image": "",
       "options": [
         "262/1000,752/1000",
