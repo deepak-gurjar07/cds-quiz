@@ -82,5 +82,100 @@
       "answer": "75",
       "explanation": "$x=0.3z$ and $y=0.4z$. So $x/y=0.3/0.4=3/4$. Hence $x=75\\%$ of $y$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "If $a:b=c:d=1:6$, find $\\dfrac{a^2+c^2}{b^2+d^2}$.",
+      "image": "",
+      "options": [
+        "$\\tfrac{1}{600}$",
+        "$\\tfrac{1}{60}$",
+        "$\\tfrac{1}{36}$",
+        "$\\tfrac{1}{6}$"
+      ],
+      "answer": "$\\tfrac{1}{36}$",
+      "explanation": "Take $a=c=1$, $b=d=6$. Then $(1^2+1^2)/(6^2+6^2)=2/72=1/36$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "If $(4a+7b)(4c−7d)=(4a−7b)(4c+7d)$, then which relation is correct?",
+      "image": "",
+      "options": [
+        "$\\dfrac{a}{b}=\\dfrac{c}{d}$",
+        "$\\dfrac{a}{d}=\\dfrac{c}{b}$",
+        "$\\dfrac{a}{b}=\\dfrac{d}{c}$",
+        "$\\dfrac{4a}{7b}=\\dfrac{c}{d}$"
+      ],
+      "answer": "$\\dfrac{a}{b}=\\dfrac{c}{d}$",
+      "explanation": "Dividing both sides gives $\\frac{4a+7b}{4a-7b}=\\frac{4c+7d}{4c-7d}$. Using componendo and dividendo gives $\\frac{a}{b}=\\frac{c}{d}$."
+    }
+  ],
+  "Average": [
+    {
+      "subject": "Average",
+      "question": "Priya’s age was a cube of an integer four years ago and a square of an integer after four years. After how many years will her age be such that the previous year was a square and next year a cube?",
+      "image": "",
+      "options": [
+        "7",
+        "12",
+        "14",
+        "21"
+      ],
+      "answer": "14",
+      "explanation": "Taking present age as 12 satisfies given conditions. After 14 years, age becomes 26 where 25 is a square and 27 is a cube."
+    },
+    {
+      "subject": "Average",
+      "question": "In a class of 100 students, the average weight is 30 kg. If girls' average weight is 24 kg and boys' average weight is 32 kg, find the number of girls.",
+      "image": "",
+      "options": [
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "answer": "25",
+      "explanation": "Using alligation: ratio of girls to boys = $(32-30):(30-24) = 2:6 = 1:3$. Hence girls = $100 \\times 1/4 = 25$."
+    },
+    {
+      "subject": "Average",
+      "question": "A runner completes three parts of a race with given speeds and times. Find the average speed.",
+      "image": "",
+      "options": [
+        "8.17 km/h",
+        "8.00 km/h",
+        "7.80 km/h",
+        "7.77 km/h"
+      ],
+      "answer": "8.00 km/h",
+      "explanation": "Total distance = $9\\times50/60 + 8\\times80/60 + 7.5\\times100/60 = 184$ km. Total time = $23$ hours. Average speed = $184/23 = 8$ km/h."
+    },
+    {
+      "subject": "Average",
+      "question": "The average of 50 consecutive natural numbers is $x$. What will be the new average if next four natural numbers are included?",
+      "image": "",
+      "options": [
+        "$x+1$",
+        "$x+2$",
+        "$x+4$",
+        "$x+\\frac{x}{54}$"
+      ],
+      "answer": "$x+2$",
+      "explanation": "Original average = $x = 51/2$. New count = 54. New average = $55/2 = x+2$."
+    },
+    {
+      "subject": "Average",
+      "question": "Consider all two-digit numbers whose digits remain the same on interchange. What is their average?",
+      "image": "",
+      "options": [
+        "33",
+        "44",
+        "55",
+        "66"
+      ],
+      "answer": "55",
+      "explanation": "The numbers are $11,22,33,44,55,66,77,88,99$. Their average is the middle value = 55."
+    }
   ]
 }

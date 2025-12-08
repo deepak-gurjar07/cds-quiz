@@ -41,5 +41,59 @@
       "answer": "1",
       "explanation": "Use $\\dfrac{1}{k(k+1)}=\\dfrac{1}{k}-\\dfrac{1}{k+1}$. The series telescopes and simplifies to $1-\\dfrac{1}{16}=\\dfrac{15}{16}$, which rounds to $1$ among the given integer options."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "What number must be added to each term of the ratio $49:68$ to make it $3:4$?",
+      "image": "",
+      "options": [
+        "3",
+        "5",
+        "8",
+        "9"
+      ],
+      "answer": "8",
+      "explanation": "Let number be $x$. Then $\\frac{49+x}{68+x}=\\frac{3}{4}$. Solving gives $x=8$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "What number must be added to each of $4,10,12,24$ so that the resulting numbers are in proportion?",
+      "image": "",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "4"
+      ],
+      "answer": "4",
+      "explanation": "Let number be $x$. $(4+x):(10+x)::(12+x):(24+x)$. Solving gives $x=4$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Ten years ago Ram was five times as old as Shyam. Twenty years from now Ram will be twice Shyam’s age. Find Shyam’s present age.",
+      "image": "",
+      "options": [
+        "20 years",
+        "30 years",
+        "40 years",
+        "50 years"
+      ],
+      "answer": "20 years",
+      "explanation": "Let Shyam’s age after 20 years be $x$, Ram’s $=2x$. Ten years ago: $2x-30=5(x-30)$. Solving gives $x=40$, so Shyam’s present age $=40-20=20$ years."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "The sum of the present ages of a father and son is $75$ years. Five years ago, the product of their ages was $750$. Find the present age of the father.",
+      "image": "",
+      "options": [
+        "60 years",
+        "55 years",
+        "52 years",
+        "50 years"
+      ],
+      "answer": "55 years",
+      "explanation": "Let father’s age be $x$, son’s $=75-x$. Five years ago: $(x-5)(70-x)=750$. Solving gives $x=55$."
+    }
   ]
 }

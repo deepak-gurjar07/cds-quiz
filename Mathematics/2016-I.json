@@ -253,5 +253,20 @@
       "answer": "$16.5\\%$",
       "explanation": "Personal care = $20000-(8000+5900+2800)=3300$. Percentage $=\\frac{3300}{20000}\\times100=16.5\\%$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Annual incomes of two persons are in the ratio 9:7 and expenses in ratio 4:3. If each saves ₹2000, find the difference in their incomes.",
+      "image": "",
+      "options": [
+        "4000",
+        "4500",
+        "5000",
+        "5500"
+      ],
+      "answer": "4000",
+      "explanation": "Solving equations gives incomes 18000 and 14000. Difference = ₹4000."
+    }
   ]
 }

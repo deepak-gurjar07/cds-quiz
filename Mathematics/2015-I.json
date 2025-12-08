@@ -123,5 +123,33 @@
       "answer": "$22\\tfrac{2}{9}\\%$",
       "explanation": "Assume initial income = 100, savings = 10, expenditure = 90. New income = 120. Savings unchanged at 10, so new expenditure = 110. Increase in expenditure = 20. Percentage increase $=\\frac{20}{90}\\times100=22\\tfrac{2}{9}\\%$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "A milkman claims to sell milk at cost price but gains 20% by mixing water. What percent of milk is in the mixture?",
+      "image": "",
+      "options": [
+        "80%",
+        "250/3%",
+        "75%",
+        "200/3%"
+      ],
+      "answer": "250/3%",
+      "explanation": "If profit = 20%, water fraction = 1/6. Milk fraction = 5/6 = (5/6)×100 = 250/3%."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "A 16 litre mixture has milk and water in the ratio 5:3. If 4 litres of milk is added, find the new ratio.",
+      "image": "",
+      "options": [
+        "2:1",
+        "7:3",
+        "4:3",
+        "8:3"
+      ],
+      "answer": "7:3",
+      "explanation": "Milk = 10 L, water = 6 L. After adding milk: milk = 14 L. New ratio = 14:6 = 7:3."
+    }
   ]
 }

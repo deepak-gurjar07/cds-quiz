@@ -121,5 +121,33 @@
       "answer": "$3:4:5$",
       "explanation": "Let the common value be $k$. Then $a=k^3$, $b=k^4$, $c=k^5$. Taking logarithms gives $\\log a: \\log b: \\log c = 3:4:5$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "If $y$ varies as the sum of three quantities proportional to $x$, $(-x+x^2)$ and $(x^3-x^2)$, what is $y$ equal to?",
+      "image": "",
+      "options": [
+        "$kx^3$",
+        "$kx+lx^2+mx^3$",
+        "$kx^2$",
+        "$kx$"
+      ],
+      "answer": "$kx+lx^2+mx^3$",
+      "explanation": "Since $y$ depends on terms in $x$, $x^2$ and $x^3$, its general form is $y=kx+lx^2+mx^3$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "The wages of labourers in a factory increased in the ratio $22:25$ and their number decreased in the ratio $3:2$. If the present wages bill is ₹$5000$, what was the original wages bill?",
+      "image": "",
+      "options": [
+        "4000",
+        "6000",
+        "8000",
+        "None of these"
+      ],
+      "answer": "None of these",
+      "explanation": "Let original wage and workers be proportional to $22$ and $3$, final to $25$ and $2$. Present bill $=25\\times2=50$ units correspond to ₹5000, so 1 unit = ₹100. Original bill $=22\\times3=66$ units $=66\\times100=₹6600$, which is not among the options."
+    }
   ]
 }

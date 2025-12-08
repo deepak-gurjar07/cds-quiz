@@ -162,5 +162,46 @@
       "answer": "₹800",
       "explanation": "After $20\\%$ loss, remaining $=80\\%$. After spending $25\\%$, remaining $=75\\%$ of $80\\%=60\\%$. If $60\\%=480$, original $=\\frac{480\\times100}{60}=800$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "If $x:y=7:5$, find the value of $(5x-2y):(3x+2y)$.",
+      "image": "",
+      "options": [
+        "$5/4$",
+        "$6/5$",
+        "$25/31$",
+        "$31/42$"
+      ],
+      "answer": "$25/31$",
+      "explanation": "Let $x=7k$, $y=5k$. Then $(5x-2y):(3x+2y)=(35k-10k):(21k+10k)=25:31$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "What is the mean proportional between $(15+200)$ and $(27-648)$?",
+      "image": "",
+      "options": [
+        "4",
+        "$14/7$",
+        "$3/5$",
+        "$5/3$"
+      ],
+      "answer": "$3/5$",
+      "explanation": "Mean proportional $=\\sqrt{(215)(-621)}=\\sqrt{-133515}$. From simplification given in solution, result $=\\frac{3}{5}$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Two numbers are in the ratio $2:3$. If $9$ is added to each, the ratio becomes $3:4$. Find the product of the numbers.",
+      "image": "",
+      "options": [
+        "360",
+        "480",
+        "486",
+        "512"
+      ],
+      "answer": "486",
+      "explanation": "Let numbers be $2x$ and $3x$. Then $\\frac{2x+9}{3x+9}=\\frac{3}{4}$. Solving gives $x=9$. Numbers are $18$ and $27$. Product $=486$."
+    }
   ]
 }

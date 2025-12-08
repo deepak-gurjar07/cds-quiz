@@ -121,5 +121,61 @@
       "answer": "12.5",
       "explanation": "$50\\%$ of $500=250$. $5\\%$ of $250=12.5$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Sex ratio is defined as the number of females per 1000 males. In a place, the total inhabitants are 1935000 out of which 935000 are females. What is the sex ratio?",
+      "image": "",
+      "options": [
+        "935",
+        "1000",
+        "1935",
+        "9350"
+      ],
+      "answer": "935",
+      "explanation": "Number of males = 1935000 − 935000 = 1000000. Sex ratio = (935000 / 1000000) × 1000 = 935."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "A milkman bought 15 kg of milk and mixed 3 kg of water. If the price of the mixture is ₹22 per kg, what was the cost price of milk per kg?",
+      "image": "",
+      "options": [
+        "28.00",
+        "26.40",
+        "24.00",
+        "22.00"
+      ],
+      "answer": "26.40",
+      "explanation": "Total mixture = 18 kg. Total selling price = 18 × 22 = 396. Cost of 15 kg milk = 396. So cost per kg = 396 / 15 = ₹26.40."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Age of X is six times that of Y. After 4 years, X will be four times as old as Y. What is Y’s present age?",
+      "image": "",
+      "options": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "7 years"
+      ],
+      "answer": "6 years",
+      "explanation": "Let Y’s age = y, X’s age = 6y. After 4 years: 6y + 4 = 4(y + 4). Solving gives y = 6 years."
+    }
+  ],
+  "Average": [
+    {
+      "subject": "Average",
+      "question": "The mean weight of 150 students is 60 kg. Mean of boys is 70 kg and girls is 55 kg. Find number of boys.",
+      "image": "",
+      "options": [
+        "50",
+        "60",
+        "75",
+        "100"
+      ],
+      "answer": "50",
+      "explanation": "Using total weight: 70x + 55(150−x) = 9000 ⇒ x=50 boys."
+    }
   ]
 }

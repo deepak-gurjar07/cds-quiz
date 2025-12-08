@@ -266,5 +266,204 @@
       "answer": "60",
       "explanation": "$30\\%$ of $40=12$. If $20\\%$ of number $=12$, then number $=\\frac{12\\times100}{20}=60$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "If ₹$2600$ is divided among A, B and C in the ratio $\\frac{1}{2}:\\frac{1}{3}:\\frac{1}{4}$, find A’s share.",
+      "image": "",
+      "options": [
+        "600",
+        "800",
+        "1000",
+        "1200"
+      ],
+      "answer": "1200",
+      "explanation": "Ratio $=6:4:3$ (LCM = 12). Sum $=13$ parts. A’s share $=\\frac{6}{13}\\times2600=1200$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "An amount is divided between P and Q in the ratio $3:5$. If it were divided in the ratio $2:3$, Q would receive ₹$10$ less. Find the total amount.",
+      "image": "",
+      "options": [
+        "250",
+        "300",
+        "350",
+        "400"
+      ],
+      "answer": "400",
+      "explanation": "Let total amount $=x$. Difference in Q’s shares $=\\frac{5}{8}x-\\frac{3}{5}x=10$. Solving gives $x=400$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "X was twice as old as Y three years ago, when X was as old as Y is today. If their present age difference is $3$ years, find X’s present age.",
+      "image": "",
+      "options": [
+        "18 years",
+        "12 years",
+        "9 years",
+        "8 years"
+      ],
+      "answer": "9 years",
+      "explanation": "Let X’s present age be $x$, Y’s $=x-3$. From condition: $x-3=2(x-6)$. Solving gives $x=9$ years."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Two vessels contain milk and water in the ratios $1:3$ and $3:5$ respectively. If mixed in the ratio $3:2$, what is the ratio of milk to water in the mixture?",
+      "image": "",
+      "options": [
+        "$4:15$",
+        "$3:7$",
+        "$6:7$",
+        "None of these"
+      ],
+      "answer": "None of these",
+      "explanation": "Milk fraction from first vessel $=\\frac{1}{4}$, second $=\\frac{3}{8}$. Mixing $3:2$, milk $=3\\times\\frac14+2\\times\\frac38=\\frac{12}{16}$, water $=\\frac{32}{16}$. Ratio $=3:8$, which is not among the options."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "A bag contains ₹$112$ in ₹$1$, 50-paise and 10-paise coins in the ratio $3:8:10$. Find the number of 50-paise coins.",
+      "image": "",
+      "options": [
+        "112",
+        "108",
+        "96",
+        "84"
+      ],
+      "answer": "112",
+      "explanation": "Let numbers be $3x,8x,10x$. Total value $=3x+4x+x=8x=112$. So $x=14$. Number of 50-paise coins $=8x=112$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "If $p\\%$ of $x$ equals $t$ times $q\\%$ of $y$, find the ratio $x:y$.",
+      "image": "",
+      "options": [
+        "$pt:q$",
+        "$p:qt$",
+        "$qt:p$",
+        "$q:pt$"
+      ],
+      "answer": "$qt:p$",
+      "explanation": "$\\frac{px}{100}=t\\cdot\\frac{qy}{100}$. Hence $\\frac{x}{y}=\\frac{qt}{p}$. So $x:y=qt:p$."
+    }
+  ],
+  "Average": [
+    {
+      "subject": "Average",
+      "question": "A batsman scores 80 runs in his sixth innings and thus increases his average by 5. What is his average after six innings?",
+      "image": "",
+      "options": [
+        "50",
+        "55",
+        "60",
+        "65"
+      ],
+      "answer": "55",
+      "explanation": "Let the average after 5 innings be x. Increase in average by 5 means new average is x+5. Then (5x+80)/6 = x+5 ⇒ 5x+80 = 6x+30 ⇒ x=50. New average = 50+5 = 55."
+    },
+    {
+      "subject": "Average",
+      "question": "An aeroplane flies along the four sides of a square at speeds 100, 200, 300 and 400 km/h respectively. What is the average speed of the plane?",
+      "image": "",
+      "options": [
+        "196 km/h",
+        "200 km/h",
+        "250 km/h",
+        "None of these"
+      ],
+      "answer": "None of these",
+      "explanation": "Average speed = total distance / total time. Total distance = 4 units. Total time = 1/100 + 1/200 + 1/300 + 1/400 = 25/1200. Average speed = 4 ÷ (25/1200) = 192 km/h, which is not in options."
+    },
+    {
+      "subject": "Average",
+      "question": "How much tea at ₹9/kg must be mixed with 100 kg of tea at ₹13.50/kg to give an average price of ₹11/kg?",
+      "image": "",
+      "options": [
+        "85 kg",
+        "120 kg",
+        "125 kg",
+        "130 kg"
+      ],
+      "answer": "125 kg",
+      "explanation": "Let x kg of ₹9 tea be mixed. (9x + 13.5×100)/(x+100) = 11 ⇒ 9x + 1350 = 11x + 1100 ⇒ 2x = 250 ⇒ x = 125 kg."
+    },
+    {
+      "subject": "Average",
+      "question": "The population of a state increased from 100 million to 169 million in two decades. What is the average increase per decade?",
+      "image": "",
+      "options": [
+        "20%",
+        "34.5%",
+        "69%",
+        "30%"
+      ],
+      "answer": "34.5%",
+      "explanation": "Total increase = 69 million in two decades. Average increase per decade = 69/2 = 34.5%."
+    },
+    {
+      "subject": "Average",
+      "question": "A person invests ₹45000 partly at 4% and partly at 6%. If the annual incomes from both investments are equal, find the average rate of interest.",
+      "image": "",
+      "options": [
+        "4.6%",
+        "4.8%",
+        "5.0%",
+        "5.2%"
+      ],
+      "answer": "4.8%",
+      "explanation": "Equal income implies amounts are inversely proportional to rates. Amounts invested are ₹27000 at 4% and ₹18000 at 6%. Total interest = ₹2160. Average rate = (2160/45000)×100 = 4.8%."
+    },
+    {
+      "subject": "Average",
+      "question": "Nine numbers are written in ascending order. The middle number is the average of all nine. The average of five larger numbers is 68 and of five smaller numbers is 44. Find the sum of all nine numbers.",
+      "image": "",
+      "options": [
+        "450",
+        "501",
+        "504",
+        "540"
+      ],
+      "answer": "504",
+      "explanation": "Sum of five larger numbers = 68×5=340. Sum of five smaller numbers = 44×5=220. Middle number counted twice, so subtract once. Total sum = 340+220−56 = 504."
+    },
+    {
+      "subject": "Average",
+      "question": "40% candidates wrote in Hindi with average marks 74 and rest in English with average marks 77. Find overall average marks.",
+      "image": "",
+      "options": [
+        "75.5",
+        "75.8",
+        "76.0",
+        "76.8"
+      ],
+      "answer": "75.8",
+      "explanation": "Assume 100 candidates. Total marks = 40×74 + 60×77 = 7580. Average = 7580/100 = 75.8."
+    },
+    {
+      "subject": "Average",
+      "question": "The mean weight of 150 students is 60 kg. Mean weight of boys is 70 kg and girls is 55 kg. Find number of girls.",
+      "image": "",
+      "options": [
+        "105",
+        "100",
+        "95",
+        "60"
+      ],
+      "answer": "100",
+      "explanation": "Let number of boys be x, girls be 150−x. Total weight = 150×60. So, 70x + 55(150−x) = 9000 ⇒ x=50 → girls=100."
+    },
+    {
+      "subject": "Average",
+      "question": "Out of 250 observations, first 100 have mean 5 and remaining 150 have mean 25/3. Find overall mean.",
+      "image": "",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "7",
+      "explanation": "Total sum = 100×5 + 150×25/3 = 500 + 1250 = 1750. Mean = 1750/250 = 7."
+    }
   ]
 }

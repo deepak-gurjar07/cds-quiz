@@ -108,5 +108,74 @@
       "answer": "27",
       "explanation": "Rewrite as $(a^{1/3})^2=9$. So $a^{1/3}=3$ and hence $a=27$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "The height of a tree varies as the square root of its age. When the age is 9 years, height is 4 ft. Find the height at 16 years.",
+      "image": "",
+      "options": [
+        "5 ft 4 inch",
+        "5 ft 5 inch",
+        "4 ft 4 inch",
+        "4 ft 5 inch"
+      ],
+      "answer": "5 ft 4 inch",
+      "explanation": "Height ∝ √age. So h = k√a. From 4 = k√9 ⇒ k = 4/3. Height at 16 years = (4/3)√16 = 16/3 ft = 5 ft 4 inch."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "The ratio of ages of A and B is 2:5 and that of B and C is 3:4. Find the ratio A:B:C.",
+      "image": "",
+      "options": [
+        "6:15:20",
+        "8:5:3",
+        "6:5:4",
+        "2:15:4"
+      ],
+      "answer": "6:15:20",
+      "explanation": "Make B common: 2:5 ×3 gives 6:15; 3:4 ×5 gives 15:20. So A:B:C = 6:15:20."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "The sides of a triangle are in the ratio 1⅔ : 2 : 3. If the perimeter is 52 cm, find the length of the smallest side.",
+      "image": "",
+      "options": [
+        "9 cm",
+        "10 cm",
+        "11 cm",
+        "12 cm"
+      ],
+      "answer": "12 cm",
+      "explanation": "Ratio = 6:4:3. Sum = 13 parts. One part = 52 / 13 = 4 cm. Smallest side = 3 × 4 = 12 cm."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "If (x + y):(x − y) = 3:5 and xy > 0, which conclusion is correct?",
+      "image": "",
+      "options": [
+        "Both positive",
+        "Both negative",
+        "One positive, one negative",
+        "No real solution"
+      ],
+      "answer": "No real solution",
+      "explanation": "Using componendo-dividendo gives x = −4y. Then xy = −4y² < 0, contradicting xy > 0. Hence no real solution exists."
+    }
+  ],
+  "Average": [
+    {
+      "subject": "Average",
+      "question": "Prices increased by 5%, 8% and 77% over three years. Find approximate average increase.",
+      "image": "",
+      "options": [
+        "26%",
+        "32%",
+        "24%",
+        "30%"
+      ],
+      "answer": "30%",
+      "explanation": "Average increase ≈ (5+8+77)/3 = 30%."
+    }
   ]
 }

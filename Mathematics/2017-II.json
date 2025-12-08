@@ -279,5 +279,59 @@
       "answer": "$10\\tfrac{5}{7}\\%$",
       "explanation": "Required reduction $=\\frac{r}{100+r}\\times100=\\frac{12}{112}\\times100=10\\tfrac{5}{7}\\%$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "To maintain 8 cows for 60 days costs ₹6400. How many days can 5 cows be maintained for ₹4800?",
+      "image": "",
+      "options": [
+        "46 days",
+        "50 days",
+        "58 days",
+        "72 days"
+      ],
+      "answer": "72 days",
+      "explanation": "Cost ∝ cows × days. $8×60/6400 = 5×n/4800$. Solving gives $n=72$ days."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Five years ago Ram was three times Shyam’s age. Four years from now Ram will be twice Shyam’s age. Find Ram’s present age.",
+      "image": "",
+      "options": [
+        "30 years",
+        "32 years",
+        "36 years",
+        "40 years"
+      ],
+      "answer": "32 years",
+      "explanation": "Testing given options, only 32 satisfies both age conditions with integer ages. Hence Ram’s present age is 32 years."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "If 78 is divided into three parts proportional to $1, \\tfrac13, \\tfrac16$, find the middle part.",
+      "image": "",
+      "options": [
+        "$\\tfrac{28}{3}$",
+        "13",
+        "$\\tfrac{52}{3}$",
+        "$\\tfrac{55}{3}$"
+      ],
+      "answer": "$\\tfrac{52}{3}$",
+      "explanation": "Convert ratio to integers: $6:2:1$. Sum = 9. Middle part $=\\tfrac{2}{9}×78=\\tfrac{52}{3}$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "There are 350 boys in three standards. Ratio of boys in first to second is $2:3$, and second to third is $4:5$. Find total boys in first and third standards.",
+      "image": "",
+      "options": [
+        "302",
+        "280",
+        "242",
+        "230"
+      ],
+      "answer": "230",
+      "explanation": "Combine ratios to get $8:12:15$. First = 80, third = 150. Total = 230."
+    }
   ]
 }

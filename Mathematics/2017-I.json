@@ -175,5 +175,126 @@
       "answer": "$27\\tfrac{7}{9}\\%$",
       "explanation": "Females $=\\frac{4}{9}$. Married males $=30\\%$ of $\\frac{5}{9}=\\frac{1}{6}$. Unmarried females $=\\frac{4}{9}-\\frac{1}{6}=\\frac{5}{18}$. Percentage $=\\frac{5}{18}\\times100=27\\tfrac{7}{9}\\%$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "The cost of a diamond varies directly as the square of its weight. A diamond breaks into four pieces with weights in the ratio $1:2:3:4$. If the loss in value is ₹70,000, find the price of the original diamond.",
+      "image": "",
+      "options": [
+        "₹1,00,000",
+        "₹1,40,000",
+        "₹1,50,000",
+        "₹1,75,000"
+      ],
+      "answer": "₹1,00,000",
+      "explanation": "Let original weight be proportional to $1+2+3+4=10$. Original value $\\propto (10)^2=100$. Broken value $\\propto 1^2+2^2+3^2+4^2=30$. Loss $=100-30=70$ units corresponds to ₹70,000, so 1 unit = ₹1000. Original value = $100×1000=₹1,00,000$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Leela was married 6 years ago. Today her age is $\\tfrac{5}{4}$ times her age at marriage. Her son's age is $\\tfrac{1}{10}$ of her present age. Find the son's present age.",
+      "image": "",
+      "options": [
+        "1 year",
+        "2 years",
+        "3 years",
+        "4 years"
+      ],
+      "answer": "3 years",
+      "explanation": "Let present age of Leela = $x$. Then $x=\\tfrac{5}{4}(x-6)$. Solving gives $x=30$. Son’s age $=\\tfrac{1}{10}×30=3$ years."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "In a class of 49 students, the ratio of girls to boys is $4:3$. If 4 girls leave, what becomes the ratio of girls to boys?",
+      "image": "",
+      "options": [
+        "11:7",
+        "8:7",
+        "6:5",
+        "9:8"
+      ],
+      "answer": "8:7",
+      "explanation": "Girls = 28, boys = 21. After 4 girls leave, girls = 24. Ratio = $24:21 = 8:7$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "The ratio of two numbers is $1:5$ and their product is 320. Find the difference between the squares of the numbers.",
+      "image": "",
+      "options": [
+        "1024",
+        "1256",
+        "1536",
+        "1640"
+      ],
+      "answer": "1536",
+      "explanation": "Let numbers be $x$ and $5x$. Then $5x^2=320 ⇒ x=8$. Numbers are 8 and 40. Difference of squares $=40^2-8^2=(40+8)(40-8)=48×32=1536$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "25 kg of alloy X and 125 kg of alloy Y are mixed. In X, lead:tin $=1:2$; in Y, lead:tin $=2:3$. Find lead:tin ratio in the mixture.",
+      "image": "",
+      "options": [
+        "1:2",
+        "2:3",
+        "3:5",
+        "7:11"
+      ],
+      "answer": "7:11",
+      "explanation": "Lead from X $=25×\\tfrac{1}{3}$, tin $=25×\\tfrac{2}{3}$. Lead from Y $=125×\\tfrac{2}{5}$, tin $=125×\\tfrac{3}{5}$. Total lead $=175/3$, tin $=275/3$. Ratio $=7:11$."
+    }
+  ],
+  "Average": [
+    {
+      "subject": "Average",
+      "question": "Sunil wants to spend ₹200 on two types of sweets costing ₹7 and ₹10 respectively. What is the maximum number of sweets he can buy if no money is left?",
+      "image": "",
+      "options": [
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "answer": "26",
+      "explanation": "The cost equation is $7x + 10y = 200$. Checking possible combinations, $7 \\times 20 + 10 \\times 6 = 200$. Total sweets = $20 + 6 = 26$, which is maximum."
+    },
+    {
+      "subject": "Average",
+      "question": "The mean of 5 numbers is 15. If one more number is included, the mean of 6 numbers becomes 17. What is the included number?",
+      "image": "",
+      "options": [
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "answer": "27",
+      "explanation": "Sum of 5 numbers = $5 \\times 15 = 75$. Sum of 6 numbers = $6 \\times 17 = 102$. Included number = $102 - 75 = 27$."
+    },
+    {
+      "subject": "Average",
+      "question": "The mean marks of 300 students are 60. The mean of top 100 students is 80 and that of bottom 100 students is 50. Find the mean marks of remaining 100 students.",
+      "image": "",
+      "options": [
+        "70",
+        "65",
+        "60",
+        "50"
+      ],
+      "answer": "50",
+      "explanation": "Total marks = $300 \\times 60 = 18000$. Marks of top 100 = $100 \\times 80 = 8000$. Marks of bottom 100 = $100 \\times 50 = 5000$. Remaining marks = $18000 - 13000 = 5000$. Mean = $5000/100 = 50$."
+    },
+    {
+      "subject": "Average",
+      "question": "Let $a,b,c,d,e,f,g$ be consecutive even numbers and $j,k,l,m,n$ be consecutive odd numbers. What is the average of all the numbers?",
+      "image": "",
+      "options": [
+        "$(3(a+n))/2$",
+        "$(5+7d)/4$",
+        "$(a+b+m+n)/4$",
+        "None of the above"
+      ],
+      "answer": "None of the above",
+      "explanation": "Seven consecutive even numbers sum to $7d$ and five consecutive odd numbers sum to $5l$. Total numbers = 12. Average = $(7d + 5l)/12$, which does not match any given option."
+    }
   ]
 }

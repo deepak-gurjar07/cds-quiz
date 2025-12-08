@@ -110,5 +110,35 @@
       "answer": "745",
       "explanation": "After $20\\%$ discount, price is $80\\%$ of original. Original price $=\\frac{596\\times100}{80}=745$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "If A:B = 2:3, B:C = 5:7 and C:D = 3:10, find A:D.",
+      "image": "",
+      "options": [
+        "1:7",
+        "2:7",
+        "1:5",
+        "5:1"
+      ],
+      "answer": "1:7",
+      "explanation": "Combine ratios: A:B:C:D = 2:3, 5:7, 3:10. Cancelling intermediate terms gives A:D = 1:7."
+    }
+  ],
+  "Average": [
+    {
+      "subject": "Average",
+      "question": "If average of A and B is 30 and average of C and D is 20, which statements are correct?",
+      "image": "",
+      "options": [
+        "Only I",
+        "Only II",
+        "Either I or II",
+        "Neither I nor II"
+      ],
+      "answer": "Neither I nor II",
+      "explanation": "A+B=60 and C+D=40. Individual values unknown, so averages of B,C or A,D cannot be determined."
+    }
   ]
 }

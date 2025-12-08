@@ -175,5 +175,87 @@
       "answer": "6200",
       "explanation": "Let total voters = $x$. Valid votes = $0.9x-60$. Winner votes = $0.47x$. Rival votes = $(0.9x-60)-0.47x$. Given difference $=308$. Solving gives $x=6200$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "A tin was 4/5 full. After removing 6 bottles and adding 4 bottles, it became 3/4 full. How many bottles can the tin hold?",
+      "image": "",
+      "options": [
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "answer": "40",
+      "explanation": "Assume total capacity = 20n bottles. Initially = 16n. After change: 16n − 6 + 4 = 15n ⇒ n = 2. Capacity = 20 × 2 = 40 bottles."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "If a:b = 3:5 and b:c = 7:8, then 2a:3b:7c equals",
+      "image": "",
+      "options": [
+        "42:105:320",
+        "15:21:35",
+        "6:15:40",
+        "30:21:350"
+      ],
+      "answer": "6:15:40",
+      "explanation": "Combining gives a:b:c = 21:35:40. Then 2a:3b:7c = 42:105:280 = 6:15:40."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "In a 30 L milk-water mixture with ratio 7:3, how much water should be added to make the ratio 1:2?",
+      "image": "",
+      "options": [
+        "30",
+        "32",
+        "33",
+        "35"
+      ],
+      "answer": "33",
+      "explanation": "Milk = 21 L, water = 9 L. Required water = 42 L. Water to add = 42 − 9 = 33 L."
+    }
+  ],
+  "Average": [
+    {
+      "subject": "Average",
+      "question": "Average of m numbers is n⁴ and average of n numbers is m⁴. Find average of (m+n) numbers.",
+      "image": "",
+      "options": [
+        "mn",
+        "m²+n²",
+        "mn(m²+n²)",
+        "mn(m²+n²−mn)"
+      ],
+      "answer": "mn(m²+n²−mn)",
+      "explanation": "Using sums and weighted average, resulting expression simplifies to mn(m²+n²−mn)."
+    },
+    {
+      "subject": "Average",
+      "question": "Average weight of students is 43 kg. Four students weighing 42, 36.5, 39 and 42.5 kg are added and average becomes 42.5 kg. Find original number of students.",
+      "image": "",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "answer": "20",
+      "explanation": "Let initial students be x. 43x + 160 = 42.5(x+4) ⇒ x=20."
+    },
+    {
+      "subject": "Average",
+      "question": "Four years ago average age of A and B was 18. Now average of A, B and C is 24. Find C’s age after 8 years.",
+      "image": "",
+      "options": [
+        "32",
+        "28",
+        "36",
+        "40"
+      ],
+      "answer": "36",
+      "explanation": "A+B=44 and A+B+C=72 ⇒ C=28. After 8 years, age = 36."
+    }
   ]
 }

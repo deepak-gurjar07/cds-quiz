@@ -95,5 +95,98 @@
       "answer": "6",
       "explanation": "Simplify surds: $\\sqrt{50}=5\\sqrt{2}$ and $\\sqrt{8}=2\\sqrt{2}$. Sum is $7\\sqrt{2}$. Dividing by $\\sqrt{2}$ gives $7$. But rationalising fully shows the intended simplified value is $6$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "A mixture contains milk and water in the ratio $5:1$. On adding $5$ L of water, the ratio becomes $5:2$. What was the quantity of milk in the original mixture?",
+      "image": "",
+      "options": [
+        "5 L",
+        "25 L",
+        "27.5 L",
+        "32.5 L"
+      ],
+      "answer": "25 L",
+      "explanation": "Let milk = $5x$ and water = $x$. After adding $5$ L water: $\\frac{5x}{x+5}=\\frac{5}{2}$. Solving gives $x=5$. Hence milk $=5x=25$ L."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "The present ages of A and B are in the ratio $2:5$. After $8$ years, their ages will be in the ratio $1:2$. What is the difference between their present ages?",
+      "image": "",
+      "options": [
+        "20 years",
+        "22 years",
+        "24 years",
+        "25 years"
+      ],
+      "answer": "24 years",
+      "explanation": "Let present ages be $2x$ and $5x$. After $8$ years: $(2x+8):(5x+8)=1:2$. Solving gives $x=8$. Difference $=5x-2x=3x=24$ years."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "If $x$ varies as the $m^{th}$ power of $y$, $y$ varies as the $n^{th}$ power of $z$, and $x$ varies as the $p^{th}$ power of $z$, then which relation is correct?",
+      "image": "",
+      "options": [
+        "$p=m+n$",
+        "$p=m-n$",
+        "$p=mn$",
+        "None of these"
+      ],
+      "answer": "$p=mn$",
+      "explanation": "Given $x\\propto y^m$ and $y\\propto z^n$. Substituting gives $x\\propto (z^n)^m=z^{mn}$. Hence $p=mn$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "If $(a-b):(a+b)=1:5$, then find $(a^2-b^2):(a^2+b^2)$.",
+      "image": "",
+      "options": [
+        "$2:3$",
+        "$3:2$",
+        "$5:13$",
+        "$13:15$"
+      ],
+      "answer": "$5:13$",
+      "explanation": "Using componendo and dividendo: $\\frac{a}{b}=\\frac{3}{2}$. Then $\\frac{a^2-b^2}{a^2+b^2}=\\frac{9-4}{9+4}=\\frac{5}{13}$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Three numbers are in the ratio $3:2:5$. If the sum of their squares is $1862$, find the numbers.",
+      "image": "",
+      "options": [
+        "18,12,30",
+        "24,16,40",
+        "15,10,25",
+        "21,14,35"
+      ],
+      "answer": "21,14,35",
+      "explanation": "Let numbers be $3x,2x,5x$. Then $9x^2+4x^2+25x^2=38x^2=1862$. So $x^2=49$, $x=7$. Numbers are $21,14,35$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "In a class, the number of boys is more than the number of girls by $12\\%$ of the total students. What is the ratio of boys to girls?",
+      "image": "",
+      "options": [
+        "$11:14$",
+        "$14:11$",
+        "$28:25$",
+        "$25:28$"
+      ],
+      "answer": "$14:11$",
+      "explanation": "Let boys = $x$, girls = $y$. Given $x-y=0.12(x+y)$. Solving gives $22x=28y$, hence $x:y=14:11$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "The ratio of A to B is $x:8$ and that of B to C is $12:z$. If $A:C=2:1$, find $x:z$.",
+      "image": "",
+      "options": [
+        "$2:3$",
+        "$3:2$",
+        "$4:3$",
+        "$3:4$"
+      ],
+      "answer": "$4:3$",
+      "explanation": "$\\frac{A}{C}=\\frac{x}{8}\\times\\frac{12}{z}=\\frac{3x}{2z}$. Given $A:C=2:1$, so $\\frac{3x}{2z}=2$. Hence $x:z=4:3$."
+    }
   ]
 }

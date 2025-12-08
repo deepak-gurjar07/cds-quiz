@@ -134,5 +134,46 @@
       "answer": "5400",
       "explanation": "Net change factor $=1.2\\times0.8=0.96$. If original population is $x$, then $0.96x=5184$. Hence $x=\\frac{5184}{0.96}=5400$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "In a mixture of $80$ L, the ratio of milk to water is $3:1$. How much water must be added so that the ratio becomes $2:3$?",
+      "image": "",
+      "options": [
+        "70 L",
+        "80 L",
+        "100 L",
+        "140 L"
+      ],
+      "answer": "70 L",
+      "explanation": "Milk $=\\frac{3}{4}\\times80=60$ L, water $=20$ L. Let water added $=x$. Then $\\frac{60}{20+x}=\\frac{2}{3}$. Solving gives $x=70$ L."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Two years ago, a mother’s age was eight times her daughter’s age. After one year, mother’s age will be five times daughter’s age. After how many years will mother’s age be three times daughter’s age?",
+      "image": "",
+      "options": [
+        "6 years",
+        "8 years",
+        "10 years",
+        "12 years"
+      ],
+      "answer": "8 years",
+      "explanation": "Let present ages be mother = $x$, daughter = $y$. From conditions: $x-2=8(y-2)$ and $x+1=5(y+1)$. Solving gives $x=34$, $y=6$. After $z$ years: $34+z=3(6+z)$. Hence $z=8$ years."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Monthly incomes of A and B are in the ratio $4:3$. Each saves ₹$600$. If their expenditures are in the ratio $3:2$, find A’s monthly income.",
+      "image": "",
+      "options": [
+        "2400",
+        "1800",
+        "2000",
+        "3600"
+      ],
+      "answer": "2400",
+      "explanation": "Let incomes be $4x$ and $3x$, expenditures $3y$ and $2y$. From savings: $4x-3y=600$ and $3x-2y=600$. Solving gives $x=600$. Hence A’s income $=4x=2400$."
+    }
   ]
 }

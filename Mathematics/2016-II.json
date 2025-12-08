@@ -201,5 +201,113 @@
       "answer": "$\\frac{100(a+b)}{y-x}$",
       "explanation": "Let maximum marks be $M$. Passing marks $=\\frac{yM}{100}-b=\\frac{xM}{100}+a$. Solving gives $M=\\frac{100(a+b)}{y-x}$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "In an office, married women to married men ratio is",
+      "image": "",
+      "options": [
+        "1:2",
+        "2:1",
+        "3:1",
+        "1:3"
+      ],
+      "answer": "1:3",
+      "explanation": "From given fractions of men and women and marriage data, married women = x/6 and married men = x/2. Ratio = 1:3."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Twelve friends invested money in ratio 1 to 12 and time in reverse ratio. Who gets maximum profit?",
+      "image": "",
+      "options": [
+        "F only",
+        "G only",
+        "Both F and G",
+        "Neither F nor G"
+      ],
+      "answer": "Both F and G",
+      "explanation": "Investment × time gives equal maximum share for F and G."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Incomes of Mahesh and Kamal are in ratio 1:2 and expenses in ratio 1:3. Who saves more?",
+      "image": "",
+      "options": [
+        "Mahesh",
+        "Equal",
+        "Kamal",
+        "Cannot be determined"
+      ],
+      "answer": "Cannot be determined",
+      "explanation": "No numerical income values are given, so savings comparison is not possible."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "X and Y invested ₹700 and ₹600. X withdrew part after 3 months and re-invested later. If profit is ₹726, how much does X receive?",
+      "image": "",
+      "options": [
+        "336",
+        "366",
+        "633",
+        "663"
+      ],
+      "answer": "366",
+      "explanation": "Effective capital contributions: X = 7320, Y = 7200. X’s share = 7320/(7320+7200) × 726 = 366."
+    }
+  ],
+  "Average": [
+    {
+      "subject": "Average",
+      "question": "Mean age of combined boys and girls is 18. Boys’ mean is 20 and girls’ mean is 16. Find percentage of boys.",
+      "image": "",
+      "options": [
+        "60",
+        "50",
+        "45",
+        "40"
+      ],
+      "answer": "50",
+      "explanation": "Using weighted mean: 20x + 16y = 18(x+y) ⇒ x=y ⇒ boys are 50%."
+    },
+    {
+      "subject": "Average",
+      "question": "A cricketer has an average for 10 innings. In 11th inning he scores 108, increasing average by 6. Find new average.",
+      "image": "",
+      "options": [
+        "42",
+        "47",
+        "48",
+        "60"
+      ],
+      "answer": "48",
+      "explanation": "Let previous average be x: (10x+108)/11 = x+6 ⇒ x=42. New average = 48."
+    },
+    {
+      "subject": "Average",
+      "question": "Mean of 20 observations is 17. Two values 3 and 6 replaced by 8 and 9. Find correct mean.",
+      "image": "",
+      "options": [
+        "17.4",
+        "16.6",
+        "15.8",
+        "14.2"
+      ],
+      "answer": "17.4",
+      "explanation": "Correct sum = 340 − (3+6) + (8+9) = 348. Mean = 348/20 = 17.4."
+    },
+    {
+      "subject": "Average",
+      "question": "In a class of 100 students, there are 70 boys whose average marks are 75. If the average marks of the complete class is 72, what is the average marks of the girls?",
+      "image": "",
+      "options": [
+        "64",
+        "65",
+        "68",
+        "74"
+      ],
+      "answer": "65",
+      "explanation": "Total marks of class = $100 \\times 72 = 7200$. Total marks of boys = $70 \\times 75 = 5250$. Marks of girls = $7200 - 5250 = 1950$. Number of girls = 30. Average marks of girls = $1950/30 = 65$."
+    }
   ]
 }

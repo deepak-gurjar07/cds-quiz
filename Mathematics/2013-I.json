@@ -108,5 +108,48 @@
       "answer": "8",
       "explanation": "$16=2^4$. So $(2^4)^{3/4}=2^3=8$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "In a school, the ratio of boys to girls is 7:5. If there are 2400 students, how many girls are there?",
+      "image": "",
+      "options": [
+        "500",
+        "700",
+        "800",
+        "1000"
+      ],
+      "answer": "1000",
+      "explanation": "Total ratio parts = 7 + 5 = 12. Value of 1 part = 2400 / 12 = 200. Girls = 5 × 200 = 1000."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "If a, b, c, d and e are in continued proportion, then a/e is equal to",
+      "image": "",
+      "options": [
+        "a³/b³",
+        "a⁴/b⁴",
+        "b³/a³",
+        "b⁴/a⁴"
+      ],
+      "answer": "a⁴/b⁴",
+      "explanation": "In continued proportion, b = ak, c = ak², d = ak³, e = ak⁴. Hence a/e = 1/k⁴ = a⁴/b⁴."
+    }
+  ],
+  "Average": [
+    {
+      "subject": "Average",
+      "question": "Average weight of 15 boys and 10 girls is 38.4 kg. Average weight of boys is 40 kg. Find average weight of girls.",
+      "image": "",
+      "options": [
+        "36.5 kg",
+        "35 kg",
+        "36 kg",
+        "34.6 kg"
+      ],
+      "answer": "36 kg",
+      "explanation": "Total weight = 25×38.4 = 960. Weight of boys = 15×40 = 600. Weight of girls = 360 ⇒ average = 360/10 = 36 kg."
+    }
   ]
 }

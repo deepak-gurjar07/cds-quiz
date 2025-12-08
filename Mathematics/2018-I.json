@@ -82,5 +82,139 @@
       "answer": "$20\\%$",
       "explanation": "Let original price = 100 and consumption = 100 units. Total expenditure = 10000. New price = 125. New consumption = $10000/125=80$. Reduction = $100-80=20$, so percentage reduction is $20\\%$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "$\\tfrac{1}{25}$ of registered students did not appear and $\\tfrac{11}{20}$ of those who appeared passed. If registered students = 2000, how many passed?",
+      "image": "",
+      "options": [
+        "1920",
+        "1056",
+        "1020",
+        "864"
+      ],
+      "answer": "1056",
+      "explanation": "Appeared $=2000×\\tfrac{24}{25}=1920$. Passed $=1920×\\tfrac{11}{20}=1056$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "If $A:B=1:2$, $B:C=3:4$, $C:D=2:3$, $D:E=3:4$, find $B:E$.",
+      "image": "",
+      "options": [
+        "3:2",
+        "1:8",
+        "3:8",
+        "4:1"
+      ],
+      "answer": "3:8",
+      "explanation": "Linking ratios gives $B:E=3:8$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "₹120 is divided among A, B and C such that A gets ₹20 more than B and ₹20 less than C. Find B’s share.",
+      "image": "",
+      "options": [
+        "₹10",
+        "₹15",
+        "₹20",
+        "₹25"
+      ],
+      "answer": "₹20",
+      "explanation": "Let A = $x$, B = $x-20$, C = $x+20$. Then $3x=120 ⇒ x=40$. So B = ₹20."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "A sum of ₹39,000 is divided among a widow, five sons and four daughters. Each son gets thrice a daughter’s share, and each daughter gets twice the widow’s share. Find widow’s share.",
+      "image": "",
+      "options": [
+        "₹1000",
+        "₹1200",
+        "₹1500",
+        "None"
+      ],
+      "answer": "₹1000",
+      "explanation": "Let widow’s share = $x$. Daughter = $2x$, Son = $6x$. Total $=x+4(2x)+5(6x)=39x=39000$. So $x=1000$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "The ages of a woman and her husband are reverse-digit numbers. Their difference is $\\tfrac{1}{11}$ of their sum. Find the age difference.",
+      "image": "",
+      "options": [
+        "8 years",
+        "9 years",
+        "10 years",
+        "11 years"
+      ],
+      "answer": "9 years",
+      "explanation": "Solving digit-reversal condition gives ages 45 and 54. Difference = 9 years."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Alloy A has copper:tin $=2:3$, alloy B has $3:4$. 20 kg of A and 28 kg of B plus some pure copper give final ratio $6:7$. Find copper added.",
+      "image": "",
+      "options": [
+        "3 kg",
+        "4 kg",
+        "5 kg",
+        "7 kg"
+      ],
+      "answer": "4 kg",
+      "explanation": "Copper in A = 8 kg, B = 12 kg. Tin in A = 12 kg, B = 16 kg. With $x$ kg copper added, $(20+x):(28)=6:7 ⇒ x=4$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Five partners invest money proportional to their capital. Given conditions lead to a profit difference of ₹13,500. Find combined share of B, C and E.",
+      "image": "",
+      "options": [
+        "₹13,500",
+        "₹18,000",
+        "₹19,750",
+        "₹20,250"
+      ],
+      "answer": "₹18,000",
+      "explanation": "Solving proportional capital equations gives combined share of B, C and E as ₹18,000."
+    }
+  ],
+  "Average": [
+    {
+      "subject": "Average",
+      "question": "The present average age of a father and son is 25 years. After 7 years the son will be 17 years old. What will be the age of the father after 10 years?",
+      "image": "",
+      "options": [
+        "44",
+        "45",
+        "50",
+        "52"
+      ],
+      "answer": "50",
+      "explanation": "Present total age = $2 \\times 25 = 50$. After 7 years total age = $50 + 14 = 64$. Son's age = 17, so father's age after 7 years = $64 - 17 = 47$. Present father's age = $47 - 7 = 40$. After 10 years = $40 + 10 = 50$."
+    },
+    {
+      "subject": "Average",
+      "question": "If the average of 9 consecutive positive integers is 55, what is the largest integer?",
+      "image": "",
+      "options": [
+        "57",
+        "58",
+        "59",
+        "60"
+      ],
+      "answer": "59",
+      "explanation": "The average of consecutive numbers is the middle number. Middle number = 55. Largest integer = $55 + 4 = 59$."
+    },
+    {
+      "subject": "Average",
+      "question": "The average age of 15 students is 19 years. When 5 more students join, the average becomes 18.5 years. Find the average age of the new students.",
+      "image": "",
+      "options": [
+        "17",
+        "17.5",
+        "18",
+        "18.5"
+      ],
+      "answer": "17",
+      "explanation": "Total age of 15 students = $15 \\times 19 = 285$. Total age of 20 students = $20 \\times 18.5 = 370$. Total age of 5 new students = $370 - 285 = 85$. Average = $85/5 = 17$."
+    }
   ]
 }

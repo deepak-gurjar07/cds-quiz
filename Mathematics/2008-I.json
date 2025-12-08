@@ -80,5 +80,46 @@
       "answer": "3.1108",
       "explanation": "Observe that each term is obtained by shifting the decimal of 7.84. Adding term by term gives $2.8+0.28+0.028+0.0028=3.1108$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "A bag contains 50 paise, ₹1 and ₹2 coins in the ratio $2:3:4$. If the total amount is ₹$240$, find the total number of coins.",
+      "image": "",
+      "options": [
+        "90",
+        "150",
+        "180",
+        "200"
+      ],
+      "answer": "180",
+      "explanation": "Let numbers of coins be $2x,3x,4x$. Value $=x+3x+8x=12x=240$. So $x=20$. Total coins $=2x+3x+4x=9x=180$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "If $78$ is divided into three parts proportional to $\\frac{1}{2}:\\frac{1}{6}:\\frac{1}{1}$, find the middle part.",
+      "image": "",
+      "options": [
+        "$\\frac{28}{3}$",
+        "13",
+        "$\\frac{52}{3}$",
+        "$\\frac{117}{5}$"
+      ],
+      "answer": "$\\frac{117}{5}$",
+      "explanation": "Given ratio simplifies to $6:3:1$. Total parts $=10$. Middle part $=\\frac{3}{10}\\times78=\\frac{117}{5}$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "$x$ varies directly as $y$ and inversely as $z^2$. When $y=4$, $z=14$, $x=10$. Find $x$ when $y=16$, $z=7$.",
+      "image": "",
+      "options": [
+        "180",
+        "160",
+        "154",
+        "140"
+      ],
+      "answer": "160",
+      "explanation": "$x=\\frac{ky}{z^2}$. From given values, $10=\\frac{4k}{196}$ so $k=490$. New value $=\\frac{490\\times16}{49}=160$."
+    }
   ]
 }

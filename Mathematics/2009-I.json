@@ -97,5 +97,46 @@
       "answer": "$58\\%$",
       "explanation": "Assume total objects $=100$. Coins $=60$, rings $=40$. Gold rings $=40\\%$ of $40=16$. Silver coins $=30\\%$ of $60=18$, so gold coins $=42$. Total gold articles $=16+42=58$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "$y$ is the sum of two quantities, one directly proportional to $x$ and the other inversely proportional to $x$. If $y=6$ when $x=4$ and $y=\\frac{10}{3}$ when $x=3$, find the relation between $x$ and $y$.",
+      "image": "",
+      "options": [
+        "$y=x+\\frac{4}{x}$",
+        "$y=-2x+\\frac{4}{x}$",
+        "$y=2x+\\frac{8}{x}$",
+        "$y=2x-\\frac{8}{x}$"
+      ],
+      "answer": "$y=2x-\\frac{8}{x}$",
+      "explanation": "Let $y=ax+\\frac{b}{x}$. Using given values gives equations $16a+b=24$ and $9a+b=10$. Solving gives $a=2$, $b=-8$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "A bag contains ₹$114$ in ₹$1$, 50-paise and 10-paise coins in the ratio $3:4:10$. Find the number of 50-paise coins.",
+      "image": "",
+      "options": [
+        "76",
+        "72",
+        "56",
+        "48"
+      ],
+      "answer": "76",
+      "explanation": "Let numbers be $3x,4x,10x$. Total value: $3x+2x+x=6x=114$, so $x=19$. Hence number of 50-paise coins $=4x=76$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "If $a:b=\\frac{11}{24}:\\frac{22}{15}$ and $b:c=\\frac{12}{32}$, find $a:b:c$.",
+      "image": "",
+      "options": [
+        "$12:8:21$",
+        "$8:21:12$",
+        "$8:12:21$",
+        "$21:8:12$"
+      ],
+      "answer": "$8:12:21$",
+      "explanation": "Reducing ratios and making $b$ common gives $a:b:c=24:36:63$, which simplifies to $8:12:21$."
+    }
   ]
 }

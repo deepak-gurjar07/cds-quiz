@@ -82,5 +82,61 @@
       "answer": "$9:13$",
       "explanation": "Initial ratio $3:4$. New train fare = $3\\times1.2=3.6$. New bus fare = $4\\times1.3=5.2$. Ratio $=3.6:5.2=9:13$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Given that $y$ is inversely proportional to $x$ and $x=36$ when $y=36$, find $x$ when $y=54$.",
+      "image": "",
+      "options": [
+        "54",
+        "27",
+        "16",
+        "8"
+      ],
+      "answer": "16",
+      "explanation": "Since $y\\propto\\frac{1}{x}$, $xy=k$. With $x=y=36$, $k=1296$. When $y=54$, $x=1296/54=16$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "The monthly incomes of A and B are in the ratio $4:3$. Each saves ₹600. If their expenditures are in the ratio $3:2$, find the monthly income of A.",
+      "image": "",
+      "options": [
+        "1800",
+        "2000",
+        "2400",
+        "3600"
+      ],
+      "answer": "2400",
+      "explanation": "Let incomes be $4x$ and $3x$, expenditures $3y$ and $2y$. Savings give $4x-3y=600$ and $3x-2y=600$. Subtracting gives $x=600$. Hence income of A $=4×600=2400$."
+    }
+  ],
+  "Average": [
+    {
+      "subject": "Average",
+      "question": "Five years ago Radha was three times as old as Rani. One year ago Radha was twice as old as Rani. What is their age difference?",
+      "image": "",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": "8",
+      "explanation": "Solving the two equations gives Radha = 17 years and Rani = 9 years. Difference = 8 years."
+    },
+    {
+      "subject": "Average",
+      "question": "A library has on average 510 visitors on Sundays and 240 on other days. Find average visitors per day in a 30-day month starting with Saturday.",
+      "image": "",
+      "options": [
+        "276",
+        "282",
+        "285",
+        "375"
+      ],
+      "answer": "285",
+      "explanation": "There are 5 Sundays and 25 other days. Total visitors = $5\\times510 + 25\\times240 = 8550$. Average = $8550/30 = 285$."
+    }
   ]
 }

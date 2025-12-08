@@ -110,5 +110,59 @@
       "answer": "₹1500",
       "explanation": "If net pay is $90\\%$, then salary $=\\frac{13500\\times100}{90}=15000$. GPF $=10\\%$ of $15000=1500$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "If $P:Q=\\frac{3}{5}:\\frac{5}{7}$ and $Q:R=\\frac{3}{2}:\\frac{4}{5}$, find $P:Q:R$.",
+      "image": "",
+      "options": [
+        "$\\frac{3}{5}:\\frac{5}{7}:\\frac{2}{5}$",
+        "$9:15:2::20:28:7$",
+        "$3:3:2::5:4:5$",
+        "$3:5:3::5:7:4$"
+      ],
+      "answer": "$9:15:2::20:28:7$",
+      "explanation": "Reducing and equalising $Q$ gives $P:Q:R=9:15:2::20:28:7$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "If ₹$8400$ is divided among A, B and C in the ratio $\\frac{1}{5}:\\frac{1}{6}:\\frac{1}{10}$, find A’s share.",
+      "image": "",
+      "options": [
+        "3200",
+        "3400",
+        "3600",
+        "4200"
+      ],
+      "answer": "3600",
+      "explanation": "Ratio $=6:5:3$. Sum $=14$. A’s share $=\\frac{6}{14}\\times8400=3600$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Two numbers are in the ratio $3:5$. If $9$ is subtracted from each, the ratio becomes $12:23$. Find the second number.",
+      "image": "",
+      "options": [
+        "44",
+        "55",
+        "66",
+        "77"
+      ],
+      "answer": "55",
+      "explanation": "Let numbers be $3x$ and $5x$. Then $\\frac{3x-9}{5x-9}=\\frac{12}{23}$. Solving gives $x=11$. Second number $=5x=55$."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Find the fourth proportional to $7,11,14$.",
+      "image": "",
+      "options": [
+        "16",
+        "18",
+        "20",
+        "22"
+      ],
+      "answer": "22",
+      "explanation": "Fourth proportional $x$ such that $7:11::14:x$. Hence $x=\\frac{14\\times11}{7}=22$."
+    }
   ]
 }

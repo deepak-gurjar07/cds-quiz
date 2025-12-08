@@ -69,5 +69,87 @@
       "answer": "₹75",
       "explanation": "Let price of X be $x$, then Y is $130-x$. Total payment $=x+1.09(130-x)=136.75$. Solving gives $x=55$. Hence price of Y $=130-55=75$."
     }
+  ],
+  "Ratio and Proportion": [
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Based on inheritance transfers, the mother finally owns property worth ₹88,000. Find the original property.",
+      "image": "",
+      "options": [
+        "₹1,00,000",
+        "₹1,24,000",
+        "₹1,28,000",
+        "₹1,32,000"
+      ],
+      "answer": "₹1,28,000",
+      "explanation": "Working backwards through fractional transfers gives total property = ₹1,28,000."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Given shared drink costs where orange juice costs twice lemon juice and Z pays ₹50, find cost of one bottle of orange juice.",
+      "image": "",
+      "options": [
+        "₹75",
+        "₹50",
+        "₹46",
+        "₹30"
+      ],
+      "answer": "₹50",
+      "explanation": "Z’s ₹50 equals equal share of total. Solving cost proportion gives orange juice = ₹50."
+    },
+    {
+      "subject": "Ratio and Proportion",
+      "question": "Given ratio of sum to difference of father and son ages is $11:3$. Which statements are correct?",
+      "image": "",
+      "options": [
+        "1 only",
+        "2 only",
+        "Both",
+        "Neither"
+      ],
+      "answer": "2 only",
+      "explanation": "Solving gives age ratio $7:4$, making only statement 2 correct."
+    }
+  ],
+  "Average": [
+    {
+      "subject": "Average",
+      "question": "The sum of present ages of five family members is 96. When the youngest son was born, the sum of ages was 66. Father's present age is six times the son's age. What will be the father's age after 12 years?",
+      "image": "",
+      "options": [
+        "44",
+        "45",
+        "46",
+        "48"
+      ],
+      "answer": "48",
+      "explanation": "Let son's present age be $x$. Then $66 + 5x = 96 \\Rightarrow x = 6$. Father's present age = $6x = 36$. After 12 years, father's age = $36 + 12 = 48$."
+    },
+    {
+      "subject": "Average",
+      "question": "Ten years ago the ages of a mother and daughter were in ratio $3:1$. Ten years from now the ratio will be $13:7$. Find their present ages.",
+      "image": "",
+      "options": [
+        "39,21",
+        "55,25",
+        "75,25",
+        "49,31"
+      ],
+      "answer": "55,25",
+      "explanation": "Solving the two ratio equations gives mother's age = 55 years and daughter's age = 25 years."
+    },
+    {
+      "subject": "Average",
+      "question": "The average marks of Section A is 65 and Section B is 70. If combined average is 67, find the ratio of number of students in Section A to Section B.",
+      "image": "",
+      "options": [
+        "3:2",
+        "1:3",
+        "3:1",
+        "2:3"
+      ],
+      "answer": "3:2",
+      "explanation": "Using weighted average: $65n + 70m = 67(n+m) \\Rightarrow 2n = 3m$. Hence, ratio $n:m = 3:2$."
+    }
   ]
 }
