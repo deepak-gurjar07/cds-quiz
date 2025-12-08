@@ -82,5 +82,33 @@
       "answer": "$4\\sqrt{3}$",
       "explanation": "Simplify: $\\sqrt{12}=2\\sqrt{3}$, $\\sqrt{27}=3\\sqrt{3}$. So $2\\sqrt{3}+3\\sqrt{3}-\\sqrt{3}=4\\sqrt{3}$."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "A water pipe is cut into two pieces. The longer piece is $70\\%$ of the total length. By what percentage is the longer piece longer than the shorter piece?",
+      "image": "",
+      "options": [
+        "$140\\%$",
+        "$133\\tfrac{1}{3}\\%$",
+        "$40\\%$",
+        "None of these"
+      ],
+      "answer": "$133\\tfrac{1}{3}\\%$",
+      "explanation": "Longer piece $=70\\%$, shorter piece $=30\\%$. Difference $=40\\%$. Percentage difference with respect to shorter piece $=\\frac{40}{30}\\times100=133\\tfrac{1}{3}\\%$."
+    },
+    {
+      "subject": "Percentage",
+      "question": "On a $20\\%$ discount sale, an article costs ₹$596$. What was its original price?",
+      "image": "",
+      "options": [
+        "720",
+        "735",
+        "745",
+        "775"
+      ],
+      "answer": "745",
+      "explanation": "After $20\\%$ discount, price is $80\\%$ of original. Original price $=\\frac{596\\times100}{80}=745$."
+    }
   ]
 }

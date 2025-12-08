@@ -108,5 +108,20 @@
       "answer": "3",
       "explanation": "$81=3^4$. So the fourth root is $3$."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "A person initially saved $10\\%$ of his income. After two years, his income increased by $20\\%$, but he saved the same amount as before. By what percentage did his expenditure increase?",
+      "image": "",
+      "options": [
+        "$22\\tfrac{2}{9}\\%$",
+        "$23\\tfrac{1}{3}\\%$",
+        "$24\\tfrac{2}{9}\\%$",
+        "$25\\tfrac{2}{9}\\%$"
+      ],
+      "answer": "$22\\tfrac{2}{9}\\%$",
+      "explanation": "Assume initial income = 100, savings = 10, expenditure = 90. New income = 120. Savings unchanged at 10, so new expenditure = 110. Increase in expenditure = 20. Percentage increase $=\\frac{20}{90}\\times100=22\\tfrac{2}{9}\\%$."
+    }
   ]
 }

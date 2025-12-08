@@ -119,5 +119,20 @@
       "answer": "A true, R false",
       "explanation": "$5041=71^2$ and $6889=83^2$, so the square root is $71/83$, which is rational. However, not every rational number has a rational square root (for example, $\\sqrt{2}$). So A is true and R is false."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "The population of a village increases by $20\\%$ in one year and decreases by $20\\%$ in the next year. If at the beginning of the third year the population is $5184$, what was the population in the first year?",
+      "image": "",
+      "options": [
+        "5400",
+        "5500",
+        "5600",
+        "5800"
+      ],
+      "answer": "5400",
+      "explanation": "Net change factor $=1.2\\times0.8=0.96$. If original population is $x$, then $0.96x=5184$. Hence $x=\\frac{5184}{0.96}=5400$."
+    }
   ]
 }

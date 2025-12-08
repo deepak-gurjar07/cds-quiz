@@ -80,5 +80,46 @@
       "answer": "1600",
       "explanation": "For any two numbers, $\\text{HCF}·\\text{LCM}=\\text{product}$. Hence $25·\\text{LCM}=40000$, so $\\text{LCM}=40000/25=1600$."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "The radius of the base of a right circular cone is increased by $15\\%$ keeping the height fixed. By what percent does the volume increase?",
+      "image": "",
+      "options": [
+        "$30\\%$",
+        "$31\\%$",
+        "$32.25\\%$",
+        "$34.75\\%$"
+      ],
+      "answer": "$32.25\\%$",
+      "explanation": "Volume ∝ $r^2$. Increase factor $=(1.15)^2=1.3225$. Hence increase $=32.25\\%$."
+    },
+    {
+      "subject": "Percentage",
+      "question": "The price of an article is ₹$25$. After two successive equal cuts, the price becomes ₹$20.25$. What was the percentage cut each time?",
+      "image": "",
+      "options": [
+        "$9\\%$",
+        "$10\\%$",
+        "$11\\%$",
+        "$11.5\\%$"
+      ],
+      "answer": "$10\\%$",
+      "explanation": "Let each cut be $x\\%$. Then $25(1-\\frac{x}{100})^2=20.25$. Solving gives $x=10$."
+    },
+    {
+      "subject": "Percentage",
+      "question": "What is $5\\%$ of $50\\%$ of $500$?",
+      "image": "",
+      "options": [
+        "12.5",
+        "25",
+        "1.25",
+        "6.25"
+      ],
+      "answer": "12.5",
+      "explanation": "$50\\%$ of $500=250$. $5\\%$ of $250=12.5$."
+    }
   ]
 }

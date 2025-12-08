@@ -82,5 +82,20 @@
       "answer": "$x^2+x+1$",
       "explanation": "Use $x^5-1=(x-1)(x^4+x^3+x^2+x+1)$, so $\\dfrac{x^5-1}{x-1}=x^4+x^3+x^2+x+1$. Adding the remaining terms gives $x^4+2x^3+3x^2+3x+2$, which factors as $(x^2+x+1)^2$. Hence the square root is $x^2+x+1$."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "If the length of a rectangle is increased by $10\\%$ and the area is unchanged, by how much percent does the breadth decrease?",
+      "image": "",
+      "options": [
+        "$\\frac{100}{11}\\%$",
+        "$\\frac{100}{9}\\%$",
+        "$9\\%$",
+        "$10\\%$"
+      ],
+      "answer": "$\\frac{100}{11}\\%$",
+      "explanation": "Area of rectangle remains constant. If length increases by $10\\%$, new length becomes $110\\%$. Hence breadth becomes $\\frac{100}{110}$ of original. Percentage decrease in breadth is $\\left(1-\\frac{100}{110}\\right)\\times100=\\frac{100}{11}\\%$."
+    }
   ]
 }

@@ -67,5 +67,20 @@
       "answer": "9",
       "explanation": "$27^{2/3}=(\\sqrt[3]{27})^2=3^2=9$."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "Train fare and bus fare between two stations are in the ratio $3:4$. If train fare increases by $20\\%$ and bus fare by $30\\%$, what is the new ratio?",
+      "image": "",
+      "options": [
+        "$9:13$",
+        "$17:12$",
+        "$32:43$",
+        "$19:21$"
+      ],
+      "answer": "$9:13$",
+      "explanation": "Initial ratio $3:4$. New train fare = $3\\times1.2=3.6$. New bus fare = $4\\times1.3=5.2$. Ratio $=3.6:5.2=9:13$."
+    }
   ]
 }

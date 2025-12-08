@@ -225,5 +225,33 @@
       "answer": "4",
       "explanation": "Take $2^x$ common: $2^x(1+2)=48 \\Rightarrow 3\\cdot2^x=48$. So $2^x=16=2^4$, hence $x=4$."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "A man's salary is increased by $10\\%$ of his original salary, but he receives the same total salary as before. What percentage of his salary did he not receive?",
+      "image": "",
+      "options": [
+        "$11\\%$",
+        "$10\\%$",
+        "$\\frac{100}{11}\\%$",
+        "$\\frac{90}{11}\\%$"
+      ],
+      "answer": "$\\frac{100}{11}\\%$",
+      "explanation": "New salary $=1.1x$. If he receives only $x$, the unreleased part = $0.1x$. Percentage not received $=\\frac{0.1x}{1.1x}\\times100=\\frac{100}{11}\\%$."
+    },
+    {
+      "subject": "Percentage",
+      "question": "A household spent ₹$20,000$ in a month: ₹$8,000$ on education, ₹$5,900$ on food, ₹$2,800$ on shopping and the rest on personal care. What percentage was spent on personal care?",
+      "image": "",
+      "options": [
+        "$12\\%$",
+        "$16.5\\%$",
+        "$18\\%$",
+        "$21.8\\%$"
+      ],
+      "answer": "$16.5\\%$",
+      "explanation": "Personal care = $20000-(8000+5900+2800)=3300$. Percentage $=\\frac{3300}{20000}\\times100=16.5\\%$."
+    }
   ]
 }

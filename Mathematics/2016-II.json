@@ -186,5 +186,20 @@
       "answer": "27",
       "explanation": "$(1/9)^{-3/2}=9^{3/2}=(\\sqrt{9})^3=3^3=27$."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "A candidate scoring $x\\%$ marks fails by $a$ marks, while another scoring $y\\%$ marks gets $b$ marks more than the pass marks. Find the maximum marks.",
+      "image": "",
+      "options": [
+        "$\\frac{100(a-b)}{x-y}$",
+        "$\\frac{100(a+b)}{x+y}$",
+        "$\\frac{100(a+b)}{y-x}$",
+        "$\\frac{100(a-b)}{x-y}$"
+      ],
+      "answer": "$\\frac{100(a+b)}{y-x}$",
+      "explanation": "Let maximum marks be $M$. Passing marks $=\\frac{yM}{100}-b=\\frac{xM}{100}+a$. Solving gives $M=\\frac{100(a+b)}{y-x}$."
+    }
   ]
 }

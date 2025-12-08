@@ -54,5 +54,33 @@
       "answer": "$3^{4/3}$",
       "explanation": "Raise both to power 3: $(2^{5/3})^3=2^5=32$ and $(3^{4/3})^3=3^4=81$. Since 81>32, $3^{4/3}$ is greater."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "The price of article X increases by $20\\%$ every year and article Y by $10\\%$ every year. In 2010, X cost ₹$5000$ and Y cost ₹$2000$. In which year did the difference in their prices exceed ₹$5000$ for the first time?",
+      "image": "",
+      "options": [
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "answer": "2013",
+      "explanation": "Prices year-wise: 2011 → X=6000, Y=2200; 2012 → X=7200, Y=2420; 2013 → X=8640, Y=2662. Difference in 2013 is $8640-2662=5978>5000$. Hence 2013."
+    },
+    {
+      "subject": "Percentage",
+      "question": "If the annual income of X is $20\\%$ more than that of Y, by what percent is Y's income less than X's?",
+      "image": "",
+      "options": [
+        "10",
+        "$16\\tfrac{2}{3}$",
+        "$17\\tfrac{3}{7}$",
+        "20"
+      ],
+      "answer": "$16\\tfrac{2}{3}$",
+      "explanation": "Let Y's income be 100, then X's income is 120. Difference = 20. Percentage less = $\\frac{20}{120}\\times100=16\\tfrac{2}{3}\\%$."
+    }
   ]
 }

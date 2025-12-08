@@ -238,5 +238,46 @@
       "answer": "$\\sqrt{7}$",
       "explanation": "Square roots of perfect squares are rational. Since $7$ is not a perfect square, $\\sqrt{7}$ is irrational."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "Of a certain number of mangoes, $5\\%$ are rotten. A seller sells $75\\%$ of the remaining mangoes and is left with $95$. How many mangoes were there originally?",
+      "image": "",
+      "options": [
+        "500",
+        "450",
+        "400",
+        "350"
+      ],
+      "answer": "400",
+      "explanation": "After removing rotten mangoes, $95\\%$ remain. Remaining after selling $75\\%$ is $25\\%$ of $95\\%$, i.e. $23.75\\%$. If $23.75\\%=95$, original $=\\frac{95\\times100}{23.75}=400$."
+    },
+    {
+      "subject": "Percentage",
+      "question": "To pass an examination, $40\\%$ marks are required. A student scores $45$ marks and fails by $5$ marks. What are the maximum marks?",
+      "image": "",
+      "options": [
+        "120",
+        "125",
+        "130",
+        "150"
+      ],
+      "answer": "125",
+      "explanation": "Passing marks $=45+5=50=40\\%$. So $100\\%$ marks $=\\frac{50\\times100}{40}=125$."
+    },
+    {
+      "subject": "Percentage",
+      "question": "Prices rise by $12\\%$. By what percentage should consumption be reduced so that expenditure remains the same?",
+      "image": "",
+      "options": [
+        "$16\\tfrac{2}{3}\\%$",
+        "$10\\tfrac{2}{7}\\%$",
+        "$16\\tfrac{3}{5}\\%$",
+        "$10\\tfrac{5}{7}\\%$"
+      ],
+      "answer": "$10\\tfrac{5}{7}\\%$",
+      "explanation": "Required reduction $=\\frac{r}{100+r}\\times100=\\frac{12}{112}\\times100=10\\tfrac{5}{7}\\%$."
+    }
   ]
 }

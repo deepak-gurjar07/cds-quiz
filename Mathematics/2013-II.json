@@ -147,5 +147,46 @@
       "answer": "5",
       "explanation": "Square both sides: $x+1+x-1+2\\sqrt{x^2-1}=9$. Simplifying gives $2x=7$, so $x=5$ after checking."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "X, Y and Z took dinner together. The cost of the meal of Z was $20\\%$ more than that of Y and the cost of the meal of X was $\\frac{5}{6}$ of the cost of Z. If Y paid ₹$100$, what was the total amount paid by all three?",
+      "image": "",
+      "options": [
+        "285",
+        "300",
+        "355",
+        "None of these"
+      ],
+      "answer": "None of these",
+      "explanation": "Y paid ₹100. Z paid $20\\%$ more, so Z paid ₹120. X paid $\\frac{5}{6}$ of Z, i.e. ₹$100$. Total paid $=100+120+100=320$, which is not among the options."
+    },
+    {
+      "subject": "Percentage",
+      "question": "A person's salary increased from ₹$7200$ to ₹$8100$. What is the percentage increase in salary?",
+      "image": "",
+      "options": [
+        "$25\\%$",
+        "$18\\%$",
+        "$16\\tfrac{2}{3}\\%$",
+        "$12\\tfrac{1}{2}\\%$"
+      ],
+      "answer": "$12\\tfrac{1}{2}\\%$",
+      "explanation": "Increase in salary $=8100-7200=900$. Percentage increase $=\\frac{900}{7200}\\times100=12.5\\%$."
+    },
+    {
+      "subject": "Percentage",
+      "question": "An article is sold for ₹$3600$ at a profit of $20\\%$. If it were sold for ₹$3150$, what would be the profit percentage?",
+      "image": "",
+      "options": [
+        "$4\\%$",
+        "$5\\%$",
+        "$6\\%$",
+        "$10\\%$"
+      ],
+      "answer": "$5\\%$",
+      "explanation": "Cost price $=\\frac{3600\\times100}{120}=3000$. New profit $=3150-3000=150$. Profit percentage $=\\frac{150}{3000}\\times100=5\\%$."
+    }
   ]
 }

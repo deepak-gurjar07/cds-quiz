@@ -147,5 +147,124 @@
       "answer": "6",
       "explanation": "$\\sqrt[3]{64}=4$ and $\\sqrt[4]{16}=2$. Their sum is $6$."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "If $50\\%$ of $(x-y)$ equals $40\\%$ of $(x+y)$, then $y$ is what percent of $x$?",
+      "image": "",
+      "options": [
+        "$1\\tfrac{10}{9}\\%$",
+        "$1\\tfrac{11}{9}\\%$",
+        "$1\\tfrac{13}{9}\\%$",
+        "$1\\tfrac{21}{9}\\%$"
+      ],
+      "answer": "$1\\tfrac{11}{9}\\%$",
+      "explanation": "Given $0.5(x-y)=0.4(x+y)$. Solving gives $x=9y$, so $y=\\frac{x}{9}$. Therefore, $y=\\frac{100}{9}\\%=1\\tfrac{11}{9}\\%$ of $x$."
+    },
+    {
+      "subject": "Percentage",
+      "question": "A person spends $30\\%$ of salary on rent, $25\\%$ on food, $20\\%$ on children's education and $12\\%$ on electricity. The remaining amount is ₹$1040$. What is the monthly salary?",
+      "image": "",
+      "options": [
+        "₹8000",
+        "₹9000",
+        "₹9600",
+        "₹10600"
+      ],
+      "answer": "₹8000",
+      "explanation": "Total expenditure $=87\\%$. Remaining $=13\\%$. If $13\\%$ equals ₹1040, then salary $=\\frac{1040\\times100}{13}=8000$."
+    },
+    {
+      "subject": "Percentage",
+      "question": "If salary of X is $20\\%$ more than salary of Y, by how much percent is salary of Y less than salary of X?",
+      "image": "",
+      "options": [
+        "25",
+        "20",
+        "$16\\tfrac{2}{3}$",
+        "$18$"
+      ],
+      "answer": "$16\\tfrac{2}{3}$",
+      "explanation": "Let salary of Y be $100$. Then X $=120$. Difference $=20$. Percentage less $=\\frac{20}{120}\\times100=16\\tfrac{2}{3}\\%$."
+    },
+    {
+      "subject": "Percentage",
+      "question": "If the height of a cone is increased by $50\\%$, what is the percentage increase in its volume (radius constant)?",
+      "image": "",
+      "options": [
+        "$\\tfrac{100}{3}\\%$",
+        "$40\\%$",
+        "$50\\%$",
+        "$\\tfrac{200}{3}\\%$"
+      ],
+      "answer": "$50\\%$",
+      "explanation": "Volume of cone is directly proportional to height when radius is constant. Hence volume also increases by $50\\%$."
+    },
+    {
+      "subject": "Percentage",
+      "question": "Thirty-eight litres of milk fill a tub leaving it $5\\%$ empty. How much more milk is required to fill the tub completely?",
+      "image": "",
+      "options": [
+        "$1$ L",
+        "$2$ L",
+        "$3$ L",
+        "$4$ L"
+      ],
+      "answer": "$2$ L",
+      "explanation": "If $38$ L corresponds to $95\\%$, total capacity $=\\frac{38\\times100}{95}=40$ L. Additional milk $=40-38=2$ L."
+    },
+    {
+      "subject": "Percentage",
+      "question": "Water contains $\\frac{2}{7}$ part hydrogen by weight. How much oxygen is there in $350$ g of water?",
+      "image": "",
+      "options": [
+        "300 g",
+        "250 g",
+        "200 g",
+        "None"
+      ],
+      "answer": "300 g",
+      "explanation": "Hydrogen : Oxygen $=1:6$. Oxygen fraction $=\\frac{6}{7}$. Oxygen in $350$ g $=\\frac{6}{7}\\times350=300$ g."
+    },
+    {
+      "subject": "Percentage",
+      "question": "To pass an examination $40\\%$ marks are required. All questions carry equal marks. A candidate answers $10$ questions correctly and just passes. How many questions are there in total?",
+      "image": "",
+      "options": [
+        "25",
+        "30",
+        "40",
+        "45"
+      ],
+      "answer": "25",
+      "explanation": "$40\\%$ of total questions $=10$. Hence total questions $=\\frac{10\\times100}{40}=25$."
+    },
+    {
+      "subject": "Percentage",
+      "question": "Income of A is $20\\%$ more than that of B, and income of B is $25\\%$ less than that of C. By what percent is A's income less than C's income?",
+      "image": "",
+      "options": [
+        "$7\\%$",
+        "$8\\%$",
+        "$10\\%$",
+        "$12.5\\%$"
+      ],
+      "answer": "$10\\%$",
+      "explanation": "Let C $=100$, then B $=75$. A $=75\\times1.2=90$. Difference from C $=10$, so A is $10\\%$ less than C."
+    },
+    {
+      "subject": "Percentage",
+      "question": "What is the number whose $20\\%$ equals $30\\%$ of $40$?",
+      "image": "",
+      "options": [
+        "90",
+        "80",
+        "60",
+        "50"
+      ],
+      "answer": "60",
+      "explanation": "$30\\%$ of $40=12$. If $20\\%$ of number $=12$, then number $=\\frac{12\\times100}{20}=60$."
+    }
   ]
 }

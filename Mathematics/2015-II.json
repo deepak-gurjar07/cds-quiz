@@ -121,5 +121,59 @@
       "answer": "$\\sqrt{3}-\\sqrt{2}$",
       "explanation": "Multiply numerator and denominator by the conjugate: $\\dfrac{1}{\\sqrt{3}+\\sqrt{2}}\\times\\dfrac{\\sqrt{3}-\\sqrt{2}}{\\sqrt{3}-\\sqrt{2}}=\\dfrac{\\sqrt{3}-\\sqrt{2}}{3-2}=\\sqrt{3}-\\sqrt{2}$."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "A milkman claims to sell milk at cost price, yet he makes a profit of $20\\%$ by mixing water. What is the percentage of milk in the mixture?",
+      "image": "",
+      "options": [
+        "$66\\tfrac{2}{3}\\%$",
+        "$75\\%$",
+        "$80\\%$",
+        "$83\\tfrac{1}{3}\\%$"
+      ],
+      "answer": "$83\\tfrac{1}{3}\\%$",
+      "explanation": "Profit arises due to water mixing. Water percentage $=\\frac{20}{120}\\times100=16\\tfrac{2}{3}\\%$. Hence milk percentage $=100-16\\tfrac{2}{3}=83\\tfrac{1}{3}\\%$."
+    },
+    {
+      "subject": "Percentage",
+      "question": "If $20\\%$ of a number when added to $20$ gives the number itself, find the number.",
+      "image": "",
+      "options": [
+        "20",
+        "25",
+        "50",
+        "80"
+      ],
+      "answer": "25",
+      "explanation": "Let number be $x$. Then $0.2x+20=x$. So $x-0.2x=20$ ⇒ $0.8x=20$ ⇒ $x=25$."
+    },
+    {
+      "subject": "Percentage",
+      "question": "A's salary is increased by $40\\%$ and then decreased by $20\\%$. What is the net percentage increase?",
+      "image": "",
+      "options": [
+        "$60\\%$",
+        "$40\\%$",
+        "$20\\%$",
+        "$12\\%$"
+      ],
+      "answer": "$12\\%$",
+      "explanation": "Let salary be 100. After $40\\%$ increase → 140. After $20\\%$ decrease → $140-28=112$. Net increase $=12\\%$."
+    },
+    {
+      "subject": "Percentage",
+      "question": "In an election, $10\\%$ of voters did not vote and $60$ votes were invalid. Of the total voters, $47\\%$ voted for the winner, who got $308$ votes more than his rival. Find the total number of voters.",
+      "image": "",
+      "options": [
+        "3600",
+        "6200",
+        "6028",
+        "6400"
+      ],
+      "answer": "6200",
+      "explanation": "Let total voters = $x$. Valid votes = $0.9x-60$. Winner votes = $0.47x$. Rival votes = $(0.9x-60)-0.47x$. Given difference $=308$. Solving gives $x=6200$."
+    }
   ]
 }

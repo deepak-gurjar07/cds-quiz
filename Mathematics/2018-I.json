@@ -67,5 +67,20 @@
       "answer": "32",
       "explanation": "$16=2^4$. So $(2^4)^{5/4}=2^5=32$."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "If the price of wheat rises by $25\\%$, by how much percent must a man reduce his consumption in order to keep his expenditure the same as before?",
+      "image": "",
+      "options": [
+        "$15\\%$",
+        "$20\\%$",
+        "$25\\%$",
+        "$30\\%$"
+      ],
+      "answer": "$20\\%$",
+      "explanation": "Let original price = 100 and consumption = 100 units. Total expenditure = 10000. New price = 125. New consumption = $10000/125=80$. Reduction = $100-80=20$, so percentage reduction is $20\\%$."
+    }
   ]
 }

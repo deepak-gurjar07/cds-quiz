@@ -41,5 +41,33 @@
       "answer": "1024",
       "explanation": "Rewrite as $(x^{1/5})^2=16$. So $x^{1/5}=4$ and hence $x=4^5=1024$."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "Out of 85 children playing badminton or table tennis or both, the number of girls is $70\\%$ of the number of boys. $50\\%$ of the boys play only badminton and total boys playing badminton is $60\\%$ of the boys. $40\\%$ of children play only table tennis and 12 children play both games. Find the number of girls playing only badminton.",
+      "image": "",
+      "options": [
+        "14",
+        "16",
+        "17",
+        "35"
+      ],
+      "answer": "14",
+      "explanation": "Let number of boys be $x$, girls $=85-x$. Given $85-x=0.7x$, so $x=50$ and girls $=35$. Boys playing badminton $=60\\%$ of 50 = 30. Boys playing only badminton $=25$. Children playing only table tennis $=40\\%$ of 85 = 34. Boys playing only table tennis $=50-30=20$. Girls playing only table tennis $=34-20=14$. Girls playing both = $12-5=7$. Hence girls playing only badminton $=35-14-7=14$."
+    },
+    {
+      "subject": "Percentage",
+      "question": "A person bought two articles X and Y. Their total price before sales tax was ₹$130$. Article X had no sales tax and article Y had $9\\%$ sales tax. The total amount paid was ₹$136.75$. What was the price of article Y before tax?",
+      "image": "",
+      "options": [
+        "₹75",
+        "₹85",
+        "₹122",
+        "₹125"
+      ],
+      "answer": "₹75",
+      "explanation": "Let price of X be $x$, then Y is $130-x$. Total payment $=x+1.09(130-x)=136.75$. Solving gives $x=55$. Hence price of Y $=130-55=75$."
+    }
   ]
 }

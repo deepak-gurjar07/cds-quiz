@@ -147,5 +147,20 @@
       "answer": "2",
       "explanation": "Assume $\\sqrt{3+2\\sqrt{2}}=\\sqrt{a}+\\sqrt{b}$, giving $a+b=3$, $ab=2$. So $a=2$, $b=1$. Sum becomes $(\\sqrt{2}+1)+(\\sqrt{2}-1)=2$."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "A man loses $20\\%$ of his money. After spending $25\\%$ of the remaining amount, he has ₹$480$ left. What was the original amount?",
+      "image": "",
+      "options": [
+        "₹600",
+        "₹720",
+        "₹800",
+        "₹840"
+      ],
+      "answer": "₹800",
+      "explanation": "After $20\\%$ loss, remaining $=80\\%$. After spending $25\\%$, remaining $=75\\%$ of $80\\%=60\\%$. If $60\\%=480$, original $=\\frac{480\\times100}{60}=800$."
+    }
   ]
 }

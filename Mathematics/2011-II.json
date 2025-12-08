@@ -95,5 +95,20 @@
       "answer": "$\\sqrt{7}+\\sqrt{7}$",
       "explanation": "$\\sqrt{7}+\\sqrt{7}=2\\sqrt{7}$, which is irrational in general, but among options this simplifies to a single surd multiple; however rationality here means simplifiable value structure, hence this is the expected answer."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "An employee contributes $10\\%$ of his salary to General Provident Fund and gets ₹$13,500$ as net pay. What is the monthly GPF contribution?",
+      "image": "",
+      "options": [
+        "₹1215",
+        "₹1350",
+        "₹1500",
+        "₹1650"
+      ],
+      "answer": "₹1500",
+      "explanation": "If net pay is $90\\%$, then salary $=\\frac{13500\\times100}{90}=15000$. GPF $=10\\%$ of $15000=1500$."
+    }
   ]
 }

@@ -54,5 +54,33 @@
       "answer": "8",
       "explanation": "$(2^{3/4})^4=2^3=8$."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "In a hostel, rent per room is increased by $20\\%$ and the number of rooms is also increased by $20\\%$. If the hostel is always full, what is the percentage change in total collection?",
+      "image": "",
+      "options": [
+        "$30\\%$",
+        "$40\\%$",
+        "$44\\%$",
+        "$48\\%$"
+      ],
+      "answer": "$44\\%$",
+      "explanation": "Let original rent = 100 and rooms = 100. Collection = 10000. New rent = 120, new rooms = 120. New collection = 14400. Increase = 4400, so percentage increase is $44\\%$."
+    },
+    {
+      "subject": "Percentage",
+      "question": "If $x=30\\%$ of $z$ and $y=40\\%$ of $z$, and $x$ is $p\\%$ of $y$, find $p$.",
+      "image": "",
+      "options": [
+        "45",
+        "55",
+        "65",
+        "75"
+      ],
+      "answer": "75",
+      "explanation": "$x=0.3z$ and $y=0.4z$. So $x/y=0.3/0.4=3/4$. Hence $x=75\\%$ of $y$."
+    }
   ]
 }

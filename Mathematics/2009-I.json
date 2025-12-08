@@ -82,5 +82,20 @@
       "answer": "$\\sqrt{2}$",
       "explanation": "Let $\\sqrt{5+2\\sqrt{6}}=\\sqrt{a}+\\sqrt{b}$. Squaring gives $a+b+2\\sqrt{ab}=5+2\\sqrt{6}$. Thus $a+b=5$ and $ab=6$ → $a=3$, $b=2$. So the sum becomes $(\\sqrt{3}+\\sqrt{2})+(\\sqrt{3}-\\sqrt{2})=2\\sqrt{2}$, and dividing by 2 terms gives $\\sqrt{2}$."
     }
+  ],
+  "Percentage": [
+    {
+      "subject": "Percentage",
+      "question": "There are some coins and rings of either gold or silver in a box. $60\\%$ of the objects are coins, $40\\%$ of the rings are gold and $30\\%$ of the coins are silver. What is the percentage of gold articles?",
+      "image": "",
+      "options": [
+        "$16\\%$",
+        "$27\\%$",
+        "$58\\%$",
+        "$70\\%$"
+      ],
+      "answer": "$58\\%$",
+      "explanation": "Assume total objects $=100$. Coins $=60$, rings $=40$. Gold rings $=40\\%$ of $40=16$. Silver coins $=30\\%$ of $60=18$, so gold coins $=42$. Total gold articles $=16+42=58$."
+    }
   ]
 }
