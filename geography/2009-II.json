@@ -304,7 +304,7 @@
     {
       "subject": "Indian Geography",
       "question": "In the map given four petrochemical centres are marked with numbers. Match them with the following four places and select the correct answer using the code given below<br>A. Koyali<br>B. Trombay<br>C. Jamnagar<br>D. Mangalore",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/deepak-gurjar07/cds-quiz/8d9a2717d4deb11e7246846dda31409e235aaaca/images/geography/2009-II/Screenshot%202025-12-12%20105934.png",
       "options": [
         "A-2 B-3 C-1 D-4",
         "A-2 B-1 C-3 D-4",
@@ -341,4 +341,5 @@
       "explanation": "1. Ganga - Gaumukh<br>2. Son- Amarkantak<br>3. Godavari- Trimbakeshwar<br>4. Krishna- Mahabaleshwar"
     }
   ]
+
 }
