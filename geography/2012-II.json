@@ -106,8 +106,8 @@
     },
     {
       "subject": "World Geography",
-      "question": "Consider the following diagram<br>North Pole<br>Horse Latitude<br>A<br>Polar High Pressure Belts<br>South Pole<br>In the diagram given above, what does A denote ?",
-      "image": "",
+      "question": "Consider the following diagram. In the diagram given below, what does A denote ?",
+      "image": "https://raw.githubusercontent.com/deepak-gurjar07/cds-quiz/2c3180157db05f73e56f0dfce02d67b79c875714/images/geography/2021-II/Screenshot%202025-12-12%20111125.png",
       "options": [
         "Doldrums",
         "Trade winds",
@@ -419,4 +419,5 @@
       "explanation": "The Nilgiri Biosphere Reserve is an International Biosphere Reserve in the Western Ghats and Nilgiri Hills ranges of South India. Manas Wildlife Sanctuary is situated in Assam and UNESCO Natural World Heritage site which is a Project Tiger Reserve.The Panchmarhi Biosphere Reserve is situated in the Satpura Range of Madhya Pradesh state.Simlipal National Park is a national park and a tiger reserve situated in the Indian state of Odisha."
     }
   ]
+
 }
