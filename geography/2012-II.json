@@ -107,7 +107,7 @@
     {
       "subject": "World Geography",
       "question": "Consider the following diagram. In the diagram given below, what does A denote ?",
-      "image": "https://raw.githubusercontent.com/deepak-gurjar07/cds-quiz/2c3180157db05f73e56f0dfce02d67b79c875714/images/geography/2021-II/Screenshot%202025-12-12%20111125.png",
+      "image": "https://raw.githubusercontent.com/deepak-gurjar07/cds-quiz/refs/heads/main/images/geography/2012-II/Screenshot%202025-12-12%20111125.png",
       "options": [
         "Doldrums",
         "Trade winds",
@@ -251,7 +251,7 @@
   "Indian Geography": [
     {
       "subject": "Indian Geography",
-      "question": "Match the following<br>List I (Tribal Group) List II (State where Prodominantly Located)<br>A. Reang 1. Arunachal Pradesh<br>B. Dimasa 2. Nagaland<br>C. Konyak 3. Tripura<br>D. Mishmi 4. Asom<br>Codes<br>A B C D A B C D",
+      "question": "Match the following<br>List I (Tribal Group) List II (State where Prodominantly Located)<br>A. Reang 1. Arunachal Pradesh<br>B. Dimasa 2. Nagaland<br>C. Konyak 3. Tripura<br>D. Mishmi 4. Asom<br>Codes<br>A B C D",
       "image": "",
       "options": [
         "1 2 4 3",
@@ -342,7 +342,7 @@
     },
     {
       "subject": "Indian Geography",
-      "question": "Match the following<br>List I (River) List II (Tributary)<br>A. Ganga 1. Chambal and Ken<br>B. Indus 2. Wainganga and Indravati<br>C. Yamuna 3. Chenab and Sutlej<br>D.Godavari 4. Gomti and Kosi<br>Codes<br>A B C D A B C D",
+      "question": "Match the following<br>List I (River) List II (Tributary)<br>A. Ganga 1. Chambal and Ken<br>B. Indus 2. Wainganga and Indravati<br>C. Yamuna 3. Chenab and Sutlej<br>D.Godavari 4. Gomti and Kosi<br>Codes<br>A B C D",
       "image": "",
       "options": [
         "4 1 3 2",
@@ -355,8 +355,8 @@
     },
     {
       "subject": "Indian Geography",
-      "question": "Match the following<br>List I (Mineral) List II (Producing Centre in Map)<br>A. Copper<br>B. Mica<br>C. Chromite<br>D. Lignite<br>Codes<br>A B C D A B C D",
-      "image": "",
+      "question": "Match the following<br>Codes<br>A B C D",
+      "image": "https://raw.githubusercontent.com/deepak-gurjar07/cds-quiz/a14e943faa1face30f69399d256af81ccc4f6e74/images/geography/2012-II/Screenshot%202025-12-12%20112837.png",
       "options": [
         "2 4 1 3",
         "2 1 4 3",
@@ -368,8 +368,8 @@
     },
     {
       "subject": "Indian Geography",
-      "question": "Match the following<br>List I (Hill Station) List II (Location in Map)<br>A. Dharamsala<br>B. Almora<br>C. Nainital<br>D. Darjeeling<br>Codes<br>A B C D A B C D",
-      "image": "",
+      "question": "Match the following<br>Codes<br>A B C D",
+      "image": "https://raw.githubusercontent.com/deepak-gurjar07/cds-quiz/a14e943faa1face30f69399d256af81ccc4f6e74/images/geography/2012-II/Screenshot%202025-12-12%20112826.png",
       "options": [
         "1 2 3 4",
         "1 3 2 4",
@@ -407,7 +407,7 @@
     },
     {
       "subject": "Indian Geography",
-      "question": "Match the following<br>List I (Biosphere Reserve) List II (State)<br>A. Nilgiri 1. Odisha<br>B.Manas 2. Madhya Pradesh<br>C. Panchmarhi 3. Tamul Nadu<br>D. Simeslipal 4. Asom<br>Codes<br>A B C D A B C D",
+      "question": "Match the following<br>List I (Biosphere Reserve) List II (State)<br>A. Nilgiri 1. Odisha<br>B.Manas 2. Madhya Pradesh<br>C. Panchmarhi 3. Tamul Nadu<br>D. Simeslipal 4. Asom<br>Codes<br>A B C D",
       "image": "",
       "options": [
         "3 2 4 1",
@@ -421,3 +421,4 @@
   ]
 
 }
+
