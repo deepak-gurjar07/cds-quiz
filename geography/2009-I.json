@@ -55,7 +55,7 @@
     {
       "subject": "Indian Geography",
       "question": "The shaded area in the map given below is the major producer of which one of the following?",
-      "image": "",
+      "image": "https://github.com/deepak-gurjar07/cds-quiz/blob/main/images/geography/2009-I/Screenshot%202025-12-12%20100833.png",
       "options": [
         "Cotton",
         "Groundnut",
@@ -380,4 +380,5 @@
       "explanation": "Stratosphere is rich in Ozone gas."
     }
   ]
+
 }
