@@ -265,7 +265,7 @@
     {
       "subject": "Indian Geography",
       "question": "On the map of India, the shaded districts are those in which a particular tribal group constitutes more than 50% of the tribal population. What is that particular tribal group?",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/deepak-gurjar07/cds-quiz/refs/heads/main/images/geography/2010-I/Screenshot%202025-12-12%20110409.png",
       "options": [
         "Gonds",
         "Bhils",
@@ -315,4 +315,5 @@
       "explanation": "Nanda Devi Biosphere Reserve is located in Uttarakhand. It was inscribed a World Heritage Site by UNESCO in 1988."
     }
   ]
+
 }
